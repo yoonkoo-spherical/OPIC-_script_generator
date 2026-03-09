@@ -1,17 +1,15 @@
 import os
 import smtplib
-import google.generativeai as genai
+from google import genai
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 import markdown
 
 def generate_opic_content():
+    # 새로운 genai SDK 초기화 방식
     api_key = os.getenv("GEMINI_API_KEY")
-    genai.configure(api_key=api_key)
-    
-    # 요청하신 gemini-flash-latest (현재 gemini-flash-latest) 모델 사용
-    model = genai.GenerativeModel("gemini-flash-latest")
+    client = genai.Client(api_key=api_key)
     
     prompt = """
     당신은 OPIc AL 등급을 위한 전문 강사입니다. 매일 새로운 질문을 무작위로 생성하십시오.
@@ -28,14 +26,17 @@ def generate_opic_content():
        - 전체 문서는 Markdown 문법으로 구조화할 것.
     """
     
-    response = model.generate_content(prompt)
+    # generate_content 호출 방식 변경
+    response = client.models.generate_content(
+        model="gemini-flash-latest",
+        contents=prompt
+    )
     return response.text
 
 def update_markdown_file(content, current_time):
     file_path = "opic_study_log.md"
     log_entry = f"\n\n## {current_time} OPIc Study\n\n" + content
     
-    # 기존 파일이 없으면 생성, 있으면 끝에 추가
     with open(file_path, "a", encoding="utf-8") as f:
         f.write(log_entry)
 
@@ -44,7 +45,6 @@ def send_email(markdown_content, current_time):
     sender_password = os.getenv("EMAIL_PASSWORD")
     receiver_email = "kyksir@gmail.com"
     
-    # Markdown을 HTML로 변환하여 메일 본문에 적용 (파란색 볼드체 태그 유지)
     html_body = markdown.markdown(markdown_content, extensions=['extra'])
     email_content = f"<h2>{current_time} OPIc AL Daily Script</h2>" + html_body
     
@@ -61,13 +61,8 @@ def send_email(markdown_content, current_time):
 def main():
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     
-    # 1. 콘텐츠 생성
     content = generate_opic_content()
-    
-    # 2. Markdown 파일 업데이트
     update_markdown_file(content, now)
-    
-    # 3. 이메일 발송
     send_email(content, now)
 
 if __name__ == "__main__":
