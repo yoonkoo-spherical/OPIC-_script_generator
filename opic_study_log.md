@@ -92,3 +92,112 @@ In conclusion, while technology has <strong style="color:blue;">broken down</str
 *   **End up:** 결국 ~하게 되다
 *   **Broken down:** (장벽 등을) 허물다
 *   **Get in the way of:** ~을 방해하다
+
+## 2026-03-10 04:20:17 OPIc Study
+
+반갑습니다! OPIc AL 목표 달성을 위한 맞춤형 학습 세션입니다. 오늘은 **동네 묘사, 렌터카 예약 롤플레이, 그리고 재활용(돌발)**이라는 세 가지 주제를 통해 AL 등급에서 요구하는 유창성과 논리적 전개 능력을 연습해 보겠습니다.
+
+---
+
+### **[Question 1: Description - 묘사]**
+
+**Q: Tell me about your neighborhood. What does it look like? Are there any special places that you like to visit? Please describe your neighborhood in detail.**
+(당신의 동네에 대해 이야기해 주세요. 어떻게 생겼나요? 당신이 방문하기 좋아하는 특별한 장소가 있나요? 당신의 동네를 상세하게 묘사해 주세요.)
+
+#### **[AL Model Answer]**
+To be honest, I absolutely love my neighborhood because it offers a perfect blend of urban convenience and natural beauty. I live in a residential area that is <strong style="color:blue;">a stone's throw away</strong> from a bustling downtown district, so I get the best of both worlds. 
+
+The first thing you’d notice is how green it is. There is a beautiful stream that <strong style="color:blue;">runs through</strong> the center of the neighborhood, surrounded by lush walking trails. It’s where most residents <strong style="color:blue;">wind down</strong> after a long day at work. My favorite spot, however, is a small, family-owned bakery that is <strong style="color:blue;">tucked away</strong> in a quiet alley. The smell of freshly baked bread constantly wafts through the air, and it's quite hard to resist. 
+
+What makes my neighborhood stand out is the sense of community. Even though we are in a big city, people still <strong style="color:blue;">look out for</strong> one another. There's a small community park where local vendors often <strong style="color:blue;">set up</strong> weekend markets. Whenever I <strong style="color:blue;">take a stroll</strong> there, I feel a sense of belonging. Overall, it’s a vibrant yet peaceful place that truly <strong style="color:blue;">grows on you</strong> the longer you live there. If you ever have the chance, you should definitely <strong style="color:blue;">drop by</strong> and see it for yourself.
+
+#### **[Vocabulary & Expressions]**
+*   **Bustling:** 북적거리는
+*   **Residential area:** 주거 지역
+*   **Lush:** 푸르스름한, 무성한
+*   **Vibrant:** 활기찬
+*   **Sense of belonging:** 소속감
+
+#### **[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">A stone's throw away</strong>: 매우 가까운 거리 (엎어지면 코 닿을 데)
+*   <strong style="color:blue;">Run through</strong>: ~을 관통하다, 흐르다
+*   <strong style="color:blue;">Wind down</strong>: 휴식을 취하다, 긴장을 풀다
+*   <strong style="color:blue;">Tucked away</strong>: 숨겨진, 구석진 곳에 있는
+*   <strong style="color:blue;">Look out for</strong>: ~을 보살피다, 주의 깊게 보다
+*   <strong style="color:blue;">Set up</strong>: 설치하다, 차리다
+*   <strong style="color:blue;">Take a stroll</strong>: 산책하다
+*   <strong style="color:blue;">Grow on someone</strong>: (시간이 갈수록) 점점 더 좋아지다
+*   <strong style="color:blue;">Drop by</strong>: 잠깐 들르다
+
+---
+
+### **[Question 2: Roleplay - 롤플레이]**
+
+**Q: You want to rent a car for a weekend trip. Call a car rental agency and ask three or four questions about renting a car.**
+(주말 여행을 위해 차를 렌트하려고 합니다. 렌터카 업체에 전화해서 렌트와 관련된 서너 가지 질문을 하세요.)
+
+#### **[AL Model Answer]**
+Hi there! I’m calling to <strong style="color:blue;">look into</strong> renting a vehicle for the upcoming weekend. I'm planning a trip to the coast with a few friends, so I have a couple of questions before I <strong style="color:blue;">go ahead with</strong> the reservation.
+
+First of all, I was wondering what kind of SUVs you currently have available. Since there will be four of us with quite a bit of luggage, we need something spacious. Could you <strong style="color:blue;">fill me in on</strong> the specific models you have in stock for this Saturday?
+
+Secondly, I’d like to know about your insurance policy. Does the daily rate <strong style="color:blue;">cover</strong> full collision damage, or do I need to <strong style="color:blue;">sign up for</strong> an extra package? I want to make sure we are <strong style="color:blue;">on the safe side</strong> just in case we <strong style="color:blue;">run into</strong> any issues on the road.
+
+Also, what is your policy regarding the fuel? Do I need to <strong style="color:blue;">fill up</strong> the tank before I <strong style="color:blue;">hand back</strong> the keys, or can I just pay for what I used at the office? 
+
+Lastly, could you tell me the exact time for the <strong style="color:blue;">pick-up</strong> and drop-off? I need to <strong style="color:blue;">work out</strong> my itinerary, so knowing the hours of operation would be very helpful. Thank you!
+
+#### **[Vocabulary & Expressions]**
+*   **Spacious:** 널찍한
+*   **Luggage:** 수하물, 짐
+*   **Collision damage:** 충돌 사고 피해
+*   **Itinerary:** 여행 일정
+*   **Hours of operation:** 영업 시간
+
+#### **[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">Look into</strong>: ~에 대해 알아보다, 조사하다
+*   <strong style="color:blue;">Go ahead with</strong>: ~을 추진하다, 진행하다
+*   <strong style="color:blue;">Fill someone in on</strong>: ~에 대해 (자세히) 알려주다
+*   <strong style="color:blue;">Sign up for</strong>: ~에 가입하다, 신청하다
+*   <strong style="color:blue;">On the safe side</strong>: 신중을 기하여, 만약을 대비하여
+*   <strong style="color:blue;">Run into</strong>: (문제 등에) 맞닥뜨리다, 우연히 만나다
+*   <strong style="color:blue;">Fill up</strong>: 가득 채우다
+*   <strong style="color:blue;">Hand back</strong>: 반납하다, 돌려주다
+*   <strong style="color:blue;">Pick-up</strong>: 수령, 태워줌
+*   <strong style="color:blue;">Work out</strong>: (계획 등을) 세우다, 해결하다
+
+---
+
+### **[Question 3: Sudden Question - 돌발질문 (재활용)]**
+
+**Q: Recycling has become a global issue. How has recycling changed in your country over the years? Compare the way people recycled in the past to the way they do it now.**
+(재활용은 세계적인 이슈가 되었습니다. 당신의 나라에서 재활용 방식은 세월에 따라 어떻게 변해왔나요? 과거와 현재의 재활용 방식을 비교해 보세요.)
+
+#### **[AL Model Answer]**
+Recycling in my country has undergone a massive transformation over the last couple of decades. Looking back, things were much simpler, or should I say, <strong style="color:blue;">lax</strong>. In the past, people didn't really <strong style="color:blue;">give a second thought to</strong> how they disposed of their trash. We mostly just <strong style="color:blue;">threw away</strong> everything in a single bin, and the concept of separating plastic, paper, and glass wasn't strictly enforced.
+
+However, as environmental concerns have <strong style="color:blue;">come to the fore</strong>, the government has <strong style="color:blue;">cracked down on</strong> improper waste disposal. Nowadays, we have a very sophisticated system. We are required to <strong style="color:blue;">sort out</strong> our waste into specific categories like PET bottles, vinyl, and food waste. It can be a bit <strong style="color:blue;">tedious</strong>, but most people have <strong style="color:blue;">gotten used to</strong> it.
+
+Furthermore, there is a huge movement to <strong style="color:blue;">cut down on</strong> single-use plastics. Many cafes have <strong style="color:blue;">phased out</strong> plastic straws and replaced them with paper ones. In the past, we took plastic bags <strong style="color:blue;">for granted</strong>, but now we have to pay for them or bring our own reusable bags. 
+
+In a nutshell, the shift from a "throw-away culture" to a more "sustainable mindset" is quite evident. Even though it requires more effort to <strong style="color:blue;">clean up after</strong> ourselves, I believe these changes are <strong style="color:blue;">heading in the right direction</strong> to protect our planet for future generations.
+
+#### **[Vocabulary & Expressions]**
+*   **Transformation:** 변화, 변혁
+*   **Enforced:** 집행된, 강제적인
+*   **Sophisticated:** 정교한, 복잡한
+*   **Tedious:** 지루한, 번거로운
+*   **Sustainable:** 지속 가능한
+
+#### **[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">Give a second thought to</strong>: ~에 대해 다시 생각하다 (숙고하다)
+*   <strong style="color:blue;">Throw away</strong>: 버리다
+*   <strong style="color:blue;">Come to the fore</strong>: 표면화되다, 부각되다
+*   <strong style="color:blue;">Cracked down on</strong>: ~을 엄중히 단속하다
+*   <strong style="color:blue;">Sort out</strong>: 분류하다, 구분하다
+*   <strong style="color:blue;">Gotten used to</strong>: ~에 익숙해지다
+*   <strong style="color:blue;">Cut down on</strong>: ~을 줄이다
+*   <strong style="color:blue;">Phase out</strong>: 단계적으로 중단하다
+*   <strong style="color:blue;">For granted</strong>: 당연하게 (여기는)
+*   <strong style="color:blue;">Clean up after</strong>: ~의 뒷정리를 하다
+*   <strong style="color:blue;">Heading in the right direction</strong>: 올바른 방향으로 나아가다
