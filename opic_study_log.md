@@ -201,3 +201,128 @@ In a nutshell, the shift from a "throw-away culture" to a more "sustainable mind
 *   <strong style="color:blue;">For granted</strong>: 당연하게 (여기는)
 *   <strong style="color:blue;">Clean up after</strong>: ~의 뒷정리를 하다
 *   <strong style="color:blue;">Heading in the right direction</strong>: 올바른 방향으로 나아가다
+
+## 2026-03-10 05:37:36 OPIc Study
+
+반갑습니다! OPIc AL 등급 달성을 위한 오늘의 연습 세션을 시작하겠습니다. AL 등급의 핵심은 **끊김 없는 유창성, 구체적인 세부 묘사, 그리고 다양한 어휘 및 관용구 활용 능력**입니다.
+
+오늘의 세 가지 주제는 **[재활용 습관], [여행 상품 문의 (롤플레이)], [건강한 식습관의 변화 (돌발)]**입니다.
+
+---
+
+### **Question 1: Description (묘사)**
+
+**Q: In your country, recycling is very important. Can you tell me about how people in your country recycle? What are the specific procedures for disposing of different types of waste?**
+(당신의 나라에서 재활용은 매우 중요합니다. 한국 사람들이 어떻게 재활용을 하는지 말해줄 수 있나요? 다양한 종류의 쓰레기를 처리하는 구체적인 절차는 무엇인가요?)
+
+**[AL Level Model Answer]**
+
+"To be honest, Korea has one of the most rigorous recycling systems in the world. Growing up, I <strong style="color:blue;">took it for granted</strong>, but now I realize how much effort goes into it. We don't just throw everything into one bin; we have to <strong style="color:blue;">sort out</strong> waste into very specific categories like paper, plastic, glass, and aluminum.
+
+The process usually <strong style="color:blue;">boils down to</strong> three main steps. First, we have to make sure containers are clean. For example, when I finish a plastic water bottle, I have to remove the label and <strong style="color:blue;">rinse out</strong> any residue before putting it in the designated bin. It’s a bit of a hassle, but everyone <strong style="color:blue;">goes along with</strong> it because there are heavy fines if you <strong style="color:blue;">mess up</strong>.
+
+Secondly, food waste is a whole different story. We use biodegradable bags or specialized electronic bins to dispose of food scraps. This helps <strong style="color:blue;">cut down on</strong> environmental pollution. Lastly, for large items like furniture, we can't just leave them on the curb. We have to <strong style="color:blue;">look into</strong> getting a special sticker from the local office or through an app.
+
+Overall, recycling has <strong style="color:blue;">become second nature</strong> to us. Even though it can be <strong style="color:blue;">a pain in the neck</strong> at times, most people <strong style="color:blue;">keep an eye out for</strong> ways to reduce their carbon footprint. It’s definitely something that requires everyone to <strong style="color:blue;">pitch in</strong> for the sake of the environment."
+
+**[Vocabulary & Expressions]**
+*   **Rigorous**: 엄격한, 철저한
+*   **Designated**: 지정된
+*   **Hassle**: 번거로운 일
+*   **Biodegradable**: 생분해성의
+*   **Carbon footprint**: 탄소 발자국
+
+**[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">Take something for granted</strong>: ~을 당연하게 여기다
+*   <strong style="color:blue;">Sort out</strong>: 분류하다, 구분하다
+*   <strong style="color:blue;">Boil down to</strong>: 결국 ~로 요약되다
+*   <strong style="color:blue;">Rinse out</strong>: (안쪽을) 헹궈내다
+*   <strong style="color:blue;">Go along with</strong>: ~에 동조하다, 따르다
+*   <strong style="color:blue;">Mess up</strong>: 망치다, 실수하다
+*   <strong style="color:blue;">Cut down on</strong>: ~을 줄이다
+*   <strong style="color:blue;">Look into</strong>: 조사하다, 알아보다
+*   <strong style="color:blue;">Become second nature</strong>: 제2의 천성이 되다 (습관이 되다)
+*   <strong style="color:blue;">A pain in the neck</strong>: 아주 귀찮은 일
+*   <strong style="color:blue;">Keep an eye out for</strong>: ~을 세심히 살피다/주의하다
+*   <strong style="color:blue;">Pitch in</strong>: 협력하다, 기여하다
+
+---
+
+### **Question 2: Role-play (롤플레이)**
+
+**Q: You are planning a trip and call a travel agency to ask about a vacation package. Call the agent and ask three or four questions about the details of the package.**
+(당신은 여행을 계획 중이며 여행사에 전화를 걸어 휴가 패키지에 대해 문의하려고 합니다. 상담원에게 전화하여 패키지 세부 사항에 대해 3~4가지 질문을 하세요.)
+
+**[AL Level Model Answer]**
+
+"Hi there! I’m calling because I <strong style="color:blue;">came across</strong> an advertisement for your 'European Summer Getaway' package on your website. It <strong style="color:blue;">caught my eye</strong>, and I was wondering if I could ask a few questions to <strong style="color:blue;">clear things up</strong>.
+
+First of all, I’d like to <strong style="color:blue;">find out</strong> about the accommodation. The website mentions four-star hotels, but could you <strong style="color:blue;">fill me in on</strong> the specific locations? I’d prefer to stay in the city center so I can <strong style="color:blue;">walk around</strong> and explore easily.
+
+Secondly, I noticed that some meals are included, but others are not. Does the package <strong style="color:blue;">cater to</strong> specific dietary requirements? My partner is vegan, so we need to <strong style="color:blue;">watch out for</strong> that. Also, regarding the itinerary, is there any free time for us to <strong style="color:blue;">go off</strong> on our own, or is every hour <strong style="color:blue;">accounted for</strong>?
+
+One last thing, if something <strong style="color:blue;">comes up</strong> and I need to cancel or reschedule, what is your refund policy? I’d like to <strong style="color:blue;">play it safe</strong> since my work schedule is a bit unpredictable lately. Oh, and do I need to <strong style="color:blue;">put down</strong> a deposit right away to <strong style="color:blue;">lock in</strong> the current price? Thanks so much for your help, I look forward to hearing back from you!"
+
+**[Vocabulary & Expressions]**
+*   **Accommodation**: 숙박 시설
+*   **Itinerary**: 여행 일정
+*   **Unpredictable**: 예측 불가능한
+*   **Deposit**: 보증금/예약금
+
+**[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">Come across</strong>: 우연히 발견하다
+*   <strong style="color:blue;">Catch one's eye</strong>: 눈길을 끌다
+*   <strong style="color:blue;">Clear things up</strong>: (오해나 궁금증을) 명확히 해결하다
+*   <strong style="color:blue;">Find out</strong>: 알아내다
+*   <strong style="color:blue;">Fill someone in on</strong>: ~에 대해 자세히 알려주다
+*   <strong style="color:blue;">Walk around</strong>: 산책하다, 둘러보다
+*   <strong style="color:blue;">Cater to</strong>: (요구/기호에) 맞추다, 부응하다
+*   <strong style="color:blue;">Watch out for</strong>: ~을 주의하다/살피다
+*   <strong style="color:blue;">Go off</strong>: (어디론가) 떠나다/나가다
+*   <strong style="color:blue;">Accounted for</strong>: (시간/수량이) 확인된/설명된
+*   <strong style="color:blue;">Come up</strong>: (예상치 못한 일이) 발생하다
+*   <strong style="color:blue;">Play it safe</strong>: 신중하게 행동하다
+*   <strong style="color:blue;">Put down</strong>: 지불하다 (착수금 등을 내다)
+*   <strong style="color:blue;">Lock in</strong>: (가격 등을) 고정시키다/확정 짓다
+
+---
+
+### **Question 3: Unexpected/Issue (돌발 질문/과거-현재 비교)**
+
+**Q: In the past, people had different eating habits than they do today. How have people’s attitudes toward healthy eating changed over the years? What are some new trends in nutrition that you have noticed?**
+(과거에는 사람들이 지금과는 다른 식습관을 가졌습니다. 수년에 걸쳐 건강한 식단에 대한 사람들의 태도가 어떻게 변했나요? 당신이 주목한 영양 분야의 새로운 트렌드는 무엇인가요?)
+
+**[AL Level Model Answer]**
+
+"That’s a very interesting topic. Looking back, I think there’s been a massive shift in how people <strong style="color:blue;">think about</strong> what they put into their bodies. In the past, my parents’ generation didn't <strong style="color:blue;">dwell on</strong> calories or macros that much. They mostly ate traditional home-cooked meals and focused on <strong style="color:blue;">filling up</strong>. 
+
+However, these days, people are becoming incredibly health-conscious. We’ve <strong style="color:blue;">moved away from</strong> just eating for survival and started focusing on 'wellness.' One major trend is the rise of functional foods. Many of my friends <strong style="color:blue;">swear by</strong> things like probiotics, kombucha, or low-carb diets. People <strong style="color:blue;">read up on</strong> nutritional labels religiously now, trying to <strong style="color:blue;">cut back on</strong> sugar and processed carbs.
+
+Another thing I've noticed is the popularity of plant-based diets. It used to be a niche thing, but now it’s <strong style="color:blue;">catching on</strong> everywhere. Even fast-food chains are <strong style="color:blue;">branching out</strong> into vegan options to <strong style="color:blue;">keep up with</strong> the demand. 
+
+Also, with the help of social media, people <strong style="color:blue;">look up to</strong> fitness influencers and try out intermittent fasting or keto diets. While some of these might be just 'fads' that <strong style="color:blue;">fade away</strong>, the general consensus is that we need to <strong style="color:blue;">take care of</strong> our bodies through what we eat. We no longer <strong style="color:blue;">brush off</strong> the importance of nutrition because we know it directly <strong style="color:blue;">leads to</strong> our long-term quality of life."
+
+**[Vocabulary & Expressions]**
+*   **Massive shift**: 거대한 변화
+*   **Macros (Macronutrients)**: 다량 영양소 (탄단지)
+*   **Health-conscious**: 건강에 신경 쓰는
+*   **Religiously**: 아주 철저하게
+*   **Niche**: 틈새의, 소수의
+*   **Consensus**: 합의, 공감대
+
+**[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">Think about</strong>: ~에 대해 생각하다
+*   <strong style="color:blue;">Dwell on</strong>: ~을 곱씹다/오래 생각하다
+*   <strong style="color:blue;">Fill up</strong>: 배를 채우다
+*   <strong style="color:blue;">Move away from</strong>: ~에서 벗어나다
+*   <strong style="color:blue;">Swear by</strong>: ~을 맹신하다/아주 좋다고 생각하다
+*   <strong style="color:blue;">Read up on</strong>: ~에 대해 많이 읽어보다/공부하다
+*   <strong style="color:blue;">Cut back on</strong>: ~을 줄이다
+*   <strong style="color:blue;">Catch on</strong>: 유행하다, 인기를 얻다
+*   <strong style="color:blue;">Branch out</strong>: (사업 등을) 확장하다/새로운 분야로 진출하다
+*   <strong style="color:blue;">Keep up with</strong>: ~을 따라잡다/유지하다
+*   <strong style="color:blue;">Look up to</strong>: ~를 우러러보다/존경하다
+*   <strong style="color:blue;">Fade away</strong>: 서서히 사라지다
+*   <strong style="color:blue;">Take care of</strong>: ~을 돌보다/관리하다
+*   <strong style="color:blue;">Brush off</strong>: 무시하다, 가볍게 넘기다
+*   <strong style="color:blue;">Lead to</strong>: ~로 이어지다
