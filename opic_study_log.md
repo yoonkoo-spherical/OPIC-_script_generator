@@ -326,3 +326,107 @@ Also, with the help of social media, people <strong style="color:blue;">look up 
 *   <strong style="color:blue;">Take care of</strong>: ~을 돌보다/관리하다
 *   <strong style="color:blue;">Brush off</strong>: 무시하다, 가볍게 넘기다
 *   <strong style="color:blue;">Lead to</strong>: ~로 이어지다
+
+## 2026-03-11 05:40:01 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 일일 트레이닝 세션에 오신 것을 환영합니다. 오늘은 **지리(Geography), 렌터카 예약(Role-play), 그리고 재활용(Recycling)**이라는 세 가지 서로 다른 주제를 통해 AL 등급에서 요구하는 유창함과 구체적인 묘사 능력을 키워보겠습니다.
+
+---
+
+### **Question 1: Description (지리/지형)**
+
+**[Question]**
+Tell me about the geography of your country. What are some of the physical features such as mountains, rivers, or oceans? How do these features affect the lives of the people there?
+
+당신 나라의 지리에 대해 말해주세요. 산, 강, 바다와 같은 지형적 특징은 무엇인가요? 이러한 특징들이 그곳 사람들의 삶에 어떤 영향을 미치나요?
+
+**[Model Answer Script]**
+Well, when it comes to the geography of South Korea, there’s actually quite a lot to <strong style="color:blue;">unpack</strong>. First and foremost, you have to understand that Korea is a peninsula, which means we are surrounded by water on three sides. This unique position has profoundly shaped our culture and economy. 
+
+If I were to <strong style="color:blue;">zoom in on</strong> the specific features, the most prominent one would definitely be the mountains. In fact, about 70% of our land is mountainous. The Taebaek Mountain Range acts like the backbone of the country, stretching along the east coast. Because of this, most of the major cities and agricultural areas are <strong style="color:blue;">spread out</strong> across the western and southern plains. Growing up, I remember going on hiking trips almost every weekend because the mountains are so accessible. It’s a huge part of our lifestyle; many people <strong style="color:blue;">take up</strong> hiking as a serious hobby to <strong style="color:blue;">blow off some steam</strong> after a long work week.
+
+Then, there are the rivers, with the Han River being the most iconic. It flows right through the heart of Seoul. It’s not just a body of water; it’s a cultural hub. On any given weekend, you’ll see thousands of people <strong style="color:blue;">hanging out</strong> at Han River Park, ordering delivery food, or cycling. It’s like an oasis in the middle of a concrete jungle.
+
+Lastly, being surrounded by the sea has made us a powerhouse in the shipbuilding and fishing industries. The coastal areas, especially in the south, are <strong style="color:blue;">dotted with</strong> beautiful islands. These spots have become major tourist attractions, helping people <strong style="color:blue;">get away from it all</strong>. All in all, the diverse geography of Korea—from its rugged peaks to its bustling riverfronts—is what <strong style="color:blue;">sets it apart</strong> and makes living here so dynamic.
+
+**[Vocabulary & Expressions]**
+*   **Unpack**: (정보 등을) 풀어서 설명하다.
+*   **Zoom in on**: ~에 집중하다, 확대해서 보다.
+*   **Spread out**: 흩어져 있다, 펼쳐져 있다.
+*   **Take up**: (취미 등을) 시작하다.
+*   **Blow off some steam**: 스트레스를 풀다.
+*   **Hang out**: 시간을 보내다, 놀다.
+*   **Dotted with**: ~이 곳곳에 산재해 있다.
+*   **Get away from it all**: 모든 것을 잊고 휴식을 취하다.
+*   **Set apart**: 차별화하다, 구별 짓다.
+
+---
+
+### **Question 2: Role-play (렌터카 예약)**
+
+**[Question]**
+You are planning a trip with your friends and need to rent a car. Call a rental car agency and ask three or four questions about renting a vehicle for your trip.
+
+친구들과 여행을 계획 중이라 차를 빌려야 합니다. 렌터카 업체에 전화하여 차량 대여에 대해 서너 가지 질문을 하세요.
+
+**[Model Answer Script]**
+Hi there! I’m calling to <strong style="color:blue;">look into</strong> renting a car for an upcoming road trip I’m planning with a few friends. We’re headed out next Friday morning and plan to <strong style="color:blue;">bring it back</strong> on Sunday evening. I have a few questions to <strong style="color:blue;">clear up</strong> before I make a reservation.
+
+First off, there will be five of us in total, and we’re going to have quite a bit of luggage. Do you have any full-size SUVs or minivans available for those dates? We want to make sure we don’t <strong style="color:blue;">run out of</strong> space for our gear. Also, I’d like to know if the rental fee <strong style="color:blue;">comes with</strong> unlimited mileage. We’re planning to drive quite a distance, and I don't want to <strong style="color:blue;">end up</strong> paying a fortune in extra fees.
+
+Secondly, regarding the insurance policy, what exactly does your "Premium Coverage" <strong style="color:blue;">stand for</strong>? Does it cover everything, including minor scratches and roadside assistance? It’s better to <strong style="color:blue;">be on the safe side</strong> since we’ll be driving through some mountainous terrain.
+
+Lastly, I was wondering about your fuel policy. Do I need to <strong style="color:blue;">top off</strong> the tank before returning it, or can I just pay for the gas I used at the agency? Oh, one more thing! Is it possible to <strong style="color:blue;">add on</strong> an additional driver for free, or is there a daily surcharge for that? 
+
+Please <strong style="color:blue;">get back to</strong> me when you have a moment to check these details. Thanks a lot!
+
+**[Vocabulary & Expressions]**
+*   **Look into**: 조사하다, 알아보다.
+*   **Bring back**: 반납하다, 돌려주다.
+*   **Clear up**: (오해 등을) 풀다, 확실히 하다.
+*   **Run out of**: ~이 다 떨어지다, 부족하다.
+*   **Come with**: ~이 포함되다.
+*   **End up**: 결국 ~하게 되다.
+*   **Stand for**: 의미하다, 상징하다.
+*   **Be on the safe side**: 만약을 위해 조심하다.
+*   **Top off**: (액체 등을) 가득 채우다.
+*   **Add on**: 추가하다.
+*   **Get back to**: ~에게 다시 연락하다.
+
+---
+
+### **Question 3: Unexpected Question (재활용의 과거와 현재 비교)**
+
+**[Question]**
+How has the way people recycle changed over the years in your country? Compare the recycling habits of the past with those of today. What are some new challenges or developments?
+
+당신 나라의 재활용 방식이 수년에 걸쳐 어떻게 변했나요? 과거의 재활용 습관과 현재를 비교해 보세요. 새로운 과제나 발전된 부분은 무엇인가요?
+
+**[Model Answer Script]**
+That’s a very <strong style="color:blue;">timely</strong> question. To be honest, the way we handle recycling in Korea has undergone a massive transformation. If I <strong style="color:blue;">look back</strong> about 20 or 30 years, recycling wasn’t really a major concern for the average person. People used to just <strong style="color:blue;">throw away</strong> everything in a single trash bag without <strong style="color:blue;">giving it a second thought</strong>. 
+
+However, everything changed when the government <strong style="color:blue;">brought in</strong> the "Volume-based Waste Fee System." This was a total <strong style="color:blue;">game changer</strong>. Nowadays, we have to be incredibly meticulous. We have to <strong style="color:blue;">sort out</strong> our trash into very specific categories: paper, plastic, glass, vinyl, and even food waste. It’s a bit of a <strong style="color:blue;">hassle</strong>, but it has become <strong style="color:blue;">second nature</strong> to most Koreans now. 
+
+One of the biggest developments recently is the emphasis on "zero-waste" and reducing single-use plastics. In the past, cafes would <strong style="color:blue;">hand out</strong> plastic cups and straws like there was no tomorrow. But now, they’ve <strong style="color:blue;">cut back on</strong> those significantly. You’ll often see people bringing their own tumblers to <strong style="color:blue;">do their part</strong> for the environment. 
+
+Despite these improvements, we are facing new challenges. For instance, with the rise of online shopping and delivery services—which <strong style="color:blue;">picked up</strong> even more during the pandemic—the amount of packaging waste has <strong style="color:blue;">gone through the roof</strong>. It’s becoming difficult to <strong style="color:blue;">keep up with</strong> the sheer volume of boxes and bubble wrap. 
+
+In conclusion, while we have <strong style="color:blue;">come a long way</strong> in terms of systematic recycling, the struggle to <strong style="color:blue;">stem the tide</strong> of plastic waste continues. It’s an ongoing battle that requires both government policy and individual effort.
+
+**[Vocabulary & Expressions]**
+*   **Timely**: 시기적절한.
+*   **Look back**: 회상하다.
+*   **Throw away**: 버리다.
+*   **Give it a second thought**: 재고하다, 깊이 생각하다.
+*   **Bring in**: (법 등을) 도입하다.
+*   **Game changer**: 상황을 완전히 바꿔놓는 것.
+*   **Sort out**: 분류하다.
+*   **Second nature**: 제2의 천성(습관이 된 것).
+*   **Hand out**: 나눠주다.
+*   **Cut back on**: ~을 줄이다.
+*   **Do one's part**: 본분의 역할을 다하다.
+*   **Pick up**: 증가하다, 활기를 띠다.
+*   **Go through the roof**: 치솟다, 급등하다.
+*   **Keep up with**: ~을 따라잡다.
+*   **Come a long way**: 크게 발전하다.
+*   **Stem the tide**: 흐름을 저지하다.
