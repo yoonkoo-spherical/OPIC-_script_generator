@@ -430,3 +430,115 @@ In conclusion, while we have <strong style="color:blue;">come a long way</strong
 *   **Keep up with**: ~을 따라잡다.
 *   **Come a long way**: 크게 발전하다.
 *   **Stem the tide**: 흐름을 저지하다.
+
+## 2026-03-12 06:06:18 OPIc Study
+
+반갑습니다! OPIc AL 전문 강사입니다. 오늘은 실제 시험에서 수험생들이 당황하기 쉬운 **[공원 묘사]**, **[여행사 예약 관련 롤플레이]**, 그리고 **[기술과 건강 관련 돌발 주제]** 세 가지 세트를 준비했습니다. 
+
+AL 등급 달성을 위해서는 단순히 문장을 나열하는 것이 아니라, 필러(filler)의 자연스러운 사용, 시제의 정확성, 그리고 무엇보다 **원어민스러운 구동사와 관용구 활용**이 필수적입니다.
+
+---
+
+## 1. Description (묘사): 내가 자주 가는 공원
+
+**[Question]**
+Tell me about a park you often visit. Where is it located, and what does it look like? What do people usually do there, and why do you like going to that specific park?
+(당신이 자주 방문하는 공원에 대해 말해주세요. 어디에 위치해 있으며 어떻게 생겼나요? 사람들은 그곳에서 주로 무엇을 하나요? 왜 그 공원에 가는 것을 좋아하나요?)
+
+**[Model Answer Script]**
+Well, let me tell you about this hidden gem right in the heart of my city. It’s called Central Riverside Park, and it’s just a stone's throw away from my apartment. The park is quite sprawling, with lush green lawns and a beautiful paved path that <strong style="color:blue;">winds around</strong> a massive lake. 
+
+What I love most about it is the atmosphere. During the weekends, the park is <strong style="color:blue;">packed with</strong> people trying to <strong style="color:blue;">blow off some steam</strong>. You can see families having picnics, joggers <strong style="color:blue;">working up a sweat</strong>, and couples <strong style="color:blue;">taking a stroll</strong> while enjoying the breeze. There’s even a small outdoor stage where local indie bands often <strong style="color:blue;">show up</strong> to perform.
+
+Personally, I <strong style="color:blue;">lean toward</strong> visiting the park in the late afternoon. There’s nothing like watching the sunset while sitting on a bench; it really helps me <strong style="color:blue;">clear my head</strong> after a long day of work. To be honest, I used to <strong style="color:blue;">stay cooped up</strong> at home all day, but since I discovered this place, I’ve started to <strong style="color:blue;">get into</strong> light jogging. It’s become a vital part of my daily routine because it allows me to <strong style="color:blue;">get away from it all</strong> and just connect with nature. Every time I visit, I feel like I’m <strong style="color:blue;">recharging my batteries</strong>. It’s truly a breath of fresh air in the middle of this concrete jungle.
+
+**[Vocabulary & Expressions]**
+*   **Sprawling**: 제멋대로 뻗어 나가는 (넓은 지역에 걸친)
+*   **Concrete jungle**: 콘크리트 정글 (삭막한 도시)
+*   **Breath of fresh air**: 새로운 활력소, 청량제
+*   **<strong style="color:blue;">Wind around</strong>**: ~을 감싸고 돌다/굽이치다 (Phrasal Verb)
+*   **<strong style="color:blue;">Packed with</strong>**: ~로 가득 찬 (Idiom)
+*   **<strong style="color:blue;">Blow off some steam</strong>**: 스트레스를 풀다 (Idiom)
+*   **<strong style="color:blue;">Work up a sweat</strong>**: 땀을 흘리며 운동하다 (Idiom)
+*   **<strong style="color:blue;">Take a stroll</strong>**: 산책하다 (Idiom)
+*   **<strong style="color:blue;">Show up</strong>**: 나타나다, 등장하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Lean toward</strong>**: ~하는 경향이 있다, 선호하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Clear one's head</strong>**: 머리를 식히다 (Idiom)
+*   **<strong style="color:blue;">Stay cooped up</strong>**: (좁은 곳에) 박혀 있다 (Phrasal Verb)
+*   **<strong style="color:blue;">Get into</strong>**: ~에 흥미를 붙이다/시작하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Get away from it all</strong>**: 모든 것을 잊고 벗어나다 (Idiom)
+*   **<strong style="color:blue;">Recharge one's batteries</strong>**: 재충전하다 (Idiom)
+
+---
+
+## 2. Roleplay (롤플레이): 여행사 예약 및 취소 상황
+
+**[Question]**
+I’d like to give you a situation and ask you to act it out. You are planning a trip to New York and calling a travel agency to book your flight and hotel. Ask the agent three or four questions. Then, call back the agency, explain that an emergency has come up, and you need to cancel or change your reservation.
+(상황을 하나 드릴 테니 연기해 보세요. 뉴욕 여행을 계획 중이며 여행사에 전화해 비행기와 호텔을 예약하려고 합니다. 상담원에게 3~4가지 질문을 하세요. 그 후, 다시 전화를 걸어 급한 일이 생겨 예약을 취소하거나 변경해야 하는 상황을 설명하세요.)
+
+**[Model Answer Script]**
+**(Part 1: Booking)**
+Hi there! I’m calling to <strong style="color:blue;">look into</strong> some travel packages for New York next month. I’m planning to stay for about a week. First off, could you tell me if there are any direct flights available? I’d rather not <strong style="color:blue;">deal with</strong> long layovers. Also, I’m looking for a hotel that is <strong style="color:blue;">in the vicinity of</strong> Times Square. Does your agency provide any <strong style="color:blue;">bundle deals</strong> for flight and accommodation? Oh, and one more thing, could you <strong style="color:blue;">fill me in on</strong> the cancellation policy? I just want to <strong style="color:blue;">be on the safe side</strong>.
+
+**(Part 2: Cancellation/Change)**
+Hello, this is [Your Name] again. I <strong style="color:blue;">checked in</strong> with you earlier regarding the New York trip. I’m so sorry to <strong style="color:blue;">bring this up</strong>, but something urgent has <strong style="color:blue;">come up</strong> at work, and I won’t be able to <strong style="color:blue;">go through with</strong> the trip on the original dates. I’m really <strong style="color:blue;">in a bind</strong> right now. Is there any way I can <strong style="color:blue;">push back</strong> the reservation to the following month? If that’s not possible, I might have to <strong style="color:blue;">call off</strong> the whole trip for now. I know this is <strong style="color:blue;">out of the blue</strong>, but I’d really appreciate it if you could help me <strong style="color:blue;">sort this out</strong> without too much of a penalty fee. Please let me know what my options are.
+
+**[Vocabulary & Expressions]**
+*   **Layover**: 경유, 체류
+*   **Accommodation**: 숙박 시설
+*   **Bundle deal**: 묶음 상품 (할인 상품)
+*   **<strong style="color:blue;">Look into</strong>**: 조사하다, 알아보다 (Phrasal Verb)
+*   **<strong style="color:blue;">Deal with</strong>**: ~을 다루다, 처리하다 (Phrasal Verb)
+*   **<strong style="color:blue;">In the vicinity of</strong>**: ~의 인근에 (Idiom)
+*   **<strong style="color:blue;">Fill someone in on</strong>**: ~에 대해 상세히 알려주다 (Phrasal Verb)
+*   **<strong style="color:blue;">Be on the safe side</strong>**: 혹시 모르니 신중을 기하다 (Idiom)
+*   **<strong style="color:blue;">Check in</strong>**: (상황 확인 등을 위해) 연락하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Bring something up</strong>**: (화제를) 꺼내다 (Phrasal Verb)
+*   **<strong style="color:blue;">Come up</strong>**: (예상치 못한 일이) 발생하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Go through with</strong>**: ~을 추진하다/완수하다 (Phrasal Verb)
+*   **<strong style="color:blue;">In a bind</strong>**: 곤경에 처한 (Idiom)
+*   **<strong style="color:blue;">Push back</strong>**: 미루다, 연기하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Call off</strong>**: 취소하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Out of the blue</strong>**: 갑자기, 난데없이 (Idiom)
+*   **<strong style="color:blue;">Sort something out</strong>**: 해결하다, 정리하다 (Phrasal Verb)
+
+---
+
+## 3. Unexpected/Issue (돌발 질문): 기술과 건강
+
+**[Question]**
+Technology has advanced significantly over the years. How has this progress affected people's health and the way they maintain it? Discuss both the positive and negative impacts.
+(기술은 수년간 상당히 발전해 왔습니다. 이러한 발전이 사람들의 건강과 건강을 유지하는 방식에 어떤 영향을 미쳤나요? 긍정적인 면과 부정적인 면을 모두 논의해 주세요.)
+
+**[Model Answer Script]**
+That’s a very <strong style="color:blue;">thought-provoking</strong> question. In my opinion, the impact of technology on health is definitely a <strong style="color:blue;">double-edged sword</strong>. 
+
+On the bright side, technology has made it incredibly easy to <strong style="color:blue;">keep track of</strong> our physical condition. Nowadays, most people wear smartwatches that <strong style="color:blue;">monitor</strong> their heart rate and sleep patterns <strong style="color:blue;">around the clock</strong>. We no longer have to <strong style="color:blue;">count on</strong> manual logs; everything is automated. Also, there are countless apps that help us <strong style="color:blue;">watch our weight</strong> or <strong style="color:blue;">cut back on</strong> sugar. This level of accessibility has definitely <strong style="color:blue;">paved the way for</strong> a more health-conscious society.
+
+However, there’s a <strong style="color:blue;">flip side</strong> to this. The advancement of smartphones and streaming services has led to a more sedentary lifestyle. A lot of people <strong style="color:blue;">end up</strong> spending hours <strong style="color:blue;">hunched over</strong> their screens, which <strong style="color:blue;">takes a toll on</strong> their neck and back health. Moreover, being constantly connected can <strong style="color:blue;">give rise to</strong> mental fatigue and anxiety. It’s hard to <strong style="color:blue;">switch off</strong> when you’re bombarded with notifications <strong style="color:blue;">day in and day out</strong>. 
+
+In conclusion, while technology provides us with amazing tools to <strong style="color:blue;">stay in shape</strong>, we need to be careful not to <strong style="color:blue;">fall into the trap</strong> of digital addiction. Finding a balance is key. If we can <strong style="color:blue;">make the most of</strong> these gadgets without letting them rule our lives, it will surely <strong style="color:blue;">pay off</strong> in the long run.
+
+**[Vocabulary & Expressions]**
+*   **Sedentary**: 주로 앉아서 하는, 활발하지 못한
+*   **Fatigue**: 피로
+*   **<strong style="color:blue;">Thought-provoking</strong>**: 시사하는 바가 큰, 생각을 자극하는 (Adjective)
+*   **<strong style="color:blue;">Double-edged sword</strong>**: 양날의 검 (Idiom)
+*   **<strong style="color:blue;">Keep track of</strong>**: ~을 추적하다, 기록하다 (Idiom)
+*   **<strong style="color:blue;">Around the clock</strong>**: 24시간 내내 (Idiom)
+*   **<strong style="color:blue;">Count on</strong>**: ~에 의존하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Watch one's weight</strong>**: 체중을 조절하다 (Idiom)
+*   **<strong style="color:blue;">Cut back on</strong>**: ~을 줄이다 (Phrasal Verb)
+*   **<strong style="color:blue;">Pave the way for</strong>**: ~을 위한 길을 닦다/기반을 마련하다 (Idiom)
+*   **<strong style="color:blue;">Flip side</strong>**: 다른 면, 반대쪽 (Idiom)
+*   **<strong style="color:blue;">End up</strong>**: 결국 ~하게 되다 (Phrasal Verb)
+*   **<strong style="color:blue;">Hunch over</strong>**: 몸을 구부리다 (Phrasal Verb)
+*   **<strong style="color:blue;">Take a toll on</strong>**: ~에 타격을 주다/부정적인 영향을 미치다 (Idiom)
+*   **<strong style="color:blue;">Give rise to</strong>**: ~을 일으키다/유발하다 (Idiom)
+*   **<strong style="color:blue;">Switch off</strong>**: (생각을) 멈추다, 스위치를 끄다 (Phrasal Verb)
+*   **<strong style="color:blue;">Day in and day out</strong>**: 매일같이 (Idiom)
+*   **<strong style="color:blue;">Stay in shape</strong>**: 건강/체형을 유지하다 (Idiom)
+*   **<strong style="color:blue;">Fall into the trap</strong>**: 함정에 빠지다 (Idiom)
+*   **<strong style="color:blue;">Make the most of</strong>**: ~을 최대한 활용하다 (Idiom)
+*   **<strong style="color:blue;">Pay off</strong>**: 결실을 맺다, 성과를 거두다 (Phrasal Verb)
