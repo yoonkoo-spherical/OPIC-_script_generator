@@ -542,3 +542,126 @@ In conclusion, while technology provides us with amazing tools to <strong style=
 *   **<strong style="color:blue;">Fall into the trap</strong>**: 함정에 빠지다 (Idiom)
 *   **<strong style="color:blue;">Make the most of</strong>**: ~을 최대한 활용하다 (Idiom)
 *   **<strong style="color:blue;">Pay off</strong>**: 결실을 맺다, 성과를 거두다 (Phrasal Verb)
+
+## 2026-03-13 05:39:12 OPIc Study
+
+반갑습니다! OPIc AL 달성을 위한 여러분의 전담 강사입니다. AL 등급의 핵심은 단순히 문법이 정확한 것을 넘어, **문장 간의 자연스러운 연결(Cohesion)**, **구체적이고 풍부한 어휘 사용**, 그리고 **논리적인 스토리텔링**에 있습니다.
+
+오늘은 **[가구와 인테리어, 렌터카 대여(롤플레이), 재활용 변화(돌발)]**라는 세 가지 주제로 실전 연습을 진행해 보겠습니다.
+
+---
+
+### **Q1. Description (묘사): 가구와 인테리어**
+
+**[Question]**
+Describe the furniture in your favorite room in your home. What does it look like, and how is it arranged? Why do you like this particular piece of furniture or the overall layout?
+
+당신이 가장 좋아하는 방의 가구들을 묘사해 보세요. 어떻게 생겼고, 어떻게 배치되어 있나요? 왜 그 가구들이나 전체적인 배치를 좋아하시나요?
+
+**[Model Answer Script]**
+Well, if I had to pick my favorite spot, it would definitely be my living room. I’ve put a lot of effort into <strong style="color:blue;">sprucing up</strong> the space to make it feel cozy yet modern. The centerpiece of the room is a large, L-shaped sectional sofa in charcoal gray. I spent weeks <strong style="color:blue;">looking into</strong> different brands before I finally <strong style="color:blue;">settled on</strong> this one because it’s incredibly plush.
+
+Next to the sofa, there’s a sleek, walnut coffee table that <strong style="color:blue;">goes with</strong> the wooden flooring perfectly. I’ve <strong style="color:blue;">set it up</strong> right in the middle of the room to create a balanced look. What really <strong style="color:blue;">catches my eye</strong> every time I walk in, though, is the floor-to-ceiling bookshelf against the far wall. It’s packed with books, plants, and little trinkets I’ve collected over the years. I tried to <strong style="color:blue;">sort out</strong> the books by color to give it a more aesthetic vibe, and honestly, it <strong style="color:blue;">stands out</strong> as the highlight of my interior.
+
+I love this layout because it’s not just about aesthetics; it’s about functionality. Everything seems to <strong style="color:blue;">fit in</strong> just right. Whenever I’m stressed, I just <strong style="color:blue;">kick back</strong> on the sofa and enjoy the view. It really helps me <strong style="color:blue;">wind down</strong> after a long day at work. Creating this space was a bit of a challenge, but seeing how it all <strong style="color:blue;">came together</strong> makes me feel like I’m <strong style="color:blue;">on cloud nine</strong> every time I’m home.
+
+**[Vocabulary & Expressions]**
+*   **Centerpiece**: 중심이 되는 것
+*   **Sectional sofa**: 조립식 소파
+*   **Aesthetic**: 미적인
+*   **Functionality**: 기능성
+*   **<strong style="color:blue;">Spruce up</strong>**: 단장하다, 꾸미다
+*   **<strong style="color:blue;">Look into</strong>**: 조사하다, 알아보다
+*   **<strong style="color:blue;">Settle on</strong>**: ~으로 정하다 (결정하다)
+*   **<strong style="color:blue;">Go with</strong>**: ~와 잘 어울리다
+*   **<strong style="color:blue;">Set up</strong>**: 설치하다, 배치하다
+*   **<strong style="color:blue;">Catch one's eye</strong>**: 눈길을 끌다
+*   **<strong style="color:blue;">Sort out</strong>**: 분류하다, 정리하다
+*   **<strong style="color:blue;">Stand out</strong>**: 눈에 띄다, 두드러지다
+*   **<strong style="color:blue;">Fit in</strong>**: 어우러지다, 맞다
+*   **<strong style="color:blue;">Kick back</strong>**: 편하게 쉬다
+*   **<strong style="color:blue;">Wind down</strong>**: 긴장을 풀고 쉬다
+*   **<strong style="color:blue;">Come together</strong>**: 하나로 합쳐지다, 마무리되다
+*   **<strong style="color:blue;">On cloud nine</strong>**: 너무나 행복한
+
+---
+
+### **Q2. Role-play (롤플레이): 렌터카 대여 문의**
+
+**[Question]**
+You are calling a car rental agency to rent a car for a trip next weekend. Call the agency and ask three or four questions about the rental process and availability.
+
+당신은 다음 주말 여행을 위해 렌터카 업체에 전화를 걸었습니다. 상담원에게 렌트 절차와 예약 가능 여부에 대해 3~4가지 질문을 하세요.
+
+**[Model Answer Script]**
+Hi there! I’m calling to <strong style="color:blue;">inquire about</strong> renting a vehicle for the upcoming weekend. I’m planning a road trip with some friends, so I wanted to <strong style="color:blue;">check out</strong> what options you have available.
+
+First of all, I’m looking for a mid-size SUV. Could you tell me if you have any in stock from Friday morning to Sunday evening? Also, I’d like to <strong style="color:blue;">go over</strong> the insurance policies. Does the basic rental fee include full coverage, or do I need to <strong style="color:blue;">sign up for</strong> an extra plan to <strong style="color:blue;">fend off</strong> any potential liabilities?
+
+Secondly, I’m curious about the mileage limit. Is there a cap on how many miles we can drive, or is it unlimited? If we <strong style="color:blue;">run over</strong> the limit, how much is the additional charge? Oh, and <strong style="color:blue;">on top of that</strong>, I was wondering about the fuel policy. Do I need to <strong style="color:blue;">fill up</strong> the tank before I <strong style="color:blue;">hand back</strong> the keys, or can I just pay for the gas I used at the agency?
+
+Lastly, if I decide to <strong style="color:blue;">go through with</strong> the reservation now, is there any discount for early booking? I’d hate to <strong style="color:blue;">miss out on</strong> a good deal. Please <strong style="color:blue;">get back to me</strong> when you have a moment to <strong style="color:blue;">run through</strong> these details. Thanks!
+
+**[Vocabulary & Expressions]**
+*   **Availability**: 이용 가능 여부
+*   **Full coverage**: 종합 보험
+*   **Liability**: 책임, 부채
+*   **<strong style="color:blue;">Inquire about</strong>**: ~에 대해 문의하다
+*   **<strong style="color:blue;">Check out</strong>**: 확인하다, 살펴보다
+*   **<strong style="color:blue;">Go over</strong>**: 검토하다, 확인하다
+*   **<strong style="color:blue;">Sign up for</strong>**: ~에 가입하다, 신청하다
+*   **<strong style="color:blue;">Fend off</strong>**: ~을 피하다, 막아내다
+*   **<strong style="color:blue;">Run over</strong>**: (제한을) 넘어서다, 초과하다
+*   **<strong style="color:blue;">On top of that</strong>**: 게다가, 그뿐만 아니라
+*   **<strong style="color:blue;">Fill up</strong>**: 가득 채우다
+*   **<strong style="color:blue;">Hand back</strong>**: 반납하다, 돌려주다
+*   **<strong style="color:blue;">Go through with</strong>**: ~을 진행하다, 완수하다
+*   **<strong style="color:blue;">Miss out on</strong>**: ~을 놓치다
+*   **<strong style="color:blue;">Get back to (someone)</strong>**: ~에게 다시 연락하다
+*   **<strong style="color:blue;">Run through</strong>**: ~을 훑어보다, 설명하다
+
+---
+
+### **Q3. Unexpected Question (돌발 질문): 재활용 습관의 변화**
+
+**[Question]**
+How have recycling habits or environmental awareness changed in your country over the years? Compare how people used to handle waste in the past with how they do it today.
+
+최근 몇 년 동안 당신의 나라에서 재활용 습관이나 환경 인식이 어떻게 변했나요? 과거에 사람들이 쓰레기를 처리하던 방식과 오늘날의 방식을 비교해 보세요.
+
+**[Model Answer Script]**
+Looking back, the way we handle waste in Korea has undergone a massive transformation. In the past, people weren't really <strong style="color:blue;">clued in</strong> to the importance of recycling. We used to just <strong style="color:blue;">throw away</strong> everything in a single trash bag without a second thought. Environmental issues were often <strong style="color:blue;">brushed aside</strong> in favor of convenience.
+
+However, these days, things have <strong style="color:blue;">turned around</strong> completely. The government has <strong style="color:blue;">laid down</strong> very strict regulations regarding waste disposal. Now, we have to <strong style="color:blue;">sort out</strong> our trash into specific categories like plastic, paper, glass, and even food waste. It was a bit of a struggle to <strong style="color:blue;">keep up with</strong> the rules at first, but now it has become <strong style="color:blue;">second nature</strong> to most of us.
+
+Furthermore, there’s been a huge shift in public perception. People are much more <strong style="color:blue;">geared up</strong> to protect the environment. For instance, many people are trying to <strong style="color:blue;">cut down on</strong> single-use plastics. You’ll see most people <strong style="color:blue;">carrying around</strong> their own tumblers instead of using disposable cups. Businesses are also <strong style="color:blue;">chipping in</strong> by <strong style="color:blue;">phasing out</strong> plastic straws and packaging.
+
+In short, we’ve come a long way. While we used to <strong style="color:blue;">turn a blind eye to</strong> the pollution problem, it has now become a <strong style="color:blue;">top priority</strong>. We’ve realized that our past habits were just <strong style="color:blue;">the tip of the iceberg</strong> when it comes to environmental damage, and this <strong style="color:blue;">wake-up call</strong> has led to a much greener lifestyle.
+
+**[Vocabulary & Expressions]**
+*   **Transformation**: 변화, 변형
+*   **Regulation**: 규제
+*   **Disposal**: 처리, 처분
+*   **Perception**: 인식
+*   **<strong style="color:blue;">Clued in</strong>**: 잘 알고 있는, 정보를 가진
+*   **<strong style="color:blue;">Throw away</strong>**: 버리다
+*   **<strong style="color:blue;">Brush aside</strong>**: 무시하다, 제쳐놓다
+*   **<strong style="color:blue;">Turn around</strong>**: 호전되다, 완전히 바뀌다
+*   **<strong style="color:blue;">Laid down</strong>**: (규칙 등을) 정하다, 규정하다
+*   **<strong style="color:blue;">Sort out</strong>**: 분류하다
+*   **<strong style="color:blue;">Keep up with</strong>**: ~을 따라가다, 뒤처지지 않다
+*   **<strong style="color:blue;">Second nature</strong>**: 제2의 천성 (습관이 된 것)
+*   **<strong style="color:blue;">Geared up</strong>**: 준비가 된
+*   **<strong style="color:blue;">Cut down on</strong>**: ~을 줄이다
+*   **<strong style="color:blue;">Carry around</strong>**: 휴대하고 다니다
+*   **<strong style="color:blue;">Chip in</strong>**: 기여하다, 협력하다
+*   **<strong style="color:blue;">Phase out</strong>**: 단계적으로 중단하다
+*   **<strong style="color:blue;">Turn a blind eye to</strong>**: ~을 못 본 체하다
+*   **<strong style="color:blue;">Top priority</strong>**: 최우선 사항
+*   **<strong style="color:blue;">The tip of the iceberg</strong>**: 빙산의 일각
+*   **<strong style="color:blue;">Wake-up call</strong>**: 경각심을 주는 사건 (주의 환기)
+
+---
+
+**강사의 한마디:**
+AL을 받기 위해서는 **"I think..."**로 시작하는 단순한 문장보다는 **"If I had to pick..."**, **"Looking back..."**과 같이 문장을 여는 방식을 다양화하는 것이 좋습니다. 또한 위 스크립트에 포함된 **Phasal Verbs(구동사)**들을 적재적소에 사용하면 원어민스러운 뉘앙스를 풍길 수 있습니다. 내일도 새로운 주제로 찾아오겠습니다!
