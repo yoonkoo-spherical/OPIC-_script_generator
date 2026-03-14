@@ -665,3 +665,113 @@ In short, we’ve come a long way. While we used to <strong style="color:blue;">
 
 **강사의 한마디:**
 AL을 받기 위해서는 **"I think..."**로 시작하는 단순한 문장보다는 **"If I had to pick..."**, **"Looking back..."**과 같이 문장을 여는 방식을 다양화하는 것이 좋습니다. 또한 위 스크립트에 포함된 **Phasal Verbs(구동사)**들을 적재적소에 사용하면 원어민스러운 뉘앙스를 풍길 수 있습니다. 내일도 새로운 주제로 찾아오겠습니다!
+
+## 2026-03-14 05:36:50 OPIc Study
+
+반갑습니다! OPIc AL 목표 달성을 위한 전문 강사입니다. 오늘의 연습은 AL 취득의 핵심인 **'시제 변화의 능숙함', '구체적인 묘사', 그리고 '추상적 이슈에 대한 논리적 전개'**에 초점을 맞추었습니다.
+
+오늘의 세 가지 주제는 **[동네의 변화(묘사)], [렌터카 예약(롤플레이)], [SNS가 대화 방식에 미치는 영향(돌발질문)]**입니다.
+
+---
+
+### **1. 묘사 (Description): 동네의 과거와 현재 변화**
+
+**[Question]**
+How has your neighborhood changed over the last few years? Please describe the changes in detail and tell me how you feel about these changes.
+(당신이 사는 동네는 지난 몇 년간 어떻게 변했습니까? 변화에 대해 자세히 설명하고, 그 변화에 대해 어떻게 느끼는지 말씀해 주세요.)
+
+**[Model Answer]**
+To be honest, my neighborhood has undergone a complete transformation since I first moved here about five years ago. It used to be a quiet, strictly residential area where nothing much really happened. However, lately, it has <strong style="color:blue;">turned into</strong> a bustling commercial hub.
+
+The most noticeable change is the sheer number of trendy cafes and restaurants that have <strong style="color:blue;">sprung up</strong> along the main street. What used to be old, crumbling buildings have been renovated into these hip, modern spaces. It’s definitely <strong style="color:blue;">a far cry from</strong> the sleepy town it once was. Now, every weekend, the streets are packed with young people taking photos for their social media, and the local economy seems to be thriving.
+
+However, <strong style="color:blue;">at the end of the day</strong>, I have mixed feelings about this shift. On the one hand, it’s incredibly convenient to have all these amenities right on my doorstep. I can just <strong style="color:blue;">pop into</strong> a bakery and grab a high-quality pastry whenever I want. But <strong style="color:blue;">on the flip side</strong>, the noise levels have increased significantly, and the cost of living in this area has skyrocketed. It’s becoming a bit too gentrified for my liking. Sometimes I <strong style="color:blue;">look back on</strong> the old days when it was peaceful and quiet. I guess you win some, you lose some, but I’m still trying to <strong style="color:blue;">get used to</strong> the constant hustle and bustle.
+
+**[Key Vocabulary & Expressions]**
+*   **Transformation**: 변신, 변화
+*   **Residential area**: 주거 지역
+*   **Gentrified**: 고급 주택화된 (젠트리피케이션이 발생한)
+*   **Hustle and bustle**: 북적임, 활기찬 소동
+
+**[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">turn into</strong>: ~으로 변하다
+*   <strong style="color:blue;">sprung up</strong>: 갑자기 나타나다/생겨나다
+*   <strong style="color:blue;">a far cry from</strong>: ~과는 현저히 다른
+*   <strong style="color:blue;">at the end of the day</strong>: 결국에는, 결국 따지고 보면
+*   <strong style="color:blue;">pop into</strong>: 잠깐 들르다
+*   <strong style="color:blue;">on the flip side</strong>: 반면에, 다른 한편으로는
+*   <strong style="color:blue;">look back on</strong>: ~을 되돌아보다
+*   <strong style="color:blue;">get used to</strong>: ~에 익숙해지다
+
+---
+
+### **2. 롤플레이 (Roleplay): 렌터카 예약을 위한 문의**
+
+**[Question]**
+You are planning a trip and need to rent a car. Call a car rental agency and ask three or four questions about renting a vehicle for your upcoming trip.
+(당신은 여행을 계획 중이며 차를 렌트해야 합니다. 렌터카 업체에 전화하여 다가올 여행을 위한 차량 대여에 대해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hi there! I’m calling to <strong style="color:blue;">look into</strong> renting a car for a weekend trip I have coming up next month. I’ll be traveling with three friends, so I was hoping you could help me find something suitable.
+
+First off, I <strong style="color:blue;">was wondering if</strong> you have any mid-sized SUVs available from July 12th to the 14th? We’re going to have quite a bit of luggage, so we definitely need a spacious trunk. If not, what other options do you have in stock for those dates?
+
+Secondly, could you <strong style="color:blue;">fill me in on</strong> the insurance policies? I want to make sure we are fully covered in case of an accident. Does your daily rate include comprehensive insurance, or is that something I need to <strong style="color:blue;">sign up for</strong> separately? I’d rather <strong style="color:blue;">play it safe</strong> when it comes to insurance.
+
+Also, I’d like to know if there are any mileage restrictions. We’re planning to drive quite a distance, so I want to avoid any <strong style="color:blue;">hidden fees</strong> that might <strong style="color:blue;">crop up</strong> later. Is it an unlimited mileage deal, or is there a cap?
+
+Lastly, what’s the protocol for returning the car? Do I need to <strong style="color:blue;">top off</strong> the gas tank before bringing it back, or do you guys handle that? Please <strong style="color:blue;">get back to me</strong> when you have a moment so I can finalize my plans. Thanks!
+
+**[Key Vocabulary & Expressions]**
+*   **Suitable**: 적절한, 알맞은
+*   **Comprehensive insurance**: 종합 보험
+*   **Mileage restrictions**: 주행 거리 제한
+*   **Unlimited mileage**: 무제한 주행 거리
+
+**[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">look into</strong>: ~을 조사하다, 알아보다
+*   <strong style="color:blue;">was wondering if</strong>: ~일지 궁금하다 (정중한 질문)
+*   <strong style="color:blue;">fill me in on</strong>: ~에 대해 자세히 알려주다
+*   <strong style="color:blue;">sign up for</strong>: ~에 가입하다, 신청하다
+*   <strong style="color:blue;">play it safe</strong>: 신중하게 행동하다, 위험을 피하다
+*   <strong style="color:blue;">hidden fees</strong>: 숨겨진 비용
+*   <strong style="color:blue;">crop up</strong>: 갑자기 나타나다, 발생하다
+*   <strong style="color:blue;">top off</strong>: (가득) 채우다
+*   <strong style="color:blue;">get back to me</strong>: 나에게 다시 연락 주다
+
+---
+
+### **3. 돌발질문 (Unexpected Question): SNS가 대화에 미치는 영향**
+
+**[Question]**
+Social media has changed the way people communicate with each other. In your opinion, what are the positive and negative effects of using social media for communication?
+(사회관계망서비스(SNS)는 사람들이 서로 소통하는 방식을 변화시켰습니다. 당신의 의견으로는, 소통을 위해 SNS를 사용하는 것의 긍정적인 면과 부정적인 면은 무엇입니까?)
+
+**[Model Answer]**
+That’s a very <strong style="color:blue;">thought-provoking</strong> question. In my opinion, the impact of social media on communication is definitely <strong style="color:blue;">a double-edged sword</strong>. It has fundamentally altered the landscape of how we interact with one another.
+
+On the bright side, social media allows us to <strong style="color:blue;">keep in touch with</strong> friends and family who live thousands of miles away. Back in the day, we had to rely on expensive long-distance calls, but now we can share our lives in real-time. It’s also a great tool to <strong style="color:blue;">reach out to</strong> people with similar interests. You can join groups and communities that you otherwise would never have found, which helps <strong style="color:blue;">broaden your horizons</strong>.
+
+However, there is a dark side to this connectivity. Many people feel that digital communication is <strong style="color:blue;">watering down</strong> the quality of our relationships. Instead of having deep, meaningful conversations, we often <strong style="color:blue;">end up</strong> just "liking" posts or sending short emojis. This can lead to a sense of isolation despite being "connected." Furthermore, people often <strong style="color:blue;">put on a front</strong> on social media, showing only the best parts of their lives. This creates unrealistic expectations and can <strong style="color:blue;">take a toll on</strong> one's mental health.
+
+In conclusion, while social media makes it easier to <strong style="color:blue;">keep up with</strong> everyone, we should be careful not to let it replace face-to-face interactions entirely. We need to <strong style="color:blue;">strike a balance</strong> between our digital lives and our real-world connections to ensure we don't <strong style="color:blue;">lose track of</strong> what truly matters.
+
+**[Key Vocabulary & Expressions]**
+*   **Altered the landscape**: 지형(상황)을 바꾸어 놓았다
+*   **Connectivity**: 연결성
+*   **Isolation**: 소외, 고립
+*   **Unrealistic expectations**: 비현실적인 기대
+
+**[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">thought-provoking</strong>: 시사하는 바가 많은, 생각을 자극하는
+*   <strong style="color:blue;">a double-edged sword</strong>: 양날의 검
+*   <strong style="color:blue;">keep in touch with</strong>: ~와 연락을 유지하다
+*   <strong style="color:blue;">reach out to</strong>: ~에게 연락을 취하다, 손을 내밀다
+*   <strong style="color:blue;">broaden your horizons</strong>: 시야를 넓히다
+*   <strong style="color:blue;">watering down</strong>: (질을) 희석시키다, 약화시키다
+*   <strong style="color:blue;">end up</strong>: 결국 ~하게 되다
+*   <strong style="color:blue;">put on a front</strong>: 겉치레를 하다, 허세를 부리다
+*   <strong style="color:blue;">take a toll on</strong>: ~에 큰 피해를 주다
+*   <strong style="color:blue;">keep up with</strong>: ~을 따라가다, (소식 등을) 계속 알다
+*   <strong style="color:blue;">strike a balance</strong>: 균형을 맞추다
+*   <strong style="color:blue;">lose track of</strong>: ~을 놓치다, 잊어버리다
