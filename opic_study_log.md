@@ -775,3 +775,123 @@ In conclusion, while social media makes it easier to <strong style="color:blue;"
 *   <strong style="color:blue;">keep up with</strong>: ~을 따라가다, (소식 등을) 계속 알다
 *   <strong style="color:blue;">strike a balance</strong>: 균형을 맞추다
 *   <strong style="color:blue;">lose track of</strong>: ~을 놓치다, 잊어버리다
+
+## 2026-03-15 06:12:21 OPIc Study
+
+반갑습니다! OPIc AL 목표 달성을 위한 전문 강사입니다. 오늘은 **[동네 묘사], [렌터카 예약 롤플레이], [기술적 문제 경험]**이라는 세 가지 주제로 실전 연습을 진행해 보겠습니다. 
+
+AL 등급을 위해서는 단순히 정보를 전달하는 것을 넘어, **감정의 고조(Intonation)**와 **자연스러운 연결어(Fillers)**, 그리고 **고급 구동사와 숙어**를 적재적소에 사용하는 것이 핵심입니다.
+
+---
+
+### **Question 1. 묘사 (Description): Your Neighborhood**
+
+**Q: Can you describe the neighborhood you live in? What are some unique features of your area, and what do you like most about living there?**
+(당신이 살고 있는 동네에 대해 묘사해 주시겠어요? 당신네 동네의 특징은 무엇이며, 그곳에서 사는 것 중 어떤 점이 가장 마음에 드나요?)
+
+**[Model Answer Script]**
+
+"Well, let me tell you about where I live. I currently reside in a vibrant yet peaceful district on the outskirts of the city. If I had to describe it in one word, it would be 'balanced.' My neighborhood <strong style="color:blue;">stands out</strong> because it perfectly blends modern urban life with a touch of nature. 
+
+One of the highlights is a massive central park that’s just <strong style="color:blue;">a stone's throw away</strong> from my apartment. It’s the perfect place to <strong style="color:blue;">wind down</strong> after a long, Hectic day at work. I usually go there for a light jog or just to <strong style="color:blue;">soak up</strong> some fresh air. It’s amazing how a bit of greenery can help you <strong style="color:blue;">get away from it all</strong> without actually leaving the city.
+
+In terms of convenience, everything is <strong style="color:blue;">within walking distance</strong>. There’s a cozy little bakery right around the corner that smells like heaven every morning. I often <strong style="color:blue;">drop by</strong> there to grab a sourdough bread. What I love most about my neighborhood, though, is the sense of community. Even though it's a big city, people here actually <strong style="color:blue;">look out for</strong> one another. It's not uncommon to <strong style="color:blue;">run into</strong> neighbors and have a friendly chat. Honestly, I couldn't ask for a better place to live. It really feels like home, and I don't see myself <strong style="color:blue;">moving out</strong> anytime soon."
+
+**[Key Vocabulary & Expressions]**
+*   **Vibrant**: 활기찬
+*   **Outskirts**: 변두리, 외곽
+*   **Hectic**: 정신없이 바쁜
+*   **Greenery**: 녹지, 푸른 잎
+
+**[Phrasal Verbs & Idioms]**
+*   **stands out**: 두드러지다
+*   **a stone's throw away**: 아주 가까운 거리
+*   **wind down**: 긴장을 풀다, 쉬다
+*   **soak up**: (분위기 등을) 만끽하다, 흡수하다
+*   **get away from it all**: 모든 것을 잊고 쉬다 (일상 탈출)
+*   **within walking distance**: 도보 거리에 있는
+*   **drop by**: 잠깐 들르다
+*   **look out for**: ~를 보살피다/주의 깊게 보다
+*   **run into**: ~와 우연히 마주치다
+*   **moving out**: 이사 나가다
+
+---
+
+### **Question 2. 롤플레이 (Roleplay): Renting a Car**
+
+**Q: You are planning a trip and need to rent a car for the weekend. Call a car rental agency and ask three to four questions to make a reservation.**
+(당신은 주말 여행을 위해 차를 렌트하려고 합니다. 렌터카 업체에 전화해서 예약을 위해 3~4가지 질문을 하세요.)
+
+**[Model Answer Script]**
+
+"Hi there! I’m calling to <strong style="color:blue;">check on</strong> the availability of a rental car for this coming weekend. I’m planning a road trip with a couple of friends, and we’re <strong style="color:blue;">looking for</strong> something reliable.
+
+First off, do you have any mid-sized SUVs available from Friday afternoon to Sunday evening? We’ll have a fair amount of luggage, so we need something with a spacious trunk. Secondly, could you <strong style="color:blue;">fill me in on</strong> the insurance options? I want to make sure we’re fully covered just to <strong style="color:blue;">be on the safe side</strong>. Is there a full-coverage plan that includes roadside assistance?
+
+Also, I was wondering about your fuel policy. Do I need to <strong style="color:blue;">top off</strong> the tank before I <strong style="color:blue;">hand back</strong> the keys, or is there a pre-pay option? And one last thing—I’ve heard you offer discounts for early bookings. Does my reservation <strong style="color:blue;">fall under</strong> that category, or are there any other promotional deals I can <strong style="color:blue;">take advantage of</strong>? 
+
+Please <strong style="color:blue;">get back to</strong> me with the total estimate, including all the taxes and fees. I want to <strong style="color:blue;">go over</strong> the details before I finalize everything. Thanks, I'll be waiting for your call!"
+
+**[Key Vocabulary & Expressions]**
+*   **Availability**: 이용 가능 여부
+*   **Spacious**: 널찍한
+*   **Roadside assistance**: 긴급 출동 서비스
+*   **Estimate**: 견적(서)
+
+**[Phrasal Verbs & Idioms]**
+*   **check on**: ~을 확인하다
+*   **looking for**: ~을 찾다
+*   **fill someone in on**: ~에 대해 정보를 주다
+*   **be on the safe side**: 만약을 기하다 (신중을 기하다)
+*   **top off**: 가득 채우다
+*   **hand back**: 반납하다, 돌려주다
+*   **fall under**: ~에 해당하다
+*   **take advantage of**: ~을 이용하다/활용하다
+*   **get back to**: ~에게 (나중에) 다시 연락하다
+*   **go over**: 검토하다, 살펴보다
+
+---
+
+### **Question 3. 돌발/과거 경험 (Unexpected/Past Experience): Technology Issue**
+
+**Q: We all experience technical problems sometimes. Tell me about a time when you had a problem with your internet connection or a piece of technology. What happened, and how did you deal with it?**
+(우리 모두는 가끔 기술적인 문제를 겪습니다. 인터넷 연결이나 기기에 문제가 생겼던 경험에 대해 말해 주세요. 무슨 일이 일어났고, 어떻게 대처했나요?)
+
+**[Model Answer Script]**
+
+"Oh, I remember this like it was yesterday. A few months ago, I was <strong style="color:blue;">tied up</strong> with a very important project for my work. I was working from home, and I had a major deadline <strong style="color:blue;">coming up</strong> the next morning. 
+
+Right in the middle of uploading my final files, my Wi-Fi suddenly <strong style="color:blue;">cut out</strong>. I <strong style="color:blue;">freaked out</strong> because my router was <strong style="color:blue;">acting up</strong> and showing a red blinking light. I tried to <strong style="color:blue;">figure out</strong> what was wrong by restarting it several times, but nothing worked. It felt like my world was <strong style="color:blue;">falling apart</strong> because I couldn't afford to miss that deadline.
+
+Since I couldn't <strong style="color:blue;">count on</strong> my home internet, I had to <strong style="color:blue;">think on my feet</strong>. I decided to <strong style="color:blue;">set up</strong> a mobile hotspot on my phone, but the speed was painstakingly slow. Eventually, I had to <strong style="color:blue;">pack up</strong> my laptop and rush to a 24-hour cafe nearby. 
+
+It was a total nightmare at first, but <strong style="color:blue;">looking back</strong>, it was a <strong style="color:blue;">blessing in disguise</strong>. The change of scenery actually helped me <strong style="color:blue;">focus on</strong> finishing the final touches of my report. I managed to <strong style="color:blue;">hand in</strong> the project just in time. The next day, I called a technician to <strong style="color:blue;">sort out</strong> the wiring issue. Now, I always keep a backup plan just in case technology <strong style="color:blue;">lets me down</strong> again."
+
+**[Key Vocabulary & Expressions]**
+*   **Deadline**: 마감 기한
+*   **Painstakingly**: 고통스러울 정도로, 매우
+*   **Change of scenery**: 기분 전환, 환경 변화
+*   **Technician**: 수리 기사, 기술자
+
+**[Phrasal Verbs & Idioms]**
+*   **tied up**: 매우 바쁜, 꼼짝 못 하는
+*   **coming up**: (일 등이) 다가오는
+*   **cut out**: (갑자기) 멈추다, 끊기다
+*   **freaked out**: 공포에 질리다, 당황하다
+*   **acting up**: (기계 등이) 말을 안 듣다, 말썽을 부리다
+*   **figure out**: 알아내다, 이해하다
+*   **falling apart**: 무너지다, 결딴나다
+*   **count on**: ~을 믿다/의지하다
+*   **think on one's feet**: 신속하게 판단하다/대처하다
+*   **set up**: 설정하다, 설치하다
+*   **pack up**: 짐을 싸다
+*   **looking back**: 되돌아보니
+*   **blessing in disguise**: 전화위복 (불행해 보이지만 결국 다행인 것)
+*   **focus on**: ~에 집중하다
+*   **hand in**: 제출하다
+*   **sort out**: 해결하다, 정리하다
+*   **let someone down**: ~를 실망시키다
+
+---
+**강사 코멘트:** 
+첫 번째 질문에서는 '동네의 분위기'를 묘사할 때 형용사를 풍부하게 사용하세요. 두 번째 질문에서는 실제 전화를 거는 것처럼 연기(Acting)를 더하는 것이 중요하며, 세 번째 질문에서는 문제가 발생했을 때의 긴박함(freaked out, nightmare 등)을 목소리에 담아 표현하면 AL 점수를 쉽게 획득할 수 있습니다!
