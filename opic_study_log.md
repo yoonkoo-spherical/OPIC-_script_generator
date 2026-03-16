@@ -895,3 +895,89 @@ It was a total nightmare at first, but <strong style="color:blue;">looking back<
 ---
 **강사 코멘트:** 
 첫 번째 질문에서는 '동네의 분위기'를 묘사할 때 형용사를 풍부하게 사용하세요. 두 번째 질문에서는 실제 전화를 거는 것처럼 연기(Acting)를 더하는 것이 중요하며, 세 번째 질문에서는 문제가 발생했을 때의 긴박함(freaked out, nightmare 등)을 목소리에 담아 표현하면 AL 점수를 쉽게 획득할 수 있습니다!
+
+## 2026-03-16 07:56:11 OPIc Study
+
+반갑습니다! OPIc AL 달성을 위한 전문 강사입니다. 오늘은 고득점을 위해 반드시 정복해야 할 세 가지 유형인 **[묘사: 동네의 변화], [롤플레이: 항공권 변경], [돌발질문: 건강 트렌드의 변화]**를 준비했습니다.
+
+각 답변은 논리적인 구조(Introduction - Body - Conclusion)와 AL 수준의 풍부한 표현을 담고 있으며, 발화 시 약 2분 30초 정도 소요되도록 구성되었습니다.
+
+---
+
+### 1. [묘사 유형] Neighborhood Changes
+**질문:** Tell me about the neighborhood you live in. How has it changed over the past few years? Describe the differences between the past and the present.
+(당신이 살고 있는 동네에 대해 말해주세요. 지난 몇 년 동안 어떻게 변했나요? 과거와 현재의 차이점을 설명해 주세요.)
+
+**[AL 모범 답안 스크립트]**
+"I’ve been living in my current neighborhood for about a decade now, and it’s truly fascinating to see how it has transformed. To <strong style="color:blue;">be honest</strong>, it used to be a very quiet, residential area with just a few small mom-and-pop shops. However, in recent years, it has <strong style="color:blue;">turned into</strong> a vibrant urban hub. 
+
+The most striking change is the infrastructure. A few years ago, the city decided to extend the subway line, and since then, massive shopping malls and high-rise apartments have <strong style="color:blue;">sprung up</strong> everywhere. It’s no longer that sleepy town I first moved into. While I sometimes miss the peace and quiet, I have to admit that the convenience is hard to <strong style="color:blue;">pass up</strong>. Now, I have everything I need within walking distance—trendy cafes, 24-hour gyms, and even a large multiplex cinema.
+
+One downside, though, is that the local sense of community has slightly faded. People are always <strong style="color:blue;">on the go</strong>, and it feels a bit more impersonal than before. I used to know most of the shop owners by name, but now everything is dominated by large franchises. It’s a bit of a <strong style="color:blue;">double-edged sword</strong>; I love the modern amenities, but I sometimes <strong style="color:blue;">look back on</strong> the old days with a bit of nostalgia. All in all, my neighborhood has definitely <strong style="color:blue;">kept up with</strong> the times, becoming a much more dynamic place to live."
+
+**[주요 표현 정리]**
+*   **Vocabulary:** residential (주거의), vibrant (활기찬), infrastructure (기반 시설), multiplex (복합 상영관), impersonal (냉담한, 인간미 없는), amenity (생활 편의 시설)
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">Turn into</strong>: ~으로 변하다
+    *   <strong style="color:blue;">Spring up</strong>: 갑자기 생겨나다
+    *   <strong style="color:blue;">Pass up</strong>: (기회 등을) 거절하다/놓치다
+    *   <strong style="color:blue;">Look back on</strong>: ~을 회상하다
+    *   <strong style="color:blue;">Keep up with</strong>: ~에 뒤처지지 않다/보조를 맞추다
+*   **Idioms:**
+    *   <strong style="color:blue;">Be honest</strong>: 솔직히 말해서
+    *   <strong style="color:blue;">On the go</strong>: 끊임없이 일하는/바쁜
+    *   <strong style="color:blue;">Double-edged sword</strong>: 양날의 검
+
+---
+
+### 2. [롤플레이 유형] Changing a Flight Reservation
+**질문:** I'd like to give you a situation and ask you to act it out. You have booked a flight to visit a friend, but a family emergency has occurred. Call the airline, explain your situation, and try to reschedule your flight to a later date.
+(상황을 하나 드릴 테니 연기해 보세요. 친구를 방문하기 위해 항공권을 예약했지만, 가족에게 급한 일이 생겼습니다. 항공사에 전화해서 상황을 설명하고, 비행기 일정을 나중으로 변경해 보세요.)
+
+**[AL 모범 답안 스크립트]**
+"Hello, this is [Your Name] calling. I’m scheduled to fly out to New York this Friday on flight AA123. However, I’m calling because I need to <strong style="color:blue;">look into</strong> changing my itinerary. Unfortunately, a family emergency has <strong style="color:blue;">come up</strong> unexpectedly, and it’s absolutely vital that I stay here for the time being.
+
+I was wondering if it’s possible to push my departure date back by two weeks. I’m hoping to leave on the 25th of this month instead. I understand that this is a last-minute request and I might have to <strong style="color:blue;">shell out</strong> some extra money for the change fee. Could you please <strong style="color:blue;">fill me in on</strong> what the additional costs would be?
+
+Also, if that specific date isn't available, could you <strong style="color:blue;">run through</strong> some other options for that weekend? I really don't want to cancel the trip entirely because I've been looking forward to it for months. I’m sorry for any inconvenience this might cause, but I’m <strong style="color:blue;">in a bind</strong> right now. Please let me know what we can <strong style="color:blue;">iron out</strong> regarding this reservation. I'll <strong style="color:blue;">hold on</strong> while you check the system. Thank you."
+
+**[주요 표현 정리]**
+*   **Vocabulary:** itinerary (여행 일정), vital (필수적인), departure (출발), inconvenience (불편)
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">Look into</strong>: ~을 조사하다/알아보다
+    *   <strong style="color:blue;">Come up</strong>: (문제가) 발생하다
+    *   <strong style="color:blue;">Shell out</strong>: (거금을) 지불하다
+    *   <strong style="color:blue;">Fill someone in on</strong>: ~에게 정보를 알려주다
+    *   <strong style="color:blue;">Run through</strong>: ~을 훑어보다/빨리 살펴보다
+    *   <strong style="color:blue;">Iron out</strong>: (문제를) 해결하다/조율하다
+    *   <strong style="color:blue;">Hold on</strong>: 전화를 끊지 않고 기다리다
+*   **Idioms:**
+    *   <strong style="color:blue;">In a bind</strong>: 곤경에 처한
+
+---
+
+### 3. [돌발/이슈 유형] Health and Fitness Trends
+**질문:** Health and wellness have become major interests for many people. How have people’s attitudes toward health changed compared to the past? What are some current fitness trends in your country?
+(건강과 웰빙은 많은 사람의 주요 관심사가 되었습니다. 과거와 비교했을 때 건강에 대한 사람들의 태도가 어떻게 변했나요? 당신의 나라에서 유행하는 건강 트렌드는 무엇인가요?)
+
+**[AL 모범 답안 스크립트]**
+"In the past, people tended to <strong style="color:blue;">brush off</strong> minor health issues and only visited the doctor when they felt seriously ill. Health was often viewed simply as the absence of disease. However, nowadays, there has been a massive shift in perspective. People have <strong style="color:blue;">woken up to</strong> the importance of 'preventative' health care and holistic wellness. It’s no longer just about living long; it’s about living well.
+
+One of the most prominent trends right now is the 'Body Profile' craze. Many young people are <strong style="color:blue;">working out</strong> intensely and following strict diets to take professional photos of their toned bodies. This has <strong style="color:blue;">caught on</strong> rapidly due to social media. People love to <strong style="color:blue;">show off</strong> their progress online, which serves as a great motivator for others to <strong style="color:blue;">get in shape</strong>.
+
+Furthermore, technology has <strong style="color:blue;">played a part in</strong> this transformation. Almost everyone uses wearable devices to <strong style="color:blue;">keep track of</strong> their daily steps, heart rate, and sleep patterns. We are much more conscious of what we put into our bodies as well, with many people choosing to <strong style="color:blue;">cut back on</strong> processed sugars and opting for plant-based diets. To <strong style="color:blue;">wrap up</strong>, I believe the modern approach to health is far more proactive and data-driven than it was in the past. It’s no longer a seasonal resolution, but a daily lifestyle for many."
+
+**[주요 표현 정리]**
+*   **Vocabulary:** preventative (예방의), holistic (전체론적인), prominent (두드러진), motivator (동기 부여 요소), proactive (주도적인)
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">Brush off</strong>: 무시하다/가볍게 넘기다
+    *   <strong style="color:blue;">Wake up to</strong>: ~을 깨닫기 시작하다
+    *   <strong style="color:blue;">Work out</strong>: 운동하다
+    *   <strong style="color:blue;">Catch on</strong>: 유행하다
+    *   <strong style="color:blue;">Show off</strong>: 과시하다/뽐내다
+    *   <strong style="color:blue;">Played a part in</strong>: ~에 역할을 하다/기여하다
+    *   <strong style="color:blue;">Keep track of</strong>: ~을 추적하다/기록하다
+    *   <strong style="color:blue;">Cut back on</strong>: ~을 줄이다
+    *   <strong style="color:blue;">Wrap up</strong>: 마무리 짓다
+*   **Idioms:**
+    *   <strong style="color:blue;">Get in shape</strong>: 몸을 만들다/건강을 유지하다
