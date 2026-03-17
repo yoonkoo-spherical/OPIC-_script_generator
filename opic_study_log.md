@@ -981,3 +981,99 @@ Furthermore, technology has <strong style="color:blue;">played a part in</strong
     *   <strong style="color:blue;">Wrap up</strong>: 마무리 짓다
 *   **Idioms:**
     *   <strong style="color:blue;">Get in shape</strong>: 몸을 만들다/건강을 유지하다
+
+## 2026-03-17 06:15:54 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 전문 강사입니다. 오늘은 고득점 확보를 위해 **공간 묘사(묘사), 가구 구매 및 문제 해결(롤플레이), 그리고 재활용(돌발 질문)**이라는 세 가지 주제를 선정했습니다. AL 등급을 위해서는 단순히 사실을 나열하는 것이 아니라, 자신의 감정과 구체적인 에피소드를 **원어민스러운 표현**과 함께 녹여내는 것이 핵심입니다.
+
+---
+
+### [Question 1: Description - 묘사]
+**Topic: Your Favorite Room (가장 좋아하는 방/공간)**
+
+**Q: Tell me about your favorite room in your house. What does it look like, and why do you like spending time there? Please provide as many details as possible.**
+(당신의 집에서 가장 좋아하는 방에 대해 말해주세요. 어떻게 생겼으며, 왜 그곳에서 시간을 보내는 것을 좋아하나요? 가능한 한 자세히 설명해 주세요.)
+
+**[Model Answer Script]**
+Well, if I had to pick just one spot in my home that I truly cherish, it would definitely be my living room. It’s not just a place to sit; it’s my personal sanctuary where I can <strong style="color:blue;">kick back</strong> and relax after a long day at the office. 
+
+To give you a mental picture, the living room is quite spacious with a minimalist vibe. I recently decided to <strong style="color:blue;">spruce up</strong> the place with some indoor plants and a large, plush velvet sofa in navy blue. Honestly, the comfort of that sofa is <strong style="color:blue;">out of this world</strong>. Against the wall, there’s a sleek wooden bookshelf filled with my favorite novels and travel souvenirs. I also have a large floor-to-ceiling window that lets in a ton of natural light, which makes the whole room feel airy and bright. 
+
+What I love most is how all the elements <strong style="color:blue;">tie the room together</strong>. In the evenings, I usually dim the lights, put on some lo-fi music, and just <strong style="color:blue;">zone out</strong> while looking at the city view. It’s the perfect environment for me to <strong style="color:blue;">recharge my batteries</strong>. Sometimes, the ambiance is so cozy that I end up <strong style="color:blue;">nodding off</strong> right there on the couch. It’s more than just a room to me; it’s a reflection of my personality and the only place where I can truly be myself.
+
+**[Key Vocabulary & Expressions]**
+*   **Sanctuary:** 안식처
+*   **Minimalist vibe:** 미니멀한 분위기
+*   **Floor-to-ceiling window:** 바닥부터 천장까지 이어진 창문
+*   **Ambiance:** 분위기
+*   **<strong style="color:blue;">Kick back</strong>:** (구동사) 편하게 쉬다
+*   **<strong style="color:blue;">Spruce up</strong>:** (구동사) 단장하다, 가꾸다
+*   **<strong style="color:blue;">Out of this world</strong>:** (숙어) 아주 멋진, 기막힌
+*   **<strong style="color:blue;">Tie the room together</strong>:** (숙어) 방의 분위기를 하나로 조화롭게 만들다
+*   **<strong style="color:blue;">Zone out</strong>:** (구동사) 멍하니 있다, 아무 생각 안 하다
+*   **<strong style="color:blue;">Recharge one's batteries</strong>:** (숙어) 재충전하다
+*   **<strong style="color:blue;">Nod off</strong>:** (구동사) 깜빡 졸다
+
+---
+
+### [Question 2: Role-Play - 롤플레이]
+**Topic: Purchasing Furniture & Dealing with a Defect (가구 구매 및 결함 해결)**
+
+**Q: [Part 1] You are at a furniture store to buy a new desk. Ask the clerk 3-4 questions about the desk. [Part 2] You bought the desk, but after it was delivered, you found a big scratch on the surface. Call the store and resolve the situation.**
+([파트 1] 가구점에서 새 책상을 사려고 합니다. 점원에게 책상에 대해 3~4가지 질문을 하세요. [파트 2] 책상을 샀는데, 배송 후 표면에 큰 흠집을 발견했습니다. 가게에 전화해서 상황을 해결하세요.)
+
+**[Model Answer Script]**
+**(Part 1)**
+Hi there! I’m looking for a new desk for my home office. I saw this wooden one over here and I had a few questions. First, does this model <strong style="color:blue;">come in</strong> any other colors, or is it just this oak finish? Also, I’m wondering about the dimensions—would it be possible to <strong style="color:blue;">look into</strong> whether this can fit a dual-monitor setup? Lastly, regarding delivery, do you guys <strong style="color:blue;">set it up</strong> for me at home, or do I have to assemble it myself? I’m not very good with tools, so I’d prefer a professional to <strong style="color:blue;">take care of</strong> it.
+
+**(Part 2)**
+Hello, I’m calling because I just received the desk I purchased yesterday, but we’ve <strong style="color:blue;">run into</strong> a bit of a problem. I hate to <strong style="color:blue;">make a fuss</strong>, but when the delivery crew left, I noticed a huge scratch right across the top surface. It’s quite noticeable and definitely wasn't there in the showroom. To <strong style="color:blue;">cut to the chase</strong>, I’d like to request an exchange. This desk was quite pricey, so I expect it to be in pristine condition. Could you <strong style="color:blue;">look after</strong> this for me? I’d appreciate it if you could <strong style="color:blue;">follow up</strong> with the delivery team and let me know when a replacement can be sent out. I'm hoping we don't have to go <strong style="color:blue;">back to square one</strong> with the whole ordering process.
+
+**[Key Vocabulary & Expressions]**
+*   **Dimensions:** 치수, 크기
+*   **Pristine condition:** 완전 새것 같은 상태
+*   **Replacement:** 교환품, 대체물
+*   **<strong style="color:blue;">Come in</strong>:** (구동사) (특정 색상/사이즈로) 나오다
+*   **<strong style="color:blue;">Look into</strong>:** (구동사) 조사하다, 확인하다
+*   **<strong style="color:blue;">Set something up</strong>:** (구동사) 설치하다
+*   **<strong style="color:blue;">Take care of / Look after</strong>:** (구동사) 처리하다, 돌보다
+*   **<strong style="color:blue;">Run into</strong>:** (구동사) (문제 등에) 맞닥뜨리다
+*   **<strong style="color:blue;">Make a fuss</strong>:** (숙어) 소란을 피우다, 불평하다
+*   **<strong style="color:blue;">Cut to the chase</strong>:** (숙어) 본론으로 바로 들어가다
+*   **<strong style="color:blue;">Follow up</strong>:** (구동사) 후속 조치를 취하다, 확인하다
+*   **<strong style="color:blue;">Back to square one</strong>:** (숙어) 원점으로 돌아가다
+
+---
+
+### [Question 3: Unexpected Question - 돌발질문]
+**Topic: Changes in Recycling Practices (재활용 관행의 변화)**
+
+**Q: Recycling has changed over the years. How did people recycle in the past, and how is it different now? Are there any new laws or regulations regarding recycling in your country?**
+(재활용은 수년에 걸쳐 변화해 왔습니다. 과거에는 사람들이 어떻게 재활용을 했으며, 지금은 어떻게 다른가요? 당신의 나라에 재활용과 관련된 새로운 법이나 규정이 있나요?)
+
+**[Model Answer Script]**
+Recycling in my country has certainly <strong style="color:blue;">come a long way</strong> over the last couple of decades. If I <strong style="color:blue;">think back</strong> to my childhood, recycling was pretty laid-back. We used to just throw everything into one big bin, and maybe separate the newspapers if we felt like it. Environmental awareness wasn't really <strong style="color:blue;">on the radar</strong> for most people back then.
+
+However, things have changed drastically. Nowadays, the government has <strong style="color:blue;">cracked down on</strong> improper waste disposal. We have very strict regulations where we have to <strong style="color:blue;">sort out</strong> our trash into specific categories: plastic, paper, glass, cans, and even food waste. If you don't <strong style="color:blue;">comply with</strong> these rules, you might <strong style="color:blue;">end up</strong> paying a hefty fine. 
+
+One of the most significant changes is the recent policy to <strong style="color:blue;">phase out</strong> single-use plastics. For instance, cafes are no longer allowed to <strong style="color:blue;">hand out</strong> plastic straws or disposable cups for dine-in customers. It was a bit inconvenient at first, but people are starting to <strong style="color:blue;">get the hang of</strong> it. I’ve personally tried to <strong style="color:blue;">cut down on</strong> my plastic consumption by carrying a reusable tumbler everywhere. While we're making progress, I believe this is just <strong style="color:blue;">the tip of the iceberg</strong>. We still have a lot of work to do to <strong style="color:blue;">keep up with</strong> global environmental standards, but it’s good to see that being wasteful is becoming <strong style="color:blue;">a thing of the past</strong>.
+
+**[Key Vocabulary & Expressions]**
+*   **Environmental awareness:** 환경 인식
+*   **Hefty fine:** 거액의 벌금
+*   **Disposable:** 일회용의
+*   **Dine-in:** 매장 내 식사
+*   **<strong style="color:blue;">Come a long way</strong>:** (숙어) 크게 발전하다, 멀리 오다
+*   **<strong style="color:blue;">Think back</strong>:** (구동사) 과거를 회상하다
+*   **<strong style="color:blue;">On the radar</strong>:** (숙어) 의식 안에 있는, 주목받는
+*   **<strong style="color:blue;">Crack down on</strong>:** (구동사) 엄중히 단속하다
+*   **<strong style="color:blue;">Sort out</strong>:** (구동사) 분류하다, 정리하다
+*   **<strong style="color:blue;">Comply with</strong>:** (구동사) 규칙을 준수하다
+*   **<strong style="color:blue;">End up</strong>:** (구동사) 결국 ~하게 되다
+*   **<strong style="color:blue;">Phase out</strong>:** (구동사) 단계적으로 폐지하다
+*   **<strong style="color:blue;">Hand out</strong>:** (구동사) 나눠주다
+*   **<strong style="color:blue;">Get the hang of</strong>:** (숙어) ~에 익숙해지다, 요령을 터득하다
+*   **<strong style="color:blue;">Cut down on</strong>:** (구동사) ~을 줄이다
+*   **<strong style="color:blue;">The tip of the iceberg</strong>:** (숙어) 빙산의 일각
+*   **<strong style="color:blue;">Keep up with</strong>:** (구동사) ~에 뒤쳐지지 않다, 보조를 맞추다
+*   **<strong style="color:blue;">A thing of the past</strong>:** (숙어) 과거의 일, 유물
