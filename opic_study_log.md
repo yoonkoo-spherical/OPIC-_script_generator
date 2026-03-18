@@ -1077,3 +1077,110 @@ One of the most significant changes is the recent policy to <strong style="color
 *   **<strong style="color:blue;">The tip of the iceberg</strong>:** (숙어) 빙산의 일각
 *   **<strong style="color:blue;">Keep up with</strong>:** (구동사) ~에 뒤쳐지지 않다, 보조를 맞추다
 *   **<strong style="color:blue;">A thing of the past</strong>:** (숙어) 과거의 일, 유물
+
+## 2026-03-18 06:17:11 OPIc Study
+
+반갑습니다! OPIc AL 전문 강사입니다. 오늘은 고득점 달성을 위해 필수적으로 정복해야 하는 **'가전 기기/기술 묘사'**, **'렌터카 상황극'**, 그리고 **'재활용 관련 돌발 질문'** 세 가지 세트를 준비했습니다. 
+
+AL 등급을 위해서는 단순히 문장을 나열하는 것이 아니라, 필러(Filler)를 적절히 섞어가며 원어민처럼 자연스럽게 감정을 표현하고 구동사와 숙어를 능숙하게 사용하는 것이 핵심입니다.
+
+---
+
+### [Topic 1: Description (묘사)] - Technology & Mobile Apps
+**Question:**
+You mentioned in the survey that you use a smartphone. Could you tell me about one or two apps that you use most frequently? Why are they so useful to you, and how have they changed your daily routine?
+(당신은 설문조사에서 스마트폰을 사용한다고 언급했습니다. 당신이 가장 자주 사용하는 앱 한두 가지에 대해 말씀해 주시겠습니까? 그 앱들이 왜 유용한지, 그리고 당신의 일상을 어떻게 변화시켰나요?)
+
+**AL Model Script:**
+To be honest, I think I’m a bit of a tech-addict because my phone is practically glued to my hand. If I had to pick the most indispensable apps, I’d definitely <strong style="color:blue;">go with</strong> YouTube and a task management app called Notion. 
+
+First off, YouTube is my <strong style="color:blue;">go-to</strong> for everything from entertainment to self-improvement. Back in the day, I had to <strong style="color:blue;">look up</strong> information in books or long articles, but now, I can just watch a 5-minute tutorial and <strong style="color:blue;">get the hang of</strong> almost anything. It’s truly a <strong style="color:blue;">game changer</strong> for my learning habits.
+
+Secondly, Notion helps me <strong style="color:blue;">keep track of</strong> my hectic schedule. I used to be quite disorganized and often <strong style="color:blue;">messed up</strong> my appointments. But since I started using this app, I’ve been able to <strong style="color:blue;">iron out</strong> my daily plans and boost my productivity. It allows me to <strong style="color:blue;">jot down</strong> ideas on the fly, and it syncs across all my devices seamlessly. 
+
+Looking back, these apps have completely transformed my lifestyle. I don’t have to <strong style="color:blue;">rack my brains</strong> to remember small details anymore. Although I sometimes worry about <strong style="color:blue;">burning out</strong> from too much screen time, I can't imagine <strong style="color:blue;">getting by</strong> without them. They’ve made my life incredibly efficient and, frankly, a lot more fun.
+
+**Key Vocabulary & Expressions:**
+*   **Indispensable:** 없어서는 안 될
+*   **Hectic:** 몹시 바쁜
+*   **Seamlessly:** 매끄럽게, 원활하게
+*   **<strong style="color:blue;">Go with</strong>:** ~을 선택하다
+*   **<strong style="color:blue;">Go-to</strong>:** 믿고 찾는 것(장소/물건)
+*   **<strong style="color:blue;">Look up</strong>:** 찾아보다
+*   **<strong style="color:blue;">Get the hang of</strong>:** ~의 요령을 터득하다
+*   **<strong style="color:blue;">Game changer</strong>:** 판도를 바꾸는 것
+*   **<strong style="color:blue;">Keep track of</strong>:** ~을 추적하다/기록하다
+*   **<strong style="color:blue;">Mess up</strong>:** 망치다/실수하다
+*   **<strong style="color:blue;">Iron out</strong>:** 해결하다/다듬다
+*   **<strong style="color:blue;">Jot down</strong>:** 재빨리 적다
+*   **<strong style="color:blue;">Rack one’s brains</strong>:** 머리를 짜내다
+*   **<strong style="color:blue;">Burn out</strong>:** 에너지를 소진하다
+*   **<strong style="color:blue;">Get by</strong>:** (어려운 대로) 살아가다/해내다
+
+---
+
+### [Topic 2: Roleplay (롤플레이)] - Renting a Car
+**Question:**
+You are at a car rental agency to pick up a car you reserved. However, you just realized that you left your driver's license at home. Explain the situation to the agent and suggest two or three alternatives to solve the problem.
+(당신은 예약한 차를 빌리기 위해 렌터카 업체에 도착했습니다. 하지만 방금 운전면허증을 집에 두고 왔다는 사실을 깨달았습니다. 직원에게 상황을 설명하고, 문제를 해결하기 위한 2~3가지 대안을 제안하세요.)
+
+**AL Model Script:**
+Hi there, I have a reservation under the name of Kim. I was really looking forward to hitting the road today, but I’ve just realized something terrible. I <strong style="color:blue;">messed up</strong> big time—I left my physical driver's license in my other wallet at home. I’m so sorry for the trouble, but could you <strong style="color:blue;">bear with me</strong> for a moment while we find a solution?
+
+Since I can’t drive without the actual license, I was wondering if we could <strong style="color:blue;">work something out</strong>. First, would it be possible for me to show you a digital copy of my license? I have a verified mobile ID on my smartphone. If that doesn't <strong style="color:blue;">cut it</strong>, could I perhaps <strong style="color:blue;">call up</strong> my roommate and have him send me a high-resolution photo of the front and back?
+
+If neither of those options works, I might have to <strong style="color:blue;">put off</strong> the pickup for a couple of hours. I could <strong style="color:blue;">head back</strong> home, grab the license, and <strong style="color:blue;">show up</strong> again later this afternoon. If I do that, would there be any extra charge, or would you be able to <strong style="color:blue;">hold on to</strong> the reservation for me? 
+
+I really don’t want this trip to <strong style="color:blue;">fall through</strong>. Please let me know which option would be best for you. I’m ready to <strong style="color:blue;">pay through the nose</strong> for a late fee if necessary, as long as I can still get the car today!
+
+**Key Vocabulary & Expressions:**
+*   **Physical license:** 실물 면허증
+*   **High-resolution:** 고해상도의
+*   **<strong style="color:blue;">Messed up</strong>:** 실수했다
+*   **<strong style="color:blue;">Bear with me</strong>:** (불편하겠지만) 잠시만 기다려주다/참아주다
+*   **<strong style="color:blue;">Work something out</strong>:** 해결책을 마련하다
+*   **<strong style="color:blue;">Cut it</strong>:** 충분하다/적절하다 (주로 부정문에 사용)
+*   **<strong style="color:blue;">Call up</strong>:** 전화를 걸다
+*   **<strong style="color:blue;">Put off</strong>:** 미루다
+*   **<strong style="color:blue;">Head back</strong>:** 되돌아가다
+*   **<strong style="color:blue;">Show up</strong>:** 나타나다/도착하다
+*   **<strong style="color:blue;">Hold on to</strong>:** 유지하다/고수하다
+*   **<strong style="color:blue;">Fall through</strong>:** 수포로 돌아가다/실패하다
+*   **<strong style="color:blue;">Pay through the nose</strong>:** 바가지를 쓰다/비싼 대가를 치르다
+
+---
+
+### [Topic 3: Unexpected Question (돌발 질문)] - Recycling
+**Question:**
+People are very concerned about environmental issues these days. Tell me about the recycling habits in your country. How do people sort their trash, and what are some challenges people face when trying to recycle?
+(요즘 사람들은 환경 문제에 관심이 많습니다. 당신의 나라의 재활용 습관에 대해 말해주세요. 사람들은 쓰레기를 어떻게 분류하며, 재활용을 실천할 때 겪는 어려움은 무엇인가요?)
+
+**AL Model Script:**
+In Korea, recycling isn’t just a suggestion; it’s a strict daily obligation that everyone has to <strong style="color:blue;">abide by</strong>. We have a very systematic way of <strong style="color:blue;">throwing out</strong> trash. Basically, we have to <strong style="color:blue;">sort out</strong> everything into specific categories like plastic, paper, glass, cans, and even food waste. 
+
+A <strong style="color:blue;">rule of thumb</strong> is that everything must be cleaned before it goes into the recycling bin. For instance, if you have a delivery pizza box, you have to <strong style="color:blue;">rip off</strong> any stained parts before putting it in the paper pile. It’s quite a <strong style="color:blue;">tall order</strong> for busy people, but most citizens <strong style="color:blue;">pitch in</strong> because we’re well aware of the environmental impact.
+
+However, one of the biggest challenges we <strong style="color:blue;">run into</strong> is the confusing labeling. Sometimes it’s hard to <strong style="color:blue;">figure out</strong> whether a certain material is recyclable or just general waste. If you <strong style="color:blue;">slip up</strong> and put things in the wrong bin, you might even <strong style="color:blue;">end up</strong> getting a fine from the local office. 
+
+Also, it’s a bit of a hassle to <strong style="color:blue;">deal with</strong> the sheer volume of plastic packaging from online shopping. We’re trying to <strong style="color:blue;">cut down on</strong> single-use plastics, but it’s easier said than done. Despite these hurdles, I think our country is <strong style="color:blue;">on the right track</strong> when it comes to sustainability. We’re all trying our best to <strong style="color:blue;">look after</strong> our planet for future generations.
+
+**Key Vocabulary & Expressions:**
+*   **Obligation:** 의무
+*   **Systematic:** 체계적인
+*   **Sustainability:** 지속 가능성
+*   **Hurdle:** 장애물/어려움
+*   **<strong style="color:blue;">Abide by</strong>:** (법/규칙을) 준수하다
+*   **<strong style="color:blue;">Throw out</strong>:** 내버리다
+*   **<strong style="color:blue;">Sort out</strong>:** 분류하다/정리하다
+*   **<strong style="color:blue;">Rule of thumb</strong>:** 경험법칙/대략적인 원칙
+*   **<strong style="color:blue;">Rip off</strong>:** 떼어내다/뜯어내다
+*   **<strong style="color:blue;">Tall order</strong>:** 어려운 주문/무리한 요구
+*   **<strong style="color:blue;">Pitch in</strong>:** 협력하다/기여하다
+*   **<strong style="color:blue;">Run into</strong>:** (문제 등에) 맞닥뜨리다
+*   **<strong style="color:blue;">Figure out</strong>:** 알아내다/이해하다
+*   **<strong style="color:blue;">Slip up</strong>:** 실수하다
+*   **<strong style="color:blue;">End up</strong>:** 결국 ~하게 되다
+*   **<strong style="color:blue;">Deal with</strong>:** 다루다/처리하다
+*   **<strong style="color:blue;">Cut down on</strong>:** ~을 줄이다
+*   **<strong style="color:blue;">On the right track</strong>:** 올바른 방향으로 가고 있는
+*   **<strong style="color:blue;">Look after</strong>:** 돌보다/보살피다
