@@ -1184,3 +1184,127 @@ Also, it’s a bit of a hassle to <strong style="color:blue;">deal with</strong>
 *   **<strong style="color:blue;">Cut down on</strong>:** ~을 줄이다
 *   **<strong style="color:blue;">On the right track</strong>:** 올바른 방향으로 가고 있는
 *   **<strong style="color:blue;">Look after</strong>:** 돌보다/보살피다
+
+## 2026-03-19 06:12:50 OPIc Study
+
+안녕하세요! OPIc AL 취득을 위한 전문 강사입니다. 
+
+AL 등급을 받기 위해서는 단순히 문법이 정확한 것을 넘어, **문장 간의 자연스러운 연결(Cohesion)**, **구체적이고 생생한 묘사**, 그리고 **원어민들이 자주 사용하는 구동사와 관용구의 적절한 활용**이 필수적입니다. 
+
+제시해주신 3가지 주제에 맞춰, 실제 시험에서 고득점을 보장하는 모범 답안 스크립트를 구성해 드립니다.
+
+---
+
+## 1. Description: 해외 여행지 (일본 오사카)
+
+### **[Question]**
+You indicated in the survey that you enjoy traveling abroad. Tell me about a trip you recently took to a foreign country or a trip you are planning to take soon. Where did you go or where do you want to go? Describe that place in detail.
+
+당신은 설문 조사에서 해외 여행을 즐긴다고 답변했습니다. 최근에 다녀왔거나 곧 계획 중인 해외 여행에 대해 이야기해 주세요. 어디에 갔었나요, 아니면 어디에 가고 싶나요? 그곳을 자세히 묘사해 주세요.
+
+### **[Model Answer]**
+To be honest, I’ve always been a bit of a travel enthusiast, but my recent trip to Osaka, Japan, truly <strong style="color:blue;">stood out</strong> as one of the most memorable experiences of my life. I had been <strong style="color:blue;">looking forward to</strong> visiting Japan for a long time, and finally, last month, I managed to <strong style="color:blue;">set aside</strong> some time to fly over there.
+
+Osaka is often referred to as "the nation's kitchen," and I could definitely see why as soon as I arrived. The first place I visited was Dotonbori. The atmosphere there was absolutely electric! I was completely <strong style="color:blue;">blown away</strong> by the massive neon signs, especially the famous Glico Man. The streets were packed with people, and the smell of sizzling Takoyaki and Okonomiyaki was <strong style="color:blue;">out of this world</strong>. I spent hours just walking around to <strong style="color:blue;">soak up</strong> the vibrant energy of the city.
+
+What I loved most about Osaka was the perfect blend of the modern and the traditional. One day, I was exploring the futuristic Umeda Sky Building, and the next, I was <strong style="color:blue;">winding down</strong> at the serene Osaka Castle park. The contrast was striking. Also, the people there were incredibly polite and helpful. Even when I <strong style="color:blue;">ran into</strong> some trouble finding my way in the subway station, several locals <strong style="color:blue;">went out of their way</strong> to point me in the right direction. 
+
+Looking back, that trip was a perfect <strong style="color:blue;">getaway</strong> from my daily grind. I really hope I can <strong style="color:blue;">head back</strong> there sometime next year to explore the parts of the city I missed.
+
+### **[Vocabulary & Expressions]**
+*   **Enthusiast:** 열광적인 팬, 애호가
+*   **Electric:** 활기 넘치는, 열광적인
+*   **Sizzling:** (음식이) 지글지글 소리를 내는
+*   **Futuristic:** 미래지향적인
+*   **Daily grind:** 반복되는 지루한 일상
+
+### **[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">stand out</strong>: 두드러지다, 눈에 띄다
+*   <strong style="color:blue;">look forward to</strong>: ~를 고대하다
+*   <strong style="color:blue;">set aside</strong>: (시간, 돈 등을) 따로 떼어 두다/확보하다
+*   <strong style="color:blue;">blown away</strong>: 매우 감동받다/놀라다
+*   <strong style="color:blue;">out of this world</strong>: 평범치 않은, 정말 최고인
+*   <strong style="color:blue;">soak up</strong>: (분위기 등을) 만끽하다, 흡수하다
+*   <strong style="color:blue;">winding down</strong>: 긴장을 풀고 쉬다
+*   <strong style="color:blue;">ran into</strong>: (문제 등에) 맞닥뜨리다, 우연히 마주치다
+*   <strong style="color:blue;">went out of their way</strong>: 각별히 노력하다/애쓰다
+*   <strong style="color:blue;">getaway</strong>: 휴가, 단기 여행
+*   <strong style="color:blue;">head back</strong>: 돌아가다
+
+---
+
+## 2. Role-play: 테마파크 예약 오류 해결
+
+### **[Question]**
+I'm sorry, but there is a problem with the reservation you made for a theme park. Call the customer service center, explain that you found an error in your booking, and provide two to three alternatives to resolve the situation.
+
+죄송합니다만, 당신이 테마파크에 한 예약에 문제가 발생했습니다. 고객 서비스 센터에 전화를 걸어 예약에서 발견한 오류를 설명하고, 이 상황을 해결하기 위한 2~3가지 대안을 제시하십시오.
+
+### **[Model Answer]**
+Hi there, I’m calling regarding a reservation I made earlier today for the Universal Studios theme park. My name is [Your Name], and my confirmation number is 12345. I was just <strong style="color:blue;">going over</strong> my booking details, and I realized there’s been a significant <strong style="color:blue;">mix-up</strong>.
+
+The issue is that I originally booked four tickets for this coming Friday, but the confirmation email shows only two tickets for Saturday. This is a bit of a problem because my entire family has already <strong style="color:blue;">cleared their schedules</strong> for Friday. I’m quite frustrated, but I’d like to <strong style="color:blue;">sort this out</strong> as quickly as possible.
+
+Since this error seems to be on your end, I have a few suggestions. First, could you please <strong style="color:blue;">look into</strong> whether you can change the date back to Friday and add the two missing tickets? If the park is already at full capacity for Friday, would it be possible to upgrade our tickets to Express Passes for Saturday? That might make my family feel better about changing our plans. 
+
+If neither of those options works, I’m afraid I’ll have to <strong style="color:blue;">call off</strong> the trip entirely. In that case, I would expect a full refund without any cancellation fees. Please <strong style="color:blue;">get back to</strong> me as soon as you can, as I need to <strong style="color:blue;">figure out</strong> our plans for the weekend. I'll be <strong style="color:blue;">hanging on</strong> for your call. Thanks.
+
+### **[Vocabulary & Expressions]**
+*   **Regarding:** ~에 관하여
+*   **Confirmation number:** 예약 확인 번호
+*   **Significant:** 중대한
+*   **Full capacity:** 정원 초과, 만석
+*   **Refund:** 환불
+
+### **[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">going over</strong>: 검토하다, 자세히 살피다
+*   <strong style="color:blue;">mix-up</strong>: 착오, 혼동
+*   <strong style="color:blue;">cleared their schedules</strong>: 일정을 비우다
+*   <strong style="color:blue;">sort this out</strong>: 문제를 해결하다/정리하다
+*   <strong style="color:blue;">look into</strong>: 조사하다, 확인하다
+*   <strong style="color:blue;">call off</strong>: 취소하다
+*   <strong style="color:blue;">get back to</strong>: ~에게 (나중에) 다시 연락하다
+*   <strong style="color:blue;">figure out</strong>: 알아내다, 이해하다
+*   <strong style="color:blue;">hanging on</strong>: (전화를 끊지 않고) 기다리다
+
+---
+
+## 3. Unexpected: 대중교통 이용 시 발생한 돌발 상황
+
+### **[Question]**
+Unexpected things can happen when using public transportation. Tell me about a time when you experienced a problem while using a bus, subway, or taxi. What was the problem, and how did you handle the situation? Give me all the details.
+
+대중교통을 이용할 때 예상치 못한 일이 발생할 수 있습니다. 버스, 지하철 또는 택시를 이용하다가 겪었던 문제에 대해 이야기해 주세요. 어떤 문제였으며, 상황을 어떻게 해결했나요? 자세히 설명해 주세요.
+
+### **[Model Answer]**
+Oh, I have a perfect story for this. It happened a few months ago when I was <strong style="color:blue;">on my way</strong> to a very important job interview. I usually <strong style="color:blue;">count on</strong> the subway because it's usually <strong style="color:blue;">on time</strong>, but that day, everything <strong style="color:blue;">fell apart</strong>.
+
+I was sitting on the Line 2 train, mentally <strong style="color:blue;">brushing up on</strong> my answers, when suddenly, the train came to a <strong style="color:blue;">grinding halt</strong> in the middle of a tunnel. At first, I thought it was just a minor delay, but after ten minutes, an announcement came on saying there was a technical failure and the train wouldn't be moving anytime soon. I started to <strong style="color:blue;">freak out</strong> because the interview was only 30 minutes away!
+
+I realized I couldn't just sit there and <strong style="color:blue;">wait around</strong>. As soon as the doors finally opened at the nearest station, I <strong style="color:blue;">dashed out</strong> and tried to hail a taxi. But <strong style="color:blue;">to make matters worse</strong>, it was raining cats and dogs, and every taxi was already taken. 
+
+I had to <strong style="color:blue;">think on my feet</strong>. I quickly checked a navigation app and found a bus route that could <strong style="color:blue;">drop me off</strong> right in front of the office building. I ran to the bus stop, hopped on the bus, and luckily, the traffic wasn't too bad. I <strong style="color:blue;">ended up</strong> arriving at the interview just two minutes before it started. I was <strong style="color:blue;">out of breath</strong>, but I managed to <strong style="color:blue;">pull myself together</strong> before walking into the room. It was such a <strong style="color:blue;">close call</strong>, and I’ve learned my lesson to always leave even earlier for important appointments.
+
+### **[Vocabulary & Expressions]**
+*   **Technical failure:** 기술적 결함/고장
+*   **Navigational app:** 내비게이션 앱
+*   **Traffic:** 교통 체증
+*   **Appointment:** 약속
+
+### **[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">on my way</strong>: ~로 가는 중에
+*   <strong style="color:blue;">count on</strong>: ~를 믿다/의지하다
+*   <strong style="color:blue;">on time</strong>: 제시간에
+*   <strong style="color:blue;">fell apart</strong>: (계획 등이) 무너지다, 엉망이 되다
+*   <strong style="color:blue;">brushing up on</strong>: (잊어버렸던 지식 등을) 복습하다/다듬다
+*   <strong style="color:blue;">grinding halt</strong>: 서서히 멈춤, 완전히 중단됨
+*   <strong style="color:blue;">freak out</strong>: 당황하다, 자제력을 잃다
+*   <strong style="color:blue;">wait around</strong>: 빈둥거리며 기다리다
+*   <strong style="color:blue;">dashed out</strong>: 급히 뛰어나가다
+*   <strong style="color:blue;">to make matters worse</strong>: 설상가상으로
+*   <strong style="color:blue;">think on my feet</strong>: (급박한 상황에서) 즉각적으로 판단하다
+*   <strong style="color:blue;">drop me off</strong>: 나를 내려주다
+*   <strong style="color:blue;">ended up</strong>: 결국 ~하게 되다
+*   <strong style="color:blue;">out of breath</strong>: 숨이 가쁜
+*   <strong style="color:blue;">pull myself together</strong>: 정신을 가다듬다, 진정하다
+*   <strong style="color:blue;">close call</strong>: 위기일발, 아슬아슬한 순간
