@@ -1308,3 +1308,108 @@ I had to <strong style="color:blue;">think on my feet</strong>. I quickly checke
 *   <strong style="color:blue;">out of breath</strong>: 숨이 가쁜
 *   <strong style="color:blue;">pull myself together</strong>: 정신을 가다듬다, 진정하다
 *   <strong style="color:blue;">close call</strong>: 위기일발, 아슬아슬한 순간
+
+## 2026-03-20 06:07:27 OPIc Study
+
+반갑습니다! OPIc AL 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 문법적으로 완벽한 문장을 구사하는 것을 넘어, **문장 간의 자연스러운 연결(Cohesion)**, **풍부한 어휘 선택(Vocabulary)**, 그리고 **감정이 실린 자연스러운 발화(Intonation)**가 필수적입니다.
+
+제시해주신 세 가지 주제를 바탕으로, 실제 시험에서 고득점을 받을 수 있는 고난도 스크립트를 구성해 보았습니다.
+
+---
+
+### [Topic 1] Description: Overseas Travel (Japan, Osaka)
+
+**질문 (Question):**
+You mentioned in the survey that you enjoy traveling abroad. Tell me about a place you recently visited or are planning to visit soon, such as Osaka, Japan. What makes this place special, and what are some memorable things to do there?
+
+당신은 설문조사에서 해외 여행을 즐긴다고 언급했습니다. 최근에 방문했거나 곧 방문할 계획인 해외 여행지(예: 일본 오사카)에 대해 이야기해 주세요. 그곳이 특별한 이유는 무엇이며, 그곳에서 할 수 있는 기억에 남는 활동들은 무엇인가요?
+
+**모범 답안 (Script):**
+
+"Well, Eva, let me tell you about my recent trip to Osaka, Japan. It’s a city that truly <strong style="color:blue;">stands out</strong> in my memory because it’s such a vibrant mix of traditional culture and modern city life. I had been planning this trip for months, and honestly, it exceeded all my expectations.
+
+One of the highlights of Osaka is definitely the Dotonbori area. It’s famous for its neon lights and the iconic Glico Man sign. Walking through the streets, I was completely overwhelmed by the energy of the crowd. Since Osaka is often called 'the nation's kitchen,' I decided to <strong style="color:blue;">go all out</strong> on a food tour. I tried everything from authentic Takoyaki to Okonomiyaki. I’m a huge foodie, so I really <strong style="color:blue;">pigged out</strong> on all the street food. It was a true gastronomic adventure.
+
+But it wasn't just about the food. I also visited Osaka Castle to <strong style="color:blue;">soak up</strong> some history. The contrast between the ancient castle and the surrounding skyscrapers was breathtaking. To be honest, I needed a break from my hectic daily routine, and this trip allowed me to <strong style="color:blue;">wind down</strong> and recharge my batteries. 
+
+If I have the chance, I’d love to <strong style="color:blue;">drop by</strong> Osaka again during the cherry blossom season. I’ve heard the parks are <strong style="color:blue;">out of this world</strong> when the flowers are in full bloom. Overall, Osaka has a unique charm that really <strong style="color:blue;">grew on me</strong> during my stay. It’s a place where you can never get bored, and I’d recommend it to anyone looking for a perfect balance of excitement and relaxation."
+
+**주요 표현 및 어휘 (Vocabulary & Expressions):**
+
+*   **Vibrant:** 활기찬, 생생한
+*   **Gastronomic:** 미식의
+*   **Hectic:** 몹시 바쁜
+*   **Full bloom:** (꽃이) 만개한
+*   **<strong style="color:blue;">stand out</strong>**: 두드러지다, 눈에 띄다 (Phrasal Verb)
+*   **<strong style="color:blue;">go all out</strong>**: 전력을 다하다, 아낌없이 하다 (Idiom)
+*   **<strong style="color:blue;">pig out</strong>**: 돼지처럼 먹다, 과식하다 (Phrasal Verb)
+*   **<strong style="color:blue;">soak up</strong>**: (분위기 등을) 만끽하다, 흡수하다 (Phrasal Verb)
+*   **<strong style="color:blue;">wind down</strong>**: 긴장을 풀고 쉬다 (Phrasal Verb)
+*   **<strong style="color:blue;">drop by</strong>**: 잠깐 들르다 (Phrasal Verb)
+*   **<strong style="color:blue;">out of this world</strong>**: (너무 좋아서) 이 세상 것이 아닌 것 같은, 정말 멋진 (Idiom)
+*   **<strong style="color:blue;">grow on me</strong>**: 점점 더 좋아지다 (Idiom/Phrasal Verb)
+
+---
+
+### [Topic 2] Role-play: Clothing Store (Inventory & Refund)
+
+**질문 (Question):**
+I’m going to give you a situation. Imagine you are at a clothing store. First, ask the clerk if a specific item you are looking for is in stock. Then, explain that you need to return another item you previously purchased and ask for a refund.
+
+상황을 하나 드리겠습니다. 당신이 옷 가게에 있다고 가정해 보세요. 먼저, 점원에게 당신이 찾는 특정 상품의 재고가 있는지 물어보세요. 그런 다음, 이전에 구매한 다른 상품을 반품해야 한다고 설명하고 환불을 요청하세요.
+
+**모범 답안 (Script):**
+
+"(At the store) Excuse me, hi there! I was wondering if you could help me find something. I saw this navy wool blazer on your website, but I don't see it on the racks here. Do you happen to have any more <strong style="color:blue;">in stock</strong>? Specifically, I'm looking for a size medium. I’ve been <strong style="color:blue;">keeping an eye out</strong> for this piece for a while, so I really hope you haven’t <strong style="color:blue;">run out of</strong> them yet. Could you check the back for me?
+
+(Wait for a moment) Oh, you have one left? That’s great! I’ll definitely take it. But before I <strong style="color:blue;">check out</strong>, I actually have another matter to <strong style="color:blue;">take care of</strong>. I bought this leather jacket here last week, but when I got home, I <strong style="color:blue;">came across</strong> a small tear near the seam. It's such a shame because I really like the design, but since it's damaged, I’d like to return it.
+
+Here is my receipt and the original tags are still attached. I haven't worn it at all. Is it possible to <strong style="color:blue;">get a refund</strong> for this? I’d prefer to have the amount credited back to my card if that’s okay. I know some stores only offer store credit, but given the defect, I hope you can <strong style="color:blue;">make an exception</strong>. I appreciate your help with this!"
+
+**주요 표현 및 어휘 (Vocabulary & Expressions):**
+
+*   **Defect:** 결함, 하자
+*   **Store credit:** 매장 포인트/적립금
+*   **Seam:** 솔기, 이음새
+*   **<strong style="color:blue;">in stock</strong>**: 재고가 있는 (Idiom)
+*   **<strong style="color:blue;">keeping an eye out</strong>**: 계속 지켜보다, 예의주시하다 (Idiom)
+*   **<strong style="color:blue;">run out of</strong>**: ~이 다 떨어지다 (Phrasal Verb)
+*   **<strong style="color:blue;">check out</strong>**: 계산하다, 체크아웃하다 (Phrasal Verb)
+*   **<strong style="color:blue;">take care of</strong>**: ~을 처리하다, 돌보다 (Phrasal Verb)
+*   **<strong style="color:blue;">come across</strong>**: 우연히 발견하다 (Phrasal Verb)
+*   **<strong style="color:blue;">get a refund</strong>**: 환불을 받다 (Idiom)
+*   **<strong style="color:blue;">make an exception</strong>**: 예외를 두다 (Idiom)
+
+---
+
+### [Topic 3] Unexpected: Tech Trends (Semiconductors)
+
+**질문 (Question):**
+Technology is changing everything about how we live. Let’s talk about a specific field, such as the semiconductor industry. What are the recent trends or changes in this industry, and how do these changes impact our daily lives or the global economy?
+
+기술은 우리의 삶의 방식을 모두 바꾸고 있습니다. 반도체 산업과 같은 특정 분야에 대해 이야기해 봅시다. 이 산업의 최근 트렌드나 변화는 무엇이며, 이러한 변화가 우리의 일상생활이나 세계 경제에 어떤 영향을 미치고 있습니까?
+
+**모범 답안 (Script):**
+
+"That’s a very timely question. The semiconductor industry is currently <strong style="color:blue;">going through</strong> a massive transformation, largely driven by the explosion of Artificial Intelligence. It’s no exaggeration to say that chips are the 'new oil' of the 21st century. 
+
+The biggest trend right now is the shift toward high-performance chips, like HBM or GPUs, which are essential for training AI models like ChatGPT. Every major tech giant is <strong style="color:blue;">beefing up</strong> their investment in these technologies to <strong style="color:blue;">keep up with</strong> the competition. We’re seeing a global race to secure the supply chain, as semiconductors have become a matter of national security.
+
+These trends <strong style="color:blue;">boil down to</strong> how they affect our daily lives. For instance, the demand for smarter gadgets and faster processing speeds means that even our household appliances are becoming highly sophisticated. However, this also means that when there’s a shortage, like what we saw during the pandemic, it can <strong style="color:blue;">mess up</strong> the entire global economy, leading to price hikes for cars and electronics.
+
+In my opinion, the industry will continue to <strong style="color:blue;">push the envelope</strong> in terms of miniaturization and energy efficiency. It’s fascinating to see how these tiny chips <strong style="color:blue;">pave the way</strong> for future innovations like autonomous driving and advanced robotics. We really need to <strong style="color:blue;">stay on top of</strong> these changes because they will ultimately dictate the pace of human progress in the coming decade."
+
+**주요 표현 및 어휘 (Vocabulary & Expressions):**
+
+*   **Timely:** 시기적절한
+*   **Exaggeration:** 과장
+*   **Miniaturization:** 소형화
+*   **Autonomous driving:** 자율 주행
+*   **<strong style="color:blue;">going through</strong>**: (변화나 어려움 등을) 겪다 (Phrasal Verb)
+*   **<strong style="color:blue;">beefing up</strong>**: 강화하다, 보강하다 (Phrasal Verb)
+*   **<strong style="color:blue;">keep up with</strong>**: ~을 따라잡다, 보조를 맞추다 (Phrasal Verb)
+*   **<strong style="color:blue;">boil down to</strong>**: 결국 ~으로 요약되다 (Phrasal Verb)
+*   **<strong style="color:blue;">mess up</strong>**: 망치다, 엉망으로 만들다 (Phrasal Verb)
+*   **<strong style="color:blue;">push the envelope</strong>**: 한계를 극복하다, 새로운 가능성을 열다 (Idiom)
+*   **<strong style="color:blue;">pave the way</strong>**: 길을 닦다, 상황을 조성하다 (Idiom)
+*   **<strong style="color:blue;">stay on top of</strong>**: ~을 잘 파악하고 있다, 놓치지 않다 (Idiom)
