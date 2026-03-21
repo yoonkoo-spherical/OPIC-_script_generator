@@ -1413,3 +1413,125 @@ In my opinion, the industry will continue to <strong style="color:blue;">push th
 *   **<strong style="color:blue;">push the envelope</strong>**: 한계를 극복하다, 새로운 가능성을 열다 (Idiom)
 *   **<strong style="color:blue;">pave the way</strong>**: 길을 닦다, 상황을 조성하다 (Idiom)
 *   **<strong style="color:blue;">stay on top of</strong>**: ~을 잘 파악하고 있다, 놓치지 않다 (Idiom)
+
+## 2026-03-21 05:32:19 OPIc Study
+
+반갑습니다! OPIc AL 등급 취득을 위한 전문 강사입니다. AL 등급의 핵심은 **끊김 없는 유창성(Fluency), 풍부한 어휘 선택, 그리고 논리적인 문장 연결 능력**입니다. 특히 복잡한 상황을 묘사하거나 자신의 견해를 논리적으로 설명하는 것이 중요합니다.
+
+제시해주신 3가지 주제를 바탕으로, 실제 시험에서 높은 점수를 받을 수 있는 고득점 모범 답안을 구성해 드립니다.
+
+---
+
+## 1. Description (묘사): 즐겨 하는 컴퓨터 게임
+
+### **Question**
+**You mentioned in the survey that you enjoy playing computer games. Please tell me about your favorite game. What is it about? What are the graphics like, and why do you find it so appealing?**
+(당신은 설문조사에서 컴퓨터 게임을 즐긴다고 언급했습니다. 당신이 가장 좋아하는 게임에 대해 말해주세요. 어떤 내용인가요? 그래픽은 어떠하며, 왜 그 게임이 그렇게 매력적이라고 생각하나요?)
+
+### **Model Answer**
+To be honest, I’ve been a huge fan of gaming since I was a kid, but these days, I’m completely <strong style="color:blue;">hooked on</strong> a game called **"Monster Hunter: World."** It’s an action RPG where you play as a hunter tasked with capturing or slaying massive, prehistoric-looking monsters in a vast, open-world environment.
+
+What really <strong style="color:blue;">blows me away</strong> are the graphics. The attention to detail is simply mind-blowing. The ecosystem feels incredibly alive—you can see small endemic creatures scurrying around while majestic dragons soar through the sky. The lighting effects and the lush vegetation in the Ancient Forest map make me feel like I’ve actually been transported to another world. It’s a visual masterpiece that really <strong style="color:blue;">shows off</strong> what modern hardware can do.
+
+In terms of gameplay, the most appealing part is the combat system. It's not just about button-mashing; you have to <strong style="color:blue;">figure out</strong> the monster’s patterns and strike at the right moment. Each battle feels like a high-stakes dance. I often play with my friends online, and there’s nothing like the feeling of <strong style="color:blue;">pulling off</strong> a perfect team maneuver to take down a legendary beast. 
+
+Even though it can be quite challenging and I sometimes <strong style="color:blue;">run into</strong> difficult hurdles, the sense of accomplishment I get after crafting new gear from monster parts is what <strong style="color:blue;">keeps me coming back for more</strong>. Whenever I have a long day at work, diving into this game is the perfect way to <strong style="color:blue;">blow off steam</strong> and <strong style="color:blue;">lose track of time</strong>.
+
+---
+
+### **Vocabulary & Expressions**
+*   **Vast**: 광활한
+*   **Prehistoric**: 선사 시대의
+*   **Endemic**: 고유의, 특유의
+*   **Vegetation**: 식생, 초목
+*   **High-stakes**: 사활이 걸린, 중대한
+
+### **Phrasal Verbs & Idioms**
+*   <strong style="color:blue;">hooked on</strong>: ~에 중독된, 매료된
+*   <strong style="color:blue;">blow someone away</strong>: ~를 깜짝 놀라게 하다
+*   <strong style="color:blue;">show off</strong>: 뽐내다, 자랑하다
+*   <strong style="color:blue;">figure out</strong>: 알아내다, 이해하다
+*   <strong style="color:blue;">pull off</strong>: (어려운 일을) 해내다, 성사시키다
+*   <strong style="color:blue;">run into</strong>: (곤경 등에) 맞닥뜨리다
+*   <strong style="color:blue;">keep someone coming back for more</strong>: 계속 다시 찾게 만들다
+*   <strong style="color:blue;">blow off steam</strong>: 스트레스를 풀다
+*   <strong style="color:blue;">lose track of time</strong>: 시간 가는 줄 모르다
+
+---
+
+## 2. Role-play (롤플레이): 식당 예약 및 알레르기 문의
+
+### **Question**
+**I’d like to give you a situation and ask you to act it out. You want to make a reservation at a popular restaurant for a special occasion. Call the restaurant and ask three or four questions regarding a reservation, the menu, and allergy concerns.**
+(상황을 하나 드리겠습니다. 연기해 보세요. 당신은 특별한 날을 위해 인기 있는 식당을 예약하려고 합니다. 식당에 전화해서 예약, 메뉴, 그리고 알레르기 관련 문의를 포함하여 3~4개의 질문을 하세요.)
+
+### **Model Answer**
+Hello, is this "The Golden Table"? Hi there, I’m calling to <strong style="color:blue;">check on</strong> the possibility of making a reservation for this coming Saturday, the 15th. It’s for a small birthday celebration, so I was hoping to <strong style="color:blue;">set aside</strong> a table for four people at around 7 PM. Would that be possible?
+
+Also, I’d like to <strong style="color:blue;">go over</strong> a few details regarding your menu. Since it’s a special occasion, do you offer any seasonal tasting menus or special courses? We really want to <strong style="color:blue;">make the most of</strong> our evening, so I’d love to know if there are any signature dishes you’d recommend for a first-time visitor.
+
+Furthermore, I have a very important question regarding food allergies. One of my guests is severely allergic to peanuts. Could you please <strong style="color:blue;">look into</strong> whether your kitchen can <strong style="color:blue;">cater to</strong> this specific restriction? We need to ensure there’s no cross-contamination, so if you could <strong style="color:blue;">point out</strong> which dishes are completely nut-free, that would be greatly appreciated.
+
+Oh, and one last thing—I was wondering if you <strong style="color:blue;">put up with</strong> guests bringing their own wine? If so, what is the corkage fee? Please <strong style="color:blue;">get back to</strong> me when you have a moment to confirm these details. I <strong style="color:blue;">look forward to</strong> hearing from you soon!
+
+---
+
+### **Vocabulary & Expressions**
+*   **Cross-contamination**: 교차 오염
+*   **Restriction**: 제한, 제약
+*   **Signature dish**: 대표 요리
+*   **Corkage fee**: 코르크 차지 (외부 주류 반입 비용)
+
+### **Phrasal Verbs & Idioms**
+*   <strong style="color:blue;">check on</strong>: ~을 확인하다
+*   <strong style="color:blue;">set aside</strong>: (시간, 공간 등을) 확보하다, 따로 떼어 두다
+*   <strong style="color:blue;">go over</strong>: 검토하다, 세세히 살피다
+*   <strong style="color:blue;">make the most of</strong>: ~을 최대한 활용하다
+*   <strong style="color:blue;">look into</strong>: 조사하다, 확인하다
+*   <strong style="color:blue;">cater to</strong>: (요구, 필요에) 맞추다, 부응하다
+*   <strong style="color:blue;">point out</strong>: 가리키다, 지적하다
+*   <strong style="color:blue;">put up with</strong>: (여기서는 문맥상) 허용하다, 참아주다
+*   <strong style="color:blue;">get back to</strong>: ~에게 다시 연락하다
+*   <strong style="color:blue;">look forward to</strong>: ~을 고대하다
+
+---
+
+## 3. Unexpected (돌발 질문): 자동화 기술에 따른 업무 환경 변화
+
+### **Question**
+**Automation technology is rapidly changing the way we work. How has your work environment changed due to automation? Discuss both the positive and negative impacts this has had on your professional life.**
+(자동화 기술은 우리가 일하는 방식을 빠르게 바꾸고 있습니다. 자동화로 인해 당신의 업무 환경은 어떻게 변했나요? 이것이 당신의 직장 생활에 미친 긍정적, 부정적 영향에 대해 논의해 보세요.)
+
+### **Model Answer**
+It’s undeniable that automation has become a <strong style="color:blue;">game changer</strong> in the modern workplace. In my experience, the shift toward automated systems has been a <strong style="color:blue;">double-edged sword</strong>, bringing both remarkable efficiency and some new challenges.
+
+On the bright side, automation has allowed us to <strong style="color:blue;">get rid of</strong> repetitive, mundane tasks. For instance, in my office, we used to manually <strong style="color:blue;">sort out</strong> massive amounts of data for weekly reports. Now, with AI-driven software, these tasks are <strong style="color:blue;">carried out</strong> in seconds. This has <strong style="color:blue;">paved the way</strong> for employees to focus on more creative and strategic aspects of our projects. We can <strong style="color:blue;">narrow down</strong> our focus to solving complex problems rather than being <strong style="color:blue;">tied down</strong> by paperwork.
+
+However, there is a <strong style="color:blue;">flip side</strong> to this trend. The rapid pace of automation has led to a certain level of anxiety regarding job security. Many people are worried that their roles might be <strong style="color:blue;">phased out</strong> as machines become smarter. Moreover, because everything moves so fast now, there’s constant pressure to <strong style="color:blue;">keep up with</strong> the latest technological updates. It can be quite exhausting to <strong style="color:blue;">brush up on</strong> new software skills every few months just to stay relevant in the field.
+
+In conclusion, while automation has definitely helped us <strong style="color:blue;">cut back on</strong> unnecessary labor and boost productivity, it also requires us to constantly adapt. I believe the key to thriving in this environment is to <strong style="color:blue;">get ahead of the curve</strong> by embracing lifelong learning.
+
+---
+
+### **Vocabulary & Expressions**
+*   **Undeniable**: 부정할 수 없는
+*   **Mundane**: 일상적인, 재미없는
+*   **Productivity**: 생산성
+*   **Strategic**: 전략적인
+*   **Relevant**: 유의미한, 관련 있는
+
+### **Phrasal Verbs & Idioms**
+*   <strong style="color:blue;">game changer</strong>: 판도를 바꾸는 것
+*   <strong style="color:blue;">double-edged sword</strong>: 양날의 검
+*   <strong style="color:blue;">get rid of</strong>: 제거하다, 없애다
+*   <strong style="color:blue;">sort out</strong>: 정리하다, 분류하다
+*   <strong style="color:blue;">carried out</strong>: 수행되다
+*   <strong style="color:blue;">pave the way</strong>: 길을 열어주다, 토대를 마련하다
+*   <strong style="color:blue;">narrow down</strong>: (범위를) 좁히다
+*   <strong style="color:blue;">tied down</strong>: 얽매이다
+*   <strong style="color:blue;">flip side</strong>: 다른 면, 부정적인 면
+*   <strong style="color:blue;">phased out</strong>: 단계적으로 퇴출되다
+*   <strong style="color:blue;">keep up with</strong>: ~을 따라잡다, 보조를 맞추다
+*   <strong style="color:blue;">brush up on</strong>: ~을 복습하다, 다시 익히다
+*   <strong style="color:blue;">cut back on</strong>: ~을 줄이다
+*   <strong style="color:blue;">get ahead of the curve</strong>: 남보다 앞서 나가다
