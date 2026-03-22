@@ -1535,3 +1535,121 @@ In conclusion, while automation has definitely helped us <strong style="color:bl
 *   <strong style="color:blue;">brush up on</strong>: ~을 복습하다, 다시 익히다
 *   <strong style="color:blue;">cut back on</strong>: ~을 줄이다
 *   <strong style="color:blue;">get ahead of the curve</strong>: 남보다 앞서 나가다
+
+## 2026-03-22 04:46:41 OPIc Study
+
+반갑습니다! OPIc AL 달성을 위한 전문 강사입니다. AL 등급은 단순히 문법이 정확한 것을 넘어, **문장 간의 연결성(Cohesion), 풍부한 어휘 선택, 그리고 추상적이고 복합적인 상황을 얼마나 논리적으로 설명하느냐**가 관건입니다.
+
+제시해주신 3가지 주제를 바탕으로, 실제 시험에서 고득점을 보장하는 고퀄리티 질문과 모범 답안을 구성해 드립니다.
+
+---
+
+## 1. Description (묘사): 해외 여행지 - 일본 오사카
+
+### Question
+**You mentioned in the survey that you enjoy traveling abroad. Tell me about a specific country or city you have recently visited or are planning to visit in the near future. Why did you choose that place, and what do you plan to do there?**
+(설문조사에서 해외 여행을 즐긴다고 언급하셨습니다. 최근에 방문했거나 가까운 시일 내에 방문할 계획이 있는 특정 국가나 도시에 대해 말씀해 주세요. 왜 그곳을 선택했나요? 그곳에서 무엇을 할 계획인가요?)
+
+### Model Answer (AL Level)
+Well, let me tell you about my upcoming trip to Osaka, Japan. It’s actually been on my bucket list for a while now, and I finally decided to <strong style="color:blue;">pull the trigger</strong> and book the flights for next month. 
+
+The main reason I’m so drawn to Osaka is its reputation as "the nation's kitchen." I’m a huge foodie, so I’m really <strong style="color:blue;">looking forward to</strong> embarking on a gastronomic adventure. I’ve already mapped out a few hidden gems in Dotonbori where I can try authentic Takoyaki and Okonomiyaki. I’ve heard that the street food scene there is <strong style="color:blue;">second to none</strong>, and I can’t wait to <strong style="color:blue;">soak up</strong> the vibrant atmosphere of the night markets.
+
+Aside from the food, I’m planning to <strong style="color:blue;">check out</strong> the historical side of the city as well. Osaka Castle is a must-visit, and I want to take some time to wander around the grounds and <strong style="color:blue;">brush up on</strong> Japanese history. To <strong style="color:blue;">top it all off</strong>, I’ve reserved a full day for Universal Studios Japan. I’m particularly excited about the Super Nintendo World; I want to see if it really <strong style="color:blue;">lives up to</strong> the hype.
+
+I believe this trip will be a great way to <strong style="color:blue;">wind down</strong> and recharge my batteries after a stressful quarter at work. It’s just <strong style="color:blue;">around the corner</strong>, and I’m already counting down the days. Overall, I’m expecting a perfect blend of modern entertainment and traditional culture.
+
+### Key Vocabulary & Expressions
+*   **Gastronomic**: 미식의
+*   **Vibrant**: 활기찬
+*   **Must-visit**: 꼭 가봐야 할 곳
+*   **Blend**: 혼합, 조화
+
+### Phrasal Verbs & Idioms (Blue & Bold)
+*   <strong style="color:blue;">pull the trigger</strong>: 결단을 내리다 (구매/예약 등을 실행하다)
+*   <strong style="color:blue;">looking forward to</strong>: ~를 고대하다
+*   <strong style="color:blue;">second to none</strong>: 누구에게도 뒤지지 않는 (최고인)
+*   <strong style="color:blue;">soak up</strong>: (분위기 등에) 흠뻑 젖다/향유하다
+*   <strong style="color:blue;">check out</strong>: 확인하다/살펴보다
+*   <strong style="color:blue;">brush up on</strong>: (잊어버렸던 지식을) 복습하다/다시 공부하다
+*   <strong style="color:blue;">top it all off</strong>: 게다가/금상첨화로 (마무리로)
+*   <strong style="color:blue;">lives up to</strong>: ~에 부응하다 (기대만큼 좋다)
+*   <strong style="color:blue;">wind down</strong>: 긴장을 풀고 쉬다
+*   <strong style="color:blue;">around the corner</strong>: 코앞에 닥친 (곧 다가오는)
+
+---
+
+## 2. Role-play (롤플레이): 자동화 스크립트 도움 요청
+
+### Question
+**You are working on a new project at your company and realize that you need an automated web crawling script to collect data efficiently. One of your colleagues is an expert in coding and automation. Call your colleague, explain your situation, and ask for help or advice on how to create the script.**
+(회사에서 새 프로젝트를 진행하던 중, 효율적인 데이터 수집을 위해 자동화된 웹 크롤링 스크립트가 필요하다는 것을 알게 되었습니다. 동료 중 한 명이 코딩과 자동화 전문가입니다. 동료에게 전화하여 상황을 설명하고, 스크립트 작성에 대한 도움이나 조언을 구하세요.)
+
+### Model Answer (AL Level)
+Hi, Min-su. Do you have a minute? I’m <strong style="color:blue;">reaching out to</strong> you because I’ve <strong style="color:blue;">run into</strong> a bit of a roadblock with the market research project I’m currently leading.
+
+As you know, we need to collect a massive amount of pricing data from various competitor websites. At first, I tried to do it manually, but it’s becoming incredibly time-consuming and <strong style="color:blue;">getting out of hand</strong>. I realized that the only way to <strong style="color:blue;">keep up with</strong> the deadline is to use an automated web crawling script.
+
+Since you are the <strong style="color:blue;">go-to person</strong> in our office when it comes to Python and automation, I was wondering if you could <strong style="color:blue;">lend me a hand</strong>. I’m not asking you to write the whole code from scratch, but if you could <strong style="color:blue;">point me in the right direction</strong> or share some sample scripts you’ve used before, it would be a huge help. 
+
+I’d love to <strong style="color:blue;">pick your brain</strong> for about 15 minutes over coffee. Are you free sometime tomorrow afternoon? I want to make sure I’m on the right track before I <strong style="color:blue;">dive into</strong> the development. Please <strong style="color:blue;">get back to me</strong> when you have a chance. I’d really appreciate it, and of course, lunch is <strong style="color:blue;">on me</strong> next week!
+
+### Key Vocabulary & Expressions
+*   **Roadblock**: 장애물, 난관
+*   **Massive**: 거대한, 엄청난 수의
+*   **Manually**: 수동으로
+*   **From scratch**: 맨 처음부터
+
+### Phrasal Verbs & Idioms (Blue & Bold)
+*   <strong style="color:blue;">reaching out to</strong>: ~에게 연락을 취하다
+*   <strong style="color:blue;">run into</strong>: (어려움 등에) 맞닥뜨리다
+*   <strong style="color:blue;">getting out of hand</strong>: 감당할 수 없게 되다
+*   <strong style="color:blue;">keep up with</strong>: ~를 따라가다 (속도를 맞추다)
+*   <strong style="color:blue;">go-to person</strong>: (도움/정보를 얻기 위해) 찾는 전문가
+*   <strong style="color:blue;">lend me a hand</strong>: 도와주다
+*   <strong style="color:blue;">point me in the right direction</strong>: 올바른 방향을 가리켜주다 (조언하다)
+*   <strong style="color:blue;">pick your brain</strong>: (지식이 있는 사람에게) 조언/아이디어를 구하다
+*   <strong style="color:blue;">dive into</strong>: ~에 몰두하다/뛰어들다
+*   <strong style="color:blue;">get back to me</strong>: 나에게 다시 연락 주다
+*   <strong style="color:blue;">on me</strong>: 내가 사다 (내가 쏘다)
+
+---
+
+## 3. Unexpected (돌발질문): 자동화 기술에 따른 업무 환경 변화
+
+### Question
+**Technology is rapidly changing the way we work. In particular, the introduction of automation technology has significantly altered the work environment. How has your workplace changed due to these technologies? Discuss the positive and negative impacts of these changes.**
+(기술은 우리가 일하는 방식을 빠르게 바꾸고 있습니다. 특히 자동화 기술의 도입은 업무 환경을 크게 변화시켰습니다. 이러한 기술들로 인해 귀하의 직장은 어떻게 변했나요? 이러한 변화의 긍정적인 면과 부정적인 면을 논의해 보세요.)
+
+### Model Answer (AL Level)
+That’s a very <strong style="color:blue;">thought-provoking</strong> question. It’s undeniable that automation has completely reshaped the landscape of the modern workplace. In my experience, the introduction of RPA (Robotic Process Automation) and AI-driven tools has <strong style="color:blue;">paved the way</strong> for a more efficient work environment.
+
+On the positive side, automation has <strong style="color:blue;">taken over</strong> many of the mundane and repetitive tasks that used to <strong style="color:blue;">eat up</strong> hours of our day. For instance, data entry and basic report generation are now handled by scripts, which <strong style="color:blue;">frees up</strong> our time to focus on more creative and strategic problem-solving. This shift has definitely <strong style="color:blue;">brought about</strong> a boost in overall productivity and job satisfaction, as employees feel their work is more meaningful.
+
+However, it’s a <strong style="color:blue;">double-edged sword</strong>. One major downside is the growing concern over job security. Many people are worried that they might be <strong style="color:blue;">phased out</strong> as machines become more capable. Also, there is a steep learning curve involved. Employees have to <strong style="color:blue;">stay on their toes</strong> and constantly <strong style="color:blue;">brush up on</strong> their technical skills to <strong style="color:blue;">keep pace with</strong> the rapid advancements. 
+
+In conclusion, while automation <strong style="color:blue;">calls for</strong> a lot of adjustment and can be stressful at times, I believe the pros <strong style="color:blue;">outweigh the cons</strong>. It pushes us to evolve and find better ways to <strong style="color:blue;">work together</strong> with technology. We just need to ensure that the transition is managed properly so that no one is <strong style="color:blue;">left behind</strong>.
+
+### Key Vocabulary & Expressions
+*   **Reshape**: 재편하다, 모양을 바꾸다
+*   **Landscape**: 풍경 (업계의 지형)
+*   **Mundane**: 일상적인, 재미없는
+*   **Job security**: 고용 안정성
+*   **Steep learning curve**: 가파른 학습 곡선 (배우기 어려움)
+*   **Advancements**: 발전
+
+### Phrasal Verbs & Idioms (Blue & Bold)
+*   <strong style="color:blue;">thought-provoking</strong>: 시사하는 바가 큰 (생각을 불러일으키는)
+*   <strong style="color:blue;">paved the way</strong>: 길을 열어주다 (기틀을 마련하다)
+*   <strong style="color:blue;">taken over</strong>: 장악하다/인수하다 (업무를 대신하다)
+*   <strong style="color:blue;">eat up</strong>: 잡아먹다 (시간/돈 등을 소비하다)
+*   <strong style="color:blue;">frees up</strong>: (시간 등을) 확보하다/비우다
+*   <strong style="color:blue;">brought about</strong>: 야기하다/가져오다
+*   <strong style="color:blue;">double-edged sword</strong>: 양날의 검
+*   <strong style="color:blue;">phased out</strong>: 단계적으로 제거/도태되다
+*   <strong style="color:blue;">stay on their toes</strong>: 긴장을 늦추지 않다
+*   <strong style="color:blue;">keep pace with</strong>: ~와 보조를 맞추다
+*   <strong style="color:blue;">calls for</strong>: ~를 필요로 하다/요구하다
+*   <strong style="color:blue;">outweigh the cons</strong>: 단점보다 장점이 많다
+*   <strong style="color:blue;">work together</strong>: 협력하다
+*   <strong style="color:blue;">left behind</strong>: 뒤처지다
