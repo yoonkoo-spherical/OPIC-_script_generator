@@ -1653,3 +1653,104 @@ In conclusion, while automation <strong style="color:blue;">calls for</strong> a
 *   <strong style="color:blue;">outweigh the cons</strong>: 단점보다 장점이 많다
 *   <strong style="color:blue;">work together</strong>: 협력하다
 *   <strong style="color:blue;">left behind</strong>: 뒤처지다
+
+## 2026-03-23 04:56:21 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 전문 강사입니다. AL 등급은 단순히 문법이 정확한 것을 넘어, **문장 간의 논리적인 연결(Cohesion)**, **구체적이고 전문적인 어휘 사용**, 그리고 **자연스러운 원어민 표현(Filler 및 Idioms)**이 필수적입니다.
+
+지정하신 3가지 주제에 맞춰, 실제 시험에서 고득점을 받을 수 있는 모범 답안을 구성해 드립니다.
+
+---
+
+### [Topic 1] Description: Job/Major (반도체 소자 물리학 및 공정)
+
+**질문 (Question):**
+You indicated in the survey that you work in the semiconductor industry. Can you describe your job or major in detail? Please explain what specific field you are specializing in, such as device physics or fabrication processes, and what your typical day looks like.
+(당신은 설문조사에서 반도체 산업에 종사한다고 답변했습니다. 당신의 직업이나 전공에 대해 자세히 설명해 주시겠습니까? 반도체 소자 물리학이나 제조 공정 등 구체적으로 어떤 분야를 전문으로 하고 있는지, 그리고 일과가 어떻게 되는지 설명해 주세요.)
+
+**모범 답안 (Script):**
+"Well, Eva, let me <strong style="color:blue;">dive deep into</strong> what I do. I specialize in semiconductor device physics, which is basically the heart of modern technology. To <strong style="color:blue;">break it down</strong> for you, I focus on optimizing the performance of MOS transistors at the nanometer scale. Since we are dealing with such tiny dimensions, quantum mechanical effects often <strong style="color:blue;">come into play</strong>, making my work quite challenging yet fascinating.
+
+My typical day is a mix of simulation and hands-on analysis. I spend a significant amount of time <strong style="color:blue;">keeping an eye on</strong> the fabrication process, particularly the photolithography and etching stages. These steps are crucial because even a tiny speck of dust can <strong style="color:blue;">mess up</strong> the entire wafer. Whenever we encounter a yield issue, my team and I have to <strong style="color:blue;">figure out</strong> the root cause through failure analysis. 
+
+The semiconductor industry moves at a breakneck speed, so I always have to <strong style="color:blue;">keep up with</strong> the latest trends in GAA or EUV technology. It’s a high-pressure environment, but <strong style="color:blue;">at the end of the day</strong>, knowing that the chips I help develop will power the next generation of AI and smartphones makes me feel like I’m <strong style="color:blue;">on top of the world</strong>. It’s not just a job; it’s about pushing the boundaries of what’s possible."
+
+**주요 어휘 및 표현 리스트:**
+*   **Vocabulary:** Optimize (최적화하다), Nanometer scale (나노미터 규모), Quantum mechanical effects (양자역학적 효과), Photolithography (노광 공정), Etching (식각 공정), Yield (수율), Failure analysis (불량 분석), GAA/EUV (차세대 반도체 기술 용어).
+*   **Phrasal Verbs:** 
+    *   <strong style="color:blue;">dive deep into</strong>: ~에 깊이 파고들다/상세히 설명하다.
+    *   <strong style="color:blue;">break down</strong>: (이해하기 쉽게) 나누어 설명하다.
+    *   <strong style="color:blue;">come into play</strong>: 작용하기 시작하다/영향을 미치다.
+    *   <strong style="color:blue;">keeping an eye on</strong>: ~을 계속 지켜보다/주시하다.
+    *   <strong style="color:blue;">mess up</strong>: 망치다.
+    *   <strong style="color:blue;">figure out</strong>: 알아내다/해결하다.
+    *   <strong style="color:blue;">keep up with</strong>: ~을 따라잡다/뒤처지지 않다.
+*   **Idioms:**
+    *   <strong style="color:blue;">at the end of the day</strong>: 결국에는/가장 중요한 것은.
+    *   <strong style="color:blue;">on top of the world</strong>: 세상을 다 얻은 기분인/매우 뿌듯한.
+
+---
+
+### [Topic 2] Role-play: Rental Car Reservation & Defect Resolution
+
+**질문 (Question):**
+I’d like to give you a situation to act out. You are planning a trip and need to rent a car. Call the rental agency and ask three or four questions about the reservation. Then, imagine you have picked up the car, but you found a serious problem with it. Call the agency again, explain the situation, and suggest two or three solutions to resolve the problem.
+(상황극을 하나 드리겠습니다. 당신은 여행을 계획 중이며 렌터카를 빌려야 합니다. 렌터카 업체에 전화하여 예약에 관한 3~4가지 질문을 하세요. 그 다음, 차를 받았는데 심각한 결함을 발견했다고 가정합니다. 업체에 다시 전화하여 상황을 설명하고 문제 해결을 위한 2~3가지 대안을 제시하세요.)
+
+**모범 답안 (Script):**
+"(Part 1: Reservation)
+Hi there! I’m calling to <strong style="color:blue;">look into</strong> renting a vehicle for this coming weekend. I was <strong style="color:blue;">checking out</strong> your website and had a few questions. First, do you have any mid-sized SUVs available from Friday to Sunday? Also, I’d like to know if the insurance <strong style="color:blue;">covers</strong> everything, including roadside assistance. Lastly, could you <strong style="color:blue;">fill me in on</strong> your fuel policy? Do I need to <strong style="color:blue;">fill up</strong> the tank before returning it?
+
+(Part 2: Problem Resolution)
+Hello, I’m calling because I just picked up my rental car, a silver SUV, about 30 minutes ago, and I’ve <strong style="color:blue;">run into</strong> a serious issue. While I was driving on the highway, a warning light for the engine <strong style="color:blue;">popped up</strong>, and the car started making a strange grinding noise. This is quite concerning as I’m supposed to <strong style="color:blue;">head out</strong> for a long trip.
+
+To <strong style="color:blue;">sort this out</strong>, I have a couple of suggestions. First, could you send a replacement vehicle to my current location immediately? I really can’t afford to <strong style="color:blue;">fall behind</strong> my schedule. If that’s not possible, I’d like to <strong style="color:blue;">drop off</strong> this car at the nearest branch and get a full refund so I can find another rental service. Please <strong style="color:blue;">get back to me</strong> as soon as possible because I’m <strong style="color:blue;">running out of</strong> time."
+
+**주요 어휘 및 표현 리스트:**
+*   **Vocabulary:** Roadside assistance (긴급 출동 서비스), Fuel policy (연료 규정), Warning light (경고등), Grinding noise (끼익끼익 갈리는 소리), Replacement vehicle (교체 차량), Branch (지점), Refund (환불).
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">look into</strong>: ~에 대해 조사하다/알아보다.
+    *   <strong style="color:blue;">checking out</strong>: 확인하다/살펴보다.
+    *   <strong style="color:blue;">fill me in on</strong>: ~에 대해 자세히 알려주다.
+    *   <strong style="color:blue;">fill up</strong>: (가득) 채우다.
+    *   <strong style="color:blue;">run into</strong>: (문제 등에) 맞닥뜨리다.
+    *   <strong style="color:blue;">popped up</strong>: 갑자기 나타나다.
+    *   <strong style="color:blue;">head out</strong>: 출발하다.
+    *   <strong style="color:blue;">sort this out</strong>: 해결하다.
+    *   <strong style="color:blue;">fall behind</strong>: 뒤처지다/일정이 늦어지다.
+    *   <strong style="color:blue;">drop off</strong>: 갖다 놓다/반납하다.
+    *   <strong style="color:blue;">get back to me</strong>: 나에게 다시 연락 주다.
+    *   <strong style="color:blue;">running out of</strong>: ~이 다 떨어져 가다.
+
+---
+
+### [Topic 3] Unexpected: Recycling & Environment (Past vs. Present)
+
+**질문 (Question):**
+Recycling and environmental issues have changed significantly over the years. How did people recycle when you were a child compared to how they do it today? Please talk about the differences in environmental awareness and the recycling methods between the past and the present.
+(재활용과 환경 문제는 수년간 크게 변해왔습니다. 당신이 어렸을 때 사람들은 어떻게 재활용했는지, 오늘날과 비교하여 설명해 주세요. 과거와 현재의 환경 인식 및 재활용 방법의 차이점에 대해 이야기해 주시기 바랍니다.)
+
+**모범 답안 (Script):**
+"That’s a very <strong style="color:blue;">timely</strong> question. Looking back, <strong style="color:blue;">back in the day</strong> when I was a kid, recycling wasn't really <strong style="color:blue;">on the radar</strong> for most people. I remember we used to <strong style="color:blue;">throw away</strong> almost everything in a single trash bag. There were no strict rules about separating plastics, paper, or glass. We basically <strong style="color:blue;">took it for granted</strong> that the earth could handle all our waste. 
+
+Fast forward to today, and the landscape has changed completely. Nowadays, recycling is <strong style="color:blue;">a whole new ballgame</strong>. We have become much more <strong style="color:blue;">environmentally conscious</strong>. In Korea, for instance, we have a very meticulous system. We have to <strong style="color:blue;">wash out</strong> containers and <strong style="color:blue;">tear off</strong> plastic labels before putting them in the designated bins. If you don't <strong style="color:blue;">comply with</strong> these rules, you might even <strong style="color:blue;">end up</strong> paying a fine. 
+
+Moreover, people are actively trying to <strong style="color:blue;">cut down on</strong> single-use plastics. It’s no longer just about recycling; it’s about 'upcycling' and zero-waste movements. I think this shift <strong style="color:blue;">stems from</strong> the fact that we are witnessing the direct consequences of climate change. We can no longer <strong style="color:blue;">turn a blind eye to</strong> environmental issues. People are finally <strong style="color:blue;">waking up to</strong> the reality that we need to protect our planet for future generations."
+
+**주요 어휘 및 표현 리스트:**
+*   **Vocabulary:** Environmental awareness (환경 인식), Meticulous (꼼꼼한), Designated bins (지정된 수거함), Single-use plastics (일회용 플라스틱), Zero-waste (제로 웨이스트), Climate change (기후 변화).
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">throw away</strong>: 버리다.
+    *   <strong style="color:blue;">wash out</strong>: 씻어내다.
+    *   <strong style="color:blue;">tear off</strong>: 떼어내다.
+    *   <strong style="color:blue;">comply with</strong>: 준수하다/따르다.
+    *   <strong style="color:blue;">end up</strong>: 결국 ~하게 되다.
+    *   <strong style="color:blue;">cut down on</strong>: 줄이다.
+    *   <strong style="color:blue;">stems from</strong>: ~에서 기인하다/비롯되다.
+    *   <strong style="color:blue;">waking up to</strong>: ~을 깨닫기 시작하다.
+*   **Idioms:**
+    *   <strong style="color:blue;">back in the day</strong>: 옛날에/왕년에.
+    *   <strong style="color:blue;">on the radar</strong>: 고려 대상인/관심권에 있는.
+    *   <strong style="color:blue;">took it for granted</strong>: 당연하게 여기다.
+    *   <strong style="color:blue;">a whole new ballgame</strong>: 완전히 새로운 상황.
+    *   <strong style="color:blue;">turn a blind eye to</strong>: ~을 못 본 척하다/외면하다.
