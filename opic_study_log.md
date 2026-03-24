@@ -1754,3 +1754,147 @@ Moreover, people are actively trying to <strong style="color:blue;">cut down on<
     *   <strong style="color:blue;">took it for granted</strong>: 당연하게 여기다.
     *   <strong style="color:blue;">a whole new ballgame</strong>: 완전히 새로운 상황.
     *   <strong style="color:blue;">turn a blind eye to</strong>: ~을 못 본 척하다/외면하다.
+
+## 2026-03-24 04:46:43 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 전문 강사입니다. 
+
+AL 등급을 받기 위해서는 단순히 문법적으로 완벽한 문장을 구사하는 것을 넘어, **추상적인 개념을 구체화하는 능력**, **다양한 어휘 및 관용구 활용**, 그리고 **자연스러운 화제 전환 및 필러(Filler) 사용**이 필수적입니다. 요청하신 3가지 주제에 대해 AL 수준의 모범 답안을 구성해 드립니다.
+
+---
+
+## [Topic 1] 묘사 (Description): Semiconductor Device Physics & Process
+
+### **Question**
+You mentioned in the survey that you work in the semiconductor industry. Can you describe your job or major in detail? What exactly do you do regarding semiconductor device physics or the manufacturing process?
+
+당신은 설문조사에서 반도체 분야에서 일한다고 언급했습니다. 당신의 직업이나 전공에 대해 자세히 설명해 주시겠습니까? 반도체 소자 물리학이나 제조 공정과 관련하여 구체적으로 어떤 일을 하시나요?
+
+---
+
+### **Model Answer (AL Level)**
+
+"Well, Eva, to <strong style="color:blue;">start off</strong>, I specialize in semiconductor device physics, which is basically the heart and soul of modern electronics. If I were to <strong style="color:blue;">break it down</strong> for you, my work focuses on optimizing how electrons move within nanoscale transistors. It’s a field where we’re constantly <strong style="color:blue;">pushing the envelope</strong> to make chips faster, smaller, and more energy-efficient.
+
+Currently, I <strong style="color:blue;">am tied up with</strong> the photolithography and etching processes. In the semiconductor world, we often <strong style="color:blue;">run into</strong> what we call 'short-channel effects' as we shrink devices down to the 3-nanometer range. My job is to analyze these physical phenomena and <strong style="color:blue;">figure out</strong> ways to mitigate leakage current. It’s incredibly precise work; even a single speck of dust can <strong style="color:blue;">mess up</strong> the entire wafer.
+
+What I love about my job is being <strong style="color:blue;">on the cutting edge</strong> of technology. Every day, I have to <strong style="color:blue;">keep up with</strong> the latest research papers because the industry moves at a <strong style="color:blue;">breakneck speed</strong>. Sometimes, the troubleshooting process can be a bit <strong style="color:blue;">nerve-wracking</strong>, but when we finally <strong style="color:blue;">iron out</strong> a technical glitch and see the yield rates go up, it’s immensely rewarding. To <strong style="color:blue;">wrap up</strong>, I’d say my role is a mix of rigorous scientific theory and very hands-on problem-solving in the cleanroom."
+
+---
+
+### **Key Vocabulary & Expressions**
+*   **Nanoscale**: 나노 크기의
+*   **Transistor**: 트랜지스터
+*   **Photolithography**: 포토리소그래피 (노광 공정)
+*   **Etching**: 식각 공정
+*   **Yield rate**: 수율
+*   **Troubleshooting**: 문제 해결
+
+### **Phrasal Verbs & Idioms**
+*   <strong style="color:blue;">start off</strong>: 시작하다
+*   <strong style="color:blue;">break it down</strong>: 자세히 분석하다/설명하다
+*   <strong style="color:blue;">pushing the envelope</strong>: 한계를 돌파하다
+*   <strong style="color:blue;">am tied up with</strong>: ~로 아주 바쁘다
+*   <strong style="color:blue;">run into</strong>: (문제 등에) 맞닥뜨리다
+*   <strong style="color:blue;">figure out</strong>: 알아내다/해결하다
+*   <strong style="color:blue;">mess up</strong>: 망치다
+*   <strong style="color:blue;">on the cutting edge</strong>: 최첨단의
+*   <strong style="color:blue;">keep up with</strong>: ~을 따라잡다/유지하다
+*   <strong style="color:blue;">breakneck speed</strong>: 엄청나게 빠른 속도
+*   <strong style="color:blue;">nerve-wracking</strong>: 짜증나는/신경 쓰이는
+*   <strong style="color:blue;">iron out</strong>: 문제를 해결하다/다듬다
+*   <strong style="color:blue;">wrap up</strong>: 마무리 짓다
+
+---
+
+## [Topic 2] 롤플레이 (Role-play): Purchasing a High-Performance Laptop
+
+### **Question**
+You are planning to buy a high-performance laptop for your work. Call a local electronics store and ask two or three questions about the latest models. Then, after purchasing it, you realize there is a technical issue. Call the store again to request after-sales service.
+
+당신은 업무용 고성능 노트북을 구매하려고 합니다. 전자제품 매장에 전화하여 최신 모델에 대해 두세 가지 질문을 하십시오. 그 후, 제품을 구매했는데 기술적인 문제가 발생했습니다. 매장에 다시 전화하여 AS를 요청하십시오.
+
+---
+
+### **Model Answer (AL Level)**
+
+**(Part 1: Inquiry)**
+"Hi there! I’m <strong style="color:blue;">looking for</strong> a high-end laptop that can handle heavy software, specifically for semiconductor simulations. I was wondering if you <strong style="color:blue;">carry</strong> the latest models with the newest GPUs. Could you <strong style="color:blue;">fill me in on</strong> the RAM upgrade options? Also, I need something with a robust cooling system so it doesn't <strong style="color:blue;">act up</strong> during long rendering sessions. Do you have any recommendations that <strong style="color:blue;">stand out</strong> in terms of performance?"
+
+**(Part 2: AS Request)**
+"Hello, I’m calling because I <strong style="color:blue;">ran into</strong> a bit of a problem with the laptop I <strong style="color:blue;">picked up</strong> from your store yesterday. It seems like the screen keeps flickering, and I can’t <strong style="color:blue;">get it to</strong> work properly. I’ve tried to <strong style="color:blue;">look into</strong> the driver settings, but it’s still <strong style="color:blue;">acting up</strong>. Since this is <strong style="color:blue;">brand new</strong>, I’d like to <strong style="color:blue;">check on</strong> the possibility of a replacement or an immediate repair. Could you <strong style="color:blue;">point me in the right direction</strong> for the AS department? I really need to <strong style="color:blue;">sort this out</strong> quickly as I have a deadline <strong style="color:blue;">around the corner</strong>. Thank you."
+
+---
+
+### **Key Vocabulary & Expressions**
+*   **Simulation**: 시뮬레이션
+*   **GPU (Graphics Processing Unit)**: 그래픽 처리 장치
+*   **Rendering**: 렌더링
+*   **Flickering**: (화면이) 깜빡거리는
+*   **Replacement**: 교환/대체
+
+### **Phrasal Verbs & Idioms**
+*   <strong style="color:blue;">looking for</strong>: ~을 찾다
+*   <strong style="color:blue;">carry</strong>: (가게에서 상품을) 취급하다
+*   <strong style="color:blue;">fill me in on</strong>: ~에 대해 자세히 알려주다
+*   <strong style="color:blue;">act up</strong>: (기계 등이) 말을 안 듣다/문제를 일으키다
+*   <strong style="color:blue;">stand out</strong>: 두드러지다/뛰어나다
+*   <strong style="color:blue;">ran into</strong>: (문제에) 봉착하다
+*   <strong style="color:blue;">picked up</strong>: 구매하다/집어오다
+*   <strong style="color:blue;">get it to</strong>: ~하게 만들다/시키다
+*   <strong style="color:blue;">look into</strong>: 조사하다/살펴보다
+*   <strong style="color:blue;">brand new</strong>: 완전 새것인
+*   <strong style="color:blue;">check on</strong>: 확인하다
+*   <strong style="color:blue;">point me in the right direction</strong>: 나아갈 방향을 알려주다 (도움을 주다)
+*   <strong style="color:blue;">sort this out</strong>: 해결하다
+*   <strong style="color:blue;">around the corner</strong>: 코앞에 닥친
+
+---
+
+## [Topic 3] 돌발질문 (Unexpected): Generational Differences in Parenting
+
+### **Question**
+Parenting styles have changed significantly over the years. How do the ways parents raise their children today differ from the ways of the past? Specifically, talk about eating habits and general child-rearing methods.
+
+육아 방식은 수년에 걸쳐 크게 변했습니다. 오늘날 부모들이 아이를 키우는 방식은 과거와 어떻게 다릅니까? 특히 식습관과 전반적인 육아 방식에 대해 이야기해 보십시오.
+
+---
+
+### **Model Answer (AL Level)**
+
+"That’s a very <strong style="color:blue;">thought-provoking</strong> question. When I <strong style="color:blue;">look back on</strong> how my parents <strong style="color:blue;">brought me up</strong> compared to how people raise kids today, there’s a world of difference. 
+
+First, let's talk about eating habits. In the past, it was all about <strong style="color:blue;">cleaning one's plate</strong>. Parents were quite strict, and we had to eat whatever was <strong style="color:blue;">handed down</strong> to us, no questions asked. But nowadays, parents are much more <strong style="color:blue;">geared towards</strong> nutritional balance and individual preferences. There’s a huge <strong style="color:blue;">blow up</strong> in the popularity of organic foods and specialized diets. However, a downside is that many kids today <strong style="color:blue;">live on</strong> instant food or snacks because both parents are often working, which is a <strong style="color:blue;">far cry from</strong> the homemade meals of the past.
+
+In terms of general child-rearing, the shift is even more <strong style="color:blue;">striking</strong>. Older generations often <strong style="color:blue;">leaned towards</strong> a more 'top-down' authoritative style. Discipline was often <strong style="color:blue;">cut and dried</strong>. Today, however, there’s a much stronger emphasis on 'gentle parenting' and emotional intelligence. Parents try to <strong style="color:blue;">level with</strong> their children and explain the 'why' behind rules rather than just <strong style="color:blue;">laying down the law</strong>. 
+
+Also, we can't ignore the role of technology. While I used to <strong style="color:blue;">hang out</strong> with friends in the dirt, kids today <strong style="color:blue;">are glued to</strong> their tablets. This has <strong style="color:blue;">given rise to</strong> new parenting challenges like managing screen time. All in all, while the core love remains the same, the methods have <strong style="color:blue;">taken a 180-degree turn</strong> to adapt to our fast-paced, digital world."
+
+---
+
+### **Key Vocabulary & Expressions**
+*   **Authoritative**: 권위적인
+*   **Nutritional balance**: 영양 균형
+*   **Organic**: 유기농의
+*   **Emotional intelligence**: 감성 지능
+*   **Screen time**: (전자기기) 화면 시청 시간
+
+### **Phrasal Verbs & Idioms**
+*   <strong style="color:blue;">thought-provoking</strong>: 시사하는 바가 큰/생각을 자극하는
+*   <strong style="color:blue;">look back on</strong>: 회상하다
+*   <strong style="color:blue;">brought me up</strong>: 나를 길러주다
+*   <strong style="color:blue;">cleaning one's plate</strong>: 접시를 비우다 (음식을 다 먹다)
+*   <strong style="color:blue;">handed down</strong>: 건네받다/전해 내려오다
+*   <strong style="color:blue;">geared towards</strong>: ~에 맞춰져 있다
+*   <strong style="color:blue;">blow up</strong>: 급증/폭발적인 인기
+*   <strong style="color:blue;">live on</strong>: ~을 주식으로 살다
+*   <strong style="color:blue;">far cry from</strong>: ~와는 거리가 먼
+*   <strong style="color:blue;">striking</strong>: 눈에 띄는/놀라운
+*   <strong style="color:blue;">leaned towards</strong>: ~로 기우는 경향이 있다
+*   <strong style="color:blue;">cut and dried</strong>: 명확한/미리 결정된
+*   <strong style="color:blue;">level with</strong>: ~에게 솔직하게 대하다
+*   <strong style="color:blue;">laying down the law</strong>: 강압적으로 규칙을 세우다
+*   <strong style="color:blue;">hang out</strong>: 어울려 놀다
+*   <strong style="color:blue;">are glued to</strong>: ~에 달라붙어 있다 (열중하다)
+*   <strong style="color:blue;">given rise to</strong>: ~을 야기하다
+*   <strong style="color:blue;">taken a 180-degree turn</strong>: 180도 변하다
