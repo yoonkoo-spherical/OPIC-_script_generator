@@ -1898,3 +1898,140 @@ Also, we can't ignore the role of technology. While I used to <strong style="col
 *   <strong style="color:blue;">are glued to</strong>: ~에 달라붙어 있다 (열중하다)
 *   <strong style="color:blue;">given rise to</strong>: ~을 야기하다
 *   <strong style="color:blue;">taken a 180-degree turn</strong>: 180도 변하다
+
+## 2026-03-25 04:47:50 OPIc Study
+
+반갑습니다! OPIc AL 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 문법적으로 완벽한 문장을 구사하는 것을 넘어, **풍부한 어휘 선택, 자연스러운 화제 전환, 그리고 감정을 실은 생생한 전달력**이 필수적입니다.
+
+제시해주신 3가지 주제를 바탕으로, 실제 시험에서 고득점을 보장하는 전문적인 문항과 모범 답안을 구성해 드립니다.
+
+---
+
+## 1. Description (묘사): 관심 있는 스포츠 및 경기장
+
+**Question:**
+You mentioned in the survey that you are interested in sports. I would like to know about your favorite sport, particularly professional baseball. Can you describe your favorite baseball team and the stadium where they play? What makes that place so special?
+
+(당신은 설문조사에서 스포츠에 관심이 있다고 언급했습니다. 당신이 가장 좋아하는 스포츠인 프로야구에 대해 알고 싶습니다. 당신이 좋아하는 야구팀과 그들이 경기를 치르는 경기장에 대해 묘사해 주시겠어요? 그곳을 특별하게 만드는 것은 무엇인가요?)
+
+**[AL Level Model Answer]**
+
+"Well, honestly, I’m a huge fan of professional baseball, and my heart definitely belongs to the Doosan Bears. There’s something incredibly electric about their games. When it comes to their home ground, Jamsil Baseball Stadium in Seoul is the place to be. It’s one of the oldest and largest stadiums in Korea, and it has this classic, nostalgic vibe that you just can’t find in newer ballparks.
+
+The stadium itself is massive. When you first walk through the gates, the sheer scale of the field <strong style="color:blue;">takes your breath away</strong>. The contrast between the emerald-green grass and the red dirt of the infield is just stunning. But what really <strong style="color:blue;">sets it apart</strong> is the atmosphere. In Korea, baseball isn't just a sport; it's a festival. Each player has their own cheer song, and thousands of fans <strong style="color:blue;">sing their hearts out</strong> in unison. 
+
+I clearly remember a game I attended last summer. It was a night game, and as the sun began to <strong style="color:blue;">go down</strong>, the stadium lights <strong style="color:blue;">kicked in</strong>, making the whole field glow like a stage. I was sitting in the cheering zone, and the energy was so intense that I couldn't help but <strong style="color:blue;">get carried away</strong>. We were trailing behind until the bottom of the ninth, but then our main hitter <strong style="color:blue;">knocked it out of the park</strong> for a walk-off home run. The entire crowd <strong style="color:blue;">went nuts</strong>! 
+
+To <strong style="color:blue;">top it all off</strong>, the food at Jamsil is amazing. You haven't lived until you've tried 'Chimaek'—chicken and beer—while watching a live game. The combination of the cheering, the delicious food, and the thrill of the game makes the stadium feel like a second home to me. I always <strong style="color:blue;">look forward to</strong> going back there every season."
+
+**[Key Vocabulary & Expressions]**
+*   **Nostalgic:** 향수를 불러일으키는
+*   **In unison:** 일제히, 한 목소리로
+*   **Trailing behind:** 뒤처지고 있는
+*   **Walk-off home run:** 끝내기 홈런
+
+**[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">Take one's breath away</strong>: (숨이 멎을 정도로) 깜짝 놀라게 하다
+*   <strong style="color:blue;">Set something apart</strong>: ~을 차별화하다, 돋보이게 하다
+*   <strong style="color:blue;">Sing one's heart out</strong>: 열창하다, 온 힘을 다해 노래하다
+*   <strong style="color:blue;">Go down</strong>: (해 등이) 지다
+*   <strong style="color:blue;">Kick in</strong>: 효과가 나타나기 시작하다, 작동하다
+*   <strong style="color:blue;">Get carried away</strong>: 넋을 잃다, 흥분하다
+*   <strong style="color:blue;">Knock it out of the park</strong>: (야구) 홈런을 치다, (비유) 아주 훌륭히 해내다
+*   <strong style="color:blue;">Go nuts</strong>: 열광하다, 미치다
+*   <strong style="color:blue;">Top it all off</strong>: 게다가, 금상첨화로
+*   <strong style="color:blue;">Look forward to</strong>: ~을 고대하다
+
+---
+
+## 2. Role-play (롤플레이): 은행/증권사 포트폴리오 상담
+
+**Question:**
+I'd like to give you a situation and ask you to act it out. You are visiting a securities firm to consult with a financial advisor about rebalancing your investment portfolio, which consists of stocks and bonds. Ask 3 or 4 questions to the advisor to get the information you need.
+
+(상황을 하나 드릴 테니 연기해 보세요. 당신은 주식과 채권으로 구성된 투자 포트폴리오의 리밸런싱을 위해 자산관리사와 상담하러 증권사를 방문했습니다. 필요한 정보를 얻기 위해 상담사에게 3~4가지 질문을 하세요.)
+
+**[AL Level Model Answer]**
+
+"Hi there! Good morning. I have an appointment with Mr. Kim at 2 PM for a financial consultation. Oh, are you Mr. Kim? Great, nice to meet you.
+
+The reason I <strong style="color:blue;">dropped by</strong> today is that I feel like my current investment portfolio needs a bit of a makeover. Given the recent market volatility, I’m worried that my asset allocation is a bit <strong style="color:blue;">out of whack</strong>. 
+
+First off, I’ve noticed that my tech stocks have <strong style="color:blue;">run up</strong> significantly over the last quarter, while my bond holdings have <strong style="color:blue;">fallen behind</strong>. Could you <strong style="color:blue;">look over</strong> my current ratio and see if it still aligns with my moderate risk tolerance? I want to make sure I’m not overexposed to a single sector.
+
+Secondly, I’ve been thinking about <strong style="color:blue;">phasing out</strong> some of my underperforming small-cap stocks. Do you think now is a good time to <strong style="color:blue;">cash in on</strong> the gains from my blue-chip stocks and reinvest them into more stable corporate bonds? I’d like to <strong style="color:blue;">lock in</strong> some profits while the market is still relatively high.
+
+Also, I’m curious about the current interest rate environment. How should I <strong style="color:blue;">deal with</strong> the potential rate hikes? Should I <strong style="color:blue;">hold off on</strong> buying long-term bonds for now? 
+
+Lastly, could you <strong style="color:blue;">run through</strong> the tax implications of these changes? I want to <strong style="color:blue;">keep an eye on</strong> the capital gains tax. I’d really appreciate it if you could <strong style="color:blue;">flesh out</strong> a detailed plan for me by the end of this session. Thanks!"
+
+**[Key Vocabulary & Expressions]**
+*   **Volatility:** 변동성
+*   **Asset allocation:** 자산 배분
+*   **Risk tolerance:** 위험 감수 성향
+*   **Small-cap stocks:** 소형주
+*   **Blue-chip stocks:** 우량주
+*   **Tax implications:** 세금 문제(영향)
+
+**[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">Drop by</strong>: 잠깐 들르다
+*   <strong style="color:blue;">Out of whack</strong>: 제대로 작동하지 않는, 균형이 깨진
+*   <strong style="color:blue;">Run up</strong>: (값이) 치솟다
+*   <strong style="color:blue;">Fall behind</strong>: 뒤쳐지다
+*   <strong style="color:blue;">Look over</strong>: 살펴보다, 검토하다
+*   <strong style="color:blue;">Phase out</strong>: 단계적으로 중단하다/제거하다
+*   <strong style="color:blue;">Cash in on</strong>: ~으로 이득을 보다, (수익을 위해) 매도하다
+*   <strong style="color:blue;">Lock in</strong>: (가격을) 고정시키다, (이익을) 확정짓다
+*   <strong style="color:blue;">Deal with</strong>: 다루다, 대처하다
+*   <strong style="color:blue;">Hold off on</strong>: ~을 미루다, 보류하다
+*   <strong style="color:blue;">Run through</strong>: ~을 빠르게 훑어보다/설명하다
+*   <strong style="color:blue;">Keep an eye on</strong>: ~을 계속 지켜보다/주시하다
+*   <strong style="color:blue;">Flesh out</strong>: 구체화하다, 살을 붙이다
+
+---
+
+## 3. Unexpected (돌발질문): 대중교통 이용 시 돌발 상황
+
+**Question:**
+Unexpected things can happen when using public transportation. Tell me about a time when you experienced a problem while using a bus or subway. What exactly happened, how did you handle the situation, and what was the final outcome?
+
+(대중교통 이용 시 예상치 못한 일이 발생할 수 있습니다. 버스나 지하철을 이용하다가 겪었던 문제에 대해 이야기해 주세요. 정확히 무슨 일이 있었고, 상황에 어떻게 대처했으며, 결과는 어떠했나요?)
+
+**[AL Level Model Answer]**
+
+"Oh boy, I have a story that I’ll never forget. It happened about a year ago when I was <strong style="color:blue;">on my way to</strong> a very important job interview. I usually <strong style="color:blue;">count on</strong> the subway because it’s known for being <strong style="color:blue;">on time</strong>, but that day, everything <strong style="color:blue;">fell apart</strong>.
+
+I was sitting on Line 2, calmly reviewing my notes, when suddenly the train <strong style="color:blue;">pulled up</strong> to a halt between stations. At first, I didn't <strong style="color:blue;">think much of</strong> it, but after ten minutes, an announcement <strong style="color:blue;">came through</strong> saying there was a technical malfunction on the tracks. I started to <strong style="color:blue;">freak out</strong> because the interview was only 30 minutes away!
+
+I realized I couldn't just sit there and <strong style="color:blue;">wait it out</strong>. As soon as the train slowly <strong style="color:blue;">backed up</strong> to the previous station and the doors opened, I <strong style="color:blue;">dashed out</strong> and headed straight for the exit. I tried to <strong style="color:blue;">flag down</strong> a taxi, but since the subway was down, everyone else was doing the same thing. It was total chaos.
+
+I had to <strong style="color:blue;">think on my feet</strong>. I pulled out my phone and checked for any shared electric scooters nearby. Luckily, I <strong style="color:blue;">ran into</strong> one right around the corner. I had never used one before, but I <strong style="color:blue;">signed up</strong> on the app instantly and started zipping through the traffic. 
+
+Believe it or not, I <strong style="color:blue;">showed up</strong> at the company building with only two minutes to spare. I was a bit <strong style="color:blue;">out of breath</strong> and my hair was a mess, but I took a deep breath, <strong style="color:blue;">pulled myself together</strong>, and nailed the interview. It turns out, they liked my 'can-do' attitude when I told them how I got there. Looking back, it was a <strong style="color:blue;">close call</strong>, but it definitely taught me to always have a plan B!"
+
+**[Key Vocabulary & Expressions]**
+*   **Malfunction:** 고장, 기능 부전
+*   **Chaos:** 혼란
+*   **Zip through:** 빠르게 지나가다
+*   **Can-do attitude:** 위기 극복 태도, 할 수 있다는 자세
+
+**[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">On my way to</strong>: ~로 가는 길에
+*   <strong style="color:blue;">Count on</strong>: ~을 믿다, 의지하다
+*   <strong style="color:blue;">On time</strong>: 제시간에
+*   <strong style="color:blue;">Fall apart</strong>: 무너지다, 계획이 틀어지다
+*   <strong style="color:blue;">Pull up</strong>: (차량이) 서다, 멈추다
+*   <strong style="color:blue;">Think much of</strong>: ~을 대단하게 여기다
+*   <strong style="color:blue;">Come through</strong>: (메시지 등이) 들어오다, 전달되다
+*   <strong style="color:blue;">Freak out</strong>: 자지러지다, 공포에 질리다
+*   <strong style="color:blue;">Wait it out</strong>: (상황이 나아질 때까지) 참고 기다리다
+*   <strong style="color:blue;">Back up</strong>: 후진하다, 뒤로 물러나다
+*   <strong style="color:blue;">Dash out</strong>: 급히 뛰어나가다
+*   <strong style="color:blue;">Flag down</strong>: (택시 등을) 세우다
+*   <strong style="color:blue;">Think on one's feet</strong>: 결단력 있게 행동하다, 즉각 생각하다
+*   <strong style="color:blue;">Run into</strong>: 우연히 마주치다/발견하다
+*   <strong style="color:blue;">Sign up</strong>: 등록하다, 가입하다
+*   <strong style="color:blue;">Show up</strong>: 나타나다, 도착하다
+*   <strong style="color:blue;">Out of breath</strong>: 숨이 찬
+*   <strong style="color:blue;">Pull oneself together</strong>: 마음을 가다듬다, 진정하다
+*   <strong style="color:blue;">Close call</strong>: 위기일발, 아슬아슬한 순간
