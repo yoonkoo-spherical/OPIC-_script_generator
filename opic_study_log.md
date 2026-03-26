@@ -2035,3 +2035,115 @@ Believe it or not, I <strong style="color:blue;">showed up</strong> at the compa
 *   <strong style="color:blue;">Out of breath</strong>: 숨이 찬
 *   <strong style="color:blue;">Pull oneself together</strong>: 마음을 가다듬다, 진정하다
 *   <strong style="color:blue;">Close call</strong>: 위기일발, 아슬아슬한 순간
+
+## 2026-03-26 04:59:30 OPIc Study
+
+안녕하세요! OPIc AL 등급을 목표로 하는 여러분을 위한 전문 강사입니다. AL 등급을 달성하기 위해서는 단순히 영어를 잘하는 것을 넘어, **문장 간의 자연스러운 연결(Cohesion), 구체적인 묘사(Detail), 그리고 세련된 어휘 및 관용구(Idioms & Phrasal Verbs)의 활용**이 필수적입니다.
+
+오늘 지정된 세 가지 주제에 대해 약 2분 30초 분량의 고득점 모범 답안을 구성해 드리겠습니다.
+
+---
+
+### [주제 1] 묘사 (Description): 가장 좋아하는 방과 가구 배치
+
+**Question:**
+Tell me about your favorite room in your home. What does it look like, and how is the furniture arranged? Please also mention how you consider the path for your robot vacuum when arranging things.
+(당신이 집에서 가장 좋아하는 방에 대해 말해주세요. 그 방은 어떻게 생겼고, 가구 배치는 어떻게 되어 있나요? 가구를 배치할 때 로봇청소기의 동선을 어떻게 고려하는지도 함께 언급해 주세요.)
+
+**Model Answer (AL Level):**
+
+Well, if I had to pick my absolute favorite spot in my house, it would definitely be my living room. It’s not just a place to sit; it’s my personal sanctuary where I <strong style="color:blue;">wind down</strong> after a long day. I’ve gone for a very minimalist, "Scandi-style" interior, so the whole room feels very airy and bright. 
+
+Regarding the layout, I have a large, L-shaped charcoal sofa positioned against the main wall. Right across from it, there’s a sleek, floating TV stand. I decided to <strong style="color:blue;">do away with</strong> a traditional coffee table because I wanted to keep the center of the room completely open. This is actually where my robot vacuum, which I’ve nicknamed "Dusty," comes into play. 
+
+You see, I’m quite obsessed with efficiency. When I was <strong style="color:blue;">setting up</strong> the furniture, I made sure there were no cluttered corners or low-clearance areas where the vacuum might <strong style="color:blue;">get stuck</strong>. For instance, I chose a sofa with high legs so Dusty can easily <strong style="color:blue;">pass through</strong> underneath without any trouble. Also, I’ve <strong style="color:blue;">tucked away</strong> all the power cords behind the TV stand using cable organizers to ensure the robot doesn't <strong style="color:blue;">tangle up</strong> in them. 
+
+Keeping the floor <strong style="color:blue;">spick and span</strong> is <strong style="color:blue;">a piece of cake</strong> because of this layout. Since there’s an <strong style="color:blue;">unobstructed path</strong>, the vacuum finishes its cycle in record time. All in all, the combination of my cozy sofa and the clean, open floor space makes this room the perfect place for me to relax without any distractions.
+
+**Vocabulary & Expressions:**
+*   Sanctuary: 안식처
+*   Minimalist: 미니멀리스트(최소한의)
+*   Low-clearance: 틈새(높이)가 낮은
+*   <strong style="color:blue;">Wind down</strong>: (긴장을 풀고) 쉬다
+*   <strong style="color:blue;">Do away with</strong>: ~을 없애다, 처분하다
+*   <strong style="color:blue;">Set up</strong>: 설치하다, 배치하다
+*   <strong style="color:blue;">Get stuck</strong>: 움직이지 못하게 되다, 끼이다
+*   <strong style="color:blue;">Pass through</strong>: 통과하다
+*   <strong style="color:blue;">Tuck away</strong>: (보이지 않게) 치워두다, 숨기다
+*   <strong style="color:blue;">Tangle up</strong>: 엉키게 하다
+*   <strong style="color:blue;">Spick and span</strong>: 아주 깔끔한
+*   <strong style="color:blue;">A piece of cake</strong>: 아주 식은 죽 먹기
+*   <strong style="color:blue;">Unobstructed path</strong>: 방해물이 없는 경로
+
+---
+
+### [주제 2] 롤플레이 (Role-play): 렌터카 예약 및 차량 결함 해결
+
+**Question:**
+(1) Call a car rental agency to make a reservation for a trip. Ask three or four questions about the cars and the process.
+(2) You have picked up the car, but you've discovered a serious problem with it. Call the agency, explain the defect, and suggest a solution.
+(1. 여행을 위해 렌터카 업체에 전화하여 예약을 진행하세요. 차량과 절차에 대해 3~4가지 질문을 하세요. 2. 차량을 인도받았으나 심각한 결함을 발견했습니다. 업체에 전화하여 결함을 설명하고 해결책을 제시하세요.)
+
+**Model Answer (AL Level):**
+
+**(Part 1: Reservation)**
+Hi there! I’m calling to <strong style="color:blue;">book a ride</strong> for my upcoming trip to Jeju next weekend. I’m looking for a mid-sized sedan, preferably something fuel-efficient like a hybrid. Could you tell me if you have any available? Also, I’d like to know what the daily rate is and if that includes full insurance coverage—I want to <strong style="color:blue;">play it safe</strong>, you know? One more thing, do your cars <strong style="color:blue;">come with</strong> a built-in GPS, or should I bring my own? Lastly, what’s your policy if I need to <strong style="color:blue;">call off</strong> the reservation at the last minute? 
+
+**(Part 2: Problem & Solution)**
+Hello, I’m calling because I just <strong style="color:blue;">pulled over</strong> after picking up the Hyundai Sonata I rented an hour ago. I’ve <strong style="color:blue;">run into</strong> a pretty serious issue. The engine is making a loud, rattling noise, and the "Check Engine" light just <strong style="color:blue;">popped up</strong> on the dashboard. This is quite concerning as I’m supposed to drive up to the mountains today. 
+
+Since I don't want to <strong style="color:blue;">take a chance</strong> with my safety, I’d like to request an immediate vehicle swap. Could you <strong style="color:blue;">look into</strong> sending a replacement car to my current location? Or, if you can <strong style="color:blue;">sort out</strong> a full refund, I’ll just go to another agency nearby. I really need to <strong style="color:blue;">get a move on</strong> with my schedule, so I'd appreciate it if you could handle this <strong style="color:blue;">on the double</strong>.
+
+**Vocabulary & Expressions:**
+*   Mid-sized sedan: 중형 세단
+*   Fuel-efficient: 연비가 좋은
+*   <strong style="color:blue;">Book a ride</strong>: 차량을 예약하다
+*   <strong style="color:blue;">Play it safe</strong>: 신중을 기하다, 위험을 피하다
+*   <strong style="color:blue;">Come with</strong>: ~이 딸려 있다
+*   <strong style="color:blue;">Call off</strong>: 취소하다
+*   <strong style="color:blue;">Pull over</strong>: 차를 길가에 세우다
+*   <strong style="color:blue;">Run into</strong>: (문제 등에) 맞닥뜨리다
+*   <strong style="color:blue;">Pop up</strong>: 갑자기 나타나다
+*   <strong style="color:blue;">Take a chance</strong>: 위험을 무릅쓰다
+*   <strong style="color:blue;">Look into</strong>: 조사하다, 확인하다
+*   <strong style="color:blue;">Sort out</strong>: 해결하다, 정리하다
+*   <strong style="color:blue;">Get a move on</strong>: 서두르다
+*   <strong style="color:blue;">On the double</strong>: 즉시, 지체 없이
+
+---
+
+### [주제 3] 돌발질문 (Unexpected): 인공지능 및 기술 발전의 영향
+
+**Question:**
+Technology, especially Artificial Intelligence, is rapidly changing our world. How has AI influenced your daily life? Furthermore, what kind of impact do you think it is having on the economy and various industries?
+(기술, 특히 인공지능은 세상을 빠르게 변화시키고 있습니다. AI가 당신의 일상에 어떤 영향을 주었나요? 나아가, 경제와 다양한 산업에는 어떤 영향을 미치고 있다고 생각하십니까?)
+
+**Model Answer (AL Level):**
+
+It’s truly mind-blowing how much AI has <strong style="color:blue;">taken over</strong> our lives in such a short span of time. To <strong style="color:blue;">kick off</strong> with my personal experience, I use AI-driven tools almost every hour. For instance, I rely heavily on AI virtual assistants to <strong style="color:blue;">keep track of</strong> my schedule. Also, generative AI like ChatGPT has <strong style="color:blue;">brought about</strong> a massive change in how I work; it helps me brainstorm ideas and <strong style="color:blue;">flesh out</strong> drafts within seconds. It’s like having a personal consultant that never sleeps.
+
+On a broader scale, the impact of AI on the economy and industry is a <strong style="color:blue;">double-edged sword</strong>. On one hand, it has <strong style="color:blue;">paved the way for</strong> unprecedented productivity. In manufacturing, AI-integrated robots can <strong style="color:blue;">crank out</strong> products with zero errors, which significantly <strong style="color:blue;">cuts down on</strong> operational costs. In the financial sector, AI algorithms analyze market trends to <strong style="color:blue;">point out</strong> investment opportunities that humans might miss.
+
+However, we can’t <strong style="color:blue;">gloss over</strong> the potential downsides. Many people are worried that AI will <strong style="color:blue;">eat away at</strong> job opportunities, especially in entry-level positions. It’s a <strong style="color:blue;">tough pill to swallow</strong>, but many traditional roles are being <strong style="color:blue;">phased out</strong>. 
+
+In conclusion, while technology <strong style="color:blue;">comes with</strong> certain risks regarding job security, I believe it’s an inevitable <strong style="color:blue;">paradigm shift</strong>. If we learn to <strong style="color:blue;">keep up with</strong> these changes, AI will continue to be a powerful engine for economic growth.
+
+**Vocabulary & Expressions:**
+*   Mind-blowing: 놀라운
+*   Unprecedented: 전례 없는
+*   <strong style="color:blue;">Take over</strong>: 장악하다, 점령하다
+*   <strong style="color:blue;">Kick off</strong>: 시작하다
+*   <strong style="color:blue;">Keep track of</strong>: ~을 파악하다, 추적하다
+*   <strong style="color:blue;">Brought about</strong>: 야기하다, 불러오다
+*   <strong style="color:blue;">Flesh out</strong>: 구체화하다, 살을 붙이다
+*   <strong style="color:blue;">Double-edged sword</strong>: 양날의 검
+*   <strong style="color:blue;">Paved the way for</strong>: ~을 위한 길을 닦다
+*   <strong style="color:blue;">Crank out</strong>: 빠르게 생산하다
+*   <strong style="color:blue;">Cut down on</strong>: ~을 줄이다
+*   <strong style="color:blue;">Point out</strong>: 지적하다, 가리키다
+*   <strong style="color:blue;">Gloss over</strong>: 대충 얼버무리다, 숨기다
+*   <strong style="color:blue;">Eat away at</strong>: ~을 갉아먹다(축소시키다)
+*   <strong style="color:blue;">Tough pill to swallow</strong>: 받아들이기 힘든 사실
+*   <strong style="color:blue;">Phase out</strong>: 단계적으로 중단하다/제거하다
+*   <strong style="color:blue;">Paradigm shift</strong>: 패러다임의 전환
+*   <strong style="color:blue;">Keep up with</strong>: ~을 따라잡다, 보조를 맞추다
