@@ -2147,3 +2147,157 @@ In conclusion, while technology <strong style="color:blue;">comes with</strong> 
 *   <strong style="color:blue;">Phase out</strong>: 단계적으로 중단하다/제거하다
 *   <strong style="color:blue;">Paradigm shift</strong>: 패러다임의 전환
 *   <strong style="color:blue;">Keep up with</strong>: ~을 따라잡다, 보조를 맞추다
+
+## 2026-03-27 05:00:54 OPIc Study
+
+안녕하세요! OPIc AL 취득을 위한 전문 강사입니다. 
+
+AL 등급을 받기 위해서는 단순히 질문에 답하는 것을 넘어, **시제의 유연한 사용, 풍부한 형용사와 부사의 활용, 그리고 원어민스러운 구동사와 관용구의 자연스러운 배치**가 필수적입니다. 제시해주신 세 가지 주제를 바탕으로 고득점용 모범 답안을 구성해 드립니다.
+
+---
+
+## 1. Description: 평소 즐겨 입는 옷차림
+
+### **[Question]**
+I'd like to know about your fashion sense. What kind of clothes do you usually enjoy wearing? Do you have a favorite brand or a specific style, like knit cardigans? Please describe your favorite outfit in detail.
+
+나는 당신의 패션 감각에 대해 알고 싶습니다. 평소에 어떤 종류의 옷을 즐겨 입나요? 선호하는 브랜드나 니트 가디건 같은 특별한 스타일이 있나요? 당신이 가장 좋아하는 복장을 자세히 설명해 주세요.
+
+---
+
+### **[Model Answer]**
+
+To be honest, I wouldn’t call myself a fashionista, but I definitely <strong style="color:blue;">take pride in</strong> my "smart-casual" look. My absolute go-to style, especially during the transitional seasons like spring or autumn, revolves around high-quality knitwear. Specifically, I’m a huge fan of Ralph Lauren’s cable-knit cardigans. 
+
+There’s something about the texture of a well-made knit that <strong style="color:blue;">stands out</strong>. I usually <strong style="color:blue;">put on</strong> a simple white T-shirt or a light linen shirt and then layer it with a navy or beige cardigan. I feel like this combination <strong style="color:blue;">strikes a balance</strong> between being professional and staying comfortable. It’s perfect for both a casual office environment and a weekend date. 
+
+I tend to <strong style="color:blue;">lean towards</strong> neutral colors because they <strong style="color:blue;">go well with</strong> almost anything. When it comes to the fit, I prefer a slightly oversized silhouette because I don't want to feel restricted while I'm moving around. To <strong style="color:blue;">top it all off</strong>, I usually wear a pair of well-fitted dark denim jeans and clean white sneakers. 
+
+I’ve noticed that when I <strong style="color:blue;">dress up</strong> in this outfit, it <strong style="color:blue;">boosts my confidence</strong>. It’s not just about looking good; it’s about feeling "put together." Even if I’m <strong style="color:blue;">pressed for time</strong> in the morning, I can just <strong style="color:blue;">throw on</strong> my favorite cardigan and I’m <strong style="color:blue;">good to go</strong>. This effortless yet polished look is definitely my signature style.
+
+---
+
+### **[주요 표현 정리]**
+
+**1. 주요 어휘(Vocabulary)**
+*   **Transitional seasons:** 환절기
+*   **Silhouette:** 실루엣, 외형
+*   **Restricted:** 제한된, 답답한
+*   **Effortless:** 공들이지 않은 듯 자연스러운
+*   **Polished:** 세련된, 다듬어진
+
+**2. 주요 구동사(Phrasal Verbs)**
+*   <strong style="color:blue;">Stand out</strong>: 눈에 띄다, 두드러지다
+*   <strong style="color:blue;">Put on</strong>: (옷을) 입다
+*   <strong style="color:blue;">Lean towards</strong>: ~을 선호하다, ~하는 경향이 있다
+*   <strong style="color:blue;">Dress up</strong>: 갖춰 입다
+*   <strong style="color:blue;">Throw on</strong>: (옷을) 대충 걸치다, 빨리 입다
+
+**3. 주요 숙어(Idioms)**
+*   <strong style="color:blue;">Take pride in</strong>: ~에 자부심을 가지다
+*   <strong style="color:blue;">Strike a balance</strong>: 균형을 맞추다
+*   <strong style="color:blue;">Go well with</strong>: ~와 잘 어울리다
+*   <strong style="color:blue;">Top it all off</strong>: (마무리로) 그 위에 더하여
+*   <strong style="color:blue;">Boost one's confidence</strong>: 자신감을 북돋우다
+*   <strong style="color:blue;">Pressed for time</strong>: 시간에 쫓기는
+*   <strong style="color:blue;">Good to go</strong>: 준비가 다 된
+
+---
+
+## 2. Role-play: 렌터카 예약 및 차량 결함 해결
+
+### **[Question]**
+(Part 1) You are planning a trip and need to rent a car. Call a rental agency and ask three or four questions about the reservation.
+(Part 2) You have picked up the car, but you have found a problem with it. Call the agency again, explain the situation, and suggest two or three solutions to solve the problem.
+
+(Part 1) 당신은 여행을 계획 중이며 차를 빌려야 합니다. 렌터카 업체에 전화해서 예약에 관한 3~4가지 질문을 하세요.
+(Part 2) 차를 수령했는데, 차량에 결함을 발견했습니다. 업체에 다시 전화하여 상황을 설명하고, 문제를 해결하기 위한 2~3가지 대안을 제시하세요.
+
+---
+
+### **[Model Answer]**
+
+**(Part 1: Reservation)**
+"Hi there! I’m calling to <strong style="color:blue;">check on</strong> some details regarding a car rental for this coming weekend. I’m looking for a mid-sized SUV. First, do you have any vehicles available from Friday morning to Sunday evening? Also, I’d like to know if the rental fee <strong style="color:blue;">covers</strong> full insurance, or do I need to <strong style="color:blue;">sign up for</strong> an extra package? Lastly, is there a limit on the mileage, or can I drive as much as I want? Please <strong style="color:blue;">get back to me</strong> when you have a moment. Thanks!"
+
+**(Part 2: Problem Solving)**
+"Hello, I just <strong style="color:blue;">picked up</strong> a silver sedan from your branch about 20 minutes ago. However, I’ve <strong style="color:blue;">run into</strong> a bit of a problem. As soon as I <strong style="color:blue;">hit the road</strong>, I noticed that the steering wheel is pulling to the left and there's a strange rattling noise coming from the engine. It doesn't seem safe to drive at all.
+
+I’d like to <strong style="color:blue;">sort this out</strong> as quickly as possible. First, is it possible to <strong style="color:blue;">trade in</strong> this car for another one of the same model immediately? If you don't have any available, could you <strong style="color:blue;">upgrade</strong> me to a different category at no extra charge? Or, if those options don't work, could you send a mechanic to my current location to <strong style="color:blue;">look into</strong> it right away? I’m <strong style="color:blue;">on a tight schedule</strong>, so I’d appreciate your quick assistance."
+
+---
+
+### **[주요 표현 정리]**
+
+**1. 주요 어휘(Vocabulary)**
+*   **Full insurance:** 완전 자차 보험
+*   **Mileage:** 주행 거리
+*   **Rattling noise:** 덜덜거리는 소음
+*   **Mechanic:** 정비사
+*   **Assistance:** 도움, 지원
+
+**2. 주요 구동사(Phrasal Verbs)**
+*   <strong style="color:blue;">Check on</strong>: ~을 확인하다
+*   <strong style="color:blue;">Sign up for</strong>: ~에 가입하다, 신청하다
+*   <strong style="color:blue;">Get back to</strong>: ~에게 다시 연락하다
+*   <strong style="color:blue;">Pick up</strong>: 수령하다, 가져오다
+*   <strong style="color:blue;">Run into</strong>: (문제 등에) 맞닥뜨리다
+*   <strong style="color:blue;">Sort out</strong>: 해결하다, 정리하다
+*   <strong style="color:blue;">Look into</strong>: 조사하다, 살펴보다
+
+**3. 주요 숙어(Idioms)**
+*   <strong style="color:blue;">Hit the road</strong>: 길을 나서다, 주행을 시작하다
+*   <strong style="color:blue;">Trade in</strong>: (다른 것으로) 교체하다/맞바꾸다
+*   <strong style="color:blue;">On a tight schedule</strong>: 일정이 빡빡한
+
+---
+
+## 3. Unexpected: 재활용 및 환경 오염의 과거와 현재
+
+### **[Question]**
+Environmental issues and recycling habits have changed significantly over the years. How was the situation regarding recycling and pollution in the past compared to now? Please describe the major differences in detail.
+
+환경 문제와 재활용 습관은 수년에 걸쳐 크게 변화했습니다. 과거의 재활용 및 오염 상황은 현재와 비교하여 어떠했나요? 주요 차이점을 자세히 설명해 주세요.
+
+---
+
+### **[Model Answer]**
+
+When I <strong style="color:blue;">look back</strong> on my childhood, the way we handled trash was completely different from today. In the past, people weren't really <strong style="color:blue;">clued in</strong> about the severity of environmental issues. We used to just <strong style="color:blue;">throw away</strong> everything into a single bin without much thought. Recycling wasn't a strict requirement, so tons of plastic and cans <strong style="color:blue;">ended up</strong> in landfills. 
+
+However, we have <strong style="color:blue;">come a long way</strong> since then. Nowadays, recycling has <strong style="color:blue;">become second nature</strong> to most people. In Korea, we have a very sophisticated system where we have to <strong style="color:blue;">sort out</strong> waste into specific categories like paper, plastic, glass, and even food waste. If you don't <strong style="color:blue;">abide by</strong> these rules, you might even <strong style="color:blue;">face a fine</strong>. 
+
+Another huge shift is the awareness of single-use plastics. In the past, cafes <strong style="color:blue;">handed out</strong> plastic straws and cups like they were nothing. But now, many places have <strong style="color:blue;">phased out</strong> plastic in favor of paper or reusable alternatives. People are <strong style="color:blue;">waking up to</strong> the fact that our actions <strong style="color:blue;">take a toll on</strong> the planet. 
+
+In terms of pollution, while we are more conscious now, we are facing new challenges like microplastics and fine dust that didn't <strong style="color:blue;">crop up</strong> as much in the past. To <strong style="color:blue;">sum up</strong>, although the pollution itself has become more complex, our collective effort to <strong style="color:blue;">cut down on</strong> waste has definitely improved compared to the old days. We are finally <strong style="color:blue;">on the right track</strong> toward sustainability.
+
+---
+
+### **[주요 표현 정리]**
+
+**1. 주요 어휘(Vocabulary)**
+*   **Landfills:** 쓰레기 매립지
+*   **Sophisticated:** 정교한, 복잡한
+*   **Alternatives:** 대안
+*   **Sustainability:** 지속 가능성
+*   **Conscious:** 의식하는, 자각하는
+
+**2. 주요 구동사(Phrasal Verbs)**
+*   <strong style="color:blue;">Look back</strong>: 회상하다, 되돌아보다
+*   <strong style="color:blue;">Throw away</strong>: 버리다
+*   <strong style="color:blue;">End up</strong>: 결국 ~하게 되다
+*   <strong style="color:blue;">Hand out</strong>: 나눠주다
+*   <strong style="color:blue;">Phase out</strong>: 단계적으로 중단하다/제거하다
+*   <strong style="color:blue;">Wake up to</strong>: ~을 깨닫기 시작하다
+*   <strong style="color:blue;">Crop up</strong>: 갑자기 나타나다, 발생하다
+*   <strong style="color:blue;">Cut down on</strong>: ~을 줄이다
+
+**3. 주요 숙어(Idioms)**
+*   <strong style="color:blue;">Clued in</strong>: ~에 대해 잘 아는
+*   <strong style="color:blue;">Come a long way</strong>: 크게 발전하다, 멀리 오다
+*   <strong style="color:blue;">Become second nature</strong>: 습관이 되다, 제2의 천성이 되다
+*   <strong style="color:blue;">Abide by</strong>: (규칙 등을) 준수하다
+*   <strong style="color:blue;">Face a fine</strong>: 벌금에 처해지다
+*   <strong style="color:blue;">Take a toll on</strong>: ~에 타격을 주다, 부정적 영향을 미치다
+*   <strong style="color:blue;">Sum up</strong>: 요약하자면
+*   <strong style="color:blue;">On the right track</strong>: 올바른 방향으로 가는 중인
