@@ -2301,3 +2301,118 @@ In terms of pollution, while we are more conscious now, we are facing new challe
 *   <strong style="color:blue;">Take a toll on</strong>: ~에 타격을 주다, 부정적 영향을 미치다
 *   <strong style="color:blue;">Sum up</strong>: 요약하자면
 *   <strong style="color:blue;">On the right track</strong>: 올바른 방향으로 가는 중인
+
+## 2026-03-28 04:46:57 OPIc Study
+
+안녕하세요! OPIc AL 전문 강사입니다. AL 등급 달성을 위해서는 **단순한 문장 나열을 넘어, 구체적인 묘사, 자연스러운 상황 대처 능력, 그리고 과거 경험의 서사적 구조**가 매우 중요합니다. 특히 원어민스러운 표현(구동사 및 숙어)을 적재적소에 사용하는 것이 고득점의 핵심입니다.
+
+요청하신 세 가지 주제에 맞춘 질문과 모범 답안을 구성해 드립니다.
+
+---
+
+## 1. Description: 즐겨 하는 컴퓨터 게임 묘사
+
+**Question:**
+You mentioned in the survey that you enjoy playing computer games. Can you describe your favorite game in detail? What is the genre, and what makes it so special or addictive to you?
+
+(당신은 설문조사에서 컴퓨터 게임을 즐긴다고 언급했습니다. 당신이 가장 좋아하는 게임에 대해 자세히 묘사해 줄 수 있나요? 장르는 무엇이며, 어떤 점이 그 게임을 특별하거나 중독성 있게 만드나요?)
+
+**Model Answer:**
+
+To be honest, I’m a huge fan of strategy and soulslike games, but if I had to pick just one that really <strong style="color:blue;">stands out</strong>, it would be 'Civilization VI'. It’s a 4X turn-based strategy game where you lead a nation from the Stone Age to the Information Age. What I love about it is the sheer depth of the gameplay. You don't just fight; you manage diplomacy, culture, and scientific research. 
+
+When I first started, I found it quite overwhelming to <strong style="color:blue;">figure out</strong> all the complex mechanics. However, once I <strong style="color:blue;">got the hang of</strong> managing my cities and resources, I was completely hooked. It’s famous for the "one more turn" syndrome. I often find myself saying, "Just one more turn," only to realize the sun is <strong style="color:blue;">coming up</strong>. 
+
+On the other hand, when I’m in the mood for something more intense, I <strong style="color:blue;">dive into</strong> 'Sekiro: Shadows Die Twice'. Unlike the slow pace of Civilization, Sekiro requires lightning-fast reflexes. It’s notoriously difficult, and the boss fights are incredibly challenging. You have to <strong style="color:blue;">keep your head</strong> and focus on parrying every single attack. When you finally defeat a boss after dozens of attempts, the sense of achievement is simply <strong style="color:blue;">out of this world</strong>. It <strong style="color:blue;">blows my mind</strong> how the developers created such a perfect balance between frustration and satisfaction. These games are my ultimate way to <strong style="color:blue;">wind down</strong> after a long day at work.
+
+**Vocabulary & Expressions:**
+
+*   **Sheer depth:** 엄청난 깊이
+*   **Overwhelming:** 압도적인
+*   **Hooked:** 중독된, 매료된
+*   **Lightning-fast reflexes:** 번개처럼 빠른 반사신경
+*   **Notoriously:** 악명 높게
+*   <strong style="color:blue;">Stand out</strong>: 두드러지다, 뛰어나다 (Phrasal Verb)
+*   <strong style="color:blue;">Figure out</strong>: 이해하다, 알아내다 (Phrasal Verb)
+*   <strong style="color:blue;">Get the hang of</strong>: ~에 익숙해지다, 요령을 터득하다 (Idiom)
+*   <strong style="color:blue;">Come up</strong>: (해 등이) 뜨다, 나타나다 (Phrasal Verb)
+*   <strong style="color:blue;">Dive into</strong>: ~에 몰입하다, 뛰어들다 (Phrasal Verb)
+*   <strong style="color:blue;">Keep one's head</strong>: 침착함을 유지하다 (Idiom)
+*   <strong style="color:blue;">Out of this world</strong>: 평범을 벗어난, 기막히게 좋은 (Idiom)
+*   <strong style="color:blue;">Blow one's mind</strong>: 큰 감동을 주다, 놀라게 하다 (Idiom)
+*   <strong style="color:blue;">Wind down</strong>: 휴식을 취하며 긴장을 풀다 (Phrasal Verb)
+
+---
+
+## 2. Role-play: 회사 동료에게 자동화 스크립트 도움 요청
+
+**Question:**
+I'd like to give you a situation and ask you to act it out. You are working on a project and need to automate a repetitive web crawling task, but you are having some technical issues. Call a colleague who is an expert in Python and explain your situation. Ask for their help with two or three specific requests.
+
+(상황을 하나 드리고 연기해 보라고 요청하겠습니다. 당신은 프로젝트를 진행 중이며 반복적인 웹 크롤링 작업을 자동화해야 하지만, 기술적인 문제가 발생했습니다. 파이썬 전문가인 동료에게 전화하여 상황을 설명하세요. 두세 가지 구체적인 요청과 함께 도움을 구하세요.)
+
+**Model Answer:**
+
+Hi, Minsoo! Do you have a minute? I'm <strong style="color:blue;">reaching out</strong> because I’ve been struggling with this new web crawling script I’m working on for the marketing project. I’m trying to automate the data collection process to <strong style="color:blue;">cut down on</strong> manual work, but I’ve <strong style="color:blue;">run into</strong> a bit of a snag. 
+
+The script seems to <strong style="color:blue;">break down</strong> whenever it hits a dynamic page with JavaScript. Since you are the resident Python expert, I was wondering if you could <strong style="color:blue;">look over</strong> my code? I’m specifically having trouble with the Selenium library. Also, could you <strong style="color:blue;">walk me through</strong> how you usually handle anti-crawling measures? I think the website might be blocking my IP. 
+
+If you're busy right now, I can <strong style="color:blue;">work around</strong> your schedule. Maybe we could <strong style="color:blue;">get together</strong> for a quick coffee break this afternoon and discuss it? It would really <strong style="color:blue;">take a load off</strong> my mind if I could get this resolved by today. Let me know what works best for you. Thanks a million, Minsoo! I’ll be <strong style="color:blue;">looking forward to</strong> your reply.
+
+**Vocabulary & Expressions:**
+
+*   **Repetitive task:** 반복적인 작업
+*   **Resident expert:** (집단 내의) 상주 전문가
+*   **Anti-crawling measures:** 크롤링 방지 조치
+*   **Thanks a million:** 정말 감사합니다
+*   <strong style="color:blue;">Reach out</strong>: 연락하다, 도움을 청하다 (Phrasal Verb)
+*   <strong style="color:blue;">Cut down on</strong>: ~을 줄이다 (Phrasal Verb)
+*   <strong style="color:blue;">Run into</strong>: (문제 등에) 맞닥뜨리다 (Phrasal Verb)
+*   <strong style="color:blue;">Break down</strong>: 고장 나다, 제대로 작동하지 않다 (Phrasal Verb)
+*   <strong style="color:blue;">Look over</strong>: 검토하다, 살펴보다 (Phrasal Verb)
+*   <strong style="color:blue;">Walk someone through</strong>: ~에게 차근차근 설명해주다 (Phrasal Verb)
+*   <strong style="color:blue;">Work around</strong>: (상황에 맞춰) 해결하다, 우회하다 (Phrasal Verb)
+*   <strong style="color:blue;">Get together</strong>: 모이다, 만나다 (Phrasal Verb)
+*   <strong style="color:blue;">Take a load off one's mind</strong>: 마음의 짐을 덜다 (Idiom)
+*   <strong style="color:blue;">Look forward to</strong>: ~을 고대하다 (Phrasal Verb)
+
+---
+
+## 3. Unexpected: 날씨 변화나 자연 재해로 인한 피해 경험
+
+**Question:**
+Sometimes weather conditions can be very unpredictable. Have you ever experienced a time when your plans were ruined or you suffered some damage due to a natural disaster or unexpected weather change? Describe the event in detail and how you dealt with it.
+
+(때때로 기상 조건은 예측 불가능할 수 있습니다. 자연 재해나 예상치 못한 날씨 변화로 인해 계획을 망치거나 피해를 입었던 경험이 있습니까? 그 사건과 어떻게 대처했는지 자세히 설명해 주세요.)
+
+**Model Answer:**
+
+I remember a particularly harrowing experience about two years ago during the monsoon season. It had been <strong style="color:blue;">pouring down</strong> for several days straight, and everyone was already <strong style="color:blue;">fed up with</strong> the humidity. But then, <strong style="color:blue;">out of the blue</strong>, we had a record-breaking flash flood in the city. 
+
+I was at the office when the heavy rain started to <strong style="color:blue;">pick up</strong>. Within just an hour, the streets were completely submerged. I decided to <strong style="color:blue;">head out</strong> early to avoid getting stranded, but it was already too late. The subway station near my office was flooded, and all public transportation <strong style="color:blue;">ground to a halt</strong>. 
+
+I <strong style="color:blue;">ended up</strong> walking for three hours in waist-deep water to get home. It was terrifying because the current was quite strong. To <strong style="color:blue;">top it all off</strong>, when I finally arrived home, I found that my basement storage had been flooded, and some of my old books and electronics were completely ruined. I had to <strong style="color:blue;">throw away</strong> so many sentimental items. 
+
+The next day, the weather finally <strong style="color:blue;">cleared up</strong>, but the aftermath was devastating. It took weeks for the neighborhood to <strong style="color:blue;">get back on track</strong>. That experience really <strong style="color:blue;">brought home</strong> the fact that we are powerless against the forces of nature. Now, I always <strong style="color:blue;">keep an eye on</strong> the weather forecast and make sure to have an emergency kit ready.
+
+**Vocabulary & Expressions:**
+
+*   **Harrowing experience:** 끔찍한/비참한 경험
+*   **Monsoon season:** 장마철
+*   **Submerged:** 침수된
+*   **Stranded:** 고립된, 옴짝달싹 못하게 된
+*   **Sentimental items:** 추억이 담긴 물건들
+*   **Aftermath:** 여파, 후유증
+*   <strong style="color:blue;">Pour down</strong>: (비가) 퍼붓다 (Phrasal Verb)
+*   <strong style="color:blue;">Fed up with</strong>: ~에 질린, 짜증 난 (Idiom)
+*   <strong style="color:blue;">Out of the blue</strong>: 느닷없이, 갑자기 (Idiom)
+*   <strong style="color:blue;">Pick up</strong>: (기세가) 강해지다 (Phrasal Verb)
+*   <strong style="color:blue;">Head out</strong>: 출발하다, 나가다 (Phrasal Verb)
+*   <strong style="color:blue;">Grind to a halt</strong>: 서서히 멈추다, 중단되다 (Idiom)
+*   <strong style="color:blue;">End up</strong>: 결국 ~하게 되다 (Phrasal Verb)
+*   <strong style="color:blue;">Top it all off</strong>: 금상첨화로 / (설상가상으로) 게다가 (Idiom)
+*   <strong style="color:blue;">Throw away</strong>: 버리다 (Phrasal Verb)
+*   <strong style="color:blue;">Clear up</strong>: (날씨가) 개다 (Phrasal Verb)
+*   <strong style="color:blue;">Get back on track</strong>: 다시 정상 궤도에 오르다 (Idiom)
+*   <strong style="color:blue;">Bring home</strong>: ~을 뼈저리게 느끼게 하다 (Idiom)
+*   <strong style="color:blue;">Keep an eye on</strong>: ~을 계속 지켜보다/주시하다 (Idiom)
