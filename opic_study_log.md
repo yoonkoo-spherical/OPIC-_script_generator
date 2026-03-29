@@ -2416,3 +2416,119 @@ The next day, the weather finally <strong style="color:blue;">cleared up</strong
 *   <strong style="color:blue;">Get back on track</strong>: 다시 정상 궤도에 오르다 (Idiom)
 *   <strong style="color:blue;">Bring home</strong>: ~을 뼈저리게 느끼게 하다 (Idiom)
 *   <strong style="color:blue;">Keep an eye on</strong>: ~을 계속 지켜보다/주시하다 (Idiom)
+
+## 2026-03-29 05:04:06 OPIc Study
+
+안녕하세요! OPIc AL 등급 취득을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 문장을 나열하는 것이 아니라, **풍부한 표현력, 자연스러운 문장 연결(Connectors), 그리고 감정 변화가 느껴지는 생동감 있는 전달력**이 필수입니다. 
+
+제시해주신 3가지 주제를 바탕으로, 실제 시험에서 높은 점수를 받을 수 있는 전략적인 질문과 모범 답안을 구성해 보았습니다.
+
+---
+
+## 1. Description (묘사): 가족 및 14개월 아이 육아 일상
+
+**[질문]**
+Can you tell me about your family members? I'm especially interested in your daily routine of taking care of your 14-month-old child. What does a typical day look like from morning to night?
+
+(당신의 가족 구성원에 대해 말씀해 주시겠습니까? 특히 14개월 된 아이를 돌보는 당신의 육아 일상이 궁금합니다. 아침부터 밤까지 전형적인 하루 일과는 어떤 모습인가요?)
+
+**[모범 답안]**
+Well, let me tell you about my lovely family. Currently, it’s just my husband, my 14-month-old toddler, and myself. My son is at that stage where he is incredibly curious about everything, so my daily life basically <strong style="color:blue;">revolves around</strong> him. 
+
+My day usually <strong style="color:blue;">kicks off</strong> around 7 AM when my son wakes up. As soon as I hear him babbling over the baby monitor, I know it’s time to <strong style="color:blue;">get down to business</strong>. First thing in the morning, I change his diaper and prepare a nutritious breakfast. Since he’s just starting to eat solid foods properly, it takes a lot of patience to <strong style="color:blue;">get through</strong> mealtime without a mess.
+
+After breakfast, we usually head to a nearby park. He recently started walking, so he loves to <strong style="color:blue;">run around</strong> and explore every little pebble on the ground. To be honest, keeping up with his energy is quite exhausting, and I often feel <strong style="color:blue;">worn out</strong> by noon. When we get back home, it’s nap time. That’s the only time I can <strong style="color:blue;">sit back and relax</strong> for a bit or <strong style="color:blue;">catch up on</strong> some household chores.
+
+In the evening, after my husband <strong style="color:blue;">gets off</strong> work, we give him a bath together. It’s a precious time for us to <strong style="color:blue;">bond with</strong> our child. By 8 PM, we put him to bed, and finally, my husband and I can <strong style="color:blue;">wind down</strong> for the day. Raising a 14-month-old is definitely a <strong style="color:blue;">tall order</strong>, but seeing his smile makes everything worth it. It’s a <strong style="color:blue;">rollercoaster ride</strong> of emotions, but I wouldn’t trade it for anything.
+
+**[주요 표현 정리]**
+*   **Vocabulary:** Toddler (유아), Nutritious (영양가 있는), Exhausting (기진맥진하게 하는), Precious (소중한)
+*   **Phrasal Verbs:** 
+    *   <strong style="color:blue;">revolve around</strong>: ~을 중심으로 돌아가다
+    *   <strong style="color:blue;">kick off</strong>: 시작하다
+    *   <strong style="color:blue;">get through</strong>: ~을 헤쳐 나가다/끝내다
+    *   <strong style="color:blue;">run around</strong>: 뛰어다니다
+    *   <strong style="color:blue;">catch up on</strong>: (밀린 일을) 따라잡다/하다
+    *   <strong style="color:blue;">get off</strong>: 퇴근하다
+    *   <strong style="color:blue;">wind down</strong>: 긴장을 풀고 쉬다
+*   **Idioms:**
+    *   <strong style="color:blue;">get down to business</strong>: 본격적으로 일에 착수하다
+    *   <strong style="color:blue;">worn out</strong>: 매우 지친
+    *   <strong style="color:blue;">sit back and relax</strong>: 편하게 앉아 쉬다
+    *   <strong style="color:blue;">bond with</strong>: ~와 유대감을 형성하다
+    *   <strong style="color:blue;">tall order</strong>: 어려운 주문/일
+    *   <strong style="color:blue;">rollercoaster ride</strong>: 우여곡절(변화무쌍한 상황)
+
+---
+
+## 2. Role-play (롤플레이): 야구장 약속 변경 및 대안 제시
+
+**[질문]**
+You were supposed to go to a baseball game with your friend this weekend, but something has come up and you cannot make it. Call your friend, explain the situation, and suggest two or three alternatives to reschedule or do something else.
+
+(이번 주말에 친구와 야구장에 가기로 했지만, 일이 생겨 갈 수 없게 되었습니다. 친구에게 전화해서 상황을 설명하고, 일정을 변경하거나 다른 것을 할 수 있는 2~3가지 대안을 제시하세요.)
+
+**[모범 답안]**
+Hey, Min-su! It’s me. Listen, I’m calling because I have some bad news regarding our plan to go to the baseball game this Saturday. I’m so sorry, but I don’t think I can <strong style="color:blue;">make it</strong>. Something urgent has <strong style="color:blue;">come up</strong> at work, and my boss wants me to <strong style="color:blue;">fill in for</strong> a colleague who suddenly got sick. I’m really <strong style="color:blue;">tied up</strong> all weekend.
+
+I feel terrible about <strong style="color:blue;">letting you down</strong> because I know how much you were looking forward to this game. So, I’ve been thinking about how to <strong style="color:blue;">make it up to you</strong>. 
+
+First, how about we <strong style="color:blue;">put off</strong> our trip to the stadium until next Sunday? I checked the schedule, and there’s another big game then. I’ll treat you to the tickets and all the snacks! Or, if you’re <strong style="color:blue;">up for</strong> it, we could meet up for a late dinner this Sunday evening instead. I know a great sports bar where we can <strong style="color:blue;">cheer on</strong> our team while grabbing a bite. 
+
+Alternatively, if you’d rather go this Saturday as planned, you could <strong style="color:blue;">bring along</strong> your brother instead of me. I can just send you my ticket via mobile. What do you think? Please <strong style="color:blue;">get back to</strong> me when you get this message. I’ll <strong style="color:blue;">look forward to</strong> hearing from you. Sorry again!
+
+**[주요 표현 정리]**
+*   **Vocabulary:** Urgent (긴급한), Colleague (동료), Alternatively (그게 아니면/대안으로)
+*   **Phrasal Verbs:** 
+    *   <strong style="color:blue;">come up</strong>: (일이) 발생하다
+    *   <strong style="color:blue;">fill in for</strong>: ~의 대역을 하다/대신 일하다
+    *   <strong style="color:blue;">let down</strong>: 실망시키다
+    *   <strong style="color:blue;">put off</strong>: 연기하다
+    *   <strong style="color:blue;">cheer on</strong>: 응원하다
+    *   <strong style="color:blue;">bring along</strong>: 데려오다/가져오다
+    *   <strong style="color:blue;">get back to</strong>: ~에게 다시 연락하다
+    *   <strong style="color:blue;">look forward to</strong>: ~을 고대하다
+*   **Idioms:**
+    *   <strong style="color:blue;">make it</strong>: (약속 장소에) 가다/해내다
+    *   <strong style="color:blue;">tied up</strong>: 매우 바쁜
+    *   <strong style="color:blue;">make it up to you</strong>: (보상 등을 통해) 신세를 갚다
+    *   <strong style="color:blue;">up for</strong>: ~을 할 마음이 있는
+
+---
+
+## 3. Unexpected (돌발질문): 해외 여행 방식의 시대별 변화
+
+**[질문]**
+How has the way people travel abroad changed over the years? Compare the past trend of package tours with the current trend of independent travel. Why do you think this shift has occurred?
+
+(수년에 걸쳐 사람들의 해외 여행 방식이 어떻게 변했나요? 과거의 패키지 여행 트렌드와 현재의 자유 여행 트렌드를 비교해 보세요. 왜 이런 변화가 일어났다고 생각하시나요?)
+
+**[모범 답안]**
+That’s a very interesting question. Looking back, the landscape of overseas travel has <strong style="color:blue;">gone through</strong> a massive transformation. 
+
+In the past, say about 20 years ago, most people used to <strong style="color:blue;">sign up for</strong> package tours. Back then, traveling abroad was a daunting task. Language barriers were a huge hurdle, and it was hard to <strong style="color:blue;">find out</strong> information about transportation or accommodation. So, people preferred to <strong style="color:blue;">stick with</strong> guided tours because they <strong style="color:blue;">took care of</strong> everything from A to Z. It was safe, but you had to <strong style="color:blue;">keep up with</strong> a tight schedule, which could be quite <strong style="color:blue;">tiring</strong>.
+
+However, nowadays, there has been a significant <strong style="color:blue;">shift away from</strong> those rigid packages toward independent travel. Most travelers now <strong style="color:blue;">map out</strong> their own itineraries. I believe this change <strong style="color:blue;">stems from</strong> the rapid advancement of technology. With smartphones, we can <strong style="color:blue;">look up</strong> anything instantly. Apps like Google Maps or TripAdvisor help us <strong style="color:blue;">get around</strong> easily and find hidden gems that aren't in guidebooks. 
+
+People now value personal experiences and flexibility. They want to <strong style="color:blue;">soak up</strong> the local culture at their own pace rather than being <strong style="color:blue;">dragged around</strong> to tourist traps. In short, while package tours <strong style="color:blue;">paved the way</strong> for international travel, independent travel has now <strong style="color:blue;">taken over</strong> as the mainstream, allowing people to <strong style="color:blue;">break away from</strong> traditional norms and enjoy true freedom.
+
+**[주요 표현 정리]**
+*   **Vocabulary:** Transformation (변화), Daunting (주눅이 들게 하는), Hurdle (장애물), Itinerary (여행 일정), Mainstream (주류)
+*   **Phrasal Verbs:** 
+    *   <strong style="color:blue;">go through</strong>: 겪다/경험하다
+    *   <strong style="color:blue;">sign up for</strong>: ~에 등록하다/신청하다
+    *   <strong style="color:blue;">find out</strong>: 알아내다
+    *   <strong style="color:blue;">stick with</strong>: ~을 고수하다
+    *   <strong style="color:blue;">take care of</strong>: 처리하다/돌보다
+    *   <strong style="color:blue;">keep up with</strong>: ~을 따라가다
+    *   <strong style="color:blue;">map out</strong>: 세밀히 계획하다
+    *   <strong style="color:blue;">stems from</strong>: ~에서 기인하다
+    *   <strong style="color:blue;">look up</strong>: 찾아보다
+    *   <strong style="color:blue;">get around</strong>: 돌아다니다
+    *   <strong style="color:blue;">soak up</strong>: (분위기 등을) 만끽하다/흡수하다
+    *   <strong style="color:blue;">dragged around</strong>: 끌려 다니다
+    *   <strong style="color:blue;">taken over</strong>: 장악하다/인수하다
+    *   <strong style="color:blue;">break away from</strong>: ~에서 벗어나다
+*   **Idioms:**
+    *   <strong style="color:blue;">shift away from</strong>: ~에서 벗어나는 변화
+    *   <strong style="color:blue;">paved the way</strong>: 길을 닦다/기반을 마련하다
