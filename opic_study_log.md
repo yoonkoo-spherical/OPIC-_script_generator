@@ -2532,3 +2532,105 @@ People now value personal experiences and flexibility. They want to <strong styl
 *   **Idioms:**
     *   <strong style="color:blue;">shift away from</strong>: ~에서 벗어나는 변화
     *   <strong style="color:blue;">paved the way</strong>: 길을 닦다/기반을 마련하다
+
+## 2026-03-30 05:15:40 OPIc Study
+
+반갑습니다! OPIc AL 등급 취득을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 문장을 나열하는 것이 아니라, **구체적인 묘사, 자연스러운 연결어 사용, 그리고 세련된 구동사와 관용구**를 활용하여 답변의 해상도를 높이는 것이 핵심입니다.
+
+요청하신 3가지 주제에 맞춰 실제 시험에서 고득점을 받을 수 있는 모범 답안을 구성해 드립니다.
+
+---
+
+### [Topic 1] Description: 가족 구성원 및 14개월 아이 육아 일상
+
+**Question:**
+Can you tell me about your family members? In particular, I’d like to know what a typical day looks like for you as you take care of your 14-month-old baby. Please describe your routine in detail.
+(당신의 가족 구성원에 대해 말해주세요. 특히, 14개월 된 아이를 돌보는 당신의 일상이 어떤지 알고 싶습니다. 당신의 하루 일과를 자세히 묘사해 주세요.)
+
+**Model Answer (AL Level):**
+Well, let me <strong style="color:blue;">fill you in</strong> on my family life. I live with my supportive spouse and our energetic 14-month-old son, who is currently the center of our universe. Raising a toddler is definitely <strong style="color:blue;">no walk in the park</strong>, but it’s incredibly rewarding.
+
+My day usually kicks off around 7 AM when my son wakes up. As soon as he's up, he <strong style="color:blue;">keeps me on my toes</strong> because he’s just started walking and wants to explore every nook and cranny of the house. First things first, I <strong style="color:blue;">whip up</strong> a nutritious breakfast for him. After he's fed and changed, we usually head to a nearby park. Watching him <strong style="color:blue;">run around</strong> and interact with other kids is the highlight of my morning, although I have to <strong style="color:blue;">keep an eye on</strong> him constantly to make sure he doesn't <strong style="color:blue;">get into trouble</strong>.
+
+In the afternoon, while he takes his nap, I finally get a chance to <strong style="color:blue;">catch my breath</strong> and <strong style="color:blue;">tidy up</strong> the living room, which usually looks like a war zone with toys everywhere. Once he wakes up, it's more play-time until my spouse gets home. We try to <strong style="color:blue;">wind down</strong> the day with a warm bath and a bedtime story. Even though I’m often <strong style="color:blue;">worn out</strong> by the end of the day, seeing his peaceful face when he’s asleep makes all the hard work <strong style="color:blue;">pay off</strong>. It’s a grueling routine, but I wouldn't trade it for anything.
+
+**Key Vocabulary & Expressions:**
+*   **Vocabulary:** Supportive (지지해주는), Energetic (에너지 넘치는), Nutritious (영양가 있는), Highlight (가장 좋은 부분), Grueling (엄청나게 힘든).
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">fill in</strong>: 정보를 알려주다.
+    *   <strong style="color:blue;">whip up</strong>: (음식을) 후딱 만들다.
+    *   <strong style="color:blue;">run around</strong>: 뛰어다니다.
+    *   <strong style="color:blue;">tidy up</strong>: 정리정돈하다.
+    *   <strong style="color:blue;">wind down</strong>: 긴장을 풀고 휴식하다 / 마무리하다.
+    *   <strong style="color:blue;">worn out</strong>: 매우 지친.
+    *   <strong style="color:blue;">pay off</strong>: 결실을 맺다 / 보람이 있다.
+*   **Idioms:**
+    *   <strong style="color:blue;">no walk in the park</strong>: 쉬운 일이 아니다.
+    *   <strong style="color:blue;">keep someone on one's toes</strong>: 계속 정신 바짝 차리게 하다.
+    *   <strong style="color:blue;">keep an eye on</strong>: ~를 계속 지켜보다.
+    *   <strong style="color:blue;">get into trouble</strong>: 사고를 치다 / 곤경에 처하다.
+    *   <strong style="color:blue;">catch one's breath</strong>: 한숨 돌리다.
+
+---
+
+### [Topic 2] Role-play: 식당 예약 및 메뉴/알레르기 문의
+
+**Question:**
+You are planning to have dinner at a restaurant with your friends. Call the restaurant and ask three or four questions regarding a reservation, the menu, and any food allergies you need to consider.
+(당신은 친구들과 식당에서 저녁을 먹으려 합니다. 식당에 전화해서 예약, 메뉴, 그리고 고려해야 할 음식 알레르기와 관련하여 3~4가지 질문을 하세요.)
+
+**Model Answer (AL Level):**
+Hi there! I’m calling to <strong style="color:blue;">book a table</strong> for this coming Friday, the 24th. I’m planning a small get-together for about six people. Do you have any openings around 7 PM?
+
+Also, I’d like to <strong style="color:blue;">go over</strong> the menu options. I saw on your website that you have some seasonal specials, but I was wondering if you offer any vegetarian-friendly dishes as well. One of my friends doesn't eat meat, so I want to make sure there's something substantial for her to <strong style="color:blue;">tuck into</strong>.
+
+More importantly, I need to <strong style="color:blue;">bring up</strong> a serious concern regarding food allergies. Another friend in our group is severely allergic to peanuts. Could you please check with the chef if your kitchen can <strong style="color:blue;">cater to</strong> this and ensure there's no cross-contamination? It would be great if the staff could <strong style="color:blue;">point out</strong> which dishes are completely nut-free when we order.
+
+Lastly, since it’s a special occasion, could we possibly <strong style="color:blue;">set aside</strong> a quiet booth or a table away from the main entrance? I’d really appreciate it if you could <strong style="color:blue;">look into</strong> these requests. Please <strong style="color:blue;">get back to</strong> me at your earliest convenience to confirm the booking. Thanks a lot!
+
+**Key Vocabulary & Expressions:**
+*   **Vocabulary:** Opening (빈자리/시간), Substantial (상당한/배부른), Cross-contamination (교차 오염), At your earliest convenience (편하실 때 가급적 빨리).
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">go over</strong>: 검토하다 / 살펴보다.
+    *   <strong style="color:blue;">tuck into</strong>: ~을 맛있게 먹다.
+    *   <strong style="color:blue;">bring up</strong>: (안건을) 꺼내다 / 언급하다.
+    *   <strong style="color:blue;">cater to</strong>: (요구/필요에) 맞추다 / 서비스를 제공하다.
+    *   <strong style="color:blue;">point out</strong>: 가리키다 / 지적하다.
+    *   <strong style="color:blue;">set aside</strong>: 따로 확보해 두다.
+    *   <strong style="color:blue;">look into</strong>: 조사하다 / 살펴보다.
+    *   <strong style="color:blue;">get back to</strong>: ~에게 다시 연락하다.
+*   **Idioms:**
+    *   <strong style="color:blue;">book a table</strong>: 테이블을 예약하다.
+
+---
+
+### [Topic 3] Unexpected: 경제/재테크에 대한 인식 변화
+
+**Question:**
+In recent years, how has people's perception of the economy and personal finance changed? People seem to be more interested in adjusting their stock and bond ratios. What are your thoughts on this trend?
+(최근 몇 년 동안 경제와 재테크에 대한 사람들의 인식이 어떻게 변했나요? 사람들은 주식과 채권 비율을 조정하는 데 더 많은 관심을 두는 것 같습니다. 이러한 추세에 대한 당신의 생각은 어떠한가요?)
+
+**Model Answer (AL Level):**
+That’s a very <strong style="color:blue;">timely question</strong>. Over the last few years, I’ve noticed a massive shift in how the general public <strong style="color:blue;">looks at</strong> money management. In the past, most people in Korea used to <strong style="color:blue;">play it safe</strong> by putting their savings into simple bank deposits. However, with low interest rates and rising inflation, many realized that just saving money wasn't enough to <strong style="color:blue;">get by</strong> in the long run.
+
+Nowadays, people are <strong style="color:blue;">branching out</strong> into more sophisticated investment strategies. There’s a huge emphasis on "asset allocation," specifically adjusting the ratio between stocks and bonds. For a while, everyone was <strong style="color:blue;">diving into</strong> the stock market, hoping to <strong style="color:blue;">clean up</strong> during the bull market. But recently, as market volatility increased, investors have started to <strong style="color:blue;">read up on</strong> bonds to hedge their risks. They are trying to <strong style="color:blue;">strike a balance</strong> between high-risk equities and stable fixed-income assets.
+
+I think this trend is quite positive because people are becoming more financially literate. They no longer blindly <strong style="color:blue;">buy into</strong> rumors; instead, they <strong style="color:blue;">keep an eye on</strong> global economic indicators like the Fed’s interest rate hikes. Even though the market can be a <strong style="color:blue;">roller coaster ride</strong>, being proactive about rebalancing one's portfolio is definitely better than just <strong style="color:blue;">sitting tight</strong> and doing nothing. It’s all about being prepared for a rainy day.
+
+**Key Vocabulary & Expressions:**
+*   **Vocabulary:** Massive shift (거대한 변화), General public (대중), Inflation (인플레이션), Sophisticated (정교한/세련된), Asset allocation (자산 배분), Volatility (변동성), Equities (주식), Financially literate (금융 지식이 있는).
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">look at</strong>: ~을 바라보다 / 고려하다.
+    *   <strong style="color:blue;">get by</strong>: 근근이 살아가다 / 해나가다.
+    *   <strong style="color:blue;">branch out</strong>: (새로운 분야로) 확장하다.
+    *   <strong style="color:blue;">dive into</strong>: ~에 뛰어들다.
+    *   <strong style="color:blue;">clean up</strong>: 큰 돈을 벌다.
+    *   <strong style="color:blue;">read up on</strong>: ~에 대해 공부하다 / 많이 읽다.
+    *   <strong style="color:blue;">buy into</strong>: ~을 믿다 / (생각을) 받아들이다.
+    *   <strong style="color:blue;">keep an eye on</strong>: ~을 예의주시하다.
+    *   <strong style="color:blue;">sit tight</strong>: (상황을 지켜보며) 가만히 있다.
+*   **Idioms:**
+    *   <strong style="color:blue;">timely question</strong>: 시의적절한 질문.
+    *   <strong style="color:blue;">play it safe</strong>: 신중하게 행동하다 / 위험을 피하다.
+    *   <strong style="color:blue;">strike a balance</strong>: 균형을 맞추다.
+    *   <strong style="color:blue;">roller coaster ride</strong>: 변동이 심한 상황.
