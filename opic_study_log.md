@@ -2634,3 +2634,125 @@ I think this trend is quite positive because people are becoming more financiall
     *   <strong style="color:blue;">play it safe</strong>: 신중하게 행동하다 / 위험을 피하다.
     *   <strong style="color:blue;">strike a balance</strong>: 균형을 맞추다.
     *   <strong style="color:blue;">roller coaster ride</strong>: 변동이 심한 상황.
+
+## 2026-03-31 05:02:42 OPIc Study
+
+반갑습니다! OPIc AL 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 문법이 정확한 것을 넘어, **문장 간의 자연스러운 연결(Filler words), 구동사 및 숙어의 적절한 활용, 그리고 감정을 실은 전달력**이 핵심입니다.
+
+요청하신 3가지 주제에 맞춰, 실전에서 2분 30초 정도 발화할 수 있는 고득점 모범 답안을 구성해 드립니다.
+
+---
+
+# Topic 1. Description: Favorite Room & Layout
+**[질문]**
+Tell me about your favorite room in your house. What does it look like, and how is the furniture arranged? Please describe the layout in detail, including things like the path your robot vacuum takes.
+
+(당신의 집에서 가장 좋아하는 방에 대해 말해주세요. 어떻게 생겼으며 가구 배치는 어떠한가요? 로봇청소기의 동선 등을 포함하여 배치를 자세히 묘사해 주세요.)
+
+### [Model Answer]
+To be honest, my absolute favorite spot in my entire apartment has to be my home office, which also doubles as a relaxation zone. I’ve spent quite a bit of time <strong style="color:blue;">fleshing out</strong> the interior to make it both functional and aesthetic. 
+
+When you walk in, the first thing you’ll notice is the minimalist vibe. My desk is situated right against the large window to <strong style="color:blue;">soak up</strong> as much natural light as possible during the day. On the opposite side, I have a cozy recliner where I usually <strong style="color:blue;">kick back</strong> after a long day of work. I deliberately chose low-profile furniture to ensure the room doesn’t feel cramped.
+
+Now, let's talk about the layout from a "robotic" perspective. Since I’m a bit of a neat freak, I’ve <strong style="color:blue;">mapped out</strong> the furniture placement specifically for my robot vacuum. I’ve made sure there are no tangled cords <strong style="color:blue;">lying around</strong> that could <strong style="color:blue;">mess up</strong> its sensors. All the chairs are tucked in tightly, and the bookshelf has enough clearance at the bottom so the vacuum can <strong style="color:blue;">zip through</strong> and get rid of the dust. 
+
+It’s actually quite satisfying to watch it <strong style="color:blue;">go about</strong> its business without <strong style="color:blue;">running into</strong> any obstacles. Keeping the floor clear has become <strong style="color:blue;">second nature</strong> to me now. This organized environment really helps me <strong style="color:blue;">keep my head straight</strong> when I have a lot of deadlines. All in all, the open space and the streamlined layout make this room the perfect sanctuary for me.
+
+### [Vocabulary & Expressions]
+*   **Minimalist vibe**: 미니멀한 분위기
+*   **Low-profile furniture**: 높이가 낮은 가구
+*   **Neat freak**: 깔끔 떠는 사람, 결벽증 있는 사람
+*   **Clearance**: (사물 사이의) 여유 공간, 간격
+*   **Sanctuary**: 안식처
+
+### [Phrasal Verbs & Idioms]
+1.  **flesh out**: ~에 살을 붙이다, 구체화하다
+2.  **soak up**: (빛, 분위기 등을) 흡수하다, 만끽하다
+3.  **kick back**: 편히 쉬다
+4.  **mapped out**: 상세히 계획하다/배치하다
+5.  **lying around**: 여기저기 굴러다니다
+6.  **mess up**: 망치다, 혼란스럽게 하다
+7.  **zip through**: 빠르게 통과하다/해치우다
+8.  **go about**: ~을 계속하다, 수행하다
+9.  **running into**: ~와 부딪히다
+10. **second nature**: 제2의 천성(습관이 된 것)
+11. **keep my head straight**: 냉정/평정심을 유지하다
+
+---
+
+# Topic 2. Role-play: Automation Script Help
+**[질문]**
+You are working on a project and need help with an automation script, specifically for web crawling. Call your colleague, explain the situation, and ask for assistance.
+
+(프로젝트 진행 중 웹 크롤링을 위한 자동화 스크립트와 관련해 도움이 필요합니다. 동료에게 전화하여 상황을 설명하고 도움을 요청하세요.)
+
+### [Model Answer]
+Hey, Sarah! Do you have a quick minute? I’m calling because I’ve <strong style="color:blue;">run into</strong> a bit of a snag with the new data collection project I’m working on. 
+
+As you know, I’ve been trying to <strong style="color:blue;">crank out</strong> a Python script for web crawling to gather market trends. I thought it would be a <strong style="color:blue;">piece of cake</strong>, but it turns out the target website has some tricky anti-scraping measures. Every time I try to run the code, it <strong style="color:blue;">breaks down</strong> after just a few pages. 
+
+I remembered that you managed to <strong style="color:blue;">iron out</strong> a similar issue last quarter, so I wanted to <strong style="color:blue;">pick your brain</strong> for a moment. I’ve already tried <strong style="color:blue;">looking into</strong> several libraries like Selenium and BeautifulSoup, but I can't quite <strong style="color:blue;">figure out</strong> how to bypass the captchas effectively. 
+
+Would you mind <strong style="color:blue;">looking over</strong> my script if I send it to you via Slack? Or better yet, maybe we could <strong style="color:blue;">touch base</strong> for ten minutes over coffee later this afternoon? I’d really appreciate it if you could <strong style="color:blue;">point me in the right direction</strong>. I don't want to <strong style="color:blue;">fall behind</strong> on my schedule, and your expertise would really <strong style="color:blue;">save the day</strong>. Let me know what works best for you!
+
+### [Vocabulary & Expressions]
+*   **Web crawling / Scraping**: 웹 데이터 수집
+*   **Anti-scraping measures**: 크롤링 방지 조치
+*   **Captcha**: 자동 계정 생성 방지 기술
+*   **Expertise**: 전문 지식
+
+### [Phrasal Verbs & Idioms]
+1.  **run into**: (문제 등에) 맞닥뜨리다
+2.  **crank out**: (빠르게) 생산하다/작성하다
+3.  **piece of cake**: 식은 죽 먹기
+4.  **breaks down**: 고장 나다, 제대로 작동하지 않다
+5.  **iron out**: 문제를 해결하다/다듬다
+6.  **pick your brain**: 당신의 지혜를 빌리다/조언을 구하다
+7.  **looking into**: 조사하다/검토하다
+8.  **figure out**: 이해하다/알아내다
+9.  **looking over**: 훑어보다/검토하다
+10. **touch base**: 연락을 취하다/대화하다
+11. **point me in the right direction**: 방향을 잡아주다
+12. **fall behind**: 뒤처지다
+13. **save the day**: (위기 상황에서) 구해내다
+
+---
+
+# Topic 3. Unexpected: Travel Trends (Past vs. Present)
+**[질문]**
+How has the way people travel abroad changed over the years? Compare the past trend of package tours with the current trend of independent travel.
+
+(해외 여행 방식이 지난 몇 년 동안 어떻게 변했나요? 과거의 패키지 여행 트렌드와 현재의 자유 여행 트렌드를 비교해 보세요.)
+
+### [Model Answer]
+That’s a very interesting question. Looking back, the landscape of overseas travel has <strong style="color:blue;">gone through</strong> a massive transformation. 
+
+In the past, say about 15 to 20 years ago, package tours were the <strong style="color:blue;">go-to</strong> option for most people. Back then, information was scarce, and language barriers were a huge hurdle. People used to <strong style="color:blue;">sign up for</strong> all-inclusive packages where everything—from flights to meals—was <strong style="color:blue;">mapped out</strong> by travel agencies. You just had to <strong style="color:blue;">show up</strong> and follow a flag-waving guide around. It was convenient, but it definitely <strong style="color:blue;">left much to be desired</strong> in terms of flexibility and authenticity.
+
+Fast forward to today, and the trend has <strong style="color:blue;">shifted gears</strong> entirely toward independent travel, or what we call "DIY travel." With smartphones and apps like Google Maps or Airbnb, we can <strong style="color:blue;">get around</strong> easily without a guide. People now prefer to <strong style="color:blue;">tailor-make</strong> their own itineraries. They want to <strong style="color:blue;">soak up</strong> the local culture at their own pace rather than being <strong style="color:blue;">tied down</strong> to a rigid schedule. 
+
+Social media has also <strong style="color:blue;">played a part</strong> in this change. Everyone is looking for those "hidden gems" to <strong style="color:blue;">show off</strong> on Instagram. Nowadays, with just a few clicks, <strong style="color:blue;">the world is your oyster</strong>. In short, while package tours provided a safety net in the past, today’s travelers value freedom and personalized experiences above all else. It's all about <strong style="color:blue;">breaking away</strong> from the norm and exploring the unknown.
+
+### [Vocabulary & Expressions]
+*   **Landscape**: (상황의) 지형, 전반적인 모습
+*   **Scarce**: 부족한, 드문
+*   **All-inclusive**: 모든 것이 포함된
+*   **Authenticity**: 진정성, 실제와 같음
+*   **Itinerary**: 여행 일정
+
+### [Phrasal Verbs & Idioms]
+1.  **gone through**: 겪다/거치다
+2.  **go-to**: 가장 선호하는/신뢰하는
+3.  **sign up for**: 신청하다/등록하다
+4.  **mapped out**: (상세히) 계획되다
+5.  **show up**: 나타나다
+6.  **left much to be desired**: 아쉬움이 많이 남다
+7.  **shifted gears**: 방향을 바꾸다
+8.  **get around**: 돌아다니다
+9.  **tailor-make**: 맞춤형으로 제작하다
+10. **soak up**: 만끽하다
+11. **tied down**: 얽매이다/속박되다
+12. **played a part**: 역할을 하다/일조하다
+13. **show off**: 자랑하다/뽐내다
+14. **the world is your oyster**: 세상에 못 할 것이 없다 (모든 것이 가능하다)
+15. **breaking away**: 벗어나다/탈피하다
