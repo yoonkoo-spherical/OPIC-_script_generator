@@ -2756,3 +2756,114 @@ Social media has also <strong style="color:blue;">played a part</strong> in this
 13. **show off**: 자랑하다/뽐내다
 14. **the world is your oyster**: 세상에 못 할 것이 없다 (모든 것이 가능하다)
 15. **breaking away**: 벗어나다/탈피하다
+
+## 2026-04-01 05:15:15 OPIc Study
+
+반갑습니다! OPIc AL 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 문법이 정확한 것을 넘어, **문장 간의 자연스러운 연결(Cohesion)**, **풍부한 표현력(Vocabulary & Idioms)**, 그리고 **원어민스러운 감정 전달(Intonation)**이 필수적입니다.
+
+제시해주신 3가지 주제에 맞춘 고득점용 질문과 모범 답안을 구성해 드립니다.
+
+---
+
+## 1. 묘사 (Description): 최근 방문했거나 계획 중인 해외 여행지
+
+### **[Question 1]**
+> "You indicated in the survey that you enjoy traveling abroad. Tell me about a place you recently visited or are planning to visit soon. I'd like to hear about Osaka, Japan, or any other city. Describe the city in detail and tell me what makes it so special to you."
+>
+> (당신은 설문조사에서 해외 여행을 즐긴다고 응답했습니다. 최근에 방문했거나 곧 방문할 계획인 장소에 대해 이야기해 주세요. 일본 오사카나 다른 도시에 대해 듣고 싶습니다. 그 도시를 자세히 묘사하고, 당신에게 왜 특별한지 말해 주세요.)
+
+### **[AL Model Answer]**
+To be honest, I’ve been <strong style="color:blue;">looking forward to</strong> visiting Osaka for a long time, and I finally made it there last month. Osaka is often called "the kitchen of Japan," and let me tell you, it truly lived up to its name.
+
+The first thing that hits you when you arrive at Dotonbori is the sheer energy of the place. It’s vibrant, crowded, and filled with neon lights. I spent hours just <strong style="color:blue;">soaking up the atmosphere</strong> while walking along the canal. What makes Osaka stand out from other cities like Tokyo is its laid-back vibe. People there seem more outgoing and friendly, which <strong style="color:blue;">adds to</strong> the overall charm of the trip.
+
+Of course, the food was the highlight. I decided to <strong style="color:blue;">eat my heart out</strong>, trying everything from takoyaki to okonomiyaki. I even found a small, hidden ramen shop <strong style="color:blue;">off the beaten path</strong>. It wasn't fancy, but the flavor was out of this world. I also <strong style="color:blue;">brushed up on</strong> my basic Japanese phrases before the trip, which helped me <strong style="color:blue;">get around</strong> more easily and interact with the locals.
+
+One thing I realized is that Osaka is a city where tradition and modernity <strong style="color:blue;">go hand in hand</strong>. You can see futuristic skyscrapers right next to historic temples. This contrast is what makes the city so visually stunning. Overall, the trip was a perfect way to <strong style="color:blue;">wind down</strong> and recharge my batteries. I’m already <strong style="color:blue;">counting down the days</strong> until I can go back and explore more hidden gems.
+
+### **[주요 표현 정리]**
+*   **Vocabulary:** Vibrant (활기찬), Laid-back (느긋한), Outgoing (외향적인), Modernity (현대성), Contrast (대조).
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">Look forward to</strong>: ~를 고대하다.
+    *   <strong style="color:blue;">Add to</strong>: ~를 더하다, 보태다.
+    *   <strong style="color:blue;">Brush up on</strong>: (공부 등을) 다시 공부하다, 복습하다.
+    *   <strong style="color:blue;">Get around</strong>: (여기저기) 돌아다니다.
+    *   <strong style="color:blue;">Wind down</strong>: 휴식을 취하다, 긴장을 풀다.
+*   **Idioms:**
+    *   <strong style="color:blue;">Soak up the atmosphere</strong>: 분위기에 젖어들다/만끽하다.
+    *   <strong style="color:blue;">Eat one's heart out</strong>: 마음껏 먹다.
+    *   <strong style="color:blue;">Off the beaten path</strong>: 사람들의 발길이 닿지 않는 (곳).
+    *   <strong style="color:blue;">Go hand in hand</strong>: 밀접한 관계가 있다, 병행하다.
+    *   <strong style="color:blue;">Count down the days</strong>: (손꼽아) 날짜를 기다리다.
+
+---
+
+## 2. 롤플레이 (Role-play): 식당 예약 및 메뉴/알레르기 관련 문의
+
+### **[Question 2]**
+> "I’d like to give you a situation and ask you to act it out. You are planning a dinner for a group of friends and want to make a reservation at a popular restaurant. Call the restaurant and ask three or four questions regarding the reservation, the menu, and specifically, any food allergies."
+>
+> (상황을 하나 드릴 테니 연기해 보세요. 당신은 친구들과의 저녁 식사를 위해 인기 있는 식당을 예약하려고 합니다. 식당에 전화하여 예약, 메뉴, 특히 음식 알레르기와 관련하여 3~4가지 질문을 하세요.)
+
+### **[AL Model Answer]**
+Hi there! I’m calling to <strong style="color:blue;">put in</strong> a reservation for this coming Friday, the 24th. I’ve heard so many great things about your place, so I wanted to <strong style="color:blue;">book ahead</strong> to make sure we get a table. Do you have any openings for a group of six around 7:00 PM?
+
+Also, I have a couple of questions about the menu. We have a few people in our group who are quite <strong style="color:blue;">picky about</strong> what they eat. Could you <strong style="color:blue;">run by</strong> me what your signature dishes are? We’d love to try the best you have to offer.
+
+More importantly, I need to <strong style="color:blue;">point out</strong> that one of my friends has a severe peanut allergy. It’s quite serious, so we need to be extremely careful. Does your kitchen <strong style="color:blue;">cater to</strong> people with such allergies? I was wondering if you could <strong style="color:blue;">check on</strong> whether the chef can prepare a few nut-free options or if there’s any risk of cross-contamination.
+
+Lastly, since it's a birthday celebration, I was <strong style="color:blue;">counting on</strong> bringing our own cake. Is there a "cakeage" fee, or would you be able to provide some candles? I’d really appreciate it if you could <strong style="color:blue;">fill me in on</strong> these details so I can <strong style="color:blue;">sort out</strong> the plans with my friends. Thanks!
+
+### **[주요 표현 정리]**
+*   **Vocabulary:** Reservation (예약), Signature dish (대표 요리), Severe (심각한), Cross-contamination (교차 오염).
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">Put in</strong>: (신청/예약을) 내다, 넣다.
+    *   <strong style="color:blue;">Run by</strong>: ~에게 정보를 전달하다/확인받다.
+    *   <strong style="color:blue;">Point out</strong>: 언급하다, 지적하다.
+    *   <strong style="color:blue;">Cater to</strong>: ~의 요구를 들어주다, 맞추다.
+    *   <strong style="color:blue;">Check on</strong>: 확인하다, 살피다.
+    *   <strong style="color:blue;">Fill someone in on</strong>: ~에게 자세히 알려주다.
+    *   <strong style="color:blue;">Sort out</strong>: 해결하다, 정리하다.
+*   **Idioms:**
+    *   <strong style="color:blue;">Book ahead</strong>: 미리 예약하다.
+    *   <strong style="color:blue;">Picky about</strong>: ~에 대해 까다로운.
+    *   <strong style="color:blue;">Counting on</strong>: ~를 기대하다, 믿다.
+
+---
+
+## 3. 돌발질문 (Unexpected): 아이 양육 방식의 세대 간 차이
+
+### **[Question 3]**
+> "Parenting styles have changed significantly over the years. Compare how parents used to raise their children in the past with how they do it today. Specifically, talk about changes in eating habits and general childcare methods."
+>
+> (양육 방식은 지난 수년간 크게 변해왔습니다. 과거 부모님이 아이를 기르던 방식과 오늘날의 방식을 비교해 보세요. 특히 식습관과 전반적인 육아 방법의 변화에 대해 이야기해 주세요.)
+
+### **[AL Model Answer]**
+That’s a very interesting topic. When I <strong style="color:blue;">look back</strong>, I can see that the way people <strong style="color:blue;">bring up</strong> children today is <strong style="color:blue;">day and night</strong> compared to my parents' generation.
+
+First, let’s talk about eating habits. In the past, the <strong style="color:blue;">rule of thumb</strong> was that children had to eat whatever was put on the table. My parents were quite strict, and I couldn’t <strong style="color:blue;">turn up my nose at</strong> vegetables. However, nowadays, parents are much more health-conscious and <strong style="color:blue;">look into</strong> nutritional balance much more deeply. They often <strong style="color:blue;">cater to</strong> their children's specific tastes or organic preferences, which was a luxury back then.
+
+Regarding general childcare, the biggest shift is in discipline and technology. My parents' generation focused on obedience, and they didn't <strong style="color:blue;">beat around the bush</strong> when it came to discipline. But these days, "gentle parenting" has <strong style="color:blue;">caught on</strong>. Parents try to communicate and empathize with their kids rather than just giving orders.
+
+Also, we can't ignore the role of technology. Modern parents have to <strong style="color:blue;">keep an eye on</strong> screen time, which wasn't even an issue thirty years ago. Back in the day, kids used to <strong style="color:blue;">hang out</strong> outside until sunset. Now, parents have to <strong style="color:blue;">cope with</strong> the challenges of the digital age. It seems like while modern parenting is more informed, it’s also much more complicated. Parents today really have to <strong style="color:blue;">stay on their toes</strong> to keep up with all the new information and potential risks.
+
+### **[주요 표현 정리]**
+*   **Vocabulary:** Significantly (상당히), Health-conscious (건강에 신경 쓰는), Obedience (복종), Empathize (공감하다), Informed (박식한).
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">Look back</strong>: 뒤돌아보다, 회상하다.
+    *   <strong style="color:blue;">Bring up</strong>: 양육하다, 기르다.
+    *   <strong style="color:blue;">Look into</strong>: 조사하다, 살피다.
+    *   <strong style="color:blue;">Catch on</strong>: 유행하다, 이해하다.
+    *   <strong style="color:blue;">Keep an eye on</strong>: ~을 계속 지켜보다/주시하다.
+    *   <strong style="color:blue;">Hang out</strong>: 시간을 보내다, 놀다.
+    *   <strong style="color:blue;">Cope with</strong>: ~에 대처하다, 대응하다.
+*   **Idioms:**
+    *   <strong style="color:blue;">Day and night</strong>: 천지차이 (완전히 다른).
+    *   <strong style="color:blue;">Rule of thumb</strong>: 경험 법칙, 일반적인 원칙.
+    *   <strong style="color:blue;">Turn up one's nose at</strong>: ~을 비웃다, 거절하다.
+    *   <strong style="color:blue;">Beat around the bush</strong>: 돌려 말하다.
+    *   <strong style="color:blue;">Stay on one's toes</strong>: 긴장을 늦추지 않다.
+
+---
+
+**강사 조언:** AL 등급을 위해서는 위 스크립트를 암기하기보다, 파란색으로 표시된 **구동사와 숙어**를 자신의 목소리로 자연스럽게 내뱉는 연습이 중요합니다. 발화 시 "Um", "You know", "I mean"과 같은 **Filler words**를 적절히 섞어주면 훨씬 원어민스러운 느낌을 줄 수 있습니다. 화이팅하세요!
