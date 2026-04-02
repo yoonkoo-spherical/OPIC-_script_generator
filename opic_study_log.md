@@ -2867,3 +2867,145 @@ Also, we can't ignore the role of technology. Modern parents have to <strong sty
 ---
 
 **강사 조언:** AL 등급을 위해서는 위 스크립트를 암기하기보다, 파란색으로 표시된 **구동사와 숙어**를 자신의 목소리로 자연스럽게 내뱉는 연습이 중요합니다. 발화 시 "Um", "You know", "I mean"과 같은 **Filler words**를 적절히 섞어주면 훨씬 원어민스러운 느낌을 줄 수 있습니다. 화이팅하세요!
+
+## 2026-04-02 04:55:56 OPIc Study
+
+안녕하세요! OPIc AL 등급 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 유창하게 말하는 것을 넘어, **구체적인 묘사 능력, 자연스러운 상황 대처(Role-play), 그리고 복잡한 사회적 이슈에 대한 논리적인 설명 능력**이 필요합니다.
+
+요청하신 세 가지 주제에 맞춰, 실제 시험에서 고득점을 보장하는 고퀄리티 스크립트와 학습 자료를 제공해 드립니다.
+
+---
+
+## 1. Description (묘사): 평소 즐겨 입는 옷차림
+
+### **[Question]**
+Could you describe your favorite style of clothing? What kind of clothes do you usually wear on a daily basis? Please tell me about your preferred brands or specific items, like knit cardigans, and explain why you like them in detail.
+
+평소에 즐겨 입는 옷차림에 대해 묘사해 주세요. 일상적으로 어떤 옷을 입으시나요? 선호하는 브랜드나 니트 가디건 같은 특정 아이템에 대해 언급해 주시고, 왜 그것들을 좋아하는지 자세히 설명해 주세요.
+
+### **[Model Answer]**
+
+Well, let me tell you about my personal style. I would say I’m a huge fan of the "minimalist yet sophisticated" look. My <strong style="color:blue;">go-to outfit</strong> these days definitely revolves around high-quality knitwear, especially oversized knit cardigans. I feel like a well-fitted cardigan is the ultimate item that allows me to <strong style="color:blue;">keep up with</strong> fashion trends while staying incredibly comfortable.
+
+Specifically, I’m <strong style="color:blue;">into</strong> brands like Ralph Lauren or Maison Kitsuné. I love their aesthetic because it’s timeless. For instance, when I <strong style="color:blue;">put on</strong> a thick, cream-colored cable-knit cardigan from Ralph Lauren over a simple white t-shirt, it instantly makes me look <strong style="color:blue;">put together</strong> without looking like I <strong style="color:blue;">tried too hard</strong>. 
+
+To be honest, I used to <strong style="color:blue;">go for</strong> flashy logos and bright colors when I was younger, but now I prefer "quiet luxury." I usually <strong style="color:blue;">mix and match</strong> my cardigans with straight-fit denim or charcoal slacks. This combination <strong style="color:blue;">stands out</strong> in a subtle way, which is exactly the vibe I’m <strong style="color:blue;">aiming for</strong>. 
+
+What I love most about this style is its versatility. I can wear it to a casual coffee date or even a semi-formal business meeting. It’s all about <strong style="color:blue;">striking a balance</strong> between comfort and elegance. Even if I <strong style="color:blue;">run into</strong> someone unexpectedly, I feel confident because this style never <strong style="color:blue;">goes out of style</strong>. In short, knit cardigans are the backbone of my wardrobe.
+
+### **[Vocabulary & Expressions]**
+
+*   **Sophisticated**: 세련된, 정교한
+*   **Aesthetic**: 미적 감각, 취향
+*   **Timeless**: 유행을 타지 않는
+*   **Versatility**: 다재다능함, 범용성
+
+**[Phrasal Verbs & Idioms]**
+1.  <strong style="color:blue;">Go-to outfit</strong>: 즐겨 입는 옷 (전매특허 의상)
+2.  <strong style="color:blue;">Keep up with</strong>: ~을 따라가다 (유행 등)
+3.  <strong style="color:blue;">Into</strong>: ~에 빠져 있는, 좋아하는
+4.  <strong style="color:blue;">Put on</strong>: ~을 입다
+5.  <strong style="color:blue;">Put together</strong>: 격식을 갖춘, 잘 차려입은
+6.  <strong style="color:blue;">Try too hard</strong>: 과하게 애쓰다
+7.  <strong style="color:blue;">Go for</strong>: ~을 택하다, 선호하다
+8.  <strong style="color:blue;">Mix and match</strong>: 여러 요소를 섞어 조화시키다
+9.  <strong style="color:blue;">Stand out</strong>: 눈에 띄다, 두드러지다
+10. <strong style="color:blue;">Aim for</strong>: ~을 목표로 하다
+11. <strong style="color:blue;">Strike a balance</strong>: 균형을 맞추다
+12. <strong style="color:blue;">Run into</strong>: 우연히 마주치다
+13. <strong style="color:blue;">Go out of style</strong>: 유행이 지나다
+
+---
+
+## 2. Role-play (롤플레이): 전자기기 구매 문의 및 AS 요청
+
+### **[Question]**
+You are planning to buy a high-performance laptop. Call a computer store and ask the representative two or three questions about the laptop's specifications. Then, inquire about their after-sales (AS) service policies in case you encounter any issues after the purchase.
+
+고성능 노트북을 구매하려고 합니다. 컴퓨터 매장에 전화를 걸어 노트북 성능(사양)에 대해 두세 가지 질문을 하세요. 그 후, 구매 후 문제가 발생할 경우를 대비해 AS 서비스 정책에 대해 문의하십시오.
+
+### **[Model Answer]**
+
+(Ring ring) Hello there! I’m calling because I’m <strong style="color:blue;">looking for</strong> a high-performance laptop for my heavy video editing work. I saw some listings on your website, but I’d like to <strong style="color:blue;">check out</strong> some details before I <strong style="color:blue;">shell out</strong> a lot of money.
+
+First of all, I’m interested in the latest model with the M3 Max chip. Could you tell me if you have the 64GB RAM version <strong style="color:blue;">in stock</strong>? Since I <strong style="color:blue;">deal with</strong> 4K footage daily, memory capacity is <strong style="color:blue;">of the essence</strong>. Also, I was wondering about the thermal management. Does this specific model <strong style="color:blue;">hold up</strong> well under heavy workloads without overheating?
+
+Secondly, I’d like to <strong style="color:blue;">bring up</strong> the topic of after-sales service. To be honest, I <strong style="color:blue;">lean toward</strong> your brand because of your reputation, but I want to be sure. If I <strong style="color:blue;">run into</strong> any hardware glitches within the first year, what is the exact process for AS? Do you offer on-site repairs, or do I have to <strong style="color:blue;">drop off</strong> the device at a service center? 
+
+One more thing—is there any chance I could <strong style="color:blue;">get a discount</strong> if I pay in cash, or perhaps <strong style="color:blue;">throw in</strong> a laptop sleeve for free? I’m really <strong style="color:blue;">looking forward to</strong> hearing back from you so I can <strong style="color:blue;">wrap up</strong> this purchase today. Thanks!
+
+### **[Vocabulary & Expressions]**
+
+*   **Specifications (Specs)**: 사양
+*   **Thermal management**: 발열 제어
+*   **Glitch**: 결함, 작은 문제
+*   **On-site repair**: 현장 수리 (방문 수리)
+
+**[Phrasal Verbs & Idioms]**
+1.  <strong style="color:blue;">Looking for</strong>: ~을 찾다
+2.  <strong style="color:blue;">Check out</strong>: 확인하다, 살펴보다
+3.  <strong style="color:blue;">Shell out</strong>: (거금을) 지불하다
+4.  <strong style="color:blue;">In stock</strong>: 재고가 있는
+5.  <strong style="color:blue;">Deal with</strong>: ~을 다루다, 처리하다
+6.  <strong style="color:blue;">Of the essence</strong>: 가장 중요한, 필수적인
+7.  <strong style="color:blue;">Hold up</strong>: 견디다, 버티다
+8.  <strong style="color:blue;">Bring up</strong>: (화제를) 꺼내다
+9.  <strong style="color:blue;">Lean toward</strong>: ~하는 경향이 있다, ~ 쪽으로 기울다
+10. <strong style="color:blue;">Run into</strong>: (문제 등에) 직면하다
+11. <strong style="color:blue;">Drop off</strong>: 갖다 놓다, 맡기다
+12. <strong style="color:blue;">Get a discount</strong>: 할인을 받다
+13. <strong style="color:blue;">Throw in</strong>: 덤으로 주다, 포함시키다
+14. <strong style="color:blue;">Looking forward to</strong>: ~을 고대하다
+15. <strong style="color:blue;">Wrap up</strong>: 마무리 짓다
+
+---
+
+## 3. Unexpected (돌발질문): 육아 방식의 세대 차이
+
+### **[Question]**
+Parenting styles have changed significantly over the years. How does the way people raise children today differ from the way your parents' generation did? Please focus on aspects like eating habits and general upbringing methods.
+
+육아 방식은 세월이 흐르면서 크게 변해왔습니다. 오늘날 사람들이 아이를 기르는 방식은 부모님 세대와 어떻게 다른가요? 식습관과 전반적인 양육 방식을 중심으로 설명해 주세요.
+
+### **[Model Answer]**
+
+That’s a very intriguing question. Looking back, there’s a <strong style="color:blue;">world of difference</strong> between how I was <strong style="color:blue;">brought up</strong> and how parents raise their kids nowadays. 
+
+First, let’s talk about eating habits. In my parents’ day, the priority was simply making sure kids <strong style="color:blue;">cleared their plates</strong>. It was a bit more <strong style="color:blue;">old-school</strong>; you ate what was put in front of you without complaint. However, modern parents are much more <strong style="color:blue;">clued in</strong> regarding nutrition. They <strong style="color:blue;">cut down on</strong> sugar and processed foods, often opting for organic or vegan options. There’s also a huge emphasis on "baby-led weaning," where infants <strong style="color:blue;">pick out</strong> their own food to develop independence.
+
+When it comes to general upbringing, the shift is even more <strong style="color:blue;">eye-opening</strong>. My parents' generation tended to <strong style="color:blue;">stick to</strong> a more authoritarian style. "Because I said so" was a common phrase. They wanted us to <strong style="color:blue;">fit in</strong> and follow social norms. In contrast, today's parents <strong style="color:blue;">focus on</strong> emotional intelligence. They try to <strong style="color:blue;">talk through</strong> feelings with their children rather than just punishing them. They want their kids to <strong style="color:blue;">stand out</strong> and express their individuality.
+
+Lastly, we can’t <strong style="color:blue;">leave out</strong> the role of technology. While my parents told me to <strong style="color:blue;">go out</strong> and play in the dirt, today's kids <strong style="color:blue;">grow up</strong> with tablets in their hands. This has <strong style="color:blue;">given rise to</strong> new challenges like managing screen time, which my parents never had to <strong style="color:blue;">worry about</strong>. All in all, while the core love remains the same, the methods have definitely <strong style="color:blue;">moved away from</strong> discipline toward communication and health-consciousness.
+
+### **[Vocabulary & Expressions]**
+
+*   **Intriguing**: 흥미로운
+*   **Nutrition**: 영양
+*   **Authoritarian**: 권위주의적인
+*   **Individuality**: 개성
+
+**[Phrasal Verbs & Idioms]**
+1.  <strong style="color:blue;">World of difference</strong>: 천지 차이
+2.  <strong style="color:blue;">Brought up</strong>: 양육된 (bring up의 과거분사)
+3.  <strong style="color:blue;">Clear one's plate</strong>: 음식을 다 먹어치우다
+4.  <strong style="color:blue;">Old-school</strong>: 구식의, 전통적인
+5.  <strong style="color:blue;">Clued in</strong>: ~에 대해 잘 아는, 정보를 가진
+6.  <strong style="color:blue;">Cut down on</strong>: ~을 줄이다
+7.  <strong style="color:blue;">Pick out</strong>: 고르다, 선택하다
+8.  <strong style="color:blue;">Eye-opening</strong>: 놀라운, 괄목할 만한
+9.  <strong style="color:blue;">Stick to</strong>: ~을 고수하다
+10. <strong style="color:blue;">Fit in</strong>: 어울리다, 조화를 이루다
+11. <strong style="color:blue;">Focus on</strong>: ~에 집중하다
+12. <strong style="color:blue;">Talk through</strong>: 충분히 대화하여 풀다
+13. <strong style="color:blue;">Stand out</strong>: 두드러지다
+14. <strong style="color:blue;">Leave out</strong>: 빠뜨리다, 제외하다
+15. <strong style="color:blue;">Go out</strong>: 나가다
+16. <strong style="color:blue;">Grow up</strong>: 성장하다
+17. <strong style="color:blue;">Given rise to</strong>: ~을 일으키다, 유발하다
+18. <strong style="color:blue;">Worry about</strong>: ~에 대해 걱정하다
+19. <strong style="color:blue;">Moved away from</strong>: ~에서 멀어지다 (변화하다)
+
+---
+
+**강사 Tip:** 
+AL 등급을 위해서는 위 스크립트에 포함된 **Phrasal Verbs(구동사)**를 자연스럽게 사용하는 것이 핵심입니다. 단순히 "I wear clothes"라고 하기보다 <strong style="color:blue;">"I put on my go-to outfit"</strong>이라고 표현하는 연습을 반복해 보세요! 건승을 빕니다!
