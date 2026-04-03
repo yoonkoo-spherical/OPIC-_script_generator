@@ -3009,3 +3009,108 @@ Lastly, we can’t <strong style="color:blue;">leave out</strong> the role of te
 
 **강사 Tip:** 
 AL 등급을 위해서는 위 스크립트에 포함된 **Phrasal Verbs(구동사)**를 자연스럽게 사용하는 것이 핵심입니다. 단순히 "I wear clothes"라고 하기보다 <strong style="color:blue;">"I put on my go-to outfit"</strong>이라고 표현하는 연습을 반복해 보세요! 건승을 빕니다!
+
+## 2026-04-03 04:57:56 OPIc Study
+
+반갑습니다! OPIc AL 취득을 위한 전략적 동반자, 전문 강사입니다. 
+
+AL 등급 달성을 위해서는 단순히 문법에 맞는 문장을 나열하는 것을 넘어, **풍부한 어휘 활용, 자연스러운 연결어 사용, 그리고 구동사와 숙어를 섞어 원어민스러운 뉘앙스를 풍기는 것**이 핵심입니다. 
+
+제시해주신 세 가지 주제에 맞추어 2분 30초 내외의 발화가 가능한 고득점 모범 답안을 구성해 드립니다.
+
+---
+
+## 1. Description (묘사): 단골 카페의 특징 및 분위기
+
+### **Question**
+"Tell me about a cafe or restaurant you visit frequently. What does it look like? What kind of atmosphere does it have? Why do you like going there?"
+(당신이 자주 방문하는 카페나 식당에 대해 말해주세요. 그곳은 어떻게 생겼나요? 분위기는 어떤가요? 왜 그곳에 가는 것을 좋아하나요?)
+
+### **Model Answer**
+"Well, let me tell you about my absolute favorite spot. There’s this cozy little cafe called 'The Urban Hideout' right around the corner from my house. It really <strong style="color:blue;">stands out</strong> from the typical chain coffee shops because of its unique, rustic vibe. 
+
+As soon as you walk in, the first thing that <strong style="color:blue;">catches your eye</strong> is the interior. It’s filled with vintage wooden furniture and warm, dim lighting that makes the whole place feel incredibly inviting. They also have a lot of indoor plants, which <strong style="color:blue;">brings the place to life</strong>. It’s not just a place to grab a coffee; it feels like a sanctuary where I can <strong style="color:blue;">wind down</strong> after a long, hectic day.
+
+The atmosphere is usually quite tranquil. They play soft lo-fi beats in the background, which <strong style="color:blue;">sets the mood</strong> perfectly for either reading a book or just <strong style="color:blue;">chilling out</strong>. What I love most about this place is that it’s never too crowded. I can always find a quiet nook to sit in. 
+
+I’ve become a regular there, so the barista knows my order by heart. Whenever I feel stressed, I head over there to <strong style="color:blue;">soak up</strong> the peaceful ambiance. It really <strong style="color:blue;">fits the bill</strong> for me whenever I need some 'me-time.' To be honest, I don't think I could find another place that makes me feel as comfortable as this one does."
+
+### **Key Vocabulary & Expressions**
+*   **Vocabulary:** Rustic (소박한/전원적인), Sanctuary (안식처), Hectic (몹시 바쁜), Tranquil (평온한), Ambiance (분위기).
+*   **Phrasal Verbs:** 
+    *   <strong style="color:blue;">stand out</strong>: 두드러지다, 눈에 띄다.
+    *   <strong style="color:blue;">wind down</strong>: 긴장을 풀고 쉬다.
+    *   <strong style="color:blue;">chilling out</strong>: 느긋하게 쉬다.
+    *   <strong style="color:blue;">soak up</strong>: (분위기 등에) 흠뻑 젖다/만끽하다.
+*   **Idioms:**
+    *   <strong style="color:blue;">catches your eye</strong>: 눈길을 끌다.
+    *   <strong style="color:blue;">brings the place to life</strong>: 공간에 생기를 불어넣다.
+    *   <strong style="color:blue;">sets the mood</strong>: 분위기를 조성하다.
+    *   <strong style="color:blue;">fits the bill</strong>: 목적에 딱 맞다.
+
+---
+
+## 2. Role-play (롤플레이): 고성능 노트북 구매 전 성능 문의 및 AS 요청
+
+### **Question**
+"You are planning to buy a high-performance laptop at an electronics store. Call the store and ask three or four questions about the laptop's specifications and the after-sales service policy."
+(전자기기 매장에서 고성능 노트북을 구매하려고 합니다. 매장에 전화를 걸어 노트북 사양과 AS 정책에 대해 3~4가지 질문을 하세요.)
+
+### **Model Answer**
+"Hi there! I’m calling because I’m <strong style="color:blue;">looking for</strong> a high-performance laptop, specifically for video editing and heavy gaming. I saw some models on your website, but I’d like to <strong style="color:blue;">narrow down</strong> my options with a few questions.
+
+First of all, I’m interested in the latest 'Pro-X' model. Could you tell me if it <strong style="color:blue;">comes with</strong> the new 14-core processor and at least 32 gigabytes of RAM? I need to make sure it can handle heavy workloads without any lag. 
+
+Secondly, since I’ll be using it for long hours, I’m a bit worried about overheating. Does this model feature an advanced cooling system to <strong style="color:blue;">keep the temperature down</strong>? 
+
+Also, I’d like to <strong style="color:blue;">check out</strong> your after-sales service policy. Does the laptop come with a global warranty? I travel a lot for work, so I need to know if I can get it fixed easily if I <strong style="color:blue;">run into</strong> any technical issues abroad. 
+
+Lastly, if I decide to <strong style="color:blue;">go through with</strong> the purchase today, do you offer any free technical support or insurance plans for accidental damage? I want to <strong style="color:blue;">keep an eye out for</strong> any extra benefits. Please <strong style="color:blue;">get back to me</strong> when you have a moment. Thanks!"
+
+### **Key Vocabulary & Expressions**
+*   **Vocabulary:** Specifications (사양), Lag (지연), Overheating (과열), Global warranty (글로벌 보증).
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">looking for</strong>: 찾고 있다.
+    *   <strong style="color:blue;">narrow down</strong>: (범위를) 좁히다.
+    *   <strong style="color:blue;">comes with</strong>: ~이 딸려 있다/포함되다.
+    *   <strong style="color:blue;">check out</strong>: 확인하다.
+    *   <strong style="color:blue;">run into</strong>: (문제 등에) 마주치다.
+    *   <strong style="color:blue;">go through with</strong>: (고민하던 일을) 실천하다/완수하다.
+    *   <strong style="color:blue;">get back to me</strong>: 나에게 다시 연락 주다.
+*   **Idioms:**
+    *   <strong style="color:blue;">keep the temperature down</strong>: 온도를 낮게 유지하다.
+    *   <strong style="color:blue;">keep an eye out for</strong>: ~을 주의 깊게 살피다.
+
+---
+
+## 3. Unexpected (돌발질문): 날씨 변화/자연 재해로 인한 피해 경험
+
+### **Question**
+"Have you ever experienced any damage or problems due to unexpected weather changes or a natural disaster? Describe what happened, how you dealt with the situation, and what the outcome was."
+(예기치 못한 날씨 변화나 자연 재해로 인해 피해나 문제를 겪은 적이 있나요? 무슨 일이 있었는지, 어떻게 대처했는지, 결과는 어떠했는지 설명하세요.)
+
+### **Model Answer**
+"Actually, I have a pretty vivid memory of a time when I was <strong style="color:blue;">caught off guard</strong> by a massive flash flood. It happened a couple of summers ago during the monsoon season. 
+
+I was at work when it suddenly started <strong style="color:blue;">pouring down</strong>. I didn't think much of it at first, but within an hour, the streets were completely flooded. When I tried to drive home, my car got stuck because the water level was rising so fast. I was <strong style="color:blue;">in a tight spot</strong> because I couldn't move forward or go back.
+
+I realized I had to <strong style="color:blue;">think on my feet</strong>. I managed to park my car on slightly higher ground and took shelter in a nearby building. The power <strong style="color:blue;">went out</strong>, so I was stuck there in the dark for hours. It was quite a terrifying experience, to be honest. 
+
+Eventually, the rain <strong style="color:blue;">died down</strong> and the water receded. I had to <strong style="color:blue;">shell out</strong> a lot of money to repair my car’s engine because of water damage. It really <strong style="color:blue;">took a toll on</strong> my finances at that time. 
+
+Since then, I always <strong style="color:blue;">keep track of</strong> the weather forecast very closely during the summer. I learned the hard way that it’s always <strong style="color:blue;">better safe than sorry</strong> when it comes to nature's unpredictability."
+
+### **Key Vocabulary & Expressions**
+*   **Vocabulary:** Flash flood (갑작스러운 홍수), Monsoon season (장마철), Recede (물러가다), Unpredictability (예측 불가능성).
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">pouring down</strong>: 비가 억수같이 쏟아지다.
+    *   <strong style="color:blue;">went out</strong>: (전등이) 꺼지다/정전되다.
+    *   <strong style="color:blue;">died down</strong>: (기세가) 가라앉다/잦아들다.
+    *   <strong style="color:blue;">shell out</strong>: (거금을) 지불하다.
+    *   <strong style="color:blue;">keep track of</strong>: ~을 계속 파악하다/추적하다.
+*   **Idioms:**
+    *   <strong style="color:blue;">caught off guard</strong>: 허를 찔리다/당황하다.
+    *   <strong style="color:blue;">in a tight spot</strong>: 곤경에 처한.
+    *   <strong style="color:blue;">think on my feet</strong>: 빠르게 판단하여 대처하다.
+    *   <strong style="color:blue;">took a toll on</strong>: ~에 타격을 주다/피해를 입히다.
+    *   <strong style="color:blue;">better safe than sorry</strong>: 나중에 후회하는 것보다 조심하는 것이 낫다.
