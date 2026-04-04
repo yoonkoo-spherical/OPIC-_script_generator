@@ -3114,3 +3114,127 @@ Since then, I always <strong style="color:blue;">keep track of</strong> the weat
     *   <strong style="color:blue;">think on my feet</strong>: 빠르게 판단하여 대처하다.
     *   <strong style="color:blue;">took a toll on</strong>: ~에 타격을 주다/피해를 입히다.
     *   <strong style="color:blue;">better safe than sorry</strong>: 나중에 후회하는 것보다 조심하는 것이 낫다.
+
+## 2026-04-04 04:44:06 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 전문 강사입니다. AL 등급의 핵심은 **끊김 없는 발화량(Fluency), 다채로운 어휘 선택(Vocabulary), 그리고 시제 및 문장 구조의 복잡성(Grammar)**입니다.
+
+요청하신 세 가지 주제에 맞춰, 고득점을 보장하는 전문 스크립트와 학습 자료를 구성해 드립니다.
+
+---
+
+## 1. Description (묘사): 즐겨 하는 컴퓨터 게임 (Monster Hunter)
+
+### **[Question]**
+You indicated in the survey that you enjoy playing computer games. Can you describe your favorite game in detail? What is the main objective of the game, and what makes it so special to you?
+
+당신은 설문조사에서 컴퓨터 게임을 즐긴다고 응답했습니다. 당신이 가장 좋아하는 게임에 대해 자세히 묘사해 주세요. 그 게임의 주요 목표는 무엇이며, 무엇 때문에 그 게임이 당신에게 특별한가요?
+
+### **[AL Level Model Answer]**
+To be honest, I’m quite a big fan of various genres, but if I had to pick just one, I’d definitely go with "Monster Hunter." It’s an action RPG that has completely <strong style="color:blue;">drawn me in</strong> lately. The core premise is pretty straightforward: you are a hunter, and your job is to track down and battle massive, majestic creatures in a variety of breathtaking environments. 
+
+What I really love about this game is the incredible level of detail. It’s not just about mindlessly mashing buttons; you have to <strong style="color:blue;">brush up on</strong> your skills and learn the specific patterns of each monster. The sense of accomplishment you get after a 30-minute intense battle is truly <strong style="color:blue;">second to none</strong>. 
+
+Moreover, the progression system is what keeps me <strong style="color:blue;">hooked on</strong> the game. You collect materials from the monsters you defeat to craft better gear. This cycle of hunting and upgrading is incredibly addictive. Sometimes, when a hunt doesn't <strong style="color:blue;">go as planned</strong>, I have to <strong style="color:blue;">think outside the box</strong> and change my strategy or weapon type. 
+
+Actually, I often play this with my friends online. We <strong style="color:blue;">team up</strong> every weekend, and it’s a great way to <strong style="color:blue;">blow off some steam</strong> after a stressful week at work. All in all, "Monster Hunter" is more than just a game to me; it's a way to challenge myself and bond with my friends at the same time.
+
+---
+
+### **[Key Vocabulary & Phrases]**
+*   **Mainstream:** 주류의, 일반적인
+*   **Majestic:** 장엄한, 위엄 있는
+*   **Breathtaking:** (너무 놀라워) 숨이 막히는
+*   **Progression system:** 성장 시스템 (게임 내 레벨업 등)
+*   **Addictive:** 중독성 있는
+*   **Bond with:** ~와 유대감을 형성하다
+
+### **[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">Draw someone in</strong>: ~를 매료시키다, 끌어들이다
+*   <strong style="color:blue;">Brush up on</strong>: ~을 복습하다, 연마하다
+*   <strong style="color:blue;">Second to none</strong>: 어느 것에도 뒤지지 않는 (최고인)
+*   <strong style="color:blue;">Hooked on</strong>: ~에 빠진, 중독된
+*   <strong style="color:blue;">Go as planned</strong>: 계획대로 진행되다
+*   <strong style="color:blue;">Think outside the box</strong>: 고정관념에서 벗어나 생각하다
+*   <strong style="color:blue;">Team up</strong>: 협력하다, 팀을 이루다
+*   <strong style="color:blue;">Blow off some steam</strong>: 스트레스를 풀다
+
+---
+
+## 2. Role-play (롤플레이): 테마파크 예약 오류 해결
+
+### **[Question]**
+I'm sorry, but there is a problem you need to resolve. You have made a reservation for a theme park, but you just realized there is an error in your booking information. Call the customer service center, explain the situation, and suggest two or three alternatives to fix the problem.
+
+죄송합니다만, 해결해야 할 문제가 발생했습니다. 테마파크를 예약했는데, 방금 예약 정보에 오류가 있음을 알게 되었습니다. 고객센터에 전화하여 상황을 설명하고, 문제를 해결하기 위한 두세 가지 대안을 제시하십시오.
+
+### **[AL Level Model Answer]**
+Hi there, I’m calling because I <strong style="color:blue;">ran into</strong> a bit of a problem with my reservation for this coming Saturday. My name is [Your Name], and my confirmation number is 12345. I was <strong style="color:blue;">going over</strong> my booking details just now and noticed that the date was set for Friday instead of Saturday. I must have <strong style="color:blue;">messed up</strong> while navigating the website.
+
+I’m really hoping you can <strong style="color:blue;">look into</strong> this for me. Since it’s a group booking for my family, I really need to <strong style="color:blue;">sort this out</strong> as soon as possible. Here are a few ways I thought we could fix this.
+
+First, would it be possible to simply move the reservation to Saturday? I’m more than willing to pay any price difference or a small administrative fee if necessary. If Saturday is completely <strong style="color:blue;">booked up</strong>, could you check if there are any openings for the following Sunday? 
+
+Alternatively, if changing the date isn't an option, could you please cancel the current booking and <strong style="color:blue;">give me a hand</strong> with a full refund? That way, I can try to re-book it manually on my end. I know your policy might be strict, but I’d really appreciate it if you could <strong style="color:blue;">cut me some slack</strong> this once. Please <strong style="color:blue;">get back to me</strong> at your earliest convenience. Thank you!
+
+---
+
+### **[Key Vocabulary & Phrases]**
+*   **Confirmation number:** 예약 확인 번호
+*   **Administrative fee:** 행정 수수료
+*   **Manual/Manually:** 수동의 / 수동으로
+*   **Strict policy:** 엄격한 규정
+*   **At your earliest convenience:** 가급적 빨리 (정중한 표현)
+
+### **[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">Run into</strong>: (문제 등에) 맞닥뜨리다
+*   <strong style="color:blue;">Go over</strong>: 검토하다, 자세히 살피다
+*   <strong style="color:blue;">Mess up</strong>: 망치다, 실수하다
+*   <strong style="color:blue;">Look into</strong>: 조사하다, 확인해 보다
+*   <strong style="color:blue;">Sort out</strong>: 해결하다, 정리하다
+*   <strong style="color:blue;">Book up</strong>: 예약이 꽉 차다
+*   <strong style="color:blue;">Give someone a hand</strong>: ~를 돕다
+*   <strong style="color:blue;">Cut someone some slack</strong>: ~를 사정을 봐주다 (너그럽게 대하다)
+*   <strong style="color:blue;">Get back to</strong>: ~에게 다시 연락하다
+
+---
+
+## 3. Unexpected (돌발질문): 대중교통 이용 시 발생한 문제
+
+### **[Question]**
+Have you ever experienced an unexpected situation or a problem while using public transportation? Perhaps the bus broke down, or there was a major delay. Describe the experience in detail. What happened, and how did you handle the situation?
+
+대중교통을 이용하다가 예상치 못한 상황이나 문제를 겪은 적이 있습니까? 버스가 고장 났거나 큰 지연이 있었을 수도 있습니다. 그 경험을 자세히 묘사해 주세요. 어떤 일이 일어났고, 그 상황을 어떻게 처리했습니까?
+
+### **[AL Level Model Answer]**
+Oh, I have a perfect, yet somewhat traumatizing, story for this. A few months ago, I was <strong style="color:blue;">on my way to</strong> a very important job interview. I usually rely on the subway because it’s generally <strong style="color:blue;">on time</strong>, but that day, everything <strong style="color:blue;">fell apart</strong>.
+
+I was sitting on the Line 2 train when suddenly, it came to a screeching halt between stations. At first, I thought it was just a minor delay, but then the announcement said that the train had <strong style="color:blue;">broken down</strong> due to a technical glitch. I started to <strong style="color:blue;">freak out</strong> because the clock was ticking, and I couldn't afford to be late. 
+
+We were <strong style="color:blue;">stuck in</strong> the tunnel for about 20 minutes. <strong style="color:blue;">Out of the blue</strong>, I realized I had to <strong style="color:blue;">think on my feet</strong>. As soon as the train crawled back to the previous station and the doors opened, I <strong style="color:blue;">dashed out</strong> and called a taxi using a mobile app. 
+
+While in the taxi, I called the interviewer to <strong style="color:blue;">fill them in on</strong> the situation. Luckily, they were very understanding. I managed to <strong style="color:blue;">show up</strong> just five minutes before the interview started. It was such a <strong style="color:blue;">close call</strong>! That experience definitely taught me to always <strong style="color:blue;">set aside</strong> extra time for commuting, no matter how reliable the transport system seems.
+
+---
+
+### **[Key Vocabulary & Phrases]**
+*   **Traumatizing:** 대단히 충격적인
+*   **Screeching halt:** 끼익 소리를 내며 멈춤
+*   **Technical glitch:** 기술적 결함/오류
+*   **The clock is ticking:** 시간이 촉박하다
+*   **Commuting:** 통근/통학
+
+### **[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">On my way to</strong>: ~로 가는 길에
+*   <strong style="color:blue;">On time</strong>: 정각에
+*   <strong style="color:blue;">Fall apart</strong>: 무너지다, 결딴나다
+*   <strong style="color:blue;">Break down</strong>: 고장 나다
+*   <strong style="color:blue;">Freak out</strong>: 당황하다, 기겁하다
+*   <strong style="color:blue;">Stuck in</strong>: ~에 갇힌, 꼼짝 못 하는
+*   <strong style="color:blue;">Out of the blue</strong>: 갑자기, 난데없이
+*   <strong style="color:blue;">Think on one's feet</strong>: 신속하게 판단(대처)하다
+*   <strong style="color:blue;">Dash out</strong>: 급히 뛰어나가다
+*   <strong style="color:blue;">Fill someone in on</strong>: ~에게 (상황을) 자세히 설명해 주다
+*   <strong style="color:blue;">Show up</strong>: 나타나다, 도착하다
+*   <strong style="color:blue;">Close call</strong>: 위기일발, 아슬아슬한 상황
+*   <strong style="color:blue;">Set aside</strong>: (시간 등을) 확보하다, 떼어 두다
