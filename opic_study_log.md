@@ -3238,3 +3238,110 @@ While in the taxi, I called the interviewer to <strong style="color:blue;">fill 
 *   <strong style="color:blue;">Show up</strong>: 나타나다, 도착하다
 *   <strong style="color:blue;">Close call</strong>: 위기일발, 아슬아슬한 상황
 *   <strong style="color:blue;">Set aside</strong>: (시간 등을) 확보하다, 떼어 두다
+
+## 2026-04-05 05:04:53 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 전문 강사입니다. 
+
+AL 등급을 받기 위해서는 단순히 유창한 영어를 구사하는 것을 넘어, **추상적인 개념을 논리적으로 설명**하고, **다양한 어휘와 숙어(Idioms), 구동사(Phrasal Verbs)**를 적재적소에 배치하여 원어민스러운 뉘앙스를 풍기는 것이 중요합니다.
+
+요청하신 세 가지 주제에 맞춘 고득점용 질문과 모범 답안을 구성해 드립니다.
+
+---
+
+## 1. Description (묘사): 즐겨 하는 컴퓨터 게임
+
+**Question:**
+You indicated in the survey that you enjoy playing computer games. Can you tell me about your favorite game in detail? What is the game about, and why do you find it so captivating compared to other games?
+(당신은 설문조사에서 컴퓨터 게임을 즐긴다고 응답했습니다. 당신이 가장 좋아하는 게임에 대해 자세히 말해줄 수 있나요? 그 게임은 무엇에 관한 것이며, 다른 게임들과 비교했을 때 왜 그렇게 매력적이라고 느끼나요?)
+
+**Model Answer:**
+To be perfectly honest, I’ve always been a bit of a hardcore gamer, but if I had to pick just one title that truly <strong style="color:blue;">stands out from the crowd</strong>, it would definitely be the "Civilization" series. It’s a turn-based strategy game where you lead a civilization from the Stone Age all the way to the Information Age. What’s so fascinating about it is the sheer depth of the mechanics; you have to manage diplomacy, science, and culture simultaneously.
+
+Sometimes, when I <strong style="color:blue;">get into</strong> a session, I completely lose track of time. It really allows me to <strong style="color:blue;">wind down</strong> after a stressful day because it requires my full concentration. Unlike fast-paced action games like "Sekiro," where you have to <strong style="color:blue;">stay on your toes</strong> to parry every attack, "Civilization" allows me to <strong style="color:blue;">mull over</strong> my decisions. I love the feeling of <strong style="color:blue;">calling the shots</strong> and seeing how my empire expands over thousands of virtual years. 
+
+Moreover, the "just one more turn" syndrome is real. I often find myself saying I’ll stop, but then I <strong style="color:blue;">end up</strong> playing until the sun comes up. It’s not just about winning; it’s about the unique story that unfolds in every match. Whether I’m <strong style="color:blue;">fending off</strong> a barbarian invasion or racing to launch a rocket to Mars, the game constantly <strong style="color:blue;">brings out</strong> my competitive spirit. It’s truly a masterpiece that has <strong style="color:blue;">stood the test of time</strong>.
+
+**Key Vocabulary & Expressions:**
+*   **Captivating:** 매혹적인
+*   **Sheer depth:** 진정한 깊이
+*   **Unfold:** 펼쳐지다
+*   **Masterpiece:** 걸작
+*   **<strong style="color:blue;">stand out from the crowd</strong>:** 군계일학이다, 눈에 띄다 (Idiom)
+*   **<strong style="color:blue;">get into</strong>:** ~에 빠지다, 시작하다 (Phrasal verb)
+*   **<strong style="color:blue;">wind down</strong>:** 긴장을 풀다, 쉬다 (Phrasal verb)
+*   **<strong style="color:blue;">stay on your toes</strong>:** 방심하지 않다, 긴장을 유지하다 (Idiom)
+*   **<strong style="color:blue;">mull over</strong>:** 숙고하다 (Phrasal verb)
+*   **<strong style="color:blue;">calling the shots</strong>:** 지휘하다, 결정권을 갖다 (Idiom)
+*   **<strong style="color:blue;">end up</strong>:** 결국 ~하게 되다 (Phrasal verb)
+*   **<strong style="color:blue;">fend off</strong>:** ~를 막아내다 (Phrasal verb)
+*   **<strong style="color:blue;">bring out</strong>:** (특색 등을) 끌어내다 (Phrasal verb)
+*   **<strong style="color:blue;">stood the test of time</strong>:** 세월의 시험을 견디다, 오랫동안 사랑받다 (Idiom)
+
+---
+
+## 2. Role-play (롤플레이): 투자 포트폴리오 리밸런싱 상담
+
+**Question:**
+You are visiting a financial advisor at a bank or a brokerage firm to discuss rebalancing your investment portfolio. Contact the advisor and explain your current financial situation. Ask three or four questions about how to adjust your stock and bond ratio to better suit the current market trends.
+(당신은 투자 포트폴리오 리밸런싱을 논의하기 위해 은행이나 증권사의 재무 상담사를 방문했습니다. 상담사에게 연락하여 당신의 현재 재무 상황을 설명하세요. 현재 시장 흐름에 맞게 주식과 채권 비율을 어떻게 조정할지에 대해 3~4개의 질문을 하세요.)
+
+**Model Answer:**
+Hello, I’m here today because I’d like to <strong style="color:blue;">touch base</strong> regarding my current investment portfolio. I’ve been looking at my account lately, and I’m a bit concerned that my asset allocation has <strong style="color:blue;">gotten out of hand</strong> due to the recent market volatility. Currently, I have a 70/30 split between stocks and bonds, but with the interest rates fluctuating, I feel like I need to <strong style="color:blue;">shake things up</strong>.
+
+I’m hoping you can help me <strong style="color:blue;">iron out</strong> a new strategy. First off, considering the current inflation, do you think I should <strong style="color:blue;">cut back on</strong> my tech stock exposure and <strong style="color:blue;">beef up</strong> my bond holdings instead? I want to make sure I don't <strong style="color:blue;">put all my eggs in one basket</strong>. 
+
+Secondly, how often should we <strong style="color:blue;">look into</strong> rebalancing moving forward? I don’t want to <strong style="color:blue;">miss the boat</strong> on emerging market opportunities. Also, could you <strong style="color:blue;">fill me in on</strong> any tax implications if I sell a portion of my profitable stocks right now? Lastly, are there any specific "green energy" bonds that could help me <strong style="color:blue;">hedge my bets</strong> against traditional energy sector risks? I’d really appreciate it if we could <strong style="color:blue;">go over</strong> these details thoroughly today.
+
+**Key Vocabulary & Expressions:**
+*   **Volatility:** 변동성
+*   **Asset allocation:** 자산 배분
+*   **Implication:** 영향, 결과
+*   **Profitable:** 수익성이 있는
+*   **<strong style="color:blue;">touch base</strong>:** 연락을 취하다, 상황을 확인하다 (Idiom)
+*   **<strong style="color:blue;">get out of hand</strong>:** 감당할 수 없게 되다, 균형을 잃다 (Idiom)
+*   **<strong style="color:blue;">shake things up</strong>:** 변화를 주다, 개편하다 (Phrasal verb)
+*   **<strong style="color:blue;">iron out</strong>:** 해결하다, 조율하다 (Phrasal verb)
+*   **<strong style="color:blue;">cut back on</strong>:** ~을 줄이다 (Phrasal verb)
+*   **<strong style="color:blue;">beef up</strong>:** 보강하다, 강화하다 (Phrasal verb)
+*   **<strong style="color:blue;">put all my eggs in one basket</strong>:** 한 바구니에 모든 달걀을 담다 (위험을 분산하지 않다) (Idiom)
+*   **<strong style="color:blue;">look into</strong>:** 조사하다, 검토하다 (Phrasal verb)
+*   **<strong style="color:blue;">miss the boat</strong>:** 기회를 놓치다 (Idiom)
+*   **<strong style="color:blue;">fill me in on</strong>:** ~에 대해 자세히 알려주다 (Phrasal verb)
+*   **<strong style="color:blue;">hedge my bets</strong>:** 위험에 대비하다 (Idiom)
+*   **<strong style="color:blue;">go over</strong>:** 검토하다, 훑어보다 (Phrasal verb)
+
+---
+
+## 3. Unexpected (돌발): 자동화 기술 도입에 따른 업무 환경의 변화
+
+**Question:**
+Automation technology and Artificial Intelligence are rapidly changing the way people work. In your opinion, how has the introduction of these technologies transformed the modern work environment? Are these changes generally positive or negative? Please explain with specific examples.
+(자동화 기술과 인공지능은 사람들이 일하는 방식을 급격하게 변화시키고 있습니다. 당신의 의견으로는, 이러한 기술의 도입이 현대 업무 환경을 어떻게 변화시켰나요? 이러한 변화들이 대체로 긍정적인가요 아니면 부정적인가요? 구체적인 예를 들어 설명해 주세요.)
+
+**Model Answer:**
+That’s a very <strong style="color:blue;">food-for-thought</strong> question. I believe the integration of automation and AI is a <strong style="color:blue;">double-edged sword</strong>, but it has undeniably transformed the workplace in profound ways. On one hand, automation has allowed us to <strong style="color:blue;">do away with</strong> tedious and repetitive tasks. For example, in many offices, software now <strong style="color:blue;">takes over</strong> data entry or scheduling, which <strong style="color:blue;">frees up</strong> employees to focus on more creative and strategic work. 
+
+However, we can’t <strong style="color:blue;">gloss over</strong> the fact that this shift has caused a lot of anxiety regarding job security. Many people are worried that they will be <strong style="color:blue;">phased out</strong> by algorithms that don't need sleep or salaries. I’ve seen some colleagues struggle to <strong style="color:blue;">keep up with</strong> the rapid pace of digital transformation. They have to <strong style="color:blue;">brush up on</strong> their tech skills constantly just to stay relevant in the job market. 
+
+Personally, I think these changes are <strong style="color:blue;">par for the course</strong> in our evolving economy. While it’s true that some roles are <strong style="color:blue;">dying out</strong>, new industries are also cropping up. We just need to <strong style="color:blue;">make the most of</strong> these tools rather than fearing them. In the long run, if we <strong style="color:blue;">play our cards right</strong>, automation will lead to a more efficient and fulfilling work-life balance for everyone. It's all about how we adapt to this new <strong style="color:blue;">rule of thumb</strong> in the corporate world.
+
+**Key Vocabulary & Expressions:**
+*   **Integration:** 통합
+*   **Profound:** 심오한, 엄청난
+*   **Tedious:** 지루한
+*   **Relevant:** 유효한, 경쟁력 있는
+*   **<strong style="color:blue;">food-for-thought</strong>:** 생각할 거리 (Idiom)
+*   **<strong style="color:blue;">double-edged sword</strong>:** 양날의 검 (Idiom)
+*   **<strong style="color:blue;">do away with</strong>:** ~을 없애다, 폐지하다 (Phrasal verb)
+*   **<strong style="color:blue;">takes over</strong>:** 인수인계받다, 장악하다 (Phrasal verb)
+*   **<strong style="color:blue;">frees up</strong>:** 시간을 내다, 해방시키다 (Phrasal verb)
+*   **<strong style="color:blue;">gloss over</strong>:** 얼버무리다, 대충 넘어가다 (Phrasal verb)
+*   **<strong style="color:blue;">phased out</strong>:** 단계적으로 폐지/제거되다 (Phrasal verb)
+*   **<strong style="color:blue;">keep up with</strong>:** ~을 따라잡다 (Phrasal verb)
+*   **<strong style="color:blue;">brush up on</strong>:** 다시 공부하다, 다듬다 (Phrasal verb)
+*   **<strong style="color:blue;">par for the course</strong>:** 당연한, 흔히 있는 일 (Idiom)
+*   **<strong style="color:blue;">dying out</strong>:** 멸종하다, 점차 사라지다 (Phrasal verb)
+*   **<strong style="color:blue;">make the most of</strong>:** ~을 최대한 활용하다 (Idiom)
+*   **<strong style="color:blue;">play our cards right</strong>:** 일을 잘 처리하다, 기회를 잘 활용하다 (Idiom)
+*   **<strong style="color:blue;">rule of thumb</strong>:** 경험 법칙, 일반 원칙 (Idiom)
