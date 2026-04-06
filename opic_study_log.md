@@ -3345,3 +3345,154 @@ Personally, I think these changes are <strong style="color:blue;">par for the co
 *   **<strong style="color:blue;">make the most of</strong>:** ~을 최대한 활용하다 (Idiom)
 *   **<strong style="color:blue;">play our cards right</strong>:** 일을 잘 처리하다, 기회를 잘 활용하다 (Idiom)
 *   **<strong style="color:blue;">rule of thumb</strong>:** 경험 법칙, 일반 원칙 (Idiom)
+
+## 2026-04-06 05:14:55 OPIc Study
+
+안녕하세요! OPIc AL 등급 달성을 위한 전문 강사입니다. AL 등급의 핵심은 **"문장 간의 자연스러운 연결(Cohesion)"**, **"풍부한 형용사와 부사 사용"**, 그리고 **"원어민스러운 구동사와 관용구의 적절한 활용"**입니다.
+
+지정하신 3가지 주제에 맞춰, 실제 시험에서 고득점을 보장하는 고퀄리티 스크립트와 학습 자료를 구성해 드립니다.
+
+---
+
+## 1. Description (가족 및 육아 일상)
+
+### **[Question]**
+Could you tell me about your family members? I’m particularly interested in your daily routine of taking care of your 14-month-old child. What does a typical day look like from morning to night?
+
+가족 구성원에 대해 소개해 주시겠어요? 특히 14개월 된 아이를 돌보는 당신의 육아 일상에 대해 알고 싶습니다. 아침부터 밤까지 전형적인 하루 일과는 어떤가요?
+
+---
+
+### **[Model Answer]**
+
+Well, let me introduce you to my lovely family. I live with my supportive husband and our 14-month-old son, who is currently the center of our universe. Being a parent to a toddler is, <strong style="color:blue;">to say the least</strong>, an absolute whirlwind, but it’s incredibly rewarding.
+
+My day usually <strong style="color:blue;">kicks off</strong> around 7 AM when my son decides it’s time for everyone to be awake. As soon as I hear him babbling over the baby monitor, I <strong style="color:blue;">hop out of bed</strong> to start our day. The first thing I do is <strong style="color:blue;">look after</strong> his breakfast. Since he’s 14 months old, he’s transitioning to more solid foods, so I’m constantly <strong style="color:blue;">looking up</strong> nutritious recipes to make sure he’s getting a balanced diet.
+
+After breakfast, it’s all about playtime. He’s just started walking, so I have to <strong style="color:blue;">keep an eye on</strong> him every single second. He’s like a little explorer, trying to <strong style="color:blue;">get into</strong> every cabinet and corner of the house. We usually <strong style="color:blue;">head out</strong> to a nearby park in the afternoon to <strong style="color:blue;">burn off</strong> some of his endless energy. Watching him interact with other kids and explore the outdoors really <strong style="color:blue;">warms my heart</strong>.
+
+By the time evening <strong style="color:blue;">rolls around</strong>, we start the "wind-down" routine. This involves a bath, a bedtime story, and some cuddles. It’s a lot of work and I often feel <strong style="color:blue;">worn out</strong> by the end of the day, but seeing him sleep peacefully makes me feel like I’m <strong style="color:blue;">on cloud nine</strong>. He is truly the <strong style="color:blue;">apple of my eye</strong>, and even though my schedule is <strong style="color:blue;">tied up</strong> with parenting, I wouldn't trade it for anything in the world.
+
+---
+
+### **[Vocabulary & Expressions]**
+
+*   **Key Vocabulary:** Whirlwind (소용돌이/정신없이 바쁜 것), Toddler (유아), Nutritious (영양가 있는), Interact (상호작용하다).
+*   **Phrasal Verbs (주요 구동사):**
+    *   <strong style="color:blue;">kick off</strong>: 시작하다.
+    *   <strong style="color:blue;">hop out of bed</strong>: 침대에서 기어 나오다(벌떡 일어나다).
+    *   <strong style="color:blue;">look after</strong>: ~를 돌보다.
+    *   <strong style="color:blue;">look up</strong>: (정보를) 찾아보다.
+    *   <strong style="color:blue;">get into</strong>: (어떤 장소나 상황에) 들어가다/참견하다.
+    *   <strong style="color:blue;">head out</strong>: 밖으로 나가다.
+    *   <strong style="color:blue;">burn off</strong>: (에너지를) 소모하다/태우다.
+    *   <strong style="color:blue;">roll around</strong>: (시간/때가) 돌아오다.
+    *   <strong style="color:blue;">worn out</strong>: 매우 지친.
+    *   <strong style="color:blue;">tied up</strong>: (일 등으로) 묶여 있는/바쁜.
+*   **Idioms (숙어):**
+    *   <strong style="color:blue;">to say the least</strong>: 과장하지 않고 말하자면.
+    *   <strong style="color:blue;">keep an eye on</strong>: ~을 계속 지켜보다.
+    *   <strong style="color:blue;">warms my heart</strong>: 마음을 훈훈하게 하다.
+    *   <strong style="color:blue;">on cloud nine</strong>: 너무나 행복한.
+    *   <strong style="color:blue;">apple of my eye</strong>: 아주 소중한 존재.
+
+---
+
+## 2. Role-play (항공/호텔 예약 및 변경)
+
+### **[Question]**
+(Situation 1) You are planning a trip to Japan. Call a travel agency to book your flight and a hotel. Ask three or four questions about the options.
+(Situation 2) Something has <strong style="color:blue;">come up</strong> suddenly. Call the agency again to explain your situation and change your travel schedule.
+
+(상황 1) 일본 여행을 계획 중입니다. 여행사에 전화하여 항공권과 호텔을 예약하세요. 옵션에 대해 3~4가지 질문을 하세요.
+(상황 2) 갑작스러운 일이 생겼습니다. 다시 여행사에 전화하여 상황을 설명하고 여행 일정을 변경하세요.
+
+---
+
+### **[Model Answer]**
+
+**(Part 1: Booking)**
+Hi there, I’m calling to <strong style="color:blue;">look into</strong> some travel packages for Japan next month. I’m planning to visit Tokyo and Osaka, and I’d like to <strong style="color:blue;">book in advance</strong> to avoid any last-minute stress. 
+
+First, could you <strong style="color:blue;">fill me in on</strong> the available flight schedules? I prefer a morning flight if possible. Also, regarding the accommodation, do you have any hotels that are <strong style="color:blue;">in the vicinity of</strong> Shinjuku station? I’d like to <strong style="color:blue;">check out</strong> the prices for a deluxe twin room. Lastly, are there any early-bird discounts that I can <strong style="color:blue;">take advantage of</strong>? Please <strong style="color:blue;">get back to</strong> me with the details.
+
+**(Part 2: Rescheduling)**
+Hello, this is [Your Name] again. I made a reservation for a Japan trip earlier today, but I’m calling because something urgent has <strong style="color:blue;">come up</strong>. I <strong style="color:blue;">ran into</strong> an unexpected issue at work, so I won't be able to leave on the original date. I’m so sorry for the trouble, but I need to <strong style="color:blue;">put off</strong> my trip for about a week.
+
+Could you please <strong style="color:blue;">look over</strong> the availability for the following week? I’m hoping we can <strong style="color:blue;">iron out</strong> the details without too much of a cancellation fee. If the same hotel is <strong style="color:blue;">booked up</strong>, could you <strong style="color:blue;">point out</strong> some alternative options? I really want to <strong style="color:blue;">go through with</strong> this trip, just a bit later than planned. I’ll <strong style="color:blue;">hold on</strong> while you check the system. Thank you for your help.
+
+---
+
+### **[Vocabulary & Expressions]**
+
+*   **Key Vocabulary:** Accommodation (숙박), Early-bird (조기 예약의), Availability (가능 여부), Alternative (대안).
+*   **Phrasal Verbs (주요 구동사):**
+    *   <strong style="color:blue;">look into</strong>: ~을 조사하다/알아보다.
+    *   <strong style="color:blue;">fill (someone) in on</strong>: ~에 대해 자세히 알려주다.
+    *   <strong style="color:blue;">check out</strong>: 확인하다/살펴보다.
+    *   <strong style="color:blue;">take advantage of</strong>: ~을 이용하다(기회 활용).
+    *   <strong style="color:blue;">get back to</strong>: ~에게 다시 연락하다.
+    *   <strong style="color:blue;">come up</strong>: (예상치 못한 일이) 발생하다.
+    *   <strong style="color:blue;">run into</strong>: (문제 등에) 맞닥뜨리다.
+    *   <strong style="color:blue;">put off</strong>: 연기하다.
+    *   <strong style="color:blue;">look over</strong>: 검토하다/살펴보다.
+    *   <strong style="color:blue;">iron out</strong>: 문제를 해결하다/조정하다.
+    *   <strong style="color:blue;">booked up</strong>: 예약이 꽉 찬.
+    *   <strong style="color:blue;">point out</strong>: 가리키다/지적하다.
+    *   <strong style="color:blue;">go through with</strong>: (어려움에도 불구하고) ~을 완료하다/진행하다.
+    *   <strong style="color:blue;">hold on</strong>: 기다리다.
+*   **Idioms (숙어):**
+    *   <strong style="color:blue;">book in advance</strong>: 미리 예약하다.
+    *   <strong style="color:blue;">in the vicinity of</strong>: ~의 인근에.
+
+---
+
+## 3. Unexpected Question (반도체 기술 트렌드)
+
+### **[Question]**
+The technology industry is constantly evolving. In particular, the semiconductor field has seen significant changes recently. Can you describe the current trends in the semiconductor industry and how these changes are affecting our daily lives or the global economy?
+
+기술 산업은 끊임없이 진화하고 있습니다. 특히 반도체 분야는 최근 상당한 변화를 겪었습니다. 반도체 산업의 현재 트렌드와 이러한 변화가 우리의 일상생활이나 세계 경제에 어떤 영향을 미치고 있는지 설명해 주시겠어요?
+
+---
+
+### **[Model Answer]**
+
+That’s a very <strong style="color:blue;">up-to-the-minute</strong> topic. The semiconductor industry is often called the "rice of industry," and lately, it has been <strong style="color:blue;">going through</strong> a massive transformation. The biggest trend, without a doubt, is the explosion of Artificial Intelligence.
+
+As AI technologies like ChatGPT <strong style="color:blue;">take off</strong>, the demand for high-performance chips has <strong style="color:blue;">gone through the roof</strong>. We are no longer just looking for faster processors; we need chips that can handle massive amounts of data for machine learning. Companies are <strong style="color:blue;">doubling down</strong> on developing HBM, or High Bandwidth Memory, to <strong style="color:blue;">keep up with</strong> this demand. It’s a <strong style="color:blue;">cut-throat</strong> competition where tech giants are trying to <strong style="color:blue;">get ahead of</strong> their rivals.
+
+Another trend is the shift in the global supply chain. Governments are <strong style="color:blue;">stepping up</strong> to bring semiconductor manufacturing back to their own shores to ensure national security. This has <strong style="color:blue;">brought about</strong> a lot of geopolitical tension, but it also <strong style="color:blue;">paves the way</strong> for new innovations and investments.
+
+These trends <strong style="color:blue;">boil down to</strong> one thing: semiconductors are becoming more integrated into our lives than ever before. From self-driving cars to smart appliances, everything <strong style="color:blue;">hinges on</strong> these tiny chips. While the fast pace of change can be <strong style="color:blue;">hard to wrap my head around</strong> sometimes, it’s exciting to see how these advancements will <strong style="color:blue;">play out</strong> in the future. We are truly living <strong style="color:blue;">at the cutting edge</strong> of a technological revolution.
+
+---
+
+### **[Vocabulary & Expressions]**
+
+*   **Key Vocabulary:** Transformation (변화), High-performance (고성능의), Geopolitical (지정학적인), Integrated (통합된).
+*   **Phrasal Verbs (주요 구동사):**
+    *   <strong style="color:blue;">going through</strong>: (과정/변화를) 겪다.
+    *   <strong style="color:blue;">take off</strong>: (인기 등이) 급격히 상승하다.
+    *   <strong style="color:blue;">double down</strong>: (노력/투자를) 대폭 강화하다.
+    *   <strong style="color:blue;">keep up with</strong>: ~을 따라잡다.
+    *   <strong style="color:blue;">get ahead of</strong>: ~보다 앞서 나가다.
+    *   <strong style="color:blue;">stepping up</strong>: 강화하다/적극적으로 나서다.
+    *   <strong style="color:blue;">brought about</strong>: 야기하다/초래하다.
+    *   <strong style="color:blue;">boil down to</strong>: 결국 ~로 요약되다.
+    *   <strong style="color:blue;">hinge on</strong>: ~에 달려 있다.
+    *   <strong style="color:blue;">play out</strong>: (상황 등이) 전개되다.
+*   **Idioms (숙어):**
+    *   <strong style="color:blue;">up-to-the-minute</strong>: 매우 최신의.
+    *   <strong style="color:blue;">gone through the roof</strong>: 치솟다/급등하다.
+    *   <strong style="color:blue;">cut-throat</strong>: 치열한.
+    *   <strong style="color:blue;">paves the way</strong>: 길을 열어주다/기틀을 마련하다.
+    *   <strong style="color:blue;">hard to wrap my head around</strong>: 이해하기 힘든.
+    *   <strong style="color:blue;">at the cutting edge</strong>: 최첨단에.
+
+---
+
+**강사 가이드:**
+- 위 스크립트들은 감정을 섞어(Exclamation!) 천천히 발화했을 때 각 2분 30초 내외가 되도록 설계되었습니다.
+- **파란색 볼드체**로 표시된 구동사와 숙어는 AL 채점관들이 가장 선호하는 요소이므로, 문장 속에서 강세를 주어 자연스럽게 읽는 연습을 하세요.
+- 육아 일상(1번)은 '감정'에, 롤플레이(2번)는 '문제 해결 능력'에, 돌발 질문(3번)은 '논리적 분석력'에 초점을 맞추어 연습하시기 바랍니다. 도움이 더 필요하시면 언제든 말씀해 주세요!
