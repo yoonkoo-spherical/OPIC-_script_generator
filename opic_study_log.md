@@ -3496,3 +3496,96 @@ These trends <strong style="color:blue;">boil down to</strong> one thing: semico
 - 위 스크립트들은 감정을 섞어(Exclamation!) 천천히 발화했을 때 각 2분 30초 내외가 되도록 설계되었습니다.
 - **파란색 볼드체**로 표시된 구동사와 숙어는 AL 채점관들이 가장 선호하는 요소이므로, 문장 속에서 강세를 주어 자연스럽게 읽는 연습을 하세요.
 - 육아 일상(1번)은 '감정'에, 롤플레이(2번)는 '문제 해결 능력'에, 돌발 질문(3번)은 '논리적 분석력'에 초점을 맞추어 연습하시기 바랍니다. 도움이 더 필요하시면 언제든 말씀해 주세요!
+
+## 2026-04-07 05:02:27 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 전문 강사입니다. AL 등급은 단순히 유창한 영어를 넘어, **추상적인 개념을 논리적으로 설명**하고, **복잡한 상황 속에서도 적절한 어휘와 숙어를 사용하여 위기 관리 능력**을 보여주는 것이 핵심입니다.
+
+요청하신 3가지 주제에 맞춰, 고득점을 보장하는 풍부한 발화량과 세련된 표현이 담긴 모범 답안을 구성해 드립니다.
+
+---
+
+## [Topic 1] Description: 즐겨 하는 컴퓨터 게임 묘사
+
+### **Question**
+You indicated in the survey that you enjoy playing computer games. Can you tell me about your favorite game in detail? What is the game about, and why do you find it so appealing?
+
+당신은 설문조사에서 컴퓨터 게임을 즐긴다고 응답했습니다. 당신이 가장 좋아하는 게임에 대해 자세히 말해줄 수 있나요? 그 게임은 무엇에 관한 것인가요? 그리고 왜 그 게임이 매력적이라고 생각하나요?
+
+### **Model Answer (AL Level)**
+"To be honest, I’ve played a lot of games over the years, but if I had to pick one that truly <strong style="color:blue;">stands out</strong>, it would definitely be 'Sekiro: Shadows Die Twice.' It’s an action-adventure game developed by FromSoftware, and it's set in a reimagined Sengoku period in Japan. You play as a shinobi known as Wolf, and your mission is to protect a young lord while seeking revenge on those who kidnapped him.
+
+What makes this game so captivating is its incredibly <strong style="color:blue;">steep learning curve</strong>. Unlike other games where you can just mash buttons, Sekiro requires absolute precision. You have to <strong style="color:blue;">get the hang of</strong> the 'deflect' mechanic, which feels more like a rhythm game than a traditional combat game. At first, I was constantly defeated, which was quite frustrating, but I decided to <strong style="color:blue;">stick it out</strong>. Once I mastered the timing, the feeling of accomplishment was <strong style="color:blue;">second to none</strong>.
+
+Furthermore, the visual aesthetics and the atmosphere are just breathtaking. The game does a fantastic job of capturing the beauty of ancient Japanese landscapes while maintaining a sense of looming dread. Every boss fight <strong style="color:blue;">keeps me on my toes</strong>, and the adrenaline rush I get when I finally defeat a difficult enemy is why I keep <strong style="color:blue;">coming back for more</strong>. It’s not just a game; it’s a test of patience and skill that really <strong style="color:blue;">pays off</strong> in the end."
+
+### **Key Vocabulary & Expressions**
+*   **Stand out**: 눈에 띄다, 탁월하다
+*   <strong style="color:blue;">Steep learning curve</strong>: (배우기 힘든) 가파른 학습 곡선
+*   <strong style="color:blue;">Get the hang of</strong>: ~의 감을 잡다, 요령을 터득하다
+*   <strong style="color:blue;">Stick it out</strong>: 끝까지 버티다
+*   <strong style="color:blue;">Second to none</strong>: 누구에게도 뒤지지 않는, 최고인
+*   <strong style="color:blue;">Keep someone on one's toes</strong>: (누구를) 긴장하게 만들다
+*   <strong style="color:blue;">Coming back for more</strong>: (좋아서) 다시 찾다, 반복하다
+*   <strong style="color:blue;">Pay off</strong>: 결실을 맺다, 보상을 받다
+
+---
+
+## [Topic 2] Role-play: 투자 포트폴리오 리밸런싱 상담
+
+### **Question**
+I’d like to give you a situation to act out. Imagine you are visiting a bank or a securities firm to consult with a financial advisor. You want to rebalance your investment portfolio consisting of stocks and bonds. Ask the advisor three or four questions to get the information you need.
+
+상황 하나를 드릴 테니 연기해 보세요. 당신은 은행이나 증권사에 방문하여 재무 상담사와 상담을 하려고 합니다. 당신은 주식과 채권으로 구성된 투자 포트폴리오를 리밸런싱하고 싶어 합니다. 필요한 정보를 얻기 위해 상담사에게 3~4가지 질문을 하세요.
+
+### **Model Answer (AL Level)**
+"Hi there, I’m here today because I’d like to <strong style="color:blue;">look into</strong> my current investment portfolio. With the recent market volatility, I feel like my asset allocation has <strong style="color:blue;">gotten out of hand</strong>, and I want to rebalance it to better align with my long-term goals. Could you help me with that?
+
+First, I’ve noticed that my stock holdings have increased significantly compared to my bonds due to the recent bull market. Do you think now is a good time to <strong style="color:blue;">cash out</strong> some of my profits from the tech sector and <strong style="color:blue;">plow them back into</strong> more stable government bonds?
+
+Second, regarding the bond portion, I’m currently holding long-term bonds. Given the speculation about interest rate hikes, should I <strong style="color:blue;">opt for</strong> short-term bonds instead to minimize risk? I’d like to hear your professional opinion on how to <strong style="color:blue;">hedge against</strong> potential inflation.
+
+Also, I’m interested in diversifying my portfolio further. Are there any specific international emerging markets or ESG funds you would recommend that could <strong style="color:blue;">strike a balance</strong> between growth and stability?
+
+Lastly, what are the tax implications if I decide to sell a large portion of my stocks right now? I want to make sure I don't <strong style="color:blue;">end up with</strong> a massive tax bill at the end of the year. Let me know what you think."
+
+### **Key Vocabulary & Expressions**
+*   <strong style="color:blue;">Look into</strong>: 조사하다, 검토하다
+*   <strong style="color:blue;">Get out of hand</strong>: 감당할 수 없게 되다, 통제를 벗어나다
+*   <strong style="color:blue;">Cash out</strong>: 현금화하다, 이익을 실현하다
+*   <strong style="color:blue;">Plow back into</strong>: (이익 등을) 다시 ~에 재투자하다
+*   <strong style="color:blue;">Opt for</strong>: ~을 선택하다
+*   <strong style="color:blue;">Hedge against</strong>: ~에 대비하다 (위험 분산)
+*   <strong style="color:blue;">Strike a balance</strong>: 균형을 맞추다
+*   <strong style="color:blue;">End up with</strong>: 결국 ~하게 되다
+
+---
+
+## [Topic 3] Unexpected: 경제/재테크에 대한 인식 변화
+
+### **Question**
+In recent years, people’s interest in the economy and personal finance, such as stocks and bonds, has changed significantly. How has the general perception of investing changed in your country compared to the past? What do you think are the reasons behind this shift?
+
+최근 몇 년 동안 주식, 채권과 같은 경제 및 재테크에 대한 사람들의 관심이 크게 변했습니다. 당신의 나라에서 투자에 대한 일반적인 인식이 과거와 비교해 어떻게 변했나요? 이러한 변화의 원인은 무엇이라고 생각하나요?
+
+### **Model Answer (AL Level)**
+"That's a very insightful question. In the past, people in my country were generally quite conservative when it came to money. Most people used to <strong style="color:blue;">bank on</strong> traditional savings accounts, believing that keeping money in the bank was the only 'safe' way to build wealth. Investing in the stock market was often <strong style="color:blue;">looked down upon</strong> as a form of gambling.
+
+However, we have seen a massive <strong style="color:blue;">paradigm shift</strong> recently. Nowadays, everyone from college students to retirees is <strong style="color:blue;">taking an interest in</strong> the market. I believe this change <strong style="color:blue;">stems from</strong> a combination of low interest rates and the skyrocketing cost of living, especially housing. People realized that just saving money wouldn't allow them to <strong style="color:blue;">keep up with</strong> inflation anymore.
+
+Furthermore, the accessibility of trading platforms has <strong style="color:blue;">played a huge role</strong>. With just a few taps on a smartphone, anyone can buy stocks or adjust their bond ratios. This has <strong style="color:blue;">paved the way for</strong> a more proactive approach to financial management. 
+
+On the flip side, this craze has a <strong style="color:blue;">double-edged sword</strong> effect. While more people are becoming financially literate, some are <strong style="color:blue;">jumping on the bandwagon</strong> without proper research, leading to significant losses. Overall, the perception has shifted from 'saving is king' to 'investing is a necessity,' and I think this trend is <strong style="color:blue;">here to stay</strong> for the foreseeable future."
+
+### **Key Vocabulary & Expressions**
+*   <strong style="color:blue;">Bank on</strong>: ~에 의지하다, 기대를 걸다
+*   <strong style="color:blue;">Look down upon</strong>: 경시하다, 얕보다
+*   <strong style="color:blue;">Paradigm shift</strong>: 패러다임의 전환 (인식의 근본적 변화)
+*   <strong style="color:blue;">Take an interest in</strong>: ~에 관심을 갖다
+*   <strong style="color:blue;">Stem from</strong>: ~에서 기인하다, 비롯되다
+*   <strong style="color:blue;">Keep up with</strong>: ~을 따라잡다, 뒤처지지 않다
+*   <strong style="color:blue;">Play a huge role</strong>: 큰 역할을 하다
+*   <strong style="color:blue;">Pave the way for</strong>: ~를 위한 길을 닦다, 상황을 조성하다
+*   <strong style="color:blue;">Double-edged sword</strong>: 양날의 검
+*   <strong style="color:blue;">Jump on the bandwagon</strong>: (유행 등에) 편승하다
+*   <strong style="color:blue;">Here to stay</strong>: 계속될 것이다, 완전히 자리 잡다
