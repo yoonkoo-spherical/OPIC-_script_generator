@@ -3589,3 +3589,126 @@ On the flip side, this craze has a <strong style="color:blue;">double-edged swor
 *   <strong style="color:blue;">Double-edged sword</strong>: 양날의 검
 *   <strong style="color:blue;">Jump on the bandwagon</strong>: (유행 등에) 편승하다
 *   <strong style="color:blue;">Here to stay</strong>: 계속될 것이다, 완전히 자리 잡다
+
+## 2026-04-08 05:04:11 OPIc Study
+
+반갑습니다! OPIc AL 등급 달성을 위한 전문 강사입니다. 
+
+AL 등급을 받기 위해서는 단순히 문장을 나열하는 것을 넘어, **시제의 유연한 활용, 구체적인 묘사, 그리고 논리적인 문장 연결 능력**이 필수적입니다. 특히 원어민들이 자주 사용하는 구동사와 숙어를 자연스럽게 녹여내는 것이 고득점의 핵심입니다.
+
+요청하신 3가지 주제에 맞춰 실제 시험에서 바로 활용할 수 있는 고득점 모범 답안을 구성해 드립니다.
+
+---
+
+### [주제 1] 묘사 (Description)
+**지정 주제: 자신이 사는 동네 및 주변 주거 환경 묘사**
+
+**Q: Tell me about the neighborhood you live in. What does it look like, and what are some of the features of the area? Please describe your neighborhood in as much detail as possible.**
+(당신이 살고 있는 동네에 대해 말해주세요. 어떻게 생겼나요? 그 지역의 특징은 무엇인가요? 가능한 한 자세히 설명해 주세요.)
+
+#### [Model Answer]
+"Well, let me tell you about the place I call home. I live in a very vibrant and convenient neighborhood located <strong style="color:blue;">in the heart of</strong> Seoul. It’s a perfect mix of a bustling urban environment and a peaceful residential area. 
+
+One of the things I love most is that my apartment is <strong style="color:blue;">a stone's throw away</strong> from a massive public park. Since I’m a bit of a fitness enthusiast, I <strong style="color:blue;">make it a point to</strong> go for a jog there every morning. The park is always <strong style="color:blue;">teeming with</strong> people walking their dogs or just enjoying the fresh air. 
+
+As for the facilities, I’m really <strong style="color:blue;">spoilt for choice</strong>. There are tons of quaint cafes, trendy restaurants, and a 24-hour grocery store right around the corner. If I ever feel like grabbing a quick bite, I can just <strong style="color:blue;">pop into</strong> a local deli without any hassle. 
+
+However, the area has changed quite a bit over the years. It used to be a quiet suburb, but recently, it has <strong style="color:blue;">gone through</strong> a major transformation due to gentrification. Now, it’s much more modern and energetic. While it can get a bit noisy during the weekends, I wouldn't <strong style="color:blue;">trade it for the world</strong> because everything I need is <strong style="color:blue;">at my fingertips</strong>. Overall, it's a neighborhood that truly <strong style="color:blue;">caters to</strong> my lifestyle."
+
+#### [Vocabulary & Expressions]
+*   **Vibrant**: 활기찬
+*   **Residential area**: 주거 지역
+*   **Gentrification**: 젠트리피케이션 (낙후 지역의 고급화)
+*   **Quaint**: 진귀한, 예스러운
+
+#### [Phrasal Verbs & Idioms]
+*   <strong style="color:blue;">in the heart of</strong>: ~의 중심부에
+*   <strong style="color:blue;">a stone's throw away</strong>: 아주 가까운 거리
+*   <strong style="color:blue;">make it a point to</strong>: 반드시 ~하다
+*   <strong style="color:blue;">teeming with</strong>: ~로 북적이는
+*   <strong style="color:blue;">spoilt for choice</strong>: 선택의 폭이 너무 넓어 행복한 고민을 하는
+*   <strong style="color:blue;">pop into</strong>: ~에 잠깐 들르다
+*   <strong style="color:blue;">gone through</strong>: (변화 등을) 겪다
+*   <strong style="color:blue;">trade it for the world</strong>: 그 무엇과도 바꾸지 않다
+*   <strong style="color:blue;">at my fingertips</strong>: 아주 가까운 곳에 (즉시 이용 가능한)
+*   <strong style="color:blue;">caters to</strong>: ~의 요구를 들어주다, 만족시키다
+
+---
+
+### [주제 2] 롤플레이 (Role-play)
+**지정 주제: 렌터카 예약 및 차량 결함 문제 해결**
+
+**Q: [Part 1] You are planning a trip and need to rent a car. Call a rental agency and ask three or four questions about renting a vehicle. [Part 2] You have picked up the car, but you've discovered a serious problem with it. Call the agency, explain the situation, and suggest two or three alternatives to solve the problem.**
+([파트 1] 여행을 계획 중이며 렌터카가 필요합니다. 렌터카 업체에 전화해 차량 대여에 대해 3~4가지 질문을 하세요. [파트 2] 차를 수령했으나 심각한 결함을 발견했습니다. 업체에 전화해 상황을 설명하고 문제 해결을 위한 2~3가지 대안을 제시하세요.)
+
+#### [Model Answer]
+"**[Part 1]**
+Hi there! I’m calling to <strong style="color:blue;">look into</strong> renting a car for my upcoming trip next weekend. I have a few questions before I <strong style="color:blue;">go ahead with</strong> the booking. First, do you have any mid-sized SUVs available from Friday to Sunday? Also, I was wondering if the rental fee <strong style="color:blue;">covers</strong> full insurance, or do I need to <strong style="color:blue;">shell out</strong> extra for that? Lastly, is there a limit on the mileage, or can I drive as much as I want? Please <strong style="color:blue;">get back to me</strong> when you can. Thanks!
+
+**[Part 2]**
+Hello, I’m calling because I just <strong style="color:blue;">picked up</strong> my rental car about an hour ago, but I’ve <strong style="color:blue;">run into</strong> a serious issue. While I was driving on the highway, a warning light <strong style="color:blue;">flashed on</strong> the dashboard, and the engine started making a weird rattling noise. I’m really worried about my safety, so I’ve <strong style="color:blue;">pulled over</strong>.
+
+To <strong style="color:blue;">sort this out</strong>, I’d like to suggest a few options. First, could you send a tow truck and provide a replacement vehicle right away? If that’s not possible, I’d like to <strong style="color:blue;">call off</strong> the rental entirely and get a full refund so I can find another agency. Or, if there’s a repair shop nearby that you <strong style="color:blue;">deal with</strong>, I can take it there if you guarantee it will be fixed within the hour. This has really <strong style="color:blue;">messed up</strong> my schedule, so please let me know how you can help me <strong style="color:blue;">out of this jam</strong>."
+
+#### [Vocabulary & Expressions]
+*   **Upcoming**: 다가오는
+*   **Mileage**: 주행 거리
+*   **Rattling noise**: 덜컹거리는 소리
+*   **Tow truck**: 견인차
+
+#### [Phrasal Verbs & Idioms]
+*   <strong style="color:blue;">look into</strong>: 조사하다, 알아보다
+*   <strong style="color:blue;">go ahead with</strong>: ~을 추진하다, 진행하다
+*   <strong style="color:blue;">shell out</strong>: (거금을) 지불하다
+*   <strong style="color:blue;">get back to me</strong>: 나에게 다시 연락 주다
+*   <strong style="color:blue;">picked up</strong>: 수령하다, 찾아오다
+*   <strong style="color:blue;">run into</strong>: (문제 등에) 맞닥뜨리다
+*   <strong style="color:blue;">flashed on</strong>: (빛이) 켜지다, 들어오다
+*   <strong style="color:blue;">pulled over</strong>: 길가에 차를 대다
+*   <strong style="color:blue;">sort this out</strong>: 이것을 해결하다
+*   <strong style="color:blue;">call off</strong>: 취소하다
+*   <strong style="color:blue;">deal with</strong>: 거래하다, 다루다
+*   <strong style="color:blue;">messed up</strong>: 망치다
+*   <strong style="color:blue;">out of this jam</strong>: 이 난처한 상황에서 벗어나게 하다
+
+---
+
+### [주제 3] 돌발질문 (Unexpected)
+**지정 주제: 자동화 기술 도입에 따른 업무 환경의 변화**
+
+**Q: Automation and AI technology are rapidly changing the way we work. How has the work environment changed in your country compared to the past? What are some pros and cons of these changes?**
+(자동화 및 AI 기술이 업무 방식을 빠르게 바꾸고 있습니다. 과거와 비교했을 때 당신의 나라에서 업무 환경이 어떻게 변했나요? 이러한 변화의 장단점은 무엇인가요?)
+
+#### [Model Answer]
+"It is undeniable that automation has completely <strong style="color:blue;">shaken up</strong> the professional landscape in Korea. If we <strong style="color:blue;">look back</strong> a decade or two, most office work was manual and required a lot of <strong style="color:blue;">grunt work</strong>. However, with the advent of AI and RPA, things have changed <strong style="color:blue;">beyond recognition</strong>.
+
+One of the biggest shifts is how we <strong style="color:blue;">carry out</strong> repetitive tasks. Automation tools now <strong style="color:blue;">take over</strong> mundane duties like data entry or scheduling, which <strong style="color:blue;">frees up</strong> employees to focus on more creative and strategic projects. This has certainly <strong style="color:blue;">paved the way for</strong> increased productivity and efficiency. In a sense, it helps us <strong style="color:blue;">cut down on</strong> human error as well.
+
+On the flip side, this technological leap is a <strong style="color:blue;">double-edged sword</strong>. Many people are <strong style="color:blue;">on edge</strong> because they fear that AI might eventually <strong style="color:blue;">phase out</strong> certain job positions altogether. The digital divide is another concern; those who cannot <strong style="color:blue;">keep up with</strong> rapidly evolving tech might <strong style="color:blue;">fall behind</strong> in the labor market. 
+
+In my opinion, while automation <strong style="color:blue;">brings about</strong> many benefits, we need to <strong style="color:blue;">strike a balance</strong> between technological integration and job security. We must ensure that technology <strong style="color:blue;">works in tandem with</strong> humans rather than replacing them entirely."
+
+#### [Vocabulary & Expressions]
+*   **Professional landscape**: 직업 환경/풍토
+*   **Advent**: 도래, 출현
+*   **Mundane**: 일상적인, 단조로운
+*   **Digital divide**: 정보 격차
+
+#### [Phrasal Verbs & Idioms]
+*   <strong style="color:blue;">shaken up</strong>: 뒤흔들다, 큰 변화를 주다
+*   <strong style="color:blue;">look back</strong>: 되돌아보다
+*   <strong style="color:blue;">grunt work</strong>: 힘들고 단조로운 일
+*   <strong style="color:blue;">beyond recognition</strong>: 알아볼 수 없을 정도로
+*   <strong style="color:blue;">carry out</strong>: 수행하다
+*   <strong style="color:blue;">take over</strong>: 인수하다, 떠맡다
+*   <strong style="color:blue;">frees up</strong>: (시간 등을) 확보하다, 해방시키다
+*   <strong style="color:blue;">paved the way for</strong>: ~을 위한 길을 닦다 (기틀을 마련하다)
+*   <strong style="color:blue;">cut down on</strong>: ~을 줄이다
+*   <strong style="color:blue;">double-edged sword</strong>: 양날의 검
+*   <strong style="color:blue;">on edge</strong>: 불안한, 초조한
+*   <strong style="color:blue;">phase out</strong>: 단계적으로 폐지/제거하다
+*   <strong style="color:blue;">keep up with</strong>: ~을 따라잡다
+*   <strong style="color:blue;">fall behind</strong>: 뒤처지다
+*   <strong style="color:blue;">brings about</strong>: 초래하다, 가져오다
+*   <strong style="color:blue;">strike a balance</strong>: 균형을 맞추다
+*   <strong style="color:blue;">works in tandem with</strong>: ~와 협력하여 일하다 (나란히 일하다)
