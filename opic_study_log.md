@@ -3712,3 +3712,85 @@ In my opinion, while automation <strong style="color:blue;">brings about</strong
 *   <strong style="color:blue;">brings about</strong>: 초래하다, 가져오다
 *   <strong style="color:blue;">strike a balance</strong>: 균형을 맞추다
 *   <strong style="color:blue;">works in tandem with</strong>: ~와 협력하여 일하다 (나란히 일하다)
+
+## 2026-04-10 05:16:27 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 전문 강사입니다. AL 등급은 단순히 영어를 잘하는 것을 넘어, **문장 간의 논리적 연결성, 시제의 정확성, 그리고 원어민스러운 표현(구동사 및 관용구)**을 얼마나 자연스럽게 구사하느냐가 관건입니다.
+
+지정해주신 3가지 주제에 맞춰, 실제 시험에서 높은 점수를 받을 수 있는 고퀄리티 모범 답안을 구성해 드립니다.
+
+---
+
+### [Topic 1] Description: Neighborhood
+**질문 1: Can you describe the neighborhood you live in? What does it look like, and what are some notable features or facilities in your area?**
+(당신이 사는 동네에 대해 묘사해 주시겠습니까? 동네가 어떻게 생겼는지, 그리고 주변에 눈에 띄는 특징이나 시설은 무엇이 있나요?)
+
+#### [Model Answer]
+Well, let me tell you about the place I currently call home. I live in a vibrant, **<strong style="color:blue;">up-and-coming</strong>** neighborhood located on the outskirts of Seoul. If I were to describe the overall vibe, I’d say it’s a perfect blend of modern urban life and serene nature.
+
+What really **<strong style="color:blue;">stands out</strong>** to me is the massive central park located just a **<strong style="color:blue;">stone's throw away</strong>** from my apartment. It has a beautiful jogging track and a small lake, which is a great place to **<strong style="color:blue;">wind down</strong>** after a long day at work. I usually go there in the evening to clear my head.
+
+In terms of convenience, my neighborhood is second to none. There is a huge shopping complex nearby that **<strong style="color:blue;">caters to</strong>** almost every need, from high-end boutiques to local grocery stores. Also, there are plenty of trendy cafes that have **<strong style="color:blue;">popped up</strong>** recently, making it a popular spot for young people on the weekends.
+
+One thing I truly appreciate is how well-connected it is. The subway station is within walking distance, so I can **<strong style="color:blue;">get around</strong>** the city without any hassle. Honestly, even though the rent is a bit **<strong style="color:blue;">on the pricey side</strong>**, I wouldn't dream of moving anywhere else because everything I need is right at my doorstep. It’s a place where I can truly **<strong style="color:blue;">settle down</strong>** and feel at peace.
+
+#### [주요 표현 정리]
+1.  **up-and-coming**: 유망한, 떠오르는
+2.  **stands out**: 눈에 띄다, 두드러지다
+3.  **stone's throw away**: 아주 가까운 거리 (엎어지면 코 닿을 데)
+4.  **wind down**: 휴식을 취하다, 긴장을 풀다
+5.  **caters to**: ~의 요구를 만족시키다, ~에 맞추다
+6.  **popped up**: 갑자기 나타나다/생기다
+7.  **get around**: 돌아다니다, 이동하다
+8.  **on the pricey side**: 가격이 좀 비싼 편인
+9.  **settle down**: 정착하다
+
+---
+
+### [Topic 2] Role-play: Car Rental & Issues
+**질문 2: [Combo Role-play] You are planning a trip and need to rent a car. Call the rental agency to ask 3-4 questions. Then, imagine you have picked up the car, but you've found a problem with it. Call the agency again to explain the situation and find a solution.**
+(여행을 계획 중이라 렌터카를 예약해야 합니다. 렌터카 업체에 전화해 3~4가지 질문을 하세요. 그 후, 차를 받았는데 결함을 발견한 상황을 가정하여 업체에 다시 전화해 상황을 설명하고 해결책을 찾으세요.)
+
+#### [Model Answer]
+**[Part 1: Reservation]**
+Hi there! I’m calling to **<strong style="color:blue;">check out</strong>** some options for a car rental next weekend. I’m planning a family trip, so I’d like to reserve a full-size SUV. First of all, could you tell me if you have any available vehicles for those dates? Also, I was wondering if the rental fee **<strong style="color:blue;">comes with</strong>** comprehensive insurance coverage, or do I need to pay extra? Lastly, is there a limit on the mileage, or can I drive as much as I want? I look forward to hearing back from you.
+
+**[Part 2: Problem Solving]**
+Hello, I’m calling regarding the SUV I just picked up about 20 minutes ago. I’m afraid I’ve **<strong style="color:blue;">run into</strong>** a bit of a problem. While I was driving on the highway, the engine warning light suddenly **<strong style="color:blue;">went off</strong>**, and the brakes started to **<strong style="color:blue;">act up</strong>**. It feels quite dangerous to keep driving.
+
+I’m really **<strong style="color:blue;">in a bind</strong>** because I have a tight schedule to keep. Is there any way you can send a replacement vehicle to my current location right away? If not, I’d like to **<strong style="color:blue;">call off</strong>** the reservation and get a full refund so I can find another rental nearby. I need to **<strong style="color:blue;">sort this out</strong>** as soon as possible, so please let me know what my options are.
+
+#### [주요 표현 정리]
+1.  **check out**: 확인하다, 살펴보다
+2.  **comes with**: ~이 딸려 있다, 포함되다
+3.  **run into**: (문제 등에) 직면하다, 마주치다
+4.  **went off**: (경보 등이) 울리다, 켜지다
+5.  **act up**: (기계 등이) 말을 안 듣다, 말썽을 부리다
+6.  **in a bind**: 매우 난처한 상황에 처한
+7.  **call off**: 취소하다
+8.  **sort out**: 해결하다, 정리하다
+
+---
+
+### [Topic 3] Unexpected: Semiconductor Trends
+**질문 3: The semiconductor industry is changing rapidly. What are some of the latest trends or issues in the technology sector, such as chips or AI, and how do they affect our daily lives?**
+(반도체 산업은 빠르게 변하고 있습니다. 칩이나 AI와 같은 기술 분야의 최신 트렌드나 이슈는 무엇이며, 그것들이 우리 일상생활에 어떤 영향을 미치나요?)
+
+#### [Model Answer]
+To be honest, I’m not a tech expert, but it's impossible to **<strong style="color:blue;">brush off</strong>** the massive impact that the semiconductor industry has on our world today. Lately, the hottest topic is definitely the "AI boom." As artificial intelligence continues to **<strong style="color:blue;">take off</strong>**, the demand for high-performance chips has skyrocketed.
+
+Specifically, companies are racing to develop chips that can process vast amounts of data at lightning speed. This trend is **<strong style="color:blue;">paving the way</strong>** for incredible advancements in various fields. For instance, self-driving cars and sophisticated smart home devices are no longer just science fiction; they are becoming a reality because of these tiny, powerful semiconductors.
+
+However, this rapid growth has also **<strong style="color:blue;">brought about</strong>** some challenges. We’ve seen how supply chain disruptions can **<strong style="color:blue;">mess up</strong>** global markets, leading to shortages of everything from smartphones to washing machines. It’s a wake-up call showing that we are heavily dependent on this technology.
+
+In my opinion, we need to **<strong style="color:blue;">keep an eye on</strong>** how these technological shifts will reshape the job market. While AI might **<strong style="color:blue;">do away with</strong>** some traditional roles, it will also create new opportunities that we can’t even imagine yet. In the end, semiconductors are the backbone of the digital age, and they will continue to **<strong style="color:blue;">play a key role</strong>** in how we live and work in the future.
+
+#### [주요 표현 정리]
+1.  **brush off**: 무시하다, 가볍게 넘기다
+2.  **take off**: 급격히 인기를 얻다, 도약하다
+3.  **paving the way**: 길을 닦다, 상황을 조성하다
+4.  **brought about**: 야기하다, 초래하다
+5.  **mess up**: 망치다, 혼란스럽게 만들다
+6.  **keep an eye on**: ~을 계속 지켜보다/주시하다
+7.  **do away with**: 없애다, 폐지하다
+8.  **play a key role**: 핵심적인 역할을 하다
