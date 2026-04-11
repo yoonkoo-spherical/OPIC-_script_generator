@@ -3794,3 +3794,123 @@ In my opinion, we need to **<strong style="color:blue;">keep an eye on</strong>*
 6.  **keep an eye on**: ~을 계속 지켜보다/주시하다
 7.  **do away with**: 없애다, 폐지하다
 8.  **play a key role**: 핵심적인 역할을 하다
+
+## 2026-04-11 04:47:55 OPIc Study
+
+반갑습니다! OPIc AL 달성을 위한 전문 강사입니다. AL 등급은 단순히 문법이 정확한 것을 넘어, **문장 간의 논리적인 연결(Cohesion)**, **풍부한 어휘 사용**, 그리고 **자연스러운 발화 속도와 감정 표현**이 핵심입니다.
+
+제시해주신 세 가지 주제를 바탕으로, 실제 시험에서 고득점을 받을 수 있는 전략적인 질문과 답변 스크립트를 구성해 보았습니다.
+
+---
+
+### **1. 묘사 (Description): IT 기술 및 프로그래밍 경험**
+
+**[Question]**
+You mentioned that you are interested in technology. Tell me about a specific smartphone app or an AI service that you use frequently. How does it help you, especially when you are working on Python programming? Please describe your experience in detail.
+
+(당신은 기술에 관심이 있다고 언급했습니다. 당신이 자주 사용하는 특정 스마트폰 앱이나 AI 서비스에 대해 말해주세요. 그것이 당신이 파이썬 프로그래밍을 할 때 어떻게 도움이 되나요? 당신의 경험을 자세히 묘사해 주세요.)
+
+**[Model Answer]**
+To be honest, I can’t imagine my daily life without ChatGPT. It’s hands down the most revolutionary AI service I’ve ever encountered. As someone who frequently <strong style="color:blue;">dabs in</strong> Python programming, this app has become my go-to personal tutor.
+
+Usually, when I’m working on a data automation project, I often <strong style="color:blue;">run into</strong> unexpected errors or "bugs" that are quite frustrating. In the past, I had to spend hours scouring through Stack Overflow to find a solution. But now? I just copy my code, paste it into ChatGPT, and ask for a fix. It doesn’t just <strong style="color:blue;">point out</strong> the errors; it explains the logic behind the correction, which helps me <strong style="color:blue;">brush up on</strong> my coding skills.
+
+I remember a time when I was trying to build a web scraper to collect market data. I was <strong style="color:blue;">struggling with</strong> a specific library called 'BeautifulSoup' because the website structure was so complex. I <strong style="color:blue;">reached out to</strong> the AI, and it suggested an alternative approach using 'Selenium.' It even provided a boilerplate script that I could <strong style="color:blue;">build upon</strong>.
+
+What I love most about it is how it helps me <strong style="color:blue;">keep up with</strong> the latest libraries and syntax. Technology moves so fast, and it’s hard to <strong style="color:blue;">stay on top of</strong> everything. But with AI, I can <strong style="color:blue;">cut down on</strong> the time spent on trivial tasks and focus more on the creative side of programming. Overall, it’s an indispensable tool that has completely changed the way I <strong style="color:blue;">go about</strong> my technical work.
+
+**[Vocabulary & Expressions]**
+*   **Revolutionary**: 혁명적인
+*   **Go-to**: (도움 등을 위해) 항상 찾는, 전형적인
+*   **Scouring through**: 샅샅이 뒤지다
+*   **Boilerplate**: 표준 문안, (프로그래밍) 기초 코드
+*   **Indispensable**: 필수불가결한
+*   <strong style="color:blue;">Dab in</strong>: ~을 조금 해보다, 관여하다
+*   <strong style="color:blue;">Run into</strong>: (문제 등에) 맞닥뜨리다
+*   <strong style="color:blue;">Point out</strong>: 지적하다, 가리키다
+*   <strong style="color:blue;">Brush up on</strong>: (공부 등을) 다시 하다, 복습하다
+*   <strong style="color:blue;">Reach out to</strong>: ~에게 연락을 취하다, 도움을 요청하다
+*   <strong style="color:blue;">Build upon</strong>: ~을 기반으로 삼다
+*   <strong style="color:blue;">Keep up with</strong>: ~을 따라잡다, 보조를 맞추다
+*   <strong style="color:blue;">Stay on top of</strong>: ~을 완벽하게 파악하다, 제어하다
+*   <strong style="color:blue;">Cut down on</strong>: ~을 줄이다
+*   <strong style="color:blue;">Go about</strong>: ~을 계속하다, 수행하다
+
+---
+
+### **2. 롤플레이 (Role-play): 동료에게 도움 요청하기**
+
+**[Question]**
+You are currently working on a Python automation script for your team, but you have hit a wall with the web crawling part. Call your colleague, explain the situation, and ask for help or some resources to solve the problem.
+
+(당신은 현재 팀을 위한 파이썬 자동화 스크립트를 작업 중인데, 웹 크롤링 부분에서 난관에 부딪혔습니다. 동료에게 전화하여 상황을 설명하고, 문제를 해결하기 위한 도움이나 자료를 요청하세요.)
+
+**[Model Answer]**
+Hi, Sang-min! This is [Your Name]. I’m calling because I’ve <strong style="color:blue;">run into a bit of a snag</strong> with the new web crawling script I’m working on. I was wondering if you could <strong style="color:blue;">spare a few minutes</strong> to help me out.
+
+So, here’s the thing. I’ve been trying to automate the data collection from our partner's dashboard using Selenium. Everything was <strong style="color:blue;">going smoothly</strong> until this morning, but now the script keeps <strong style="color:blue;">breaking down</strong> because the site recently updated its security protocols. It seems like the bot detection is <strong style="color:blue;">kicking in</strong>, and I’m <strong style="color:blue;">at my wit's end</strong> trying to bypass it.
+
+I know you’ve handled similar automation tasks before, so I was hoping you could <strong style="color:blue;">take a look at</strong> my code. Or, if you’re too busy, could you at least <strong style="color:blue;">point me in the right direction</strong> by sharing some documentation or resources you used in the past?
+
+I really want to <strong style="color:blue;">get this sorted out</strong> before the weekly meeting on Friday. How about we <strong style="color:blue;">touch base</strong> after lunch? I can <strong style="color:blue;">swing by</strong> your desk, or we can jump on a quick Zoom call—whatever <strong style="color:blue;">works best for</strong> you. Let me know what you think! Thanks a lot, Sang-min.
+
+**[Vocabulary & Expressions]**
+*   **Automation**: 자동화
+*   **Dashboard**: 대시보드 (현황판)
+*   **Security protocols**: 보안 프로토콜
+*   **Bot detection**: 봇 감지
+*   <strong style="color:blue;">Run into a snag</strong>: 예기치 못한 문제에 부딪히다
+*   <strong style="color:blue;">Spare a few minutes</strong>: 잠시 시간을 내주다
+*   <strong style="color:blue;">Go smoothly</strong>: 순조롭게 진행되다
+*   <strong style="color:blue;">Break down</strong>: 고장 나다, 실패하다
+*   <strong style="color:blue;">Kick in</strong>: 효과가 나타나기 시작하다, 작동하다
+*   <strong style="color:blue;">At one's wit's end</strong>: 어찌할 바를 몰라, 진퇴양난에 빠져
+*   <strong style="color:blue;">Take a look at</strong>: ~을 살펴보다
+*   <strong style="color:blue;">Point someone in the right direction</strong>: ~에게 적절한 방향을 제시하다
+*   <strong style="color:blue;">Get something sorted out</strong>: ~을 해결하다, 정리하다
+*   <strong style="color:blue;">Touch base</strong>: 연락을 취하다, 상황을 확인하다
+*   <strong style="color:blue;">Swing by</strong>: 잠시 들르다
+*   <strong style="color:blue;">Work best for</strong>: ~에게 가장 편하다/적합하다
+
+---
+
+### **3. 돌발질문 (Unexpected): 해외 여행 방식의 시대별 변화**
+
+**[Question]**
+The way people travel abroad has changed significantly over the years. Compare how people used to travel in the past with how they travel today. Specifically, discuss the shift between package tours and independent travel.
+
+(해외 여행 방식은 수년에 걸쳐 상당히 변해왔습니다. 과거의 여행 방식과 오늘날의 방식을 비교해 보세요. 특히 패키지 여행과 자유 여행 사이의 변화에 대해 논의해 보세요.)
+
+**[Model Answer]**
+That’s a very interesting topic. Looking back, there has been a massive <strong style="color:blue;">shift away from</strong> rigid package tours toward more flexible, independent travel.
+
+In the past, let’s say 20 or 30 years ago, traveling abroad was a daunting task. Information was scarce, and language barriers were a huge hurdle. Most people <strong style="color:blue;">leaned toward</strong> package tours where everything was <strong style="color:blue;">laid out</strong> for them. You’d have a guide <strong style="color:blue;">leading the way</strong>, and you just had to <strong style="color:blue;">follow suit</strong>. While it was convenient, it was also very restrictive. You were often <strong style="color:blue;">tied down to</strong> a strict schedule, moving from one tourist trap to another.
+
+However, nowadays, the tables have turned. With the rise of the internet and smartphone apps, people prefer to <strong style="color:blue;">strike out on their own</strong>. We can <strong style="color:blue;">look up</strong> everything from hidden local cafes to boutique hotels in a matter of seconds. Apps like Airbnb or TripAdvisor have made it incredibly easy to <strong style="color:blue;">map out</strong> a personalized itinerary. 
+
+I think this trend <strong style="color:blue;">stems from</strong> the younger generation’s desire for authenticity. They don’t want to just <strong style="color:blue;">glance at</strong> famous landmarks; they want to <strong style="color:blue;">soak in</strong> the local culture at their own pace. Even though independent travel requires more effort to <strong style="color:blue;">set up</strong>, people find it much more rewarding.
+
+In a nutshell, we’ve moved from a "one-size-fits-all" approach to a "tailor-made" experience. Traveling has become less about <strong style="color:blue;">checking off</strong> a list and more about <strong style="color:blue;">delving into</strong> new environments independently.
+
+**[Vocabulary & Expressions]**
+*   **Daunting**: 위협적인, 벅찬
+*   **Scarce**: 드문, 부족한
+*   **Tourist trap**: 관광객을 노리는 바가지 명소
+*   **Authenticity**: 진정성, 실제와 같음
+*   **One-size-fits-all**: 천편일률적인
+*   **Tailor-made**: 맞춤 제작된
+*   <strong style="color:blue;">Shift away from</strong>: ~에서 벗어나다, 변화하다
+*   <strong style="color:blue;">Lean toward</strong>: ~하는 경향이 있다, ~으로 기울다
+*   <strong style="color:blue;">Lay out</strong>: 펼치다, 상세히 계획하다
+*   <strong style="color:blue;">Lead the way</strong>: 앞장서다, 길을 인도하다
+*   <strong style="color:blue;">Follow suit</strong>: 방식을 따르다, 선례를 따르다
+*   <strong style="color:blue;">Tie down to</strong>: ~에 얽매이게 하다
+*   <strong style="color:blue;">Strike out on one's own</strong>: 독립하다, 스스로 시작하다
+*   <strong style="color:blue;">Look up</strong>: 정보를 찾아보다
+*   <strong style="color:blue;">Map out</strong>: 세밀하게 계획을 세우다
+*   <strong style="color:blue;">Stem from</strong>: ~에서 기인하다/유래하다
+*   <strong style="color:blue;">Glance at</strong>: ~을 훑어보다
+*   <strong style="color:blue;">Soak in</strong>: (분위기 등에) 흠뻑 젖다, 만끽하다
+*   <strong style="color:blue;">Set up</strong>: 준비하다, 설정하다
+*   <strong style="color:blue;">Checking off</strong>: (목록에서) 체크하며 확인하다
+*   <strong style="color:blue;">Delving into</strong>: ~을 깊이 파고들다/탐구하다
