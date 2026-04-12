@@ -3914,3 +3914,121 @@ In a nutshell, we’ve moved from a "one-size-fits-all" approach to a "tailor-ma
 *   <strong style="color:blue;">Set up</strong>: 준비하다, 설정하다
 *   <strong style="color:blue;">Checking off</strong>: (목록에서) 체크하며 확인하다
 *   <strong style="color:blue;">Delving into</strong>: ~을 깊이 파고들다/탐구하다
+
+## 2026-04-12 05:14:37 OPIc Study
+
+반갑습니다! OPIc AL 달성을 위한 전문 강사입니다. AL 등급은 단순히 문법이 정확한 것을 넘어, **문장 간의 연결성(Cohesion)**, **다양한 어휘 및 숙어 활용**, 그리고 **자연스러운 발화(Filler words)**가 핵심입니다.
+
+요청하신 3가지 주제에 맞춰 실제 시험에서 고득점을 받을 수 있는 모범 답안과 분석 리스트를 준비했습니다.
+
+---
+
+## 1. Description: 평소 즐겨 입는 옷차림
+
+### [Question]
+Tell me about your fashion style. What do you usually wear on a daily basis? Do you have any specific brands or types of clothing, such as knit cardigans, that you prefer? Please describe your favorite look in detail.
+
+평소 패션 스타일에 대해 말해주세요. 일상적으로 어떤 옷을 입나요? 특정 브랜드나 니트 가디건처럼 선호하는 스타일이 있나요? 가장 좋아하는 룩을 자세히 설명해 주세요.
+
+### [Model Answer]
+Well, to be honest, I’m not exactly a fashionista, but I definitely <strong style="color:blue;">stick to</strong> a style that is both comfortable and "chic." My go-to daily look usually revolves around a minimalist aesthetic. I’m a huge fan of "quiet luxury" brands like COS or Theory because their designs are timeless and the quality is top-notch.
+
+If I had to pick my absolute favorite item, it would have to be my oversized knit cardigans. I have this one charcoal grey piece that I <strong style="color:blue;">picked up</strong> last winter, and I literally <strong style="color:blue;">live in</strong> it. What I love about cardigans is that they are so versatile. I can <strong style="color:blue;">throw on</strong> a cardigan over a simple white T-shirt and it instantly makes me look <strong style="color:blue;">put together</strong> without even trying.
+
+When I’m heading out for work, I usually <strong style="color:blue;">dress up</strong> a bit by pairing that cardigan with some well-fitted slacks. But on weekends, I <strong style="color:blue;">tone it down</strong> and go for a more relaxed vibe with denim jeans and sneakers. I think it’s important to <strong style="color:blue;">keep up with</strong> the trends to some extent, but at the end of the day, I believe that "less is more." I don't like clothes that <strong style="color:blue;">stand out</strong> too much in a flashy way. Instead, I prefer subtle textures and earthy tones that <strong style="color:blue;">blend in</strong> well in any setting. So yeah, my style is all about finding that perfect balance between comfort and sophistication.
+
+### [Vocabulary & Expressions]
+*   **Minimalist aesthetic**: 미니멀한 미학 (깔끔한 스타일)
+*   **Top-notch**: 최고의, 일류의
+*   **Versatile**: 다재다능한, 활용도가 높은
+*   **Sophistication**: 세련됨, 정교함
+
+### [Phrasal Verbs & Idioms]
+1.  <strong style="color:blue;">stick to</strong>: ~을 고수하다, 계속하다
+2.  <strong style="color:blue;">pick up</strong>: (물건을) 사다, 집어 들다
+3.  <strong style="color:blue;">live in</strong>: (특정 옷을) 아주 자주 입다
+4.  <strong style="color:blue;">throw on</strong>: (옷을) 대충/빨리 걸쳐 입다
+5.  <strong style="color:blue;">put together</strong>: 잘 갖춰진, 매끈하게 차려입은
+6.  <strong style="color:blue;">dress up</strong>: 격식을 갖춰 입다
+7.  <strong style="color:blue;">tone it down</strong>: 분위기를 누그러뜨리다 (패션에서는 덜 화려하게 입다)
+8.  <strong style="color:blue;">keep up with</strong>: ~을 따라가다 (유행 등)
+9.  <strong style="color:blue;">stand out</strong>: 눈에 띄다, 두드러지다
+10. <strong style="color:blue;">blend in</strong>: 주위와 잘 섞이다/어우러지다
+
+---
+
+## 2. Role-play: 전자기기 구매 문의 및 AS 요청
+
+### [Question]
+You are planning to buy a high-performance laptop at a tech store. Call the store manager and ask three or four questions regarding the laptop's specifications. Also, make sure to ask about their after-sales service (AS) policy in case of any technical issues.
+
+당신은 전자 매장에서 고성능 노트북을 구매하려고 합니다. 매장 매니저에게 전화하여 노트북 사양에 대해 3~4가지 질문을 하세요. 또한 기술적 문제가 발생할 경우를 대비해 AS 정책에 대해서도 문의하십시오.
+
+### [Model Answer]
+Hi there! I’m calling because I’m <strong style="color:blue;">in the market for</strong> a new high-performance laptop for my video editing work. I saw some listings online, but I had a few specific questions before I <strong style="color:blue;">shell out</strong> the money.
+
+First of all, I need something with a lot of horsepower. Could you <strong style="color:blue;">fill me in on</strong> the exact specs for the latest Pro model? Specifically, I’m curious about the RAM capacity and if it’s possible to upgrade it later on. Also, does it <strong style="color:blue;">come with</strong> the latest dedicated graphics card? I do a lot of heavy rendering, so I need to make sure it won’t <strong style="color:blue;">slow down</strong> under pressure.
+
+Another thing I’m concerned about is the cooling system. My previous laptop used to <strong style="color:blue;">act up</strong> and overheat all the time. Does this model have an improved thermal design to <strong style="color:blue;">deal with</strong> heat dissipation?
+
+Lastly, I’d like to ask about your after-sales service. If I <strong style="color:blue;">run into</strong> any hardware issues, what is the repair process like? Do you provide a loaner laptop while mine is being fixed? I’d really appreciate it if you could <strong style="color:blue;">go over</strong> the warranty period and what it covers. I just want to have <strong style="color:blue;">peace of mind</strong> before making such a big purchase. Please <strong style="color:blue;">get back to</strong> me when you have a moment. Thanks!
+
+### [Vocabulary & Expressions]
+*   **High-performance**: 고성능의
+*   **Horsepower**: 마력 (여기서는 컴퓨터의 처리 능력)
+*   **Rendering**: 렌더링 (영상 편집 작업)
+*   **Heat dissipation**: 열 발산/방출
+*   **Warranty period**: 보증 기간
+
+### [Phrasal Verbs & Idioms]
+1.  <strong style="color:blue;">in the market for</strong>: ~을 사려고 내놓은/찾고 있는
+2.  <strong style="color:blue;">shell out</strong>: (거금을) 지불하다
+3.  <strong style="color:blue;">fill me in on</strong>: ~에 대해 자세히 알려주다
+4.  <strong style="color:blue;">come with</strong>: ~이 딸려 나오다/포함되다
+5.  <strong style="color:blue;">slow down</strong>: 속도가 느려지다
+6.  <strong style="color:blue;">act up</strong>: (기계 등이) 말을 안 듣다, 말썽을 부리다
+7.  <strong style="color:blue;">deal with</strong>: ~을 다루다, 처리하다
+8.  <strong style="color:blue;">run into</strong>: (문제 등에) 맞닥뜨리다
+9.  <strong style="color:blue;">go over</strong>: 검토하다, 자세히 설명하다
+10. <strong style="color:blue;">peace of mind</strong>: 마음의 평화 (안심)
+11. <strong style="color:blue;">get back to</strong>: ~에게 나중에 다시 연락하다
+
+---
+
+## 3. Unexpected: 반도체 등 특정 기술 분야의 트렌드 변화
+
+### [Question]
+The technology industry is changing more rapidly than ever. Pick one specific field, such as semiconductors, and describe the recent trends or changes in that industry. How has it evolved over the years and what is its impact on our lives?
+
+기술 산업은 그 어느 때보다 빠르게 변화하고 있습니다. 반도체와 같은 특정 분야를 하나 선택하여 해당 산업의 최근 트렌드나 변화를 설명해 주세요. 지난 몇 년 동안 어떻게 진화해 왔으며 우리 삶에 어떤 영향을 미치고 있나요?
+
+### [Model Answer]
+That’s a very <strong style="color:blue;">timely</strong> and complex question. If I had to choose one field that has <strong style="color:blue;">paved the way</strong> for modern innovation, it would definitely be the semiconductor industry. Semiconductors are often called the "rice of industry," and for a good reason.
+
+In the past, the focus was mainly on miniaturization—trying to <strong style="color:blue;">cram in</strong> as many transistors as possible onto a tiny chip. However, <strong style="color:blue;">as of late</strong>, the trend has <strong style="color:blue;">shifted toward</strong> specialized AI chips. With the sudden <strong style="color:blue;">boom in</strong> generative AI like ChatGPT, there is an insatiable demand for high-performance GPU and HBM, which stands for High Bandwidth Memory. It’s no longer just about size; it’s about how efficiently these chips can process massive amounts of data.
+
+This shift has <strong style="color:blue;">shaken up</strong> the entire global supply chain. We’ve seen countries <strong style="color:blue;">vying for</strong> technological hegemony because semiconductors are now a matter of national security. It’s quite fascinating how a tiny piece of silicon can <strong style="color:blue;">bring about</strong> such massive geopolitical shifts.
+
+On a personal level, these advancements <strong style="color:blue;">touch upon</strong> almost every aspect of our daily lives. From the smartphones in our pockets to autonomous vehicles, everything <strong style="color:blue;">relies on</strong> these cutting-edge chips. It’s hard to <strong style="color:blue;">keep track of</strong> how fast things are moving, but one thing is for sure: the semiconductor industry will continue to <strong style="color:blue;">break new ground</strong> and redefine what’s possible in the digital age.
+
+### [Vocabulary & Expressions]
+*   **Miniaturization**: 소형화
+*   **Insatiable demand**: 만족할 줄 모르는 (엄청난) 수요
+*   **High Bandwidth Memory (HBM)**: 고대역폭 메모리
+*   **Technological hegemony**: 기술 패권
+*   **Autonomous vehicles**: 자율주행 자동차
+
+### [Phrasal Verbs & Idioms]
+1.  <strong style="color:blue;">timely</strong>: 시의적절한 (어휘)
+2.  <strong style="color:blue;">pave the way</strong>: 길을 열어주다, 기반을 닦다
+3.  <strong style="color:blue;">cram in</strong>: 밀어 넣다, 쑤셔 넣다
+4.  <strong style="color:blue;">as of late</strong>: 최근에
+5.  <strong style="color:blue;">shifted toward</strong>: ~쪽으로 방향이 바뀌다
+6.  <strong style="color:blue;">boom in</strong>: ~의 호황/급증
+7.  <strong style="color:blue;">shaken up</strong>: 뒤흔들다, 재편하다
+8.  <strong style="color:blue;">vying for</strong>: ~을 두고 경쟁하다
+9.  <strong style="color:blue;">bring about</strong>: 야기하다, 가져오다
+10. <strong style="color:blue;">touch upon</strong>: ~에 대해 간단히 언급하다/관련되다
+11. <strong style="color:blue;">relies on</strong>: ~에 의존하다
+12. <strong style="color:blue;">keep track of</strong>: ~을 추적하다, 놓치지 않다
+13. <strong style="color:blue;">break new ground</strong>: 신기원을 열다, 새로운 분야를 개척하다
