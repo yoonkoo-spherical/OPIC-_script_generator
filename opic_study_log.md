@@ -4032,3 +4032,128 @@ On a personal level, these advancements <strong style="color:blue;">touch upon</
 11. <strong style="color:blue;">relies on</strong>: ~에 의존하다
 12. <strong style="color:blue;">keep track of</strong>: ~을 추적하다, 놓치지 않다
 13. <strong style="color:blue;">break new ground</strong>: 신기원을 열다, 새로운 분야를 개척하다
+
+## 2026-04-13 05:32:22 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 전문 강사입니다. 
+
+AL 등급을 받기 위해서는 단순히 문법이 정확한 것을 넘어, **문장 간의 자연스러운 연결(Cohesion)**, **구체적인 묘사 능력**, 그리고 **다양한 구동사와 관용구 활용**이 필수적입니다. 요청하신 세 가지 주제에 맞춰 고득점 포인트를 살린 모범 답안을 구성해 드립니다.
+
+---
+
+## 1. Description (묘사): 평소 즐겨 입는 옷차림
+
+### **Question**
+"I’d like to know about your fashion style. What kind of clothes do you usually wear on a daily basis? Do you have a favorite brand or a specific item, such as a knit cardigan, that you prefer? Please describe your style in detail."
+(당신의 패션 스타일에 대해 알고 싶습니다. 평소에 어떤 옷을 즐겨 입나요? 선호하는 특정 브랜드나 니트 가디건 같은 아이템이 있나요? 당신의 스타일을 자세히 설명해 주세요.)
+
+### **Model Answer**
+To be honest, I wouldn’t call myself a fashionista, but I definitely <strong style="color:blue;">lean toward</strong> a "minimalist and classic" look. My go-to style is usually something that strikes a balance between professional and casual. 
+
+On a typical workday, I’m a huge fan of layering. I often <strong style="color:blue;">put on</strong> a simple white T-shirt and pair it with a high-quality knit cardigan. I personally love brands like Ralph Lauren because their designs <strong style="color:blue;">stand the test of time</strong>. There’s something about a navy or charcoal knit cardigan that just makes me feel <strong style="color:blue;">at ease</strong> while still looking <strong style="color:blue;">put together</strong>. It’s incredibly versatile; I can <strong style="color:blue;">dress it up</strong> with slacks for a meeting or <strong style="color:blue;">dress it down</strong> with jeans for a casual weekend coffee run.
+
+What I love most about knitwear is the texture. It gives off a warm and approachable vibe, which I think is important in a social environment. When the weather gets a bit chilly, I <strong style="color:blue;">throw on</strong> an overcoat over my cardigan. I try not to <strong style="color:blue;">go overboard</strong> with bright colors. Instead, I <strong style="color:blue;">stick to</strong> neutral tones like beige, navy, and grey because they <strong style="color:blue;">go with</strong> almost everything in my closet.
+
+Overall, my fashion philosophy is all about comfort meeting elegance. I don't like to <strong style="color:blue;">keep up with</strong> every single fleeting trend. I prefer investing in a few "staple pieces" that I can <strong style="color:blue;">count on</strong> for years. It <strong style="color:blue;">saves me a lot of trouble</strong> when I’m getting ready in the morning.
+
+### **Vocabulary & Expressions**
+*   **Versatile**: 다재다능한, 활용도가 높은
+*   **Approachable**: 가까이하기 쉬운, 편안한
+*   **Fleeting trend**: 순식간에 지나가는 유행
+*   **Staple pieces**: 기본 아이템 (필수 아이템)
+*   **<strong style="color:blue;">Lean toward</strong>**: ~하는 경향이 있다, ~을 선호하다
+*   **<strong style="color:blue;">Put on</strong>**: 입다, 착용하다
+*   **<strong style="color:blue;">Stand the test of time</strong>**: 세월의 시험을 견디다 (오랫동안 변치 않다)
+*   **<strong style="color:blue;">At ease</strong>**: 마음이 편안한
+*   **<strong style="color:blue;">Put together</strong>**: (차림새가) 깔끔하게 정돈된, 격식을 갖춘
+*   **<strong style="color:blue;">Dress up / Dress down</strong>**: 옷을 갖춰 입다 / 편하게 입다
+*   **<strong style="color:blue;">Throw on</strong>**: (옷을) 걸치다
+*   **<strong style="color:blue;">Go overboard</strong>**: 과하게 하다
+*   **<strong style="color:blue;">Stick to</strong>**: ~을 고수하다, 계속하다
+*   **<strong style="color:blue;">Go with</strong>**: ~와 어울리다
+*   **<strong style="color:blue;">Keep up with</strong>**: ~을 따라잡다
+*   **<strong style="color:blue;">Count on</strong>**: 믿다, 의지하다
+*   **<strong style="color:blue;">Save someone a lot of trouble</strong>**: 수고를 덜어주다
+
+---
+
+## 2. Role-play (롤플레이): 동료에게 자동화 스크립트 도움 요청
+
+### **Question**
+"You are planning to create an automation script, such as a web crawling tool, to improve your work efficiency. However, you are having some trouble with it. Call your colleague who is an expert in this field, explain your situation, and ask for help."
+(당신은 업무 효율을 높이기 위해 웹 크롤링과 같은 자동화 스크립트를 만들려고 합니다. 하지만 어려움을 겪고 있습니다. 이 분야의 전문가인 동료에게 전화하여 상황을 설명하고 도움을 요청하세요.)
+
+### **Model Answer**
+Hey, Min-su! How’s it going? I <strong style="color:blue;">hope I’m not catching you at a bad time</strong>. Do you have a quick minute to chat?
+
+The reason I’m calling is that I’ve been trying to <strong style="color:blue;">work on</strong> a Python script for web crawling lately. You know how we’ve been manually collecting market data every morning? It’s been <strong style="color:blue;">eating up</strong> so much of my time, so I decided to automate it to <strong style="color:blue;">speed things up</strong>. 
+
+But, I’ve <strong style="color:blue;">run into a brick wall</strong>. I managed to write the basic code, but for some reason, the script <strong style="color:blue;">breaks down</strong> whenever it hits a site with heavy JavaScript. I’ve tried to <strong style="color:blue;">figure it out</strong> on my own by searching on Stack Overflow, but I just can’t seem to <strong style="color:blue;">get the hang of</strong> it. 
+
+Since you are the "go-to person" in our team for automation, I was wondering if you could <strong style="color:blue;">look over</strong> my code when you have some <strong style="color:blue;">breathing room</strong>. I don't want to <strong style="color:blue;">take up</strong> too much of your time, but maybe we could <strong style="color:blue;">get together</strong> for a quick coffee break this afternoon? I’d really appreciate it if you could <strong style="color:blue;">point me in the right direction</strong>. 
+
+If you're too busy today, just <strong style="color:blue;">let me know</strong> whenever you can <strong style="color:blue;">squeeze me in</strong>. I’ll <strong style="color:blue;">be looking forward to</strong> hearing from you. Thanks a million!
+
+### **Vocabulary & Expressions**
+*   **Automation**: 자동화
+*   **Manually**: 수동으로
+*   **Go-to person**: (도움이나 정보를 위해) 찾는 사람, 전문가
+*   **<strong style="color:blue;">Hope I’m not catching you at a bad time</strong>**: 바쁜데 방해되는 게 아니길 바래 (정중한 서두)
+*   **<strong style="color:blue;">Work on</strong>**: ~에 공을 들이다, 작업하다
+*   **<strong style="color:blue;">Eating up</strong>**: (시간, 자원 등을) 잡아먹다
+*   **<strong style="color:blue;">Speed things up</strong>**: 일을 빠르게 처리하다, 속도를 높이다
+*   **<strong style="color:blue;">Run into a brick wall</strong>**: 장벽에 부딪히다 (난관에 봉착하다)
+*   **<strong style="color:blue;">Break down</strong>**: 고장 나다, 멈추다
+*   **<strong style="color:blue;">Figure out</strong>**: 해결하다, 알아내다
+*   **<strong style="color:blue;">Get the hang of</strong>**: ~의 감을 잡다, 요령을 터득하다
+*   **<strong style="color:blue;">Look over</strong>**: 검토하다, 훑어보다
+*   **<strong style="color:blue;">Breathing room</strong>**: 숨 돌릴 틈, 여유 시간
+*   **<strong style="color:blue;">Take up</strong>**: (시간을) 차지하다
+*   **<strong style="color:blue;">Get together</strong>**: 모이다, 만나다
+*   **<strong style="color:blue;">Point someone in the right direction</strong>**: 올바른 방향을 가리켜주다 (조언해주다)
+*   **<strong style="color:blue;">Let me know</strong>**: 알려주다
+*   **<strong style="color:blue;">Squeeze someone in</strong>**: (바쁜 일정 중에) 짬을 내어 누구를 만나주다
+*   **<strong style="color:blue;">Be looking forward to</strong>**: ~을 고대하다
+
+---
+
+## 3. Unexpected (돌발 질문): 자동화 기술 도입에 따른 업무 환경 변화
+
+### **Question**
+"Technological advancements, especially automation, have significantly changed the way we work. How has the work environment changed compared to the past? Discuss both the positive and negative aspects of these changes."
+(기술의 발전, 특히 자동화는 우리가 일하는 방식을 크게 변화시켰습니다. 과거와 비교했을 때 업무 환경이 어떻게 변했나요? 이러한 변화의 긍정적인 면과 부정적인 면을 모두 논의해 주세요.)
+
+### **Model Answer**
+That’s a very <strong style="color:blue;">thought-provoking</strong> question. Looking back, the transformation of the workplace due to automation has been nothing short of revolutionary.
+
+In the past, employees had to <strong style="color:blue;">deal with</strong> a mountain of tedious, repetitive tasks. For instance, data entry or generating weekly reports used to <strong style="color:blue;">take forever</strong>. However, with the <strong style="color:blue;">rollout</strong> of automation scripts and AI tools, we’ve managed to <strong style="color:blue;">cut down on</strong> human error and <strong style="color:blue;">free up</strong> valuable time. This allows us to <strong style="color:blue;">focus on</strong> more creative and strategic tasks that <strong style="color:blue;">bring about</strong> real value to the company. In a sense, it has <strong style="color:blue;">paved the way for</strong> a more efficient "smart work" culture.
+
+However, I believe automation is a <strong style="color:blue;">double-edged sword</strong>. One major downside is the pressure to <strong style="color:blue;">keep up with</strong> the rapid pace of technological change. Many workers feel <strong style="color:blue;">left behind</strong> if they don’t constantly <strong style="color:blue;">brush up on</strong> their technical skills. Also, there's a growing concern that automation might <strong style="color:blue;">phase out</strong> certain job positions entirely, leading to job insecurity. 
+
+Furthermore, because everything is automated and connected, the boundary between work and personal life has started to <strong style="color:blue;">blur out</strong>. We are expected to <strong style="color:blue;">stay on top of</strong> things 24/7, which can lead to burnout. 
+
+In conclusion, while automation has <strong style="color:blue;">turned things around</strong> by boosting productivity, we need to <strong style="color:blue;">watch out for</strong> the social challenges it creates. We must find a way to <strong style="color:blue;">strike a balance</strong> between leveraging technology and protecting human roles in the workforce.
+
+### **Vocabulary & Expressions**
+*   **Thought-provoking**: 시사하는 바가 큰, 생각을 자극하는
+*   **Revolutionary**: 혁명적인
+*   **Tedious**: 지루한
+*   **Job insecurity**: 고용 불안정
+*   **<strong style="color:blue;">Deal with</strong>**: ~을 다루다, 처리하다
+*   **<strong style="color:blue;">Take forever</strong>**: 아주 오래 걸리다
+*   **<strong style="color:blue;">Rollout</strong>**: (새로운 기술 등의) 도입, 출시
+*   **<strong style="color:blue;">Cut down on</strong>**: ~을 줄이다
+*   **<strong style="color:blue;">Free up</strong>**: (시간, 공간 등을) 확보하다, 비우다
+*   **<strong style="color:blue;">Focus on</strong>**: ~에 집중하다
+*   **<strong style="color:blue;">Bring about</strong>**: 야기하다, 가져오다
+*   **<strong style="color:blue;">Paved the way for</strong>**: ~를 위한 길을 닦다 (기반을 마련하다)
+*   **<strong style="color:blue;">Double-edged sword</strong>**: 양날의 검
+*   **<strong style="color:blue;">Keep up with</strong>**: ~을 따라잡다
+*   **<strong style="color:blue;">Left behind</strong>**: 뒤처진
+*   **<strong style="color:blue;">Brush up on</strong>**: ~을 복습하다, 다시 연마하다
+*   **<strong style="color:blue;">Phase out</strong>**: 단계적으로 중단하다/제거하다
+*   **<strong style="color:blue;">Blur out</strong>**: 흐릿해지다 (경계가 모호해지다)
+*   **<strong style="color:blue;">Stay on top of</strong>**: ~을 놓치지 않다, 상황을 완전히 파악하다
+*   **<strong style="color:blue;">Turn things around</strong>**: 상황을 호전시키다, 완전히 바꿔놓다
+*   **<strong style="color:blue;">Watch out for</strong>**: ~을 주의하다, 조심하다
+*   **<strong style="color:blue;">Strike a balance</strong>**: 균형을 맞추다
