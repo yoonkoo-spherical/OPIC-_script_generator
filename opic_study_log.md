@@ -4157,3 +4157,115 @@ In conclusion, while automation has <strong style="color:blue;">turned things ar
 *   **<strong style="color:blue;">Turn things around</strong>**: 상황을 호전시키다, 완전히 바꿔놓다
 *   **<strong style="color:blue;">Watch out for</strong>**: ~을 주의하다, 조심하다
 *   **<strong style="color:blue;">Strike a balance</strong>**: 균형을 맞추다
+
+## 2026-04-14 05:14:24 OPIc Study
+
+반갑습니다! OPIc 전문 강사입니다. AL 등급을 목표로 하신다면, 단순히 유창한 것을 넘어 **논리적인 전개, 구체적인 어휘 사용, 그리고 원어민스러운 구동사와 관용구의 자연스러운 배치**가 핵심입니다.
+
+제시해주신 세 가지 주제에 맞춰, 실제 시험에서 높은 점수를 받을 수 있는 전문적인 스크립트를 구성해 보았습니다.
+
+---
+
+### [Topic 1] Description: Semiconductor Device Physics & Processes (직업/전공 묘사)
+
+**Question:**
+You mentioned in the survey that you work in the semiconductor industry. Can you describe your job or major in detail? What exactly do you do regarding device physics or manufacturing processes?
+(당신은 설문조사에서 반도체 산업에 종사한다고 언급했습니다. 당신의 직업이나 전공에 대해 자세히 설명해 주시겠습니까? 반도체 소자 물리학이나 제조 공정과 관련하여 구체적으로 어떤 일을 하시나요?)
+
+**Model Answer:**
+Well, to <strong style="color:blue;">kick things off</strong>, I work in the field of semiconductor device physics, which is basically the heart of modern technology. My daily routine involves <strong style="color:blue;">delving into</strong> the microscopic world of transistors and electron behavior. Specifically, I focus on the fabrication process, ensuring that we can <strong style="color:blue;">scale down</strong> these components without losing efficiency.
+
+The semiconductor process is incredibly complex, often referred to as "nanoscale art." I <strong style="color:blue;">deal with</strong> various stages like photolithography, etching, and deposition. My main goal is to <strong style="color:blue;">fine-tune</strong> the electrical characteristics of the chips to prevent power leakage. As we <strong style="color:blue;">push the boundaries</strong> of Moore’s Law, it’s becoming harder and harder to <strong style="color:blue;">keep up with</strong> the industry’s demands for smaller and faster processors.
+
+To be honest, it’s a high-pressure environment. We often <strong style="color:blue;">run into</strong> technical bottlenecks where the physics just doesn't seem to cooperate. When that happens, my team has to <strong style="color:blue;">think outside the box</strong> to find new materials or structural designs, like moving from FinFET to Gate-All-Around structures. It’s a <strong style="color:blue;">cutthroat</strong> field, but <strong style="color:blue;">at the end of the day</strong>, seeing a new generation of chips <strong style="color:blue;">come to life</strong> because of our hard work is incredibly rewarding. I truly believe that what we do <strong style="color:blue;">paves the way</strong> for the future of AI and autonomous driving.
+
+**Key Vocabulary & Expressions:**
+*   **Fabrication:** 제조, 제작
+*   **Photolithography:** 노광 공정
+*   **Nanoscale:** 나노 스케일의 (초미세)
+*   **<strong style="color:blue;">Kick things off</strong>:** 시작하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Delve into</strong>:** 깊이 파고들다 (Phrasal Verb)
+*   **<strong style="color:blue;">Scale down</strong>:** 축소하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Deal with</strong>:** ~을 다루다/처리하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Fine-tune</strong>:** 미세하게 조정하다 (Idiom/Verb)
+*   **<strong style="color:blue;">Push the boundaries</strong>:** 한계를 뛰어넘다 (Idiom)
+*   **<strong style="color:blue;">Keep up with</strong>:** ~을 따라잡다/유지하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Run into</strong>:** (문제 등에) 맞닥뜨리다 (Phrasal Verb)
+*   **<strong style="color:blue;">Think outside the box</strong>:** 고정관념에서 벗어나 생각하다 (Idiom)
+*   **<strong style="color:blue;">At the end of the day</strong>:** 결국, 가장 중요한 것은 (Idiom)
+*   **<strong style="color:blue;">Come to life</strong>:** 활기를 띠다, 실현되다 (Idiom)
+*   **<strong style="color:blue;">Pave the way</strong>:** 길을 닦다, 기반을 마련하다 (Idiom)
+
+---
+
+### [Topic 2] Role-play: Traveling to Japan (항공/호텔 예약 및 변경)
+
+**Question:**
+You are planning a trip to Japan. Call a travel agency to book your flight and hotel. After making the reservation, you realize you need to change your schedule due to an unexpected work event. Call the agency again, explain the situation, and ask for a change in your itinerary.
+(당신은 일본 여행을 계획하고 있습니다. 여행사에 전화하여 항공권과 호텔을 예약하세요. 예약을 마친 후, 예기치 않은 업무 일정으로 인해 일정을 변경해야 함을 깨달았습니다. 다시 여행사에 전화하여 상황을 설명하고 일정을 변경해 달라고 요청하세요.)
+
+**Model Answer:**
+**(Part 1: Booking)**
+"Hi there! I’m calling to <strong style="color:blue;">book a trip</strong> to Tokyo, Japan for next month. I’m looking for a round-trip flight leaving on the 10th and coming back on the 15th. Also, I’d like to <strong style="color:blue;">check into</strong> a four-star hotel in the Shinjuku area if possible. Could you <strong style="color:blue;">look into</strong> any available packages that <strong style="color:blue;">cater to</strong> solo travelers? Great, please <strong style="color:blue;">go ahead</strong> and confirm that for me."
+
+**(Part 2: Rescheduling)**
+"Hello again. I’m so sorry to <strong style="color:blue;">bring this up</strong>, but I have a bit of a situation. Something urgent just <strong style="color:blue;">popped up</strong> at work, and it looks like I won’t be able to <strong style="color:blue;">make it</strong> on the 10th. I need to <strong style="color:blue;">push back</strong> my entire trip by a week. 
+
+I was wondering if you could <strong style="color:blue;">work out</strong> a new schedule for me starting from the 17th instead. I know this is <strong style="color:blue;">out of the blue</strong>, and I’m really <strong style="color:blue;">in a bind</strong> here. Could you check if there are any extra fees to <strong style="color:blue;">switch over</strong> the dates? If the original hotel is fully booked, I’m open to <strong style="color:blue;">looking around</strong> for other options. I’d really appreciate it if you could <strong style="color:blue;">sort this out</strong> as quickly as possible. Please <strong style="color:blue;">get back to me</strong> once you have an update."
+
+**Key Vocabulary & Expressions:**
+*   **Itinerary:** 여행 일정
+*   **Round-trip:** 왕복의
+*   **<strong style="color:blue;">Book a trip</strong>:** 여행을 예약하다 (Idiom)
+*   **<strong style="color:blue;">Check into</strong>:** ~을 조사하다/확인하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Look into</strong>:** 조사하다/알아보다 (Phrasal Verb)
+*   **<strong style="color:blue;">Cater to</strong>:** ~의 요구를 들어주다/맞추다 (Phrasal Verb)
+*   **<strong style="color:blue;">Go ahead</strong>:** 진행하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Bring this up</strong>:** 말을 꺼내다 (Phrasal Verb)
+*   **<strong style="color:blue;">Pop up</strong>:** 갑자기 발생하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Make it</strong>:** (모임 등에) 가다/참석하다 (Idiom)
+*   **<strong style="color:blue;">Push back</strong>:** 미루다/연기하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Work out</strong>:** 해결하다/성사시키다 (Phrasal Verb)
+*   **<strong style="color:blue;">Out of the blue</strong>:** 느닷없이 (Idiom)
+*   **<strong style="color:blue;">In a bind</strong>:** 곤경에 처한 (Idiom)
+*   **<strong style="color:blue;">Switch over</strong>:** 바꾸다/전환하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Looking around</strong>:** 둘러보다/찾아보다 (Phrasal Verb)
+*   **<strong style="color:blue;">Sort this out</strong>:** 문제를 해결하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Get back to me</strong>:** 나중에 다시 연락주다 (Phrasal Verb)
+
+---
+
+### [Topic 3] Unexpected: Generational Differences in Child-rearing (육아 방식의 세대 차이)
+
+**Question:**
+Child-rearing practices have changed significantly over the years. How do the ways people raise children today differ from how your parents' generation did it? Please talk about differences in eating habits and general parenting styles.
+(아이 양육 방식은 수년에 걸쳐 크게 변했습니다. 오늘날 사람들이 아이를 키우는 방식은 부모님 세대와 어떻게 다른가요? 식습관과 전반적인 양육 방식의 차이에 대해 이야기해 주세요.)
+
+**Model Answer:**
+That’s a very <strong style="color:blue;">thought-provoking</strong> question. When I <strong style="color:blue;">look back</strong> on how I was raised compared to how kids are <strong style="color:blue;">brought up</strong> today, the differences are <strong style="color:blue;">night and day</strong>. 
+
+Firstly, regarding eating habits, my parents' generation didn't <strong style="color:blue;">fuss over</strong> nutrition as much as we do now. Back then, it was all about <strong style="color:blue;">polishing off</strong> whatever was on the plate. There was a "eat what you're given" mentality. However, modern parents <strong style="color:blue;">lean towards</strong> organic, sugar-free, or even specialized diets like Baby-Led Weaning. They <strong style="color:blue;">go the extra mile</strong> to ensure their kids have a balanced diet, often <strong style="color:blue;">cutting out</strong> processed foods entirely.
+
+Secondly, the overall parenting style has shifted from a "top-down" approach to a more "communicative" one. In the past, children were expected to <strong style="color:blue;">toe the line</strong> and follow strict rules without question. Discipline was often <strong style="color:blue;">handed down</strong> firmly. These days, however, there’s a huge emphasis on "gentle parenting." Parents try to <strong style="color:blue;">connect with</strong> their children’s emotions and <strong style="color:blue;">talk through</strong> problems instead of just punishing them. 
+
+Moreover, technology has <strong style="color:blue;">played a huge role</strong> in this shift. My parents didn't have to <strong style="color:blue;">deal with</strong> "screen time" issues, but now, managing digital habits is a <strong style="color:blue;">top priority</strong>. To <strong style="color:blue;">wrap up</strong>, while the core love for children remains the same, the methods have become much more scientific and emotionally focused, which is <strong style="color:blue;">a far cry from</strong> the past.
+
+**Key Vocabulary & Expressions:**
+*   **Child-rearing:** 자녀 양육
+*   **Thought-provoking:** 시사하는 바가 큰, 생각을 자극하는
+*   **<strong style="color:blue;">Look back</strong>:** 회상하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Brought up</strong>:** 양육되다 (Phrasal Verb)
+*   **<strong style="color:blue;">Night and day</strong>:** 천지차이 (Idiom)
+*   **<strong style="color:blue;">Fuss over</strong>:** ~에 유난을 떨다 (Phrasal Verb)
+*   **<strong style="color:blue;">Polishing off</strong>:** (음식을) 다 먹어치우다 (Phrasal Verb)
+*   **<strong style="color:blue;">Lean towards</strong>:** ~하는 경향이 있다/선호하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Go the extra mile</strong>:** 각별히 노력하다 (Idiom)
+*   **<strong style="color:blue;">Cutting out</strong>:** 그만두다/배제하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Toe the line</strong>:** 규칙을 엄격히 지키다 (Idiom)
+*   **<strong style="color:blue;">Handed down</strong>:** 전해 내려오다/물려주다 (Phrasal Verb)
+*   **<strong style="color:blue;">Connect with</strong>:** ~와 교감하다/연결되다 (Phrasal Verb)
+*   **<strong style="color:blue;">Talk through</strong>:** 충분히 이야기를 나누어 풀다 (Phrasal Verb)
+*   **<strong style="color:blue;">Played a huge role</strong>:** 큰 역할을 하다 (Idiom)
+*   **<strong style="color:blue;">Top priority</strong>:** 최우선 사항 (Idiom)
+*   **<strong style="color:blue;">Wrap up</strong>:** 마무리 짓다 (Phrasal Verb)
+*   **<strong style="color:blue;">A far cry from</strong>:** ~와는 전혀 다른 (Idiom)
