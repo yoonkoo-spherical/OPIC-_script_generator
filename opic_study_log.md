@@ -4269,3 +4269,116 @@ Moreover, technology has <strong style="color:blue;">played a huge role</strong>
 *   **<strong style="color:blue;">Top priority</strong>:** 최우선 사항 (Idiom)
 *   **<strong style="color:blue;">Wrap up</strong>:** 마무리 짓다 (Phrasal Verb)
 *   **<strong style="color:blue;">A far cry from</strong>:** ~와는 전혀 다른 (Idiom)
+
+## 2026-04-15 05:15:02 OPIc Study
+
+안녕하세요! OPIc AL 등급 취득을 위한 전문 강사입니다. 
+
+AL 등급을 받기 위해서는 단순히 문장을 나열하는 것이 아니라, **경험을 생동감 있게 묘사하고, 논리적인 구조를 갖추며, 원어민들이 자주 사용하는 구동사와 관용구를 자연스럽게 녹여내는 것**이 핵심입니다.
+
+지정해주신 3가지 주제에 맞춰 실제 시험에서 고득점을 받을 수 있는 모범 답안을 구성해 보았습니다.
+
+---
+
+## 1. 묘사 (Description): 집안일 과정과 청소 도구
+
+### [Question]
+**Tell me about your routine for cleaning your home. What is the process you usually follow, and what kind of cleaning tools or equipment do you use to get the job done? Please describe it in detail.**
+
+*(당신의 집을 청소하는 루틴에 대해 말해주세요. 보통 어떤 과정을 따르며, 일을 끝내기 위해 어떤 종류의 청소 도구나 장비를 사용하시나요? 상세하게 묘사해 주세요.)*
+
+### [Model Answer]
+Well, to be honest, I’m not exactly a "clean freak," but I do try my best to <strong style="color:blue;">keep on top of</strong> things to ensure my living space remains comfortable. My cleaning routine usually kicks off on Saturday mornings. 
+
+The first step in my process is to <strong style="color:blue;">clutter up</strong> less and <strong style="color:blue;">sort through</strong> all the random items scattered around the living room. I usually <strong style="color:blue;">pick up</strong> clothes, books, or mail and <strong style="color:blue;">put them away</strong> in their proper places. Once the surfaces are clear, I <strong style="color:blue;">get down to business</strong> with the heavy lifting.
+
+As for the tools, my absolute lifesaver is my Dyson cordless vacuum. It’s incredibly powerful and allows me to <strong style="color:blue;">get at</strong> those hard-to-reach corners under the sofa. After vacuuming, I <strong style="color:blue;">mop up</strong> the hardwood floors using a steam mop. It’s a <strong style="color:blue;">game changer</strong> because it sanitizes the floor without using harsh chemicals. 
+
+Lastly, I <strong style="color:blue;">wipe down</strong> the kitchen counters and bathroom mirrors with a microfiber cloth and a multi-purpose cleaner. I find that if I <strong style="color:blue;">stick to</strong> this routine, I can <strong style="color:blue;">get through</strong> the whole house in about two hours. It’s a bit of a workout, but <strong style="color:blue;">in the long run</strong>, it really helps me <strong style="color:blue;">clear my head</strong> and start the weekend fresh.
+
+---
+
+### [Key Vocabulary & Expressions]
+*   **Keep on top of**: (상황을) 잘 파악하다, 지체되지 않게 하다
+*   **Sort through**: ~을 자세히 살펴보다 (분류하다)
+*   **Put away**: (다 쓰고 난 물건을) 제자리에 두다
+*   **Get down to business**: 본격적으로 일을 시작하다
+*   **Get at**: ~에 닿다, 도달하다
+*   **Mop up**: 대걸레로 닦아내다
+*   **Game changer**: 상황을 완전히 바꿔 놓는 것
+*   **Wipe down**: (표면을) 깨끗이 닦아내다
+*   **Stick to**: (원칙, 계획 등을) 고수하다, 지키다
+*   **Get through**: (일 등을) 끝내다, 통과하다
+*   **In the long run**: 결국에는, 장기적으로는
+*   **Clear one's head**: 머리를 식히다, 생각을 정리하다
+
+---
+
+## 2. 롤플레이 (Role-play): 수리 비용 내역 설명 요구
+
+### [Question]
+**I’m sorry to inform you, but the repair cost for your laptop is much higher than the initial estimate. You are calling the technician to discuss this. Call the repair shop, explain that the price is unexpected, and ask for a detailed breakdown of the costs.**
+
+*(죄송합니다만, 고객님의 노트북 수리 비용이 초기 견적보다 훨씬 높게 나왔습니다. 당신은 이 문제를 논의하기 위해 정비사에게 전화를 걸었습니다. 수리점에 전화하여 가격이 예상 밖이라는 점을 설명하고, 비용에 대한 상세 내역을 요구하세요.)*
+
+### [Model Answer]
+Hi there, this is [Your Name] calling regarding the laptop I <strong style="color:blue;">dropped off</strong> yesterday for a screen repair. I just received the invoice, and to be quite frank, I’m a bit <strong style="color:blue;">taken aback</strong> by the final total. 
+
+The initial estimate I was given was around 200 dollars, but the bill I’m looking at right now is nearly double that. I was wondering if you could <strong style="color:blue;">walk me through</strong> why the price <strong style="color:blue;">shot up</strong> so significantly? I’d like to <strong style="color:blue;">go over</strong> the specific charges if possible. 
+
+Could you please <strong style="color:blue;">break down</strong> the costs for me? I need to know how much is being charged for the parts versus the labor. Did you <strong style="color:blue;">run into</strong> any unexpected complications while fixing the hardware? I don’t mean to <strong style="color:blue;">be a pain</strong>, but I really need to <strong style="color:blue;">account for</strong> this extra expense in my budget. 
+
+If there were additional parts that needed to be replaced, I wish someone had <strong style="color:blue;">reached out</strong> to me before <strong style="color:blue;">carrying out</strong> the work. Anyway, please let me know the details as soon as possible so we can <strong style="color:blue;">iron out</strong> this misunderstanding. I’m looking forward to hearing from you.
+
+---
+
+### [Key Vocabulary & Expressions]
+*   **Drop off**: (물건을) 맡기다, 갖다 놓다
+*   **Taken aback**: 깜짝 놀란, 당황한
+*   **Walk someone through**: ~에게 차근차근 설명해 주다
+*   **Shot up**: (가격 등이) 급등하다
+*   **Go over**: 검토하다, 자세히 살피다
+*   **Break down**: (내역을) 나누어 분석하다, 설명하다
+*   **Run into**: (문제 등에) 맞닥뜨리다
+*   **Be a pain**: 귀찮은 존재가 되다, 성가시게 하다
+*   **Account for**: 설명하다, 처리하다
+*   **Reach out**: 연락을 취하다
+*   **Carry out**: 수행하다, 이행하다
+*   **Iron out**: (문제를) 해결하다, 다듬다
+
+---
+
+## 3. 돌발질문 (Unexpected): 외국인과의 오해 경험
+
+### [Question]
+**Have you ever had a funny or awkward misunderstanding while talking to a foreigner due to cultural differences or language barriers? Tell me about that situation from beginning to end. What happened, and how did you resolve the situation?**
+
+*(외국인과 대화할 때 문화적 차이나 언어 장벽으로 인해 웃지 못할 오해를 했던 적이 있나요? 그 상황에 대해 처음부터 끝까지 이야기해 주세요. 어떤 일이 있었고, 상황을 어떻게 해결했나요?)*
+
+### [Model Answer]
+Oh, I have a perfect story for this. It happened a few years ago when I was grabbing dinner with an American friend of mine. It was a classic case of <strong style="color:blue;">lost in translation</strong> combined with a cultural "Konglish" mix-up.
+
+In Korea, we often use the word "service" to mean something is "on the house" or "free of charge." So, when the waiter brought us a free plate of dumplings, I turned to my friend and said, "Wow, the service here is amazing!" My friend looked totally <strong style="color:blue;">mixed up</strong>. He replied, "Yeah, the waiter is nice, but the food just got here. How do you know the service is great already?"
+
+I realized he thought I was talking about the "quality of customer service," while I was actually talking about the "free food." I tried to <strong style="color:blue;">clear up</strong> the confusion by explaining that in Korea, "service" refers to a complimentary dish. We both <strong style="color:blue;">burst out</strong> laughing once he <strong style="color:blue;">caught on</strong>. 
+
+It was a small thing, but it <strong style="color:blue;">brought home</strong> the fact that even simple words can <strong style="color:blue;">lead to</strong> major misunderstandings. We <strong style="color:blue;">ended up</strong> having a long conversation about other Konglish terms. Looking back, that little <strong style="color:blue;">slip-up</strong> actually helped us <strong style="color:blue;">break the ice</strong> and become closer friends. Now, every time we get free food, we jokingly say, "Look at this amazing service!"
+
+---
+
+### [Key Vocabulary & Expressions]
+*   **Lost in translation**: 번역 과정에서 의미가 소실된 (오해된)
+*   **Mixed up**: 혼란스러운, 뒤섞인
+*   **Clear up**: (오해 등을) 풀다, 해소하다
+*   **Burst out**: 갑자기 ~하다 (주로 웃음이나 울음)
+*   **Caught on**: 이해하다, 알아차리다
+*   **Brought home**: 절실히 느끼게 하다, 깨닫게 하다
+*   **Lead to**: ~로 이어지다, 야기하다
+*   **Ended up**: 결국 ~하게 되다
+*   **Slip-up**: 실수, 부주의
+*   **Break the ice**: 서먹서먹한 분위기를 깨다
+
+---
+
+**강사 조언:** 
+AL 등급을 위해서는 답변 중간중간 "You know," "I mean," "To be honest"와 같은 **Filler words**를 자연스럽게 섞어주는 것이 좋습니다. 위 스크립트들을 소리 내어 읽으며, 파란색으로 표시된 구동사와 숙어 부분에 강조를 두어 연습해 보세요! 건승을 빕니다.
