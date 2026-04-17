@@ -4382,3 +4382,102 @@ It was a small thing, but it <strong style="color:blue;">brought home</strong> t
 
 **강사 조언:** 
 AL 등급을 위해서는 답변 중간중간 "You know," "I mean," "To be honest"와 같은 **Filler words**를 자연스럽게 섞어주는 것이 좋습니다. 위 스크립트들을 소리 내어 읽으며, 파란색으로 표시된 구동사와 숙어 부분에 강조를 두어 연습해 보세요! 건승을 빕니다.
+
+## 2026-04-17 05:19:43 OPIc Study
+
+반갑습니다! OPIc AL 등급을 목표로 하는 수험생 여러분을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순한 문장 나열을 넘어, **자연스러운 연결어 사용, 시제의 정확성, 그리고 무엇보다 풍부한 관용구(Idioms)와 구동사(Phrasal Verbs)의 활용**이 필수적입니다.
+
+제시해주신 세 가지 주제를 바탕으로, 실제 시험에서 높은 점수를 받을 수 있는 고득점 전략이 담긴 질문과 답변을 구성해 보았습니다.
+
+---
+
+## 1. 묘사 (Description): 여행 갈 때 꼭 챙기는 필수 소지품
+
+**[Question]**
+When you go on a trip, what are some essential items that you always pack in your suitcase or backpack? Describe those items in detail and explain why they are so important to you.
+(여행을 갈 때 여행 가방이나 배낭에 항상 챙기는 필수 아이템은 무엇인가요? 그 물건들을 자세히 묘사하고, 왜 그것들이 당신에게 중요한지 설명해 주세요.)
+
+**[Model Answer]**
+To be honest, I’m the type of person who tries to <strong style="color:blue;">cut back on</strong> unnecessary luggage, but there are a few absolute essentials I can never leave behind. First and foremost, my smartphone is my lifeline. It’s not just for calling people; it’s my map, my camera, and my wallet all rolled into one. I <strong style="color:blue;">make sure to</strong> have all my booking apps and offline maps ready before I <strong style="color:blue;">hit the road</strong>.
+
+Because I use my phone so much, a high-capacity portable power bank is a must-have. I’ve had experiences where my phone died in the middle of a foreign city, and it was a total nightmare. So, having that extra juice helps me <strong style="color:blue;">keep peace of mind</strong>. Another thing I always <strong style="color:blue;">pack away</strong> is a pair of noise-canceling headphones. Whether I’m on a noisy plane or a crowded bus, they help me <strong style="color:blue;">tune out</strong> the world and relax. 
+
+Lastly, as a <strong style="color:blue;">rule of thumb</strong>, I always bring a basic first-aid kit. You never know when you might <strong style="color:blue;">come down with</strong> a cold or get a small scratch. Having these items organized in my bag allows me to <strong style="color:blue;">look forward to</strong> my trip without any unnecessary stress. Without these essentials, I feel like a fish out of water.
+
+**[Key Vocabulary & Phrases]**
+*   **Vocabulary:** Lifeline (생명줄/필수적인 것), High-capacity (고용량의), Nightmare (악몽), First-aid kit (구급함)
+*   **Phrasal Verbs:** 
+    *   **<strong style="color:blue;">cut back on</strong>**: ~을 줄이다
+    *   **<strong style="color:blue;">make sure to</strong>**: 반드시 ~하다
+    *   **<strong style="color:blue;">hit the road</strong>**: 여행을 떠나다/길을 나서다
+    *   **<strong style="color:blue;">pack away</strong>**: (보관하기 위해) 넣다/챙기다
+    *   **<strong style="color:blue;">tune out</strong>**: 무시하다/듣지 않다
+    *   **<strong style="color:blue;">come down with</strong>**: (병에) 걸리다
+*   **Idioms:**
+    *   **<strong style="color:blue;">keep peace of mind</strong>**: 마음의 평안을 유지하다
+    *   **<strong style="color:blue;">rule of thumb</strong>**: 경험 법칙/일반적인 원칙
+    *   **<strong style="color:blue;">look forward to</strong>**: ~을 고대하다
+    *   **<strong style="color:blue;">a fish out of water</strong>**: 물 밖에 나온 물고기 (매우 불편하거나 어색한 상황)
+
+---
+
+## 2. 롤플레이 (Role-play): 길 가던 사람에게 지하철역 묻기
+
+**[Question]**
+You are walking in an unfamiliar neighborhood and you need to find the nearest subway station to go to an important meeting. Approach a stranger and ask for directions to the station.
+(낯선 동네를 걷고 있는데, 중요한 회의에 가기 위해 가장 가까운 지하철역을 찾아야 합니다. 지나가는 사람에게 다가가 역으로 가는 길을 물어보세요.)
+
+**[Model Answer]**
+Excuse me, I’m so sorry to <strong style="color:blue;">break in on</strong> your walk, but I think I’m a bit lost. I’m trying to find the nearest subway station, specifically Green Line 2. Could you point me in the right direction? I have a very important meeting in 30 minutes, so I really need to <strong style="color:blue;">get a move on</strong>. 
+
+Oh, so I should head straight down this block and <strong style="color:blue;">turn into</strong> the alleyway next to the coffee shop? Okay, I see. And <strong style="color:blue;">once in a blue moon</strong>, the GPS on my phone glitches, so I want to double-check—is it a long walk? About five minutes? That’s a relief! 
+
+Wait, did you say I should <strong style="color:blue;">keep an eye out for</strong> a large blue building? Okay, so past the pharmacy and right at the blue building. I’ve got it! I was worried I would <strong style="color:blue;">run out of</strong> time, but thanks to your help, I think I’ll <strong style="color:blue;">show up</strong> on time. You’ve really <strong style="color:blue;">taken a load off</strong> my mind. I can always <strong style="color:blue;">count on</strong> the kindness of strangers. Thank you so much! Have a wonderful day!
+
+**[Key Vocabulary & Phrases]**
+*   **Vocabulary:** Unfamiliar (낯선), Specifically (구체적으로), Alleyway (골목), Glitch (오류가 나다)
+*   **Phrasal Verbs:**
+    *   **<strong style="color:blue;">break in on</strong>**: (대화/행동 등을) 방해하다/끼어들다
+    *   **<strong style="color:blue;">turn into</strong>**: ~로 돌다/진입하다
+    *   **<strong style="color:blue;">keep an eye out for</strong>**: ~을 계속 살피다/주의해서 보다
+    *   **<strong style="color:blue;">run out of</strong>**: ~이 다 떨어지다
+    *   **<strong style="color:blue;">show up</strong>**: 나타나다/도착하다
+    *   **<strong style="color:blue;">count on</strong>**: ~을 믿다/의지하다
+*   **Idioms:**
+    *   **<strong style="color:blue;">get a move on</strong>**: 서두르다
+    *   **<strong style="color:blue;">once in a blue moon</strong>**: 아주 드물게
+    *   **<strong style="color:blue;">take a load off</strong>**: 마음의 짐을 덜다/안심시키다
+
+---
+
+## 3. 돌발질문 (Unexpected): 최근 한국의 사회적 이슈 및 트렌드 변화
+
+**[Question]**
+Every country goes through changes in its society and trends. What is a major social issue or a significant trend change that has occurred in Korea over the last few years? Please describe it in detail and explain how it is affecting the lives of people.
+(모든 국가는 사회와 트렌드의 변화를 겪습니다. 최근 몇 년간 한국에서 발생한 주요 사회적 이슈나 중대한 트렌드 변화는 무엇인가요? 자세히 설명하고 그것이 사람들의 삶에 어떤 영향을 미치고 있는지 설명해 주세요.)
+
+**[Model Answer]**
+One of the most noticeable shifts in Korean society recently is the <strong style="color:blue;">build-up</strong> of the "Hon-jok" culture, which refers to people who enjoy doing activities alone. In the past, Korea was a very collective society, but now, the number of single-person households has <strong style="color:blue;">shot up</strong>. This trend <strong style="color:blue;">stems from</strong> the younger generation's desire for independence and a better work-life balance.
+
+This change has <strong style="color:blue;">brought about</strong> a huge transformation in the economy. For instance, the food industry had to <strong style="color:blue;">keep up with</strong> this trend by releasing small-packaged meals for one. Also, many people now prefer "quiet quitting" or prioritizing their personal time over working late at the office. They no longer want to <strong style="color:blue;">put up with</strong> a rigid corporate culture.
+
+However, this isn't just <strong style="color:blue;">the tip of the iceberg</strong>. This social change is also linked to the low birth rate issue in Korea, which is quite concerning. Many young people <strong style="color:blue;">put off</strong> marriage or having children because they want to focus on themselves or because of the high cost of living. In short, while this trend celebrates individuality, it also presents new challenges that the government needs to <strong style="color:blue;">figure out</strong>. It’s a complex issue that has truly changed the social fabric of Korea.
+
+**[Key Vocabulary & Phrases]**
+*   **Vocabulary:** Collective (집단적인), Transformation (변화/변형), Rigid (경직된), Social fabric (사회적 구조/기틀)
+*   **Phrasal Verbs:**
+    *   **<strong style="color:blue;">build-up</strong>**: 축적/고조/증가
+    *   **<strong style="color:blue;">shot up</strong>**: 급증하다
+    *   **<strong style="color:blue;">stems from</strong>**: ~에서 기인하다/비롯되다
+    *   **<strong style="color:blue;">brought about</strong>**: ~을 야기하다/초래하다
+    *   **<strong style="color:blue;">keep up with</strong>**: ~을 따라잡다/뒤처지지 않다
+    *   **<strong style="color:blue;">put up with</strong>**: ~을 참다/견디다
+    *   **<strong style="color:blue;">put off</strong>**: 미루다/연기하다
+    *   **<strong style="color:blue;">figure out</strong>**: 해결하다/이해하다
+*   **Idioms:**
+    *   **<strong style="color:blue;">the tip of the iceberg</strong>**: 빙산의 일각
+
+---
+
+**[강사 조언]**
+위의 답변들은 AL 등급에 적합한 어휘와 복합적인 문장 구조를 포함하고 있습니다. 답변을 연습하실 때는 단순히 외우기보다는, **파란색으로 표시된 구동사와 숙어**를 자신의 목소리로 자연스럽게 내뱉는 연습을 반복하세요. 특히 3번 돌발질문의 경우, 사회적 현상에 대한 자신의 견해를 덧붙이는 것이 고득점의 핵심입니다!
