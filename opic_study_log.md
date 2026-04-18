@@ -4481,3 +4481,104 @@ However, this isn't just <strong style="color:blue;">the tip of the iceberg</str
 
 **[강사 조언]**
 위의 답변들은 AL 등급에 적합한 어휘와 복합적인 문장 구조를 포함하고 있습니다. 답변을 연습하실 때는 단순히 외우기보다는, **파란색으로 표시된 구동사와 숙어**를 자신의 목소리로 자연스럽게 내뱉는 연습을 반복하세요. 특히 3번 돌발질문의 경우, 사회적 현상에 대한 자신의 견해를 덧붙이는 것이 고득점의 핵심입니다!
+
+## 2026-04-18 04:59:38 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 유창하게 말하는 것을 넘어, **구체적인 묘사, 자연스러운 상황 대처(Role-play), 그리고 과거와 현재를 넘나드는 논리적인 비교 능력**이 필수적입니다.
+
+요청하신 3가지 주제에 맞춰 AL 등급용 모범 답안과 분석 리스트를 준비했습니다.
+
+---
+
+## 1. 묘사 (Description): 필통 속 필기구 묘사
+
+### **Question**
+You mentioned that you often use writing tools. Tell me about your pencil case in detail. What does it look like, and what kind of items do you keep inside? Describe each item and why you use it.
+
+당신은 필기구를 자주 사용한다고 언급했습니다. 당신의 필통에 대해 자세히 말해주세요. 필통은 어떻게 생겼으며, 그 안에는 어떤 물건들이 들어있나요? 각 물건과 그것을 왜 사용하는지 설명해 주세요.
+
+### **Model Answer**
+"Well, let me tell you about my pencil case, which is basically my 'survival kit' for productivity. It's a minimalist, navy blue pouch made of sturdy canvas. It might look small, but it’s surprisingly spacious.
+
+When I unzip it, the first thing you’d notice is my collection of gel pens. I’m quite picky about them. I always have a 0.38mm black pen because I <strong style="color:blue;">take pride in</strong> having neat handwriting. Beside it, there are a couple of neon highlighters. I use them to <strong style="color:blue;">flesh out</strong> the most important parts of my notes so they <strong style="color:blue;">stand out</strong> at a glance.
+
+But the real 'star of the show' is my vintage mechanical pencil. I’ve had it for over five years, and it’s never let me down. I usually <strong style="color:blue;">reach for</strong> it when I’m sketching out ideas or brainstorming. I also keep a small, high-quality eraser because, let’s face it, we all make mistakes and need to <strong style="color:blue;">smooth things over</strong> on paper.
+
+Lastly, I always make sure to carry a few extra lead refills and a small USB drive. You never know when you’ll <strong style="color:blue;">run out of</strong> ink or need to save a file suddenly. Everything in my pencil case has a specific purpose, and keeping it organized helps me <strong style="color:blue;">get through</strong> my hectic workday with a bit more ease."
+
+---
+
+### **Key Vocabulary & Expressions**
+*   **Vocabulary:** Minimalist (미니멀한), Sturdy (튼튼한), Spacious (공간이 넓은), Picky (까다로운), Hectic (정신없이 바쁜)
+*   **Phrasal Verbs & Idioms:**
+    *   <strong style="color:blue;">take pride in</strong>: ~에 자부심을 갖다
+    *   <strong style="color:blue;">flesh out</strong>: 살을 붙이다, 구체화하다
+    *   <strong style="color:blue;">stand out</strong>: 눈에 띄다, 두드러지다
+    *   <strong style="color:blue;">reach for</strong>: ~을 잡으려고 손을 뻗다 (자주 사용하다)
+    *   <strong style="color:blue;">smooth things over</strong>: (문제를) 원만하게 해결하다 (여기서는 지우개로 다듬다라는 비유)
+    *   <strong style="color:blue;">run out of</strong>: ~이 바닥나다, 다 떨어지다
+    *   <strong style="color:blue;">get through</strong>: ~을 헤쳐나가다, 견뎌내다
+
+---
+
+## 2. 롤플레이 (Role-play): 영화관 학생 할인 절차 문의
+
+### **Question**
+You are at a movie theater ticket office and want to get a student discount. Call the staff over or talk to the clerk to ask about the specific procedures and requirements to receive the discount. Ask three or four questions.
+
+당신은 영화관 매표소에 있고 학생 할인을 받고 싶어 합니다. 직원에게 학생 할인을 받기 위한 구체적인 절차와 요구 사항에 대해 물어보세요. 3~4개의 질문을 던지십시오.
+
+### **Model Answer**
+"Hi there! Excuse me, I’d like to purchase two tickets for the 7 PM showing of 'Interstellar,' but before I do, I was wondering if I could <strong style="color:blue;">look into</strong> your student discount policy. 
+
+First of all, what is the exact discount rate for university students? I want to see if it’s a significant markdown. Also, could you <strong style="color:blue;">fill me in on</strong> what kind of identification I need to present? I have my physical student ID card here, but would a digital ID on my university app suffice as well? I forgot to <strong style="color:blue;">bring up</strong> my physical wallet from the car, so it would be a lifesaver if digital works.
+
+Another thing I’d like to <strong style="color:blue;">check in</strong> on is whether the discount applies to premium seats, like the IMAX or 4D theaters, or is it strictly for standard screenings? Oh, and one more thing—do I need to <strong style="color:blue;">sign up</strong> for a membership on your website to qualify for this, or can I just get it on the spot?
+
+I’m sorry for all the questions, I just want to make sure I <strong style="color:blue;">follow through</strong> with the right steps. If you could <strong style="color:blue;">cut me some slack</strong> and guide me through this, I’d really appreciate it!"
+
+---
+
+### **Key Vocabulary & Expressions**
+*   **Vocabulary:** Significant (상당한), Markdown (가격 인하), Suffice (충분하다), Identification (신분증)
+*   **Phrasal Verbs & Idioms:**
+    *   <strong style="color:blue;">look into</strong>: 조사하다, 알아보다
+    *   <strong style="color:blue;">fill me in on</strong>: ~에 대해 자세히 알려주다
+    *   <strong style="color:blue;">bring up</strong>: (화제를) 꺼내다 / (물건을) 가지고 올라오다
+    *   <strong style="color:blue;">check in</strong>: 확인하다, 체크하다
+    *   <strong style="color:blue;">sign up</strong>: 등록하다, 가입하다
+    *   <strong style="color:blue;">follow through</strong>: (절차 등을) 완수하다, 이행하다
+    *   <strong style="color:blue;">cut some slack</strong>: 사정을 봐주다, 여유를 주다
+
+---
+
+## 3. 돌발질문 (Unexpected): 성격의 변화 (어린 시절 vs. 성인)
+
+### **Question**
+How has your personality changed from when you were a child to now as an adult? Provide specific examples of how you used to be and how you are different now.
+
+어린 시절과 성인이 된 지금, 당신의 성격이 어떻게 변했나요? 예전에는 어땠는지, 그리고 지금은 어떻게 다른지 구체적인 예를 들어 설명해 주세요.
+
+### **Model Answer**
+"That’s a very intriguing question. When I <strong style="color:blue;">look back on</strong> my childhood, I realize I’ve undergone a massive transformation. 
+
+As a kid, I was painfully shy. I was the type of person who would <strong style="color:blue;">keep to myself</strong> during recess while other kids were running around. I used to <strong style="color:blue;">shrink back</strong> whenever I had to speak in front of the class. I guess you could say I was a total wallflower who preferred to blend into the background.
+
+However, as I entered university and started working, I realized that I needed to <strong style="color:blue;">come out of my shell</strong> to survive in the real world. I forced myself to join clubs and take on leadership roles. Gradually, I began to <strong style="color:blue;">warm up to</strong> social situations. 
+
+Nowadays, people describe me as quite outgoing and proactive. I’ve learned how to <strong style="color:blue;">stand my ground</strong> during debates and how to <strong style="color:blue;">reach out</strong> to strangers first. I wouldn't say I’ve completely <strong style="color:blue;">grown out of</strong> my quiet nature, but I’ve definitely developed a 'social mask' that allows me to be assertive. It’s been quite a journey, and I’m proud of how I’ve managed to <strong style="color:blue;">break through</strong> my old limitations."
+
+---
+
+### **Key Vocabulary & Expressions**
+*   **Vocabulary:** Intriguing (흥미로운), Transformation (변화), Wallflower (수줍음 타는 사람), Assertive (자기 주장이 강한), Proactive (주도적인)
+*   **Phrasal Verbs & Idioms:**
+    *   <strong style="color:blue;">look back on</strong>: 되돌아보다, 회상하다
+    *   <strong style="color:blue;">keep to myself</strong>: 혼자 지내다, 말을 삼가다
+    *   <strong style="color:blue;">shrink back</strong>: 움츠러들다, 뒷걸음질 치다
+    *   <strong style="color:blue;">come out of my shell</strong>: 껍질을 깨고 나오다 (활발해지다)
+    *   <strong style="color:blue;">warm up to</strong>: ~에 마음을 열다, 익숙해지다
+    *   <strong style="color:blue;">stand my ground</strong>: 내 주장을 고수하다, 물러나지 않다
+    *   <strong style="color:blue;">reach out</strong>: 먼저 연락하다, 손을 내밀다
+    *   <strong style="color:blue;">grown out of</strong>: (나이가 들며) ~에서 벗어나다, 그만두게 되다
+    *   <strong style="color:blue;">break through</strong>: 돌파하다, 극복하다
