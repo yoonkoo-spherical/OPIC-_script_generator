@@ -4582,3 +4582,111 @@ Nowadays, people describe me as quite outgoing and proactive. I’ve learned how
     *   <strong style="color:blue;">reach out</strong>: 먼저 연락하다, 손을 내밀다
     *   <strong style="color:blue;">grown out of</strong>: (나이가 들며) ~에서 벗어나다, 그만두게 되다
     *   <strong style="color:blue;">break through</strong>: 돌파하다, 극복하다
+
+## 2026-04-19 05:19:43 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 문법적으로 맞는 문장을 구사하는 것을 넘어, **풍부한 어휘 선택, 자연스러운 문장 연결(Filler words), 그리고 구동사와 숙어를 활용한 원어민스러운 표현력**이 필수적입니다.
+
+요청하신 3가지 주제에 대한 AL 등급 맞춤형 질문과 모범 답안을 구성해 드립니다.
+
+---
+
+## 1. 묘사 (Description): 기억에 남는 해외 여행지의 거리 풍경
+
+### **[Question]**
+I’d like to talk about your travels abroad. Can you describe a memorable street or neighborhood you visited during one of your trips? What did it look like, and what kind of atmosphere did it have? Please provide as many details as possible.
+
+(당신이 다녀온 해외 여행에 대해 이야기해 봅시다. 여행 중 방문했던 기억에 남는 거리나 동네를 묘사해 주시겠어요? 그곳은 어떻게 생겼으며, 어떤 분위기였나요? 가능한 한 자세하게 설명해 주세요.)
+
+### **[Model Answer]**
+To be honest, I’ve traveled to many places, but if I had to pick one, the streets of Shoreditch in London definitely <strong style="color:blue;">stand out</strong> in my memory. It’s a place that perfectly captures the essence of modern urban culture mixed with a bit of a gritty, industrial vibe.
+
+When I first <strong style="color:blue;">stepped out</strong> of the station, I was immediately struck by the vibrant street art. Every single wall and alleyway was covered in these incredibly detailed murals. It felt like I was <strong style="color:blue;">walking through</strong> a giant, open-air gallery. The street was <strong style="color:blue;">packed with</strong> a diverse crowd—artists, tourists, and locals all blending together. 
+
+One thing that really <strong style="color:blue;">caught my eye</strong> was the unique contrast between old and new. You’d see these old brick warehouses that had been <strong style="color:blue;">turned into</strong> trendy coffee shops or boutique stores. The smell of freshly ground coffee beans and exotic street food would <strong style="color:blue;">waft through</strong> the air, making it impossible not to <strong style="color:blue;">stop by</strong> one of the stalls.
+
+I spent hours just <strong style="color:blue;">soaking up</strong> the atmosphere, listening to buskers performing on every corner. The energy was just infectious. It wasn’t just a street; it felt like a living, breathing entity. Looking back, that street wasn't just a path to a destination; it was the highlight of the trip itself. I still <strong style="color:blue;">look back on</strong> those moments whenever I feel a bit of wanderlust.
+
+### **[Vocabulary & Expressions]**
+*   **Vocabulary:** Gritty (거친), Industrial (산업적인), Vibrant (활기찬), Mural (벽화), Eclectic (다양한/절충적인), Infectious (전염성 있는/강렬한), Wanderlust (여행 유혹/방랑벽).
+*   **Phrasal Verbs:** 
+    *   <strong style="color:blue;">Stand out</strong>: 두드러지다, 눈에 띄다.
+    *   <strong style="color:blue;">Step out</strong>: 밖으로 나가다(발을 내딛다).
+    *   <strong style="color:blue;">Turn into</strong>: ~로 변하다.
+    *   <strong style="color:blue;">Stop by</strong>: 잠시 들르다.
+    *   <strong style="color:blue;">Soak up</strong>: (분위기 등에) 흠뻑 젖다/만끽하다.
+    *   <strong style="color:blue;">Look back on</strong>: ~을 되돌아보다.
+*   **Idioms:**
+    *   <strong style="color:blue;">Packed with</strong>: ~로 가득 찬.
+    *   <strong style="color:blue;">Caught my eye</strong>: 내 눈길을 사로잡다.
+    *   <strong style="color:blue;">Waft through</strong>: (공기 중으로) 퍼지다/떠돌다.
+
+---
+
+## 2. 롤플레이 (Role-play): 면접 장소 및 시간 재확인하기
+
+### **[Question]**
+You have a job interview coming up in a few days. Call the HR department of the company to double-check the time and location of the interview. Ask 3 or 4 specific questions to make sure you have all the information you need.
+
+(며칠 뒤에 취업 면접이 있습니다. 회사 인사팀에 전화하여 면접 시간과 장소를 재확인하십시오. 필요한 모든 정보를 확인할 수 있도록 3~4개의 구체적인 질문을 하세요.)
+
+### **[Model Answer]**
+"Hello, this is [Your Name] calling. I’m scheduled for an interview for the Marketing Specialist position this coming Thursday. I’m really <strong style="color:blue;">looking forward to</strong> it, but I just wanted to <strong style="color:blue;">touch base</strong> and double-check a few details to make sure I’m <strong style="color:blue;">on the right track</strong>.
+
+First off, could you please reconfirm the exact time? I have it down for 2 PM, but I want to <strong style="color:blue;">make sure</strong> there haven't been any changes to the schedule. 
+
+Also, regarding the location, I see the address is in the Midtown district. Could you <strong style="color:blue;">fill me in on</strong> which floor I should head to once I arrive at the building? And is there a specific reception desk I should <strong style="color:blue;">check in</strong> at? 
+
+Another thing I wanted to <strong style="color:blue;">bring up</strong> is the parking situation. If I drive there, is there visitor parking available, or should I look for a public lot nearby? Lastly, are there any specific documents or IDs I need to <strong style="color:blue;">hand over</strong> at the security desk to get a visitor's pass?
+
+I’m sorry to <strong style="color:blue;">take up</strong> your time with these questions, but I want to ensure everything goes smoothly on the day of the interview. Thank you so much for your help!"
+
+### **[Vocabulary & Expressions]**
+*   **Vocabulary:** Scheduled (예정된), Specialist (전문가), Reception desk (접수처), Security desk (보안 데스크), Visitor's pass (방문객 출입증).
+*   **Phrasal Verbs:** 
+    *   <strong style="color:blue;">Look forward to</strong>: ~을 고대하다.
+    *   <strong style="color:blue;">Touch base</strong>: 연락을 취하다/상황을 확인하다.
+    *   <strong style="color:blue;">Fill someone in on</strong>: ~에 대해 자세히 알려주다.
+    *   <strong style="color:blue;">Check in</strong>: 체크인하다/접수하다.
+    *   <strong style="color:blue;">Bring up</strong>: (화제를) 꺼내다.
+    *   <strong style="color:blue;">Hand over</strong>: 건네주다/제출하다.
+    *   <strong style="color:blue;">Take up</strong>: (시간 등을) 쓰다/차지하다.
+*   **Idioms:**
+    *   <strong style="color:blue;">On the right track</strong>: 제대로 하고 있는/맞게 알고 있는.
+    *   <strong style="color:blue;">Make sure</strong>: 반드시 ~하다/확인하다.
+
+---
+
+## 3. 돌발질문 (Unexpected): 스포츠 스타의 세대교체 설명
+
+### **[Question]**
+Sports stars change over time. Compare the sports stars who were popular in the past with the ones who are popular today. How has the transition happened, and what are the main differences between these generations of athletes?
+
+(스포츠 스타들은 시간이 흐르며 변합니다. 과거에 인기 있었던 스포츠 스타와 오늘날 인기 있는 스타를 비교해 보세요. 세대교체는 어떻게 일어났으며, 이들 운동선수 세대 간의 주요 차이점은 무엇인가요?)
+
+### **[Model Answer]**
+That’s a very interesting topic. I think the transition between past and current sports stars reflects how much our society and technology have <strong style="color:blue;">come a long way</strong>. 
+
+In the past, let's say during the 90s or early 2000s, legendary figures like Michael Jordan or Park Ji-sung <strong style="color:blue;">paved the way</strong> for their respective sports. Back then, athletes were mostly admired for their raw talent and sheer grit. We usually <strong style="color:blue;">kept up with</strong> them through TV broadcasts or newspapers. They felt somewhat distant, like untouchable icons. 
+
+However, fast forward to today, and the new generation of stars—like Son Heung-min or Shohei Ohtani—has <strong style="color:blue;">taken it to the next level</strong>. The biggest difference is definitely their global reach and accessibility. Thanks to social media, fans can <strong style="color:blue;">tune in</strong> to their daily lives 24/7. Modern athletes aren't just players; they are global brands. They <strong style="color:blue;">put a lot of effort into</strong> managing their personal image and interacting with fans directly. 
+
+Moreover, sports science has <strong style="color:blue;">brought about</strong> a huge shift. Today’s stars <strong style="color:blue;">work out</strong> with highly specialized training and diet plans, which allows them to <strong style="color:blue;">keep up</strong> their peak performance for much longer than previous generations. 
+
+In conclusion, while past stars <strong style="color:blue;">broke new ground</strong> and set the foundation, today's athletes are <strong style="color:blue;">living up to</strong> those high standards while utilizing modern technology to connect with the world. It’s a fascinating evolution to witness.
+
+### **[Vocabulary & Expressions]**
+*   **Vocabulary:** Transition (전환/이행), Respective (각자의), Grit (투지/기개), Accessibility (접근성), Evolution (진화).
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">Keep up with</strong>: ~을 따라잡다/계속 소식을 듣다.
+    *   <strong style="color:blue;">Tune in</strong>: 시청하다/관심을 기울이다.
+    *   <strong style="color:blue;">Put effort into</strong>: ~에 노력을 들이다.
+    *   <strong style="color:blue;">Brought about</strong>: ~을 야기하다/가져오다.
+    *   <strong style="color:blue;">Work out</strong>: 운동하다.
+    *   <strong style="color:blue;">Keep up</strong>: 유지하다.
+    *   <strong style="color:blue;">Living up to</strong>: ~에 부응하다/기대에 미치다.
+*   **Idioms:**
+    *   <strong style="color:blue;">Come a long way</strong>: 크게 발전하다.
+    *   <strong style="color:blue;">Paved the way</strong>: 길을 닦다/기틀을 마련하다.
+    *   <strong style="color:blue;">Taken it to the next level</strong>: 한 단계 더 높이다.
+    *   <strong style="color:blue;">Broke new ground</strong>: 신기원을 열다/새로운 분야를 개척하다.
