@@ -4690,3 +4690,95 @@ In conclusion, while past stars <strong style="color:blue;">broke new ground</st
     *   <strong style="color:blue;">Paved the way</strong>: 길을 닦다/기틀을 마련하다.
     *   <strong style="color:blue;">Taken it to the next level</strong>: 한 단계 더 높이다.
     *   <strong style="color:blue;">Broke new ground</strong>: 신기원을 열다/새로운 분야를 개척하다.
+
+## 2026-04-20 05:31:25 OPIc Study
+
+반갑습니다! OPIc AL 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 문법이 정확한 것을 넘어, **문장 간의 자연스러운 연결(Cohesion), 다양한 어휘 및 관용구 활용, 그리고 감정과 뉘앙스를 살린 발화**가 필수적입니다.
+
+제시해주신 세 가지 주제에 맞춰, 실제 시험에서 고득점을 보장하는 2분 30초 분량의 모범 답안과 주요 표현들을 정리해 드립니다.
+
+---
+
+## 1. Description (묘사): 한국의 관광 명소 - 경복궁
+
+### **Question**
+Korea has many beautiful tourist attractions. Can you describe one of the most representative landmarks in Korea? Tell me what it looks like and why it is special to you or to visitors.
+(한국에는 아름다운 관광지가 많습니다. 한국을 대표하는 명소 한 곳을 묘사해 주시겠어요? 그곳이 어떻게 생겼는지, 그리고 왜 당신이나 방문객들에게 특별한지 말해 주세요.)
+
+### **Model Answer**
+If I had to pick just one landmark that truly represents Korea, it would hands-down be Gyeongbokgung Palace in the heart of Seoul. It’s the main royal palace from the Joseon Dynasty, and honestly, the vibe there is just incredible. When you first <strong style="color:blue;">show up</strong> at the main gate, Gwanghwamun, you’re immediately struck by the contrast between the ancient architecture and the towering modern skyscrapers surrounding it. 
+
+The palace grounds are massive, and as you walk through, you can <strong style="color:blue;">take in</strong> the intricate, colorful patterns painted on the wooden structures, which we call 'Dancheong.' One of my favorite spots is Gyeonghoeru Pavilion, which appears to be floating on a large pond. It’s a total <strong style="color:blue;">feast for the eyes</strong>, especially when the cherry blossoms are in full bloom or when the autumn leaves start to <strong style="color:blue;">show off</strong> their colors.
+
+What makes it even more special is seeing so many people, both locals and tourists, wearing Hanbok, the traditional Korean attire. It really makes you feel like you’ve <strong style="color:blue;">gone back in time</strong>. I personally <strong style="color:blue;">drop by</strong> the palace whenever I need to <strong style="color:blue;">clear my head</strong> because, despite being in the middle of a bustling city, the atmosphere inside is surprisingly serene. It’s not just a tourist spot; it’s a place where history and modernity <strong style="color:blue;">get along</strong> perfectly. You should definitely check it out if you haven’t yet!
+
+### **Vocabulary & Expressions**
+*   **Hand-down**: 의심의 여지없이, 확실히
+*   **Intricate**: 복잡한, 정교한
+*   **Serene**: 평온한, 고요한
+*   **Bustling**: 북적거리는
+*   **<strong style="color:blue;">Show up</strong>**: 나타나다, 도착하다
+*   **<strong style="color:blue;">Take in</strong>**: (경치 등을) 감상하다, 섭취하다
+*   **<strong style="color:blue;">Feast for the eyes</strong>**: 눈이 즐거운 것, 아주 아름다운 광경
+*   **<strong style="color:blue;">Show off</strong>**: 뽐내다, 자랑하다
+*   **<strong style="color:blue;">Go back in time</strong>**: 과거로 돌아가다
+*   **<strong style="color:blue;">Drop by</strong>**: 잠깐 들르다
+*   **<strong style="color:blue;">Clear one's head</strong>**: 머리를 식히다, 생각을 정리하다
+*   **<strong style="color:blue;">Get along</strong>**: 어우러지다, 사이좋게 지내다
+
+---
+
+## 2. Role-play (롤플레이): 중고 거래 문의 및 네고
+
+### **Question**
+You want to buy a used iPad on a second-hand trading app. Call or message the seller to ask about the condition of the item and try to negotiate the price.
+(당신은 중고 거래 앱에서 중고 아이패드를 사려고 합니다. 판매자에게 연락하여 물건의 상태에 대해 묻고 가격 협상을 시도해 보세요.)
+
+### **Model Answer**
+Hi there! I’m calling regarding the iPad Pro you <strong style="color:blue;">put up</strong> for sale on the marketplace app earlier today. I’ve been looking for this specific model for a while, so I was really excited to see your post. 
+
+Before we meet up, I’d like to <strong style="color:blue;">check out</strong> a few details. Your description says it’s in 'like-new' condition, but I was wondering if there are any minor scratches on the screen or any issues with the battery life? Since I’ll be using it for my design work, the screen quality is a deal-breaker for me. Also, does it <strong style="color:blue;">come with</strong> the original box and the Apple Pencil as well?
+
+And, I hope you don’t mind me asking, but is the price <strong style="color:blue;">set in stone</strong>? I noticed that some other listings are a bit lower, but I’d much rather buy from someone who seems reliable like you. If I <strong style="color:blue;">pick it up</strong> today and pay in cash, could you <strong style="color:blue;">knock off</strong> about 30 dollars? I’m trying to <strong style="color:blue;">stick to</strong> a tight budget this month, so it would really help me out. Please <strong style="color:blue;">get back to</strong> me when you have a moment, and let me know if we can <strong style="color:blue;">meet in the middle</strong>. Thanks!
+
+### **Vocabulary & Expressions**
+*   **Deal-breaker**: (계약 등을) 깨게 만드는 요소, 중요한 문제
+*   **Reliable**: 신뢰할 수 있는
+*   **<strong style="color:blue;">Put up</strong>**: (게시물을) 올리다, 내놓다
+*   **<strong style="color:blue;">Check out</strong>**: 확인하다, 살펴보다
+*   **<strong style="color:blue;">Come with</strong>**: ~이 딸려 있다, 포함되다
+*   **<strong style="color:blue;">Set in stone</strong>**: 확정된, 변경할 수 없는
+*   **<strong style="color:blue;">Pick up</strong>**: (물건을) 찾아오다, 사오다
+*   **<strong style="color:blue;">Knock off</strong>**: (가격 등을) 깎아주다
+*   **<strong style="color:blue;">Stick to</strong>**: ~을 고수하다, 지키다
+*   **<strong style="color:blue;">Get back to</strong>**: ~에게 나중에 다시 연락하다
+*   **<strong style="color:blue;">Meet in the middle</strong>**: 타협하다, 절충하다
+
+---
+
+## 3. Unexpected (돌발 질문): 밤샘 후 후회했던 경험
+
+### **Question**
+Sometimes we stay up all night doing something like playing games, studying, or partying, but we often regret it the next day. Tell me about a time you stayed up all night and felt terrible the following day. What happened?
+(때때로 우리는 게임, 공부, 파티 등을 하며 밤을 새우곤 하지만, 다음 날 종종 후회합니다. 밤을 새우고 다음 날 기분이 매우 안 좋았던 경험에 대해 말해 주세요. 무슨 일이 있었나요?)
+
+### **Model Answer**
+Oh, I have a perfect—well, actually a painful—story for this. This happened a few months ago when a new video game I had been waiting for was finally released. I told myself I would only play for an hour or two after dinner, but I completely <strong style="color:blue;">lost track of time</strong>. Before I knew it, the sun was starting to <strong style="color:blue;">come up</strong>, and I realized I had <strong style="color:blue;">burned the midnight oil</strong> playing games all night. 
+
+The real problem was that I had a very important presentation at work the next morning at 10 AM. I tried to <strong style="color:blue;">catch up on</strong> some sleep for about an hour, but it only made me feel more <strong style="color:blue;">out of it</strong> when the alarm <strong style="color:blue;">went off</strong>. I was a total zombie. During the meeting, I kept <strong style="color:blue;">nodding off</strong>, and my brain just stopped working. I couldn't even answer simple questions from my boss properly. 
+
+I really <strong style="color:blue;">paid the price</strong> for my lack of self-control. I felt so guilty and embarrassed because I knew I hadn't given my best effort. After that disaster, I <strong style="color:blue;">made up my mind</strong> to never pull an all-nighter again, especially on a weeknight. I learned the hard way that I shouldn’t <strong style="color:blue;">bite off more than I can chew</strong> when it comes to balancing my hobbies and responsibilities. It was a huge wake-up call for me.
+
+### **Vocabulary & Expressions**
+*   **Wake-up call**: 경종, 정신이 번쩍 들게 하는 일
+*   **Lack of self-control**: 자제력 부족
+*   **<strong style="color:blue;">Lost track of time</strong>**: 시간 가는 줄 모르다
+*   **<strong style="color:blue;">Come up</strong>**: (해 등이) 뜨다, 솟아오르다
+*   **<strong style="color:blue;">Burn the midnight oil</strong>**: 밤늦게까지 공부/일을 하다 (밤을 새우다)
+*   **<strong style="color:blue;">Catch up on</strong>**: (부족한 잠 등을) 보충하다
+*   **<strong style="color:blue;">Out of it</strong>**: 제정신이 아닌, 멍한
+*   **<strong style="color:blue;">Went off</strong>**: (알람 등이) 울리다
+*   **<strong style="color:blue;">Nodding off</strong>**: 꾸벅꾸벅 졸다
+*   **<strong style="color:blue;">Paid the price</strong>**: 대가를 치르다
+*   **<strong style="color:blue;">Made up my mind</strong>**: 결심하다
+*   **<strong style="color:blue;">Bite off more than one can chew</strong>**: 분에 넘치는 일을 하다, 무리하다
