@@ -4782,3 +4782,97 @@ I really <strong style="color:blue;">paid the price</strong> for my lack of self
 *   **<strong style="color:blue;">Paid the price</strong>**: 대가를 치르다
 *   **<strong style="color:blue;">Made up my mind</strong>**: 결심하다
 *   **<strong style="color:blue;">Bite off more than one can chew</strong>**: 분에 넘치는 일을 하다, 무리하다
+
+## 2026-04-21 05:18:47 OPIc Study
+
+반갑습니다! OPIc AL 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 문법이 정확한 것을 넘어, **문장 간의 자연스러운 연결(Cohesion), 다양한 어휘 및 구동사의 활용, 그리고 상황에 몰입한 감정 표현**이 필수적입니다.
+
+요청하신 3가지 주제에 맞춰, 실제 시험에서 높은 점수를 받을 수 있는 전략적인 스크립트를 구성해 드립니다.
+
+---
+
+## 1. Description (묘사): 은행의 풍경과 분위기
+
+**[Question]**
+Could you describe a typical scene at a bank in your country? What are the bank tellers doing, and what do the customers who are waiting look like? Please provide a detailed description.
+(당신네 나라 은행의 전형적인 모습을 묘사해 주세요. 은행원들은 무엇을 하고 있고, 대기 중인 고객들은 어떤 모습인가요? 자세하게 설명해 주세요.)
+
+**[Model Answer]**
+To be honest, whenever I visit a bank in Korea, the first thing that <strong style="color:blue;">strikes me</strong> is the professional yet busy atmosphere. As soon as you step inside, you’ll see bank tellers sitting behind glass partitions, looking incredibly focused. They are usually <strong style="color:blue;">tied up with</strong> various tasks, like processing loans, opening new accounts, or handling complex financial transactions. It’s quite impressive how they manage to stay calm while <strong style="color:blue;">dealing with</strong> a mountain of paperwork.
+
+On the other side of the counter, the waiting area is often packed, especially during lunch hours. You’ll see a digital display board that <strong style="color:blue;">calls out</strong> ticket numbers with a loud "ding." Most customers are <strong style="color:blue;">hunched over</strong> their smartphones to <strong style="color:blue;">kill time</strong>, while some older people might be reading brochures or just staring at the wall, looking a bit restless. There’s always that one person who keeps <strong style="color:blue;">checking on</strong> the clock, clearly in a hurry to <strong style="color:blue;">get over with</strong> their errands.
+
+The contrast between the calm, methodical work of the tellers and the slightly anxious energy of the waiting crowd is quite interesting. Even though many people have <strong style="color:blue;">switched over to</strong> mobile banking these days, the physical bank branches still seem to <strong style="color:blue;">be buzzing with</strong> activity. All in all, it’s a place where everyone is trying to <strong style="color:blue;">sort out</strong> their financial lives as efficiently as possible.
+
+**[Key Vocabulary & Expressions]**
+*   **Strike someone**: ~에게 인상을 주다, ~라는 생각이 들게 하다.
+*   **<strong style="color:blue;">Tie up with</strong>**: ~으로 바쁘다, ~에 묶여 있다. (Phrasal Verb)
+*   **<strong style="color:blue;">Deal with</strong>**: ~을 다루다, 처리하다. (Phrasal Verb)
+*   **<strong style="color:blue;">Call out</strong>**: 크게 부르다. (Phrasal Verb)
+*   **<strong style="color:blue;">Hunch over</strong>**: 구부정하게 앉다. (Phrasal Verb)
+*   **<strong style="color:blue;">Kill time</strong>**: 시간을 때우다. (Idiom)
+*   **<strong style="color:blue;">Check on</strong>**: ~을 확인하다, 살피다. (Phrasal Verb)
+*   **<strong style="color:blue;">Get over with</strong>**: (귀찮은 일을) 끝내버리다. (Phrasal Verb)
+*   **<strong style="color:blue;">Switch over to</strong>**: ~으로 전환하다/바꾸다. (Phrasal Verb)
+*   **<strong style="color:blue;">Be buzzing with</strong>**: ~으로 활기가 넘치다/북적이다. (Phrasal Verb)
+*   **<strong style="color:blue;">Sort out</strong>**: 해결하다, 정리하다. (Phrasal Verb)
+
+---
+
+## 2. Role-play (롤플레이): 가족에게 마트 심부름 부탁하기
+
+**[Question]**
+I’d like to give you a situation to act out. You are on your way home from work, and you need some groceries. Call a family member and ask them to stop by a grocery store to buy some items you need.
+(상황을 하나 드리겠습니다. 당신은 퇴근 중이고 식재료가 필요합니다. 가족에게 전화하여 마트에 들러 필요한 물건들을 사 오라고 부탁해 보세요.)
+
+**[Model Answer]**
+(Phone rings...) Hey, Mom! Are you home yet? Oh, good. Listen, I’m just <strong style="color:blue;">heading out</strong> of the office now, but I realized we’ve completely <strong style="color:blue;">run out of</strong> some essentials for dinner tonight. I was going to stop by the store myself, but the traffic is absolutely insane right now. I think I’ll be <strong style="color:blue;">held up</strong> for at least another hour.
+
+So, I was wondering, could you possibly <strong style="color:blue;">drop by</strong> the grocery store on your way? It would <strong style="color:blue;">take a load off</strong> my mind. We basically need some milk, a dozen eggs, and maybe some fresh basil if they have it. Oh, and could you also <strong style="color:blue;">look out for</strong> some chicken breasts? I’m planning to <strong style="color:blue;">whip up</strong> that pasta dish you love tonight.
+
+I know you’re probably tired, so I’ll <strong style="color:blue;">make it up to</strong> you by doing all the dishes and cleaning the kitchen afterward. If you can’t find the basil, don’t <strong style="color:blue;">stress out</strong> over it, just grab whatever looks fresh. Let me know if you can <strong style="color:blue;">swing by</strong> the store, otherwise, I’ll have to <strong style="color:blue;">figure something out</strong> later. Thanks a million, Mom! Love you!
+
+**[Key Vocabulary & Expressions]**
+*   **<strong style="color:blue;">Head out</strong>**: 출발하다, 나가다. (Phrasal Verb)
+*   **<strong style="color:blue;">Run out of</strong>**: ~이 다 떨어지다. (Phrasal Verb)
+*   **<strong style="color:blue;">Hold up</strong>**: 지체시키다, 막히게 하다. (Phrasal Verb)
+*   **<strong style="color:blue;">Drop by</strong>**: 잠깐 들르다. (Phrasal Verb)
+*   **<strong style="color:blue;">Take a load off (someone's mind)</strong>**: 마음의 짐을 덜어주다. (Idiom)
+*   **<strong style="color:blue;">Look out for</strong>**: ~을 찾다, 살피다. (Phrasal Verb)
+*   **<strong style="color:blue;">Whip up</strong>**: (음식을) 뚝딱 만들어 내다. (Phrasal Verb)
+*   **<strong style="color:blue;">Make it up to</strong>**: ~에게 보답하다, 보상하다. (Phrasal Verb)
+*   **<strong style="color:blue;">Stress out</strong>**: 스트레스를 받다/주다. (Phrasal Verb)
+*   **<strong style="color:blue;">Swing by</strong>**: 잠깐 들르다. (Phrasal Verb)
+*   **<strong style="color:blue;">Figure something out</strong>**: 해결책을 찾아내다. (Phrasal Verb)
+
+---
+
+## 3. Unexpected (돌발질문): 지갑을 잊어버린 당황스러운 순간
+
+**[Question]**
+Tell me about a time you went out to eat and realized you didn't have your wallet when it was time to pay. What happened, and how did you handle the situation? Describe the experience in detail.
+(외식을 하러 나갔는데 결제할 때가 되어서야 지갑이 없다는 것을 깨달았던 경험에 대해 말해 주세요. 어떤 일이 있었고 어떻게 상황을 해결했나요? 자세히 묘사해 주세요.)
+
+**[Model Answer]**
+Oh man, just thinking about this story makes me <strong style="color:blue;">break out in a cold sweat</strong>. It happened a few months ago when I went to this trendy Italian restaurant to <strong style="color:blue;">grab a bite</strong> with an old friend. We had a fantastic meal, <strong style="color:blue;">catching up on</strong> each other's lives, and everything was perfect until the waiter brought the bill.
+
+I confidently <strong style="color:blue;">reached for</strong> my back pocket, but my heart suddenly <strong style="color:blue;">skipped a beat</strong>. My wallet wasn't there. I <strong style="color:blue;">went through</strong> my bag at least three times, but it was nowhere to be found. I must have left it on my desk at work. I felt so embarrassed that my face <strong style="color:blue;">turned bright red</strong>. I was <strong style="color:blue;">in a bind</strong> because my friend had also forgotten her purse and was planning to pay me back later via bank transfer.
+
+I had to <strong style="color:blue;">summon up</strong> the courage to talk to the manager. I <strong style="color:blue;">laid out</strong> the situation and explained that I lived nearby. Thankfully, he was very understanding. He told me not to <strong style="color:blue;">freak out</strong> and suggested that I could use a mobile payment app. It <strong style="color:blue;">dawned on me</strong> then that I had my credit card saved on my phone! I was so relieved that I could have cried. I <strong style="color:blue;">settled up</strong> the bill immediately and apologized profusely for the fuss. It was a huge <strong style="color:blue;">wake-up call</strong> for me to always double-check my belongings before <strong style="color:blue;">setting off</strong>.
+
+**[Key Vocabulary & Expressions]**
+*   **<strong style="color:blue;">Break out in a cold sweat</strong>**: 식은땀을 흘리다. (Idiom)
+*   **<strong style="color:blue;">Grab a bite</strong>**: 간단히 먹다. (Idiom)
+*   **<strong style="color:blue;">Catch up on</strong>**: (소식 등을) 알아내다, 보충하다. (Phrasal Verb)
+*   **<strong style="color:blue;">Reach for</strong>**: ~을 향해 손을 뻗다. (Phrasal Verb)
+*   **<strong style="color:blue;">Skip a beat</strong>**: (심장이) 덜컥 내려앉다. (Idiom)
+*   **<strong style="color:blue;">Go through</strong>**: 샅샅이 뒤지다, 살펴보다. (Phrasal Verb)
+*   **<strong style="color:blue;">Turn bright red</strong>**: 얼굴이 새빨개지다. (Idiom)
+*   **<strong style="color:blue;">In a bind</strong>**: 곤경에 처한. (Idiom)
+*   **<strong style="color:blue;">Summon up</strong>**: (용기 등을) 내다, 끌어모으다. (Phrasal Verb)
+*   **<strong style="color:blue;">Lay out</strong>**: 자세히 설명하다. (Phrasal Verb)
+*   **<strong style="color:blue;">Freak out</strong>**: 당황하다, 자지러지다. (Phrasal Verb)
+*   **<strong style="color:blue;">Dawn on (someone)</strong>**: ~에게 생각이 떠오르다, 깨닫게 되다. (Phrasal Verb)
+*   **<strong style="color:blue;">Settle up</strong>**: 계산을 치르다, 결제하다. (Phrasal Verb)
+*   **<strong style="color:blue;">Wake-up call</strong>**: 경각심을 주는 사건. (Idiom)
+*   **<strong style="color:blue;">Set off</strong>**: 출발하다. (Phrasal Verb)
