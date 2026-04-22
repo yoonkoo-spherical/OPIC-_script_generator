@@ -4876,3 +4876,97 @@ I had to <strong style="color:blue;">summon up</strong> the courage to talk to t
 *   **<strong style="color:blue;">Settle up</strong>**: 계산을 치르다, 결제하다. (Phrasal Verb)
 *   **<strong style="color:blue;">Wake-up call</strong>**: 경각심을 주는 사건. (Idiom)
 *   **<strong style="color:blue;">Set off</strong>**: 출발하다. (Phrasal Verb)
+
+## 2026-04-22 05:16:00 OPIc Study
+
+반갑습니다! OPIc AL 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 문장을 나열하는 것이 아니라, **풍부한 형용사 사용, 자연스러운 문장 연결(Connectors), 그리고 감정 표현**이 필수적입니다. 또한, 발화량이 충분해야 하므로 서론-본론-결론의 구조를 갖추어 답변하는 것이 중요합니다.
+
+지정하신 3가지 주제에 대한 AL 수준의 질문과 모범 답안을 제공해 드리겠습니다.
+
+---
+
+### [주제 1] 묘사 (Description): 집에 있는 화분이나 식물의 생김새 묘사
+
+**Question 1:**
+I'd like to know about the plants or flower pots you have in your home. What do they look like, and where are they located? How do they change the atmosphere of your house? Please describe them in as much detail as possible.
+(당신의 집에 있는 식물이나 화분에 대해 알고 싶습니다. 그것들은 어떻게 생겼고 어디에 위치해 있나요? 그 식물들이 집안 분위기를 어떻게 바꾸어 놓나요? 가능한 한 자세하게 설명해 주세요.)
+
+**Model Answer:**
+
+To be honest, I didn't always have a **<strong style="color:blue;">green thumb</strong>**, but recently I've become quite obsessed with indoor gardening to **<strong style="color:blue;">spruce up</strong>** my living space. Currently, the "star of the show" in my apartment is a massive Monstera Deliciosa sitting right next to my floor-to-ceiling window in the living room. 
+
+It's truly a sight to behold. Its leaves are incredibly large, heart-shaped, and feature those iconic natural splits that everyone loves. They have this vibrant, deep emerald green color that really **<strong style="color:blue;">breathes life into</strong>** my otherwise minimalist and somewhat grey interior. I have it planted in a large, matte-finish ceramic pot that adds a touch of sophistication. 
+
+Whenever the morning sun **<strong style="color:blue;">filters through</strong>** the blinds, the shadows of the leaves create this beautiful, tropical pattern on the floor. It honestly feels like I'm living in a small urban jungle. This plant doesn't just sit there; it completely **<strong style="color:blue;">brightens up</strong>** the mood of the entire room. Whenever I feel stressed after a long day at work, just looking at its lush foliage helps me **<strong style="color:blue;">unwind</strong>**. 
+
+Besides the Monstera, I also have a few smaller succulents lined up on my windowsill. They are much more low-maintenance, which **<strong style="color:blue;">works out</strong>** perfectly for my busy schedule. All in all, these plants have transformed my house into a more serene and welcoming home, and I **<strong style="color:blue;">take great pride in</strong>** keeping them healthy and thriving.
+
+**Vocabulary & Expressions:**
+*   **Green thumb:** 식물을 잘 키우는 재주 (숙어)
+*   **Spruce up:** 단장하다, 생기 있게 만들다 (구동사)
+*   **Breathe life into:** ~에 생명력을 불어넣다 (숙어)
+*   **Filter through:** (빛 등이) 스며나오다, 투과하다 (구동사)
+*   **Brighten up:** (분위기 등을) 화사하게 만들다 (구동사)
+*   **Unwind:** 긴장을 풀다 (구동사/동사)
+*   **Work out:** (결과적으로) 잘 풀리다, 도움이 되다 (구동사)
+*   **Take pride in:** ~에 자부심을 느끼다 (숙어)
+
+---
+
+### [주제 2] 롤플레이 (Role-play): 친구에게 전화해 이번 주말 영화 관람 약속 잡기
+
+**Question 2:**
+I'd like to give you a situation and ask you to act it out. You want to go see a movie with a friend this weekend. Call your friend and ask three or four questions to make arrangements for the movie.
+(상황을 하나 드릴 테니 연기해 보세요. 당신은 이번 주말에 친구와 영화를 보러 가고 싶습니다. 친구에게 전화해서 영화 관람 예약을 하기 위한 3~4가지 질문을 하세요.)
+
+**Model Answer:**
+
+(Ring tone...)
+Hi, Sarah! It’s me. How’s it going? I’m calling because I was wondering if you’re **<strong style="color:blue;">up for</strong>** catching a movie this weekend. I saw the trailer for that new sci-fi blockbuster everyone’s talking about, and it looks absolutely mind-blowing. 
+
+Anyway, I wanted to **<strong style="color:blue;">touch base</strong>** with you first to see if you have any plans for Saturday. Are you free in the afternoon, or would the evening **<strong style="color:blue;">work better for</strong>** you? I checked the schedule at the theater downtown, and they have screenings at 2 PM and 7 PM. 
+
+Also, what kind of genre are you in the mood for lately? I know I mentioned the sci-fi one, but if you’d rather watch a romantic comedy or a thriller, I’m totally down for that too! Just **<strong style="color:blue;">let me know</strong>** what you prefer. 
+
+Oh, and since the movie is quite long, should we **<strong style="color:blue;">grab a bite</strong>** before the show? There’s a new Italian place right next to the cinema that’s been getting great reviews. I’ve been **<strong style="color:blue;">dying to</strong>** try their pasta. 
+
+Let me know what you think about the timing and the food. I’m really **<strong style="color:blue;">looking forward to</strong>** hanging out and catching up. Give me a call back when you can!
+
+**Vocabulary & Expressions:**
+*   **Up for:** ~하고 싶은 마음이 있는 (숙어)
+*   **Touch base:** (진행 상황 등을 확인하기 위해) 연락하다 (숙어)
+*   **Work better for:** ~에게 더 적합하다/편하다 (구동사 표현)
+*   **Let someone know:** ~에게 알려주다 (구동사)
+*   **Grab a bite:** 간단히 먹다 (숙어)
+*   **Dying to:** ~하고 싶어 죽겠다 (숙어)
+*   **Looking forward to:** ~을 고대하다 (숙어)
+
+---
+
+### [주제 3] 돌발질문 (Unexpected): 카페나 공공장소에서 실수로 남의 물건을 망가뜨리거나 커피를 쏟은 경험
+
+**Question 3:**
+Have you ever had an experience where you accidentally spilled a drink or broke something in a public place like a cafe or a library? Tell me about that situation in detail. What exactly happened, and how did you handle the situation?
+(카페나 도서관 같은 공공장소에서 실수로 음료를 쏟거나 물건을 망가뜨린 경험이 있나요? 그 상황에 대해 자세히 말해 주세요. 정확히 무슨 일이 있었고, 어떻게 대처했나요?)
+
+**Model Answer:**
+
+Oh boy, just thinking about this makes me feel a bit **<strong style="color:blue;">red-faced</strong>**. It happened a couple of months ago at a very trendy, crowded cafe downtown. I had just ordered a large iced Americano and was looking for a seat to **<strong style="color:blue;">settle down</strong>** and do some work on my laptop.
+
+The place was **<strong style="color:blue;">packed to the rafters</strong>**, and I finally spotted a tiny corner table. As I was trying to squeeze past a group of people, my bag accidentally **<strong style="color:blue;">brushed against</strong>** a stranger’s table. To my absolute horror, my coffee cup tipped over and spilled all over a young woman's designer leather briefcase. 
+
+I was completely **<strong style="color:blue;">caught off guard</strong>** and felt like a total **<strong style="color:blue;">klutz</strong>**. I immediately started apologizing profusely, saying, "I am so incredibly sorry!" I rushed to the counter to grab a stack of napkins and started dabbing the liquid off her bag as carefully as I could. 
+
+Luckily, the woman was surprisingly calm and kind about it. She said it was okay, but I still felt terrible. I felt like I had to **<strong style="color:blue;">make up for</strong>** my blunder, so I offered to pay for a professional leather cleaning service. She politely declined, but I insisted on buying her a fresh coffee and a dessert. 
+
+Even though it was a messy situation, I was relieved that it didn't **<strong style="color:blue;">turn into</strong>** a huge argument. Looking back, it taught me to be much more mindful of my surroundings in tight spaces. To this day, I always make sure my cup has a lid on it before I start walking around!
+
+**Vocabulary & Expressions:**
+*   **Red-faced:** 창피해하는, 얼굴이 붉어진 (숙어/형용사)
+*   **Settle down:** 자리를 잡다, 진정하다 (구동사)
+*   **Packed to the rafters:** 사람들로 꽉 찬 (숙어)
+*   **Brush against:** ~에 스치다 (구동사)
+*   **Caught off guard:** 당황하다, 허를 찔리다 (숙어)
+*   **Klutz:** 얼간이, 몸치, 실수투성이 (명사)
+*   **Make up for:** ~에 대해 보상하다/만회하다 (구동사)
+*   **Turn into:** ~로 변하다, (상황이) ~가 되다 (구동사)
