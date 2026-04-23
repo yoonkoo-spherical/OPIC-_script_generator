@@ -4970,3 +4970,121 @@ Even though it was a messy situation, I was relieved that it didn't **<strong st
 *   **Klutz:** 얼간이, 몸치, 실수투성이 (명사)
 *   **Make up for:** ~에 대해 보상하다/만회하다 (구동사)
 *   **Turn into:** ~로 변하다, (상황이) ~가 되다 (구동사)
+
+## 2026-04-23 05:21:30 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 유창하게 말하는 것을 넘어, **풍부한 어휘 선택(Collocations), 자연스러운 구동사(Phrasal Verbs)의 활용, 그리고 논리적인 문장 연결 능력**이 필수적입니다.
+
+제시해주신 세 가지 주제에 맞춰, 실제 시험에서 높은 가산점을 받을 수 있는 고득점 모범 답안을 구성해 보았습니다.
+
+---
+
+## 1. 묘사 (Description): 최근에 읽은 책의 표지 디자인과 내용
+
+### **[Question]**
+Please tell me about a book you read recently. What did the cover design look like, and what was the book about? Give me as many details as possible.
+(최근에 읽은 책에 대해 이야기해 주세요. 표지 디자인은 어떠했나요? 그리고 내용은 무엇에 관한 것이었나요? 가능한 한 자세하게 설명해 주세요.)
+
+### **[Model Answer]**
+Well, let me tell you about a book that recently **<strong style="color:blue;">caught my eye</strong>** at a local bookstore. It’s titled "The Midnight Library" by Matt Haig. 
+
+First off, the cover design is absolutely stunning and quite minimalist. It features a deep, midnight-blue background that looks like a starry night sky. In the center, there's a simple, elegant silhouette of a small library glowing with warm, golden light. The texture of the cover has a matte finish, which makes it feel very sophisticated when you hold it. The title is embossed in silver foil, so it **<strong style="color:blue;">stands out</strong>** beautifully against the dark backdrop.
+
+As for the content, it’s a fiction novel that **<strong style="color:blue;">delves into</strong>** the concept of regret and the "what ifs" of life. The story follows a protagonist named Nora Seed, who finds herself in a mysterious library between life and death. Each book on the shelves represents a life she could have lived if she had made different choices. 
+
+I found the plot incredibly relatable because we all **<strong style="color:blue;">look back on</strong>** our past decisions sometimes. It really **<strong style="color:blue;">gives you food for thought</strong>** regarding how to cherish the present moment. I couldn't **<strong style="color:blue;">put it down</strong>** once I started reading, and the message truly **<strong style="color:blue;">resonated with</strong>** me. It’s not just a book; it’s an emotional journey that helps you **<strong style="color:blue;">come to terms with</strong>** your own life path.
+
+---
+
+### **[Vocabulary & Idioms]**
+*   **Minimalist**: 미니멀한, 단순한
+*   **Embossed**: (글자 등이) 도드라지게 새겨진
+*   **Sophisticated**: 세련된, 정교한
+*   **Protagonist**: 주인공
+*   **Relatable**: 공감할 수 있는
+
+### **[Phrasal Verbs & Idioms (Blue)]**
+*   **<strong style="color:blue;">catch my eye</strong>**: 눈길을 끌다
+*   **<strong style="color:blue;">stand out</strong>**: 눈에 띄다, 두드러지다
+*   **<strong style="color:blue;">delve into</strong>**: ~을 깊이 파고들다/탐구하다
+*   **<strong style="color:blue;">look back on</strong>**: ~을 되돌아보다
+*   **<strong style="color:blue;">give food for thought</strong>**: 생각할 거리를 주다
+*   **<strong style="color:blue;">put it down</strong>**: (책 등을) 내려놓다
+*   **<strong style="color:blue;">resonate with</strong>**: ~의 심금을 울리다, 공감을 불러일으키다
+*   **<strong style="color:blue;">come to terms with</strong>**: (좋지 않은 상황을) 받아들이는 법을 배우다, 타협하다
+
+---
+
+## 2. 롤플레이 (Role-play): 학원 수업 레벨 변경 요청
+
+### **[Question]**
+You are currently taking a class at a language academy, but you feel the level is not right for you. Call the administration office, explain your situation, and request to change your class to a different level.
+(당신은 현재 언어 학원에서 수업을 듣고 있지만, 레벨이 본인과 맞지 않다고 느낍니다. 행정실에 전화하여 상황을 설명하고 다른 레벨의 반으로 변경을 요청하십시오.)
+
+### **[Model Answer]**
+Hi there, I’m calling because I’d like to discuss my current English conversation class. I’m currently enrolled in the Advanced Business English course that started this Monday, but I’ve **<strong style="color:blue;">run into</strong>** a bit of a problem.
+
+After attending the first two sessions, I’ve realized that the material is **<strong style="color:blue;">way over my head</strong>**. Most of the students seem to have a much higher level of fluency, and I’m struggling to **<strong style="color:blue;">keep up with</strong>** the discussions. I’m afraid I might **<strong style="color:blue;">fall behind</strong>** even further if I stay in this class.
+
+So, I was wondering if it’s possible to **<strong style="color:blue;">switch over</strong>** to the Intermediate level instead. I’ve already **<strong style="color:blue;">looked into</strong>** the schedule, and I saw there’s a 7 PM session that fits my timeline perfectly. Could you please check if there are any openings left in that class?
+
+I really want to **<strong style="color:blue;">make the most of</strong>** my time here, and I believe a slightly easier level would help me **<strong style="color:blue;">get the hang of</strong>** the basics before I **<strong style="color:blue;">step it up</strong>** again. Please let me know what documents I need to provide or if there’s any additional fee I need to **<strong style="color:blue;">settle up</strong>**. Thank you for your help!
+
+---
+
+### **[Vocabulary & Idioms]**
+*   **Enrolled**: 등록된
+*   **Fluency**: 유창함
+*   **Opening**: (수업 등의) 빈자리
+*   **Timeline**: 시간표, 일정
+
+### **[Phrasal Verbs & Idioms (Blue)]**
+*   **<strong style="color:blue;">run into</strong>**: (문제 등에) 맞닥뜨리다
+*   **<strong style="color:blue;">way over my head</strong>**: 내가 이해하기에는 너무 어려운
+*   **<strong style="color:blue;">keep up with</strong>**: ~을 따라가다
+*   **<strong style="color:blue;">fall behind</strong>**: 뒤처지다
+*   **<strong style="color:blue;">switch over</strong>**: (체계, 소속 등을) 바꾸다/전환하다
+*   **<strong style="color:blue;">look into</strong>**: ~을 조사하다/알아보다
+*   **<strong style="color:blue;">make the most of</strong>**: ~을 최대한 활용하다
+*   **<strong style="color:blue;">get the hang of</strong>**: ~의 감을 잡다, 익숙해지다
+*   **<strong style="color:blue;">step it up</strong>**: (수준 등을) 높이다, 강화하다
+*   **<strong style="color:blue;">settle up</strong>**: 결제하다, 계산을 마치다
+
+---
+
+## 3. 돌발질문 (Unexpected): 비밀번호를 잊어버려 고생한 경험
+
+### **[Question]**
+Tell me about a time when you forgot a password and couldn't access your account all day. What happened, and how did you resolve the situation?
+(비밀번호를 잊어버려 하루 종일 계정에 접속하지 못했던 경험에 대해 이야기해 주세요. 어떤 일이 있었고, 상황을 어떻게 해결했나요?)
+
+### **[Model Answer]**
+Oh man, just thinking about this makes me feel frustrated all over again. A few months ago, I had a really **<strong style="color:blue;">hectic day</strong>** at work, and I desperately needed to log into my primary email account to send an urgent report. However, for some reason, my password completely **<strong style="color:blue;">slipped my mind</strong>**.
+
+I tried every possible combination I could think of, but I kept getting that "incorrect password" message. Eventually, I **<strong style="color:blue;">messed up</strong>** so many times that the system **<strong style="color:blue;">locked me out</strong>** for 24 hours for security reasons. I was totally **<strong style="color:blue;">in a bind</strong>** because all my important files were stored in that account.
+
+I tried to **<strong style="color:blue;">rack my brain</strong>** to remember the security questions, but I couldn't even remember what I had written years ago. I felt like I was **<strong style="color:blue;">hitting a wall</strong>**. I spent the entire afternoon trying to contact customer support, but they were **<strong style="color:blue;">tied up</strong>** with other callers.
+
+Ultimately, I had to **<strong style="color:blue;">wait it out</strong>** until the next morning. Once the lockout period ended, I managed to **<strong style="color:blue;">go through</strong>** a rigorous identity verification process using my smartphone. It was such a nightmare, and I **<strong style="color:blue;">ended up</strong>** missing my deadline. After that incident, I immediately **<strong style="color:blue;">signed up for</strong>** a password manager to ensure I never **<strong style="color:blue;">go through</strong>** that kind of stress again.
+
+---
+
+### **[Vocabulary & Idioms]**
+*   **Hectic**: 몹시 바쁜
+*   **Combination**: 조합
+*   **Rigorous**: 엄격한, 철저한
+*   **Identity verification**: 본인 인증
+*   **Deadline**: 마감 기한
+
+### **[Phrasal Verbs & Idioms (Blue)]**
+*   **<strong style="color:blue;">slip my mind</strong>**: 깜빡 잊다
+*   **<strong style="color:blue;">mess up</strong>**: 망치다, 실수하다
+*   **<strong style="color:blue;">lock me out</strong>**: 접속을 차단하다/잠그다
+*   **<strong style="color:blue;">in a bind</strong>**: 곤경에 처한
+*   **<strong style="color:blue;">rack my brain</strong>**: 머리를 짜내다
+*   **<strong style="color:blue;">hitting a wall</strong>**: 한계에 부딪히다, 진전이 없다
+*   **<strong style="color:blue;">tied up</strong>**: (바빠서) 꼼짝 못 하는
+*   **<strong style="color:blue;">wait it out</strong>**: (상황이 나아질 때까지) 참고 기다리다
+*   **<strong style="color:blue;">go through</strong>**: ~을 겪다, (절차 등을) 거치다
+*   **<strong style="color:blue;">ended up</strong>**: 결국 ~하게 되다
+*   **<strong style="color:blue;">signed up for</strong>**: ~에 가입하다/신청하다
