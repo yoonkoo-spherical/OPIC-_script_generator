@@ -5088,3 +5088,120 @@ Ultimately, I had to **<strong style="color:blue;">wait it out</strong>** until 
 *   **<strong style="color:blue;">go through</strong>**: ~을 겪다, (절차 등을) 거치다
 *   **<strong style="color:blue;">ended up</strong>**: 결국 ~하게 되다
 *   **<strong style="color:blue;">signed up for</strong>**: ~에 가입하다/신청하다
+
+## 2026-04-24 05:26:31 OPIc Study
+
+반갑습니다! OPIc AL 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 문법이 정확한 것을 넘어, **문장 간의 자연스러운 연결(Cohesion)**, **풍부한 어휘 선택(Sophisticated Vocabulary)**, 그리고 **상황에 몰입한 연기력과 감정 표현**이 필수적입니다.
+
+제시해주신 세 가지 주제에 맞춰, 실제 시험에서 높은 점수를 받을 수 있는 고득점 전략이 반영된 질문과 모범 답안을 구성해 드립니다.
+
+---
+
+## 1. 묘사 (Description): 자주 방문하는 웹사이트의 메인 화면 구성 묘사
+
+**Question:**
+You mentioned in the survey that you use the internet frequently. Pick one website you visit often and describe its main page in detail. What does the layout look like, and what kind of information or features can you find there?
+
+(설문조사에서 당신은 인터넷을 자주 사용한다고 언급했습니다. 당신이 자주 방문하는 웹사이트 하나를 골라 그 메인 화면을 자세히 묘사해 주세요. 레이아웃은 어떻게 생겼으며, 그곳에서 어떤 정보나 기능을 찾을 수 있나요?)
+
+**Model Answer (AL Level):**
+
+Well, if I had to pick one website that I visit almost religiously every single day, it would definitely be YouTube. Since I use it for both work and leisure, its main interface is incredibly familiar to me.
+
+When I first <strong style="color:blue;">log in to</strong> the site, the main screen is a perfect example of a <strong style="color:blue;">state-of-the-art</strong> recommendation system. At the very top, there’s a sleek search bar that allows me to find literally anything I need. To the right, I can see my profile icon and notifications, which <strong style="color:blue;">keep me posted on</strong> new uploads from the channels I subscribe to.
+
+The most prominent part of the layout, however, is the grid of video thumbnails that occupies the center of the screen. These aren't just random videos; they are <strong style="color:blue;">tailored to</strong> my specific interests based on the algorithm. It’s actually quite fascinating—and a bit scary—how well the site <strong style="color:blue;">figures out</strong> what I want to watch. On the left-hand side, there’s a sidebar menu that helps me <strong style="color:blue;">navigate through</strong> different categories like 'Subscriptions,' 'Library,' and 'History.'
+
+What I love most about this layout is that it’s very intuitive. Even though there is a massive amount of content, the clean white background and organized thumbnails prevent the page from looking cluttered. Whenever I <strong style="color:blue;">scroll down</strong>, new content continuously loads, making it easy to <strong style="color:blue;">lose track of time</strong>. Overall, the main screen is designed to be highly user-centric, ensuring that I always <strong style="color:blue;">stumble upon</strong> something engaging the moment I open the page.
+
+**Key Vocabulary & Expressions:**
+*   **Religiously:** 아주 규칙적으로, 빼놓지 않고
+*   **Interface:** 인터페이스, 접점
+*   **Prominent:** 눈에 띄는, 중요한
+*   **Intuitive:** 직관적인
+*   **Cluttered:** 어수선한, 잡동사니로 가득 찬
+*   **<strong style="color:blue;">Log in to</strong>:** ~에 로그인하다 (Phrasal Verb)
+*   **<strong style="color:blue;">State-of-the-art</strong>:** 최첨단의 (Idiom/Adjective)
+*   **<strong style="color:blue;">Keep someone posted on</strong>:** ~에 대한 최신 소식을 계속 알려주다 (Idiom)
+*   **<strong style="color:blue;">Tailored to</strong>:** ~에 맞춰진 (Phrasal Verb)
+*   **<strong style="color:blue;">Figure out</strong>:** 파악하다, 이해하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Navigate through</strong>:** ~을 탐색하다, 돌아다니다 (Phrasal Verb)
+*   **<strong style="color:blue;">Scroll down</strong>:** 아래로 스크롤하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Lose track of time</strong>:** 시간 가는 줄 모르다 (Idiom)
+*   **<strong style="color:blue;">Stumble upon</strong>:** 우연히 발견하다 (Phrasal Verb)
+
+---
+
+## 2. 롤플레이 (Role-play): 친척 어른께 전화해 명절 안부 인사와 근황 전하기
+
+**Question:**
+I’d like you to act out a situation. It is a major holiday, and you are calling an elderly relative, such as an aunt or uncle, to give them your greetings. Ask how they are doing and share some updates about your life.
+
+(상황을 하나 연기해 보세요. 주요 명절이며, 당신은 이모나 삼촌 같은 친척 어른께 전화를 드려 안부 인사를 전하려고 합니다. 어른들께서 어떻게 지내시는지 여쭤보고 당신의 근황도 몇 가지 공유해 보세요.)
+
+**Model Answer (AL Level):**
+
+(Ring, ring...)
+"Oh, hello Aunt Sarah! This is Min-su. How have you been? I was just <strong style="color:blue;">thinking of</strong> you since the Lunar New Year is just around the corner. I really wanted to <strong style="color:blue;">drop by</strong> your place this year, but unfortunately, I have some urgent projects at work that I need to <strong style="color:blue;">wrap up</strong>, so I couldn't make it. I’m so sorry I couldn’t see you in person!
+
+How is your health these days? I heard from my mom that you started taking a calligraphy class. That sounds so wonderful! You’ve always had such beautiful handwriting, so I bet you’ll <strong style="color:blue;">stand out</strong> in the class. Please don't <strong style="color:blue;">overdo it</strong>, though, and make sure to <strong style="color:blue;">take it easy</strong> if you feel tired.
+
+As for me, I’ve been <strong style="color:blue;">keeping busy</strong> with my new job. It was a bit overwhelming at first, but I’m finally starting to <strong style="color:blue;">get the hang of</strong> things. I actually got promoted recently, so things are <strong style="color:blue;">looking up</strong> for me! I’m also trying to <strong style="color:blue;">work out</strong> regularly to stay healthy, just like you always advised me to.
+
+Anyway, I’ll definitely make time to visit you during the next long weekend. I really want to <strong style="color:blue;">catch up on</strong> everything over a nice dinner. I’ll send a small gift package to your house tomorrow, so please <strong style="color:blue;">keep an eye out for</strong> it. Happy holidays, Auntie! Love you!"
+
+**Key Vocabulary & Expressions:**
+*   **Around the corner:** 코앞에 닥친, 곧 다가오는
+*   **Calligraphy:** 서예
+*   **Overwhelming:** 압도적인, 벅찬
+*   **Promoted:** 승진한
+*   **<strong style="color:blue;">Thinking of</strong>:** ~을 생각하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Drop by</strong>:** 잠깐 들르다 (Phrasal Verb)
+*   **<strong style="color:blue;">Wrap up</strong>:** 마무리 짓다 (Phrasal Verb)
+*   **<strong style="color:blue;">Stand out</strong>:** 두드러지다, 뛰어나다 (Phrasal Verb)
+*   **<strong style="color:blue;">Overdo it</strong>:** 무리하다 (Idiom)
+*   **<strong style="color:blue;">Take it easy</strong>:** 휴식을 취하다, 진정하다 (Idiom)
+*   **<strong style="color:blue;">Keeping busy</strong>:** 바쁘게 지내다 (Idiom)
+*   **<strong style="color:blue;">Get the hang of</strong>:** ~의 요령을 터득하다 (Idiom)
+*   **<strong style="color:blue;">Looking up</strong>:** 형편이 나아지다, 호전되다 (Phrasal Verb)
+*   **<strong style="color:blue;">Work out</strong>:** 운동하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Catch up on</strong>:** (밀린) 이야기를 나누다, 만회하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Keep an eye out for</strong>:** ~을 살피다, 기다리다 (Idiom)
+
+---
+
+## 3. 돌발질문 (Unexpected): 다이어트나 운동을 결심하고 실패했거나 성공했던 과정
+
+**Question:**
+People often make resolutions to lose weight or exercise more. Tell me about a time when you decided to go on a diet or start a new fitness routine. Did you succeed or fail? Please describe the whole process from beginning to end.
+
+(사람들은 종종 살을 빼거나 운동을 더 하겠다는 결심을 합니다. 당신이 다이어트를 결심했거나 새로운 운동 루틴을 시작했던 때에 대해 말해 주세요. 성공했나요, 아니면 실패했나요? 시작부터 끝까지 전체 과정을 설명해 주세요.)
+
+**Model Answer (AL Level):**
+
+To be honest, I’ve always struggled with maintaining a consistent workout routine. However, about a year ago, I realized I had <strong style="color:blue;">put on</strong> quite a bit of weight after working from home for several months. I felt lethargic all the time, so I decided it was time to <strong style="color:blue;">turn over a new leaf</strong> and get back in shape.
+
+In the beginning, I was extremely motivated. I <strong style="color:blue;">signed up for</strong> a high-intensity crossfit gym and vowed to <strong style="color:blue;">cut down on</strong> carbohydrates and sugary drinks. For the first two weeks, I was <strong style="color:blue;">on fire</strong>. I never missed a session and strictly followed my meal plan. But soon, the initial excitement started to <strong style="color:blue;">wear off</strong>. My muscles were constantly sore, and I was tempted to <strong style="color:blue;">pig out</strong> every time I passed by a bakery.
+
+The turning point was when I almost <strong style="color:blue;">gave up</strong> after a particularly exhausting day at work. I realized that my goals were too extreme and unsustainable. So, I decided to <strong style="color:blue;">tone it down</strong> a bit. Instead of intense crossfit every day, I switched to a mix of jogging and pilates three times a week. I also stopped being so hard on myself when I had a "cheat meal."
+
+Surprisingly, this more balanced approach helped me <strong style="color:blue;">stick to</strong> my plan <strong style="color:blue;">in the long run</strong>. It wasn't a "miracle transformation," but over six months, I gradually lost 5 kilograms and felt much more energetic. I wouldn't say it was a perfect success, but I definitely learned that consistency <strong style="color:blue;">beats</strong> intensity. Now, exercise has become a part of my lifestyle rather than a chore I want to <strong style="color:blue;">get over with</strong>.
+
+**Key Vocabulary & Expressions:**
+*   **Lethargic:** 무기력한
+*   **Vowed:** 맹세했다
+*   **Unsustainable:** 지속 불가능한
+*   **Transformation:** 변화, 변신
+*   **Consistency:** 꾸준함, 일관성
+*   **<strong style="color:blue;">Put on</strong>:** (무게가) 늘다, 살이찌다 (Phrasal Verb)
+*   **<strong style="color:blue;">Turn over a new leaf</strong>:** 새사람이 되다, 마음을 다잡다 (Idiom)
+*   **<strong style="color:blue;">Signed up for</strong>:** ~에 등록하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Cut down on</strong>:** ~을 줄이다 (Phrasal Verb)
+*   **<strong style="color:blue;">On fire</strong>:** 열정적인, 매우 잘하고 있는 (Idiom)
+*   **<strong style="color:blue;">Wear off</strong>:** (차츰) 사라지다, 마모되다 (Phrasal Verb)
+*   **<strong style="color:blue;">Pig out</strong>:** 돼지처럼 먹다, 과식하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Give up</strong>:** 포기하다 (Phrasal Verb)
+*   **<strong style="color:blue;">Tone it down</strong>:** 강도를 낮추다, 누그러뜨리다 (Phrasal Verb)
+*   **<strong style="color:blue;">Stick to</strong>:** ~을 고수하다, 계속하다 (Phrasal Verb)
+*   **<strong style="color:blue;">In the long run</strong>:** 장기적으로 볼 때 (Idiom)
+*   **<strong style="color:blue;">Get over with</strong>:** (불쾌하지만 해야 할 일을) 끝내다 (Phrasal Verb)
