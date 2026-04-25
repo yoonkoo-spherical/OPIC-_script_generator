@@ -5205,3 +5205,115 @@ Surprisingly, this more balanced approach helped me <strong style="color:blue;">
 *   **<strong style="color:blue;">Stick to</strong>:** ~을 고수하다, 계속하다 (Phrasal Verb)
 *   **<strong style="color:blue;">In the long run</strong>:** 장기적으로 볼 때 (Idiom)
 *   **<strong style="color:blue;">Get over with</strong>:** (불쾌하지만 해야 할 일을) 끝내다 (Phrasal Verb)
+
+## 2026-04-25 05:04:32 OPIc Study
+
+반갑습니다! OPIc AL 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 문법이 정확한 것을 넘어, **문장 간의 자연스러운 연결(Cohesion), 풍부한 어휘 선택, 그리고 실제 원어민처럼 느껴지는 감정 표현과 추임새(Fillers)**가 필수적입니다.
+
+제시해주신 3가지 주제에 맞춰, 실전에서 2분 30초 내외로 발화할 수 있는 고득점 모범 답안을 구성해 드립니다.
+
+---
+
+## 1. Description (묘사): 쇼핑몰/백화점의 층별 구성
+
+**[Question]**
+I’d like to know about a shopping mall or a department store you often visit. Can you describe its floor-by-floor layout in detail? What can people find on each floor?
+
+자주 방문하는 쇼핑몰이나 백화점에 대해 알고 싶습니다. 층별 구성을 구체적으로 묘사해 주시겠어요? 각 층에서 사람들이 무엇을 찾을 수 있나요?
+
+**[Model Answer]**
+To be honest, I’m a huge fan of "The Hyundai Seoul," which is one of the most iconic department stores in Korea right now. It’s not just a place to buy things; it’s more like a cultural landmark. Let me <strong style="color:blue;">break it down</strong> for you floor by floor.
+
+Starting from the basement floors, B1 and B2, that’s where all the action is for the younger generation. It’s packed with trendy <strong style="color:blue;">pop-up stores</strong> and "tasty" food courts. You can find everything from famous local bakeries to global dessert brands. It’s always <strong style="color:blue;">full of life</strong>, and I usually <strong style="color:blue;">stop by</strong> there first to grab a quick bite.
+
+Moving up to the first floor, it’s a whole different vibe. It’s very luxurious and elegant. This is where high-end luxury brands like Gucci and Prada are located. They also have a massive cosmetics section. What’s unique is that the ceilings are incredibly high, giving you a <strong style="color:blue;">sense of freedom</strong>.
+
+The second to fourth floors are dedicated to fashion—women’s wear, men’s wear, and casual sports brands. I often <strong style="color:blue;">look around</strong> these floors to <strong style="color:blue;">keep up with</strong> the latest trends, even if I don’t end up buying anything. 
+
+But the real "cherry on top" is the fifth floor. They have this massive indoor garden called "Sounds Forest." It’s basically a park inside a building with real trees and grass. It’s a great place to <strong style="color:blue;">wind down</strong> and take some photos. Finally, the sixth floor has an exhibition hall and some high-end dining options. 
+
+Overall, the layout is very intuitive, and it’s a perfect <strong style="color:blue;">one-stop shop</strong> for anyone looking to enjoy their weekend. If you ever visit Seoul, you should definitely <strong style="color:blue;">check it out</strong>.
+
+**[Vocabulary & Expressions]**
+*   **Iconic**: 상징적인
+*   **Intuitive**: 직관적인
+*   **<strong style="color:blue;">Break something down</strong>**: (설명하기 위해) 나누다/분석하다
+*   **<strong style="color:blue;">Pop-up store</strong>**: 팝업 스토어 (임시 매장)
+*   **<strong style="color:blue;">Full of life</strong>**: 활기찬
+*   **<strong style="color:blue;">Stop by</strong>**: 잠시 들르다
+*   **<strong style="color:blue;">Sense of freedom</strong>**: 개방감, 자유로운 느낌
+*   **<strong style="color:blue;">Look around</strong>**: 둘러보다
+*   **<strong style="color:blue;">Keep up with</strong>**: ~에 뒤처지지 않다/따라가다
+*   **<strong style="color:blue;">Wind down</strong>**: 긴장을 풀고 쉬다
+*   **<strong style="color:blue;">One-stop shop</strong>**: 한 곳에서 모든 것을 해결할 수 있는 곳
+*   **<strong style="color:blue;">Check it out</strong>**: 확인해보다/가보다
+
+---
+
+## 2. Role-play (롤플레이): 반려견 산책 중 시비 상황 수습하기
+
+**[Question]**
+You are walking your dog in a park, and suddenly your dog and another person's dog start barking and aggressive behavior toward each other. This leads to a bit of a confrontation with the other owner. Act out a situation where you apologize and try to resolve the conflict smoothly.
+
+공원에서 반려견을 산책시키던 중, 당신의 개와 상대방의 개가 서로를 향해 짖으며 공격적인 태도를 보입니다. 이로 인해 상대방 주인과 약간의 시비가 붙었습니다. 사과를 하고 상황을 원만하게 해결하는 상황을 연기해 보세요.
+
+**[Model Answer]**
+(Startled voice) Oh! Oh my goodness! I am so incredibly sorry! Please, let me <strong style="color:blue;">pull him back</strong> right away. Max, stop it! Come here!
+
+I am truly sorry if my dog startled you or your little one. He’s usually very friendly, but I think he might have <strong style="color:blue;">gotten carried away</strong> because there are so many people here today. Is your dog okay? I hope he didn't get bitten or scratched. Please, let me <strong style="color:blue;">take a look</strong> if there’s any injury.
+
+(Pause, listening to the other owner) 
+
+I completely understand why you’re upset. I should have been <strong style="color:blue;">keeping an eye on</strong> him more closely. It’s entirely my fault for letting the leash <strong style="color:blue;">get out of hand</strong> for a second. I really didn't mean for this to happen. 
+
+How about this? Let me <strong style="color:blue;">step aside</strong> and give you some space so your dog can <strong style="color:blue;">calm down</strong>. I’ll move over to the other side of the park. Also, here is my phone number. If you notice any scratches or if your dog seems traumatized later today, please <strong style="color:blue;">get in touch with</strong> me. I’m more than happy to <strong style="color:blue;">take responsibility</strong> for any vet bills if necessary.
+
+Again, I’m so sorry for the trouble. I’ll make sure this doesn't happen again. Have a better rest of your walk.
+
+**[Vocabulary & Expressions]**
+*   **Startled**: 깜짝 놀란
+*   **Confrontation**: 대립, 시비
+*   **<strong style="color:blue;">Pull back</strong>**: 뒤로 당기다/물러나게 하다
+*   **<strong style="color:blue;">Get carried away</strong>**: 몹시 흥분하다/자제력을 잃다
+*   **<strong style="color:blue;">Take a look</strong>**: 살펴보다
+*   **<strong style="color:blue;">Keep an eye on</strong>**: ~을 계속 지켜보다/주시하다
+*   **<strong style="color:blue;">Get out of hand</strong>**: 감당할 수 없게 되다/통제를 벗어나다
+*   **<strong style="color:blue;">Step aside</strong>**: 옆으로 비켜나다
+*   **<strong style="color:blue;">Calm down</strong>**: 진정하다
+*   **<strong style="color:blue;">Get in touch with</strong>**: ~와 연락하다
+*   **<strong style="color:blue;">Take responsibility</strong>**: 책임을 지다
+
+---
+
+## 3. Unexpected (돌발질문): 어릴 적 TV 프로그램 vs. 요즘 영상 매체 비교
+
+**[Question]**
+Compare the TV programs you enjoyed watching when you were a child with the video media people consume these days. How have the platforms and the content changed over the years?
+
+어릴 적 즐겨 보던 TV 프로그램과 요즘 사람들이 소비하는 영상 매체를 비교해 보세요. 수년에 걸쳐 플랫폼과 콘텐츠가 어떻게 변했나요?
+
+**[Model Answer]**
+Looking back, the way we consume media has changed <strong style="color:blue;">beyond recognition</strong>. When I was a kid, everything was centered around the traditional TV. I remember I used to <strong style="color:blue;">be glued to</strong> the screen every Saturday morning to watch my favorite cartoons. If I missed the original broadcasting time, that was it! I had to wait for a rerun. We were basically <strong style="color:blue;">at the mercy of</strong> the TV schedule.
+
+But fast forward to today, and traditional TV is almost becoming <strong style="color:blue;">a thing of the past</strong>. Nowadays, everyone is <strong style="color:blue;">hooked on</strong> streaming services like Netflix, Disney+, or YouTube. The biggest difference is "on-demand" accessibility. We can watch whatever we want, whenever we want, on our smartphones. 
+
+Also, the content itself has become much more diverse. In the past, we only had a few major channels, so everyone watched the same shows. But now, thanks to algorithms, platforms <strong style="color:blue;">cater to</strong> our specific tastes. For example, if I’m into cooking, YouTube will <strong style="color:blue;">bring up</strong> endless videos of recipes. 
+
+Another huge shift is the rise of "Short-form" content, like TikTok or Reels. People these days have shorter attention spans, so they prefer <strong style="color:blue;">getting to the point</strong> quickly rather than watching a long, 1-hour documentary. 
+
+In conclusion, while I sometimes <strong style="color:blue;">look back on</strong> the old days with nostalgia, I have to admit that modern media is much more convenient. It’s amazing how technology has <strong style="color:blue;">turned the world upside down</strong> in terms of entertainment.
+
+**[Vocabulary & Expressions]**
+*   **Broadcasting time**: 방송 시간
+*   **Rerun**: 재방송
+*   **Nostalgia**: 향수
+*   **<strong style="color:blue;">Beyond recognition</strong>**: 알아볼 수 없을 정도로
+*   **<strong style="color:blue;">Be glued to</strong>**: ~에 달라붙어 있다 (열중하다)
+*   **<strong style="color:blue;">At the mercy of</strong>**: ~에 좌우되는/휘둘리는
+*   **<strong style="color:blue;">A thing of the past</strong>**: 과거의 일/유물
+*   **<strong style="color:blue;">Hooked on</strong>**: ~에 중독된/매료된
+*   **<strong style="color:blue;">Cater to</strong>**: (요구/기호에) 맞추다/부합하다
+*   **<strong style="color:blue;">Bring up</strong>**: (화제/정보 등을) 꺼내다/띄우다
+*   **<strong style="color:blue;">Get to the point</strong>**: 요점에 도달하다/본론으로 들어가다
+*   **<strong style="color:blue;">Look back on</strong>**: 되돌아보다
+*   **<strong style="color:blue;">Turn the world upside down</strong>**: 세상을 뒤집어 놓다 (엄청난 변화)
