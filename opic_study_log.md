@@ -5317,3 +5317,119 @@ In conclusion, while I sometimes <strong style="color:blue;">look back on</stron
 *   **<strong style="color:blue;">Get to the point</strong>**: 요점에 도달하다/본론으로 들어가다
 *   **<strong style="color:blue;">Look back on</strong>**: 되돌아보다
 *   **<strong style="color:blue;">Turn the world upside down</strong>**: 세상을 뒤집어 놓다 (엄청난 변화)
+
+## 2026-04-26 05:29:49 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 전문 강사입니다. 
+
+AL 등급을 받기 위해서는 단순히 문장을 나열하는 것이 아니라, **상황에 맞는 구체적인 묘사, 감정 표현, 그리고 자연스러운 연결어(Filler words)의 사용**이 매우 중요합니다. 특히 원어민들이 자주 사용하는 **구동사(Phrasal verbs)와 숙어(Idioms)**를 적재적소에 배치하여 답변의 격을 높여야 합니다.
+
+지정하신 3가지 주제에 대한 AL 수준의 질문과 모범 답안을 구성해 보았습니다.
+
+---
+
+### [Topic 1] Description: 본인의 침대와 침구류 묘사
+
+**Question:**
+Could you describe your bed and the bedding you use in detail? What does your bed look like, and what kind of blankets or pillows do you prefer? Tell me why you find your bed comfortable.
+(당신의 침대와 침구류에 대해 자세히 묘사해 주시겠어요? 침대가 어떻게 생겼는지, 어떤 종류의 이불이나 베개를 선호하는지 알려주세요. 왜 본인의 침대가 편안하다고 느끼는지도 설명해 주세요.)
+
+**Model Answer:**
+Well, let me tell you about my sanctuary, which is my bed. I'm quite particular about my sleeping environment because I believe a good night's sleep is the foundation of a productive day. My bed is a queen-sized one with a sturdy wooden frame that has a minimalist aesthetic. 
+
+The highlight of my bed, however, is definitely the mattress. It’s a hybrid memory foam mattress that allows me to <strong style="color:blue;">sink into</strong> it just the right amount while still providing great support for my back. When it comes to bedding, I’m obsessed with my goose-down duvet. It’s incredibly light yet keeps me <strong style="color:blue;">snug as a bug in a rug</strong> even during the freezing winter months. I usually <strong style="color:blue;">go for</strong> high-thread-count cotton covers because they feel so crisp and cool against the skin.
+
+As for pillows, I use two different types. One is a firm contour pillow to <strong style="color:blue;">keep up</strong> my neck alignment, and the other is a soft, plush one that I can <strong style="color:blue;">lean against</strong> when I’m reading a book before sleep. Honestly, my bed is the best place to <strong style="color:blue;">wind down</strong> after a long, Hectic day at work. There’s nothing like the feeling of crawling under the covers and <strong style="color:blue;">drifting off</strong> to sleep. It really helps me <strong style="color:blue;">recharge my batteries</strong> for the next day.
+
+**Key Vocabulary & Expressions:**
+*   **Particular about**: ~에 까다로운
+*   **Sanctuary**: 안식처
+*   **Minimalist aesthetic**: 미니멀한 미학(디자인)
+*   **Goose-down duvet**: 거위털 이불
+*   **High-thread-count**: (직물의) 올 수가 많은, 고밀도의
+*   **Neck alignment**: 목 정렬
+
+**Phrasal Verbs & Idioms:**
+*   <strong style="color:blue;">sink into</strong>: ~ 속으로 깊숙이 몸을 맡기다/파묻히다.
+*   <strong style="color:blue;">snug as a bug in a rug</strong>: 매우 포근하고 편안한.
+*   <strong style="color:blue;">go for</strong>: ~을 선택하다/선호하다.
+*   <strong style="color:blue;">keep up</strong>: 유지하다.
+*   <strong style="color:blue;">lean against</strong>: ~에 기대다.
+*   <strong style="color:blue;">wind down</strong>: 긴장을 풀고 쉬다.
+*   <strong style="color:blue;">drifting off</strong>: 나도 모르게 잠이 들다.
+*   <strong style="color:blue;">recharge one's batteries</strong>: 재충전하다.
+
+---
+
+### [Topic 2] Role-play: 파손된 택배 반품 접수하기
+
+**Question:**
+You have received a package from an online shopping mall, but when you opened it, the item was damaged. Call the customer service center, explain the situation, and ask for a return or an exchange.
+(온라인 쇼핑몰에서 택배를 받았는데, 열어보니 상품이 파손되어 있었습니다. 고객 서비스 센터에 전화하여 상황을 설명하고 반품이나 교환을 요청하세요.)
+
+**Model Answer:**
+Hi there, I’m calling to <strong style="color:blue;">bring up</strong> an issue with an order I received earlier today. My name is [Your Name], and the order number is 12345. I was really <strong style="color:blue;">looking forward to</strong> receiving this ceramic vase, but unfortunately, it <strong style="color:blue;">turned out</strong> to be damaged.
+
+When I <strong style="color:blue;">picked up</strong> the box from my porch, I noticed that one corner was severely crushed. I had a bad feeling about it, and sure enough, when I <strong style="color:blue;">tore open</strong> the packaging, the vase was shattered into pieces. It’s such a shame because I bought this as a gift for a friend's housewarming party this weekend. 
+
+I’d like to <strong style="color:blue;">sort out</strong> this mess as soon as possible. Could you let me know how I can <strong style="color:blue;">go about</strong> returning this broken item? Since I need it by Friday, I was wondering if you could send a replacement via express shipping. If that’s not possible, I’d rather just <strong style="color:blue;">call off</strong> the order and get a full refund so I can buy something else locally. 
+
+I’ve already taken some photos of the damaged box and the broken vase. Should I <strong style="color:blue;">send over</strong> those pictures via email or upload them to your website? Please <strong style="color:blue;">get back to</strong> me at your earliest convenience. Thank you.
+
+**Key Vocabulary & Expressions:**
+*   **Ceramic vase**: 도자기 화분/꽃병
+*   **Housewarming party**: 집들이 파티
+*   **Replacement**: 교환품, 대체물
+*   **Express shipping**: 빠른 배송
+*   **Full refund**: 전액 환불
+
+**Phrasal Verbs & Idioms:**
+*   <strong style="color:blue;">bring up</strong>: (화제를) 꺼내다, 언급하다.
+*   <strong style="color:blue;">looking forward to</strong>: ~을 고대하다.
+*   <strong style="color:blue;">turned out</strong>: ~임이 판명되다(결과적으로 ~가 되다).
+*   <strong style="color:blue;">picked up</strong>: 집어 들다/수령하다.
+*   <strong style="color:blue;">tore open</strong>: (봉투 등을) 확 찢어서 열다.
+*   <strong style="color:blue;">sort out</strong>: 해결하다/정리하다.
+*   <strong style="color:blue;">go about</strong>: ~을 시작하다/처리하다.
+*   <strong style="color:blue;">call off</strong>: 취소하다.
+*   <strong style="color:blue;">send over</strong>: 전송하다/보내다.
+*   <strong style="color:blue;">get back to</strong>: ~에게 다시 연락하다.
+
+---
+
+### [Topic 3] Unexpected: 처음 비행기를 탔던 경험
+
+**Question:**
+I’d like to know about the very first time you traveled by plane. How did you feel before boarding? Were you excited, or perhaps a bit nervous? Please describe your experience on the plane in detail.
+(당신이 처음으로 비행기 여행을 했던 때에 대해 알고 싶습니다. 탑승 전에 기분이 어떠셨나요? 설레었나요, 아니면 조금 긴장하셨나요? 비행기 안에서의 경험을 자세히 묘사해 주세요.)
+
+**Model Answer:**
+Thinking back, the first time I ever <strong style="color:blue;">stepped onto</strong> a plane was when I was about ten years old. My family was <strong style="color:blue;">setting off</strong> on a summer vacation to Jeju Island. I remember being <strong style="color:blue;">on cloud nine</strong> for weeks leading up to the trip. To a young kid, the idea of flying through the clouds felt like something out of a fairy tale.
+
+However, once I got to the airport and saw how massive the aircraft actually was, I started to <strong style="color:blue;">freak out</strong> a little bit. I was <strong style="color:blue;">filled with</strong> a mix of adrenaline and pure terror. When the plane started to <strong style="color:blue;">speed up</strong> on the runway for takeoff, my heart was thumping so loud I thought it might <strong style="color:blue;">pop out</strong> of my chest. 
+
+But as soon as we <strong style="color:blue;">took off</strong> and leveled out, my fear <strong style="color:blue;">passed out</strong>—well, I mean, it faded away. I was completely mesmerized by the view outside the window. The houses and cars looked like tiny Legos. I also remember the strange sensation of my ears <strong style="color:blue;">popping</strong> due to the air pressure changes, which I found quite annoying at first, but my mom told me to chew some gum to <strong style="color:blue;">deal with</strong> it. 
+
+The flight attendants were so kind, <strong style="color:blue;">handing out</strong> snacks and drinks, which made me feel like a VIP. That first flight really <strong style="color:blue;">opened up</strong> a whole new world for me, and it's the reason why I still <strong style="color:blue;">look forward to</strong> traveling today. It was a <strong style="color:blue;">once-in-a-lifetime</strong> kind of thrill that I’ll never forget.
+
+**Key Vocabulary & Expressions:**
+*   **Leading up to**: ~에 이르기까지
+*   **Fairy tale**: 동화
+*   **Massive aircraft**: 거대한 항공기
+*   **Thumping**: 두근거리는
+*   **Mesmerized**: 매료된, 넋을 잃은
+*   **Air pressure**: 기압
+
+**Phrasal Verbs & Idioms:**
+*   <strong style="color:blue;">stepped onto</strong>: ~에 발을 들여놓다/탑승하다.
+*   <strong style="color:blue;">setting off</strong>: 출발하다.
+*   <strong style="color:blue;">on cloud nine</strong>: 너무나 행복한, 들뜬.
+*   <strong style="color:blue;">freak out</strong>: 당황하다, 공포에 질리다.
+*   <strong style="color:blue;">filled with</strong>: ~로 가득 차다.
+*   <strong style="color:blue;">speed up</strong>: 속도를 내다.
+*   <strong style="color:blue;">pop out</strong>: 튀어나오다.
+*   <strong style="color:blue;">took off</strong>: 이륙하다.
+*   <strong style="color:blue;">deal with</strong>: 대처하다/처리하다.
+*   <strong style="color:blue;">handing out</strong>: 나눠주다.
+*   <strong style="color:blue;">opened up</strong>: (새로운 가능성 등을) 열어주다.
+*   <strong style="color:blue;">once-in-a-lifetime</strong>: 평생 한 번뿐인.
