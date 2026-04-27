@@ -5433,3 +5433,112 @@ The flight attendants were so kind, <strong style="color:blue;">handing out</str
 *   <strong style="color:blue;">handing out</strong>: 나눠주다.
 *   <strong style="color:blue;">opened up</strong>: (새로운 가능성 등을) 열어주다.
 *   <strong style="color:blue;">once-in-a-lifetime</strong>: 평생 한 번뿐인.
+
+## 2026-04-27 05:44:16 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 문법이 정확한 것을 넘어, **풍부한 표현력, 자연스러운 문장 연결(Filler words), 그리고 논리적인 스토리텔링**이 필수적입니다.
+
+요청하신 3가지 주제에 맞춰, 실제 시험에서 고득점을 받을 수 있는 고퀄리티 스크립트를 구성해 드립니다.
+
+---
+
+## 1. Description (묘사): 자신의 책상 정리 상태
+
+**[Question]**
+I'd like to know about your work or study desk. What does it look like? Is it organized or messy? Please describe your desk and how you keep it arranged in detail.
+(당신의 사무실 책상이나 공부하는 책상에 대해 알고 싶습니다. 어떻게 생겼나요? 정리된 편인가요, 아니면 지저분한 편인가요? 당신의 책상과 그것을 어떻게 정리하는지 자세히 설명해 주세요.)
+
+**[Model Answer]**
+Well, let me tell you about my workstation. To be honest, I'm a bit of a minimalist, so I try my best to keep my desk as <strong style="color:blue;">neat as a pin</strong>. It’s a large, dark wood desk located right by the window to let in some natural light. 
+
+On the surface, I have a dual-monitor setup which is absolutely essential for my productivity. Right in front of me is my mechanical keyboard—I love the clicky sound it makes! To the right, there’s a small desk organizer where I keep my pens, sticky notes, and a few paperclips. I hate it when things get <strong style="color:blue;">out of hand</strong>, so I usually <strong style="color:blue;">tidy up</strong> every evening before I <strong style="color:blue;">call it a day</strong>. 
+
+One thing I'm really proud of is my cable management. I can't stand seeing tangled wires everywhere, so I used some clips to <strong style="color:blue;">tuck them away</strong> under the desk. It really helps me <strong style="color:blue;">clear my head</strong> when I’m working on a stressful project. Of course, there are days when documents <strong style="color:blue;">pile up</strong> because I'm so busy, but I make it a rule to <strong style="color:blue;">sort through</strong> them at least once a week. 
+
+Overall, my desk is my sanctuary. Even though it's just a piece of furniture, keeping it organized helps me <strong style="color:blue;">stay on top of</strong> my tasks and remain focused. I feel that a cluttered desk leads to a cluttered mind, you know?
+
+**[Key Vocabulary & Expressions]**
+*   **Minimalist:** 미니멀리스트 (최소한의 것으로 사는 사람)
+*   **Productivity:** 생산성
+*   **Essential:** 필수적인
+*   **Sanctuary:** 안식처, 피난처
+
+**[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">Neat as a pin</strong>: 매우 깔끔한 (정리가 아주 잘 된)
+*   <strong style="color:blue;">Out of hand</strong>: 감당할 수 없게 된 (수습이 안 되는)
+*   <strong style="color:blue;">Tidy up</strong>: 정리정돈하다
+*   <strong style="color:blue;">Call it a day</strong>: 하루 일과를 마치다
+*   <strong style="color:blue;">Tuck away</strong>: (보이지 않게) 숨기다/치워두다
+*   <strong style="color:blue;">Clear one's head</strong>: 머리를 식히다/생각을 정리하다
+*   <strong style="color:blue;">Pile up</strong>: 쌓이다
+*   <strong style="color:blue;">Sort through</strong>: 자세히 살펴보다/분류하며 정리하다
+*   <strong style="color:blue;">Stay on top of</strong>: ~을 잘 파악하다/제어하다
+
+---
+
+## 2. Role-play (롤플레이): 세탁물 지연에 대한 불만 제기
+
+**[Question]**
+You went to the dry cleaner to pick up your clothes, but the staff tells you that your items are not ready yet, even though they promised they would be. Explain the situation to the staff and complain about the delay. Suggest two or three solutions to solve this problem.
+(세탁물을 찾으러 세탁소에 갔는데, 직원이 약속된 날짜임에도 아직 준비되지 않았다고 말합니다. 직원에게 상황을 설명하고 지연에 대해 불만을 제기하세요. 이 문제를 해결하기 위한 두세 가지 해결책을 제시하십시오.)
+
+**[Model Answer]**
+Hi there, I’m here to pick up my laundry. My name is [Your Name], and I dropped off a navy blue suit and two white shirts last Monday. The receipt says they should have been ready by 5 PM today. 
+
+Wait, what do you mean they aren't ready yet? I’m sorry, but this is quite frustrating. I specifically <strong style="color:blue;">pointed out</strong> that I needed these items for a very important job interview tomorrow morning. I was <strong style="color:blue;">counting on</strong> having them back today so I could prepare. This delay really <strong style="color:blue;">puts me in a bind</strong>.
+
+Since I absolutely need that suit by tonight, we need to find a way to <strong style="color:blue;">iron this out</strong>. First, is there any way you can expedite the process and have it finished within the next two hours? If so, I can <strong style="color:blue;">drop by</strong> again later tonight. 
+
+If that’s not possible, could you please have the clothes delivered to my house as soon as they are finished? I shouldn't have to <strong style="color:blue;">go out of my way</strong> to come back here a third time. Also, considering the inconvenience and the fact that the deadline was missed, I’d like to ask for a discount or a full refund on the service fee to <strong style="color:blue;">make up for</strong> the trouble. Please let me know what you can do as soon as possible.
+
+**[Key Vocabulary & Expressions]**
+*   **Receipt:** 영수증
+*   **Frustrating:** 좌절감을 주는, 짜증 나는
+*   **Expedite:** 신속히 처리하다
+*   **Inconvenience:** 불편함
+*   **Refund:** 환불
+
+**[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">Point out</strong>: 지적하다, 언급하다
+*   <strong style="color:blue;">Count on</strong>: ~을 믿다/의지하다
+*   <strong style="color:blue;">Put someone in a bind</strong>: ~를 곤경에 처하게 하다
+*   <strong style="color:blue;">Iron out</strong>: (문제를) 해결하다/다듬다
+*   <strong style="color:blue;">Drop by</strong>: 잠깐 들르다
+*   <strong style="color:blue;">Go out of one's way</strong>: (하지 않아도 될 일을) 굳이 하다/수고를 아끼지 않다
+*   <strong style="color:blue;">Make up for</strong>: 보상하다/만회하다
+
+---
+
+## 3. Unexpected (돌발질문): 과거와 현재의 주거 환경 변화
+
+**[Question]**
+How has the residential environment in your country changed over the years? Compare the houses or apartments of the past with the ones today. What are the most significant differences?
+(지난 몇 년간 당신의 나라의 주거 환경은 어떻게 변했습니까? 과거의 집이나 아파트와 오늘날의 것을 비교해 보세요. 가장 큰 차이점은 무엇입니까?)
+
+**[Model Answer]**
+That’s an interesting question. Looking back, the housing landscape in my country has changed <strong style="color:blue;">by leaps and bounds</strong>. 
+
+In the past, maybe twenty or thirty years ago, most people lived in traditional single-family houses or small, low-rise apartments. These places were functional, but they lacked modern amenities. For instance, security was often just a simple lock, and parking was a total nightmare because there weren't enough spaces. You just had to <strong style="color:blue;">deal with</strong> it.
+
+However, nowadays, high-rise apartment complexes have <strong style="color:blue;">sprung up</strong> everywhere, and they are like "mini-cities." The most striking difference is the integration of "Smart Home" technology. Now, we can control the lights, heating, and even appliances with our smartphones. It's something our parents would have <strong style="color:blue;">taken for granted</strong> as science fiction! 
+
+Furthermore, modern complexes offer amazing community facilities. We have gyms, libraries, and even cafes right inside the building. It’s so convenient that you don't even have to <strong style="color:blue;">step foot</strong> outside the complex for your daily needs. Also, security has been <strong style="color:blue;">beefed up</strong> with high-tech CCTV and digital entry systems.
+
+In a nutshell, while houses in the past had a certain cozy charm, today’s residential areas focus on "convenience" and "efficiency." It’s a <strong style="color:blue;">day and night</strong> difference, and I think people really <strong style="color:blue;">look forward to</strong> even more advanced living spaces in the future.
+
+**[Key Vocabulary & Expressions]**
+*   **Residential environment:** 주거 환경
+*   **Low-rise:** 저층의
+*   **Amenities:** 편의 시설
+*   **Integration:** 통합, 결합
+*   **Efficiency:** 효율성
+
+**[Phrasal Verbs & Idioms]**
+*   <strong style="color:blue;">By leaps and bounds</strong>: 급격하게/비약적으로
+*   <strong style="color:blue;">Deal with</strong>: ~을 다루다/감내하다
+*   <strong style="color:blue;">Sprung up</strong>: (갑자기) 생겨나다/나타나다
+*   <strong style="color:blue;">Take for granted</strong>: 당연하게 여기다
+*   <strong style="color:blue;">Step foot</strong>: 발을 들여놓다
+*   <strong style="color:blue;">Beef up</strong>: 강화하다/보강하다
+*   <strong style="color:blue;">Day and night</strong>: 천지 차이 (완전히 다른 상황)
+*   <strong style="color:blue;">Look forward to</strong>: ~을 기대하다
