@@ -5542,3 +5542,105 @@ In a nutshell, while houses in the past had a certain cozy charm, today’s resi
 *   <strong style="color:blue;">Beef up</strong>: 강화하다/보강하다
 *   <strong style="color:blue;">Day and night</strong>: 천지 차이 (완전히 다른 상황)
 *   <strong style="color:blue;">Look forward to</strong>: ~을 기대하다
+
+## 2026-04-29 05:44:36 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 질문에 대답하는 것을 넘어, **풍부한 어휘 사용, 자연스러운 문장 연결(Connectors), 그리고 감정이 실린 발화(Intonation)**가 필수적입니다. 
+
+제시해주신 세 가지 주제에 맞춰, 실제 시험에서 높은 점수를 받을 수 있는 고퀄리티 답변 스크립트를 구성해 드립니다.
+
+---
+
+## 1. 묘사 (Description): 평소 사용하는 가방의 디자인과 수납공간
+
+**[Question]**
+I’d like to know about the bag you usually carry around. What does it look like? Please describe its design and all the different storage compartments it has in detail.
+(당신이 평소에 들고 다니는 가방에 대해 알고 싶습니다. 어떻게 생겼나요? 가방의 디자인과 다양한 수납공간에 대해 자세히 묘사해 주세요.)
+
+**[Model Answer]**
+To be honest, I’m quite picky when it comes to bags because I carry a lot of stuff for work and personal use. The bag I’m currently using is a sleek, charcoal-gray backpack from a brand called Incase. It has a very minimalist and professional look, so it <strong style="color:blue;">goes with</strong> almost any outfit, whether I’m wearing a casual hoodie or a formal suit.
+
+What I love most about this bag is how it’s designed for organization. It’s not just one giant hole; it’s divided into several specialized sections. The main compartment has a padded sleeve that <strong style="color:blue;">is tailored for</strong> a 15-inch laptop, which <strong style="color:blue;">comes in handy</strong> because I always have my MacBook with me. There’s also a smaller zip pocket inside where I keep my chargers and cables so they don’t <strong style="color:blue;">get tangled up</strong>.
+
+On the outside, there are two hidden side pockets. I usually <strong style="color:blue;">stash away</strong> my umbrella or a water bottle there. The front pocket is where I keep items I need to <strong style="color:blue;">get a hold of</strong> quickly, like my transit card, AirPods, and lip balm. The material is also water-resistant, which gives me <strong style="color:blue;">peace of mind</strong> when it starts raining unexpectedly. All in all, this bag is the perfect blend of style and functionality, and I can’t imagine <strong style="color:blue;">getting by</strong> without it.
+
+**[Vocabulary & Expressions]**
+*   **Picky**: 까다로운
+*   **Minimalist**: 최소한의, 단순한
+*   **Specialized**: 특화된
+*   **Water-resistant**: 방수의
+*   **Functionality**: 기능성
+*   **<strong style="color:blue;">Go with</strong>**: ~와 어울리다
+*   **<strong style="color:blue;">Be tailored for</strong>**: ~에 딱 맞게 만들어지다
+*   **<strong style="color:blue;">Come in handy</strong>**: 유용하다, 도움이 되다
+*   **<strong style="color:blue;">Get tangled up</strong>**: 뒤엉키다
+*   **<strong style="color:blue;">Stash away</strong>**: (안전한 곳에) 넣어 두다/숨겨 두다
+*   **<strong style="color:blue;">Get a hold of</strong>**: ~을 손에 넣다/찾다
+*   **<strong style="color:blue;">Peace of mind</strong>**: 마음의 평화(안심)
+*   **<strong style="color:blue;">Get by</strong>**: 그럭저럭 살아가다/해내다
+
+---
+
+## 2. 롤플레이 (Role-play): 우체국 해외 택배 상담
+
+**[Question]**
+You are at a post office to send a package to a friend living overseas. Ask the clerk three or four questions regarding the regulations and the shipping costs.
+(해외에 사는 친구에게 택배를 보내기 위해 우체국에 있습니다. 직원에게 규정과 배송 비용에 대해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hi there! How are you doing today? I’m actually here to send this package to my friend who lives in New York, but since it’s my first time shipping something internationally, I have a few questions to <strong style="color:blue;">clear up</strong>.
+
+First of all, could you tell me about the prohibited items? I’ve packed some snacks and a few electronic gadgets with lithium batteries. I’m worried those might <strong style="color:blue;">be held up</strong> at customs. Are there any specific regulations I should <strong style="color:blue;">keep in mind</strong> for shipping to the U.S.?
+
+Secondly, I’d like to know how the shipping cost is calculated. Is it strictly based on the weight, or does the size of the box <strong style="color:blue;">play a role</strong> as well? I want to make sure the shipping fee doesn't <strong style="color:blue;">break the bank</strong>. 
+
+Also, how long does it usually take for a package to reach New York? I'm debating between standard airmail and the express service. If I <strong style="color:blue;">opt for</strong> the express one, will I be able to <strong style="color:blue;">keep track of</strong> the delivery in real-time? I want to <strong style="color:blue;">keep an eye on</strong> it to make sure it arrives safely.
+
+Lastly, do I need to <strong style="color:blue;">fill out</strong> any specific customs declaration forms? If so, could you show me where they are? Thank you so much for your help!
+
+**[Vocabulary & Expressions]**
+*   **Customs**: 세관
+*   **Prohibited**: 금지된
+*   **Electronic gadgets**: 전자 기기
+*   **<strong style="color:blue;">Clear up</strong>**: (의문 등을) 해결하다/명확히 하다
+*   **<strong style="color:blue;">Be held up</strong>**: 지체되다/걸리다
+*   **<strong style="color:blue;">Keep in mind</strong>**: 명심하다
+*   **<strong style="color:blue;">Play a role</strong>**: 역할을 하다/영향을 미치다
+*   **<strong style="color:blue;">Break the bank</strong>**: (너무 비싸서) 거덜 나게 하다
+*   **<strong style="color:blue;">Opt for</strong>**: ~을 선택하다
+*   **<strong style="color:blue;">Keep track of</strong>**: ~을 추적하다/기록하다
+*   **<strong style="color:blue;">Keep an eye on</strong>**: ~을 계속 지켜보다
+*   **<strong style="color:blue;">Fill out</strong>**: (서류를) 작성하다
+
+---
+
+## 3. 돌발질문 (Unexpected): 과거의 은행 방문 vs. 현재의 스마트폰 뱅킹
+
+**[Question]**
+Banking has changed a lot over the years. Compare how people used to go to banks in the past with how they use smartphone banking today. What are the main differences?
+(은행 업무는 수년 동안 많이 변했습니다. 과거에 사람들이 은행에 가던 방식과 오늘날 스마트폰 뱅킹을 사용하는 방식을 비교해 보세요. 주요 차이점은 무엇인가요?)
+
+**[Model Answer]**
+It’s honestly mind-blowing how much banking has evolved. When I <strong style="color:blue;">look back</strong> to my childhood, I remember my parents having to physically go to the bank for every little thing. They had to <strong style="color:blue;">stand in line</strong> for what felt like ages just to deposit some cash or update a bankbook. Back then, you had to <strong style="color:blue;">work around</strong> the bank’s operating hours, which was a huge hassle if you were a busy office worker.
+
+Fast forward to today, and the whole banking system has <strong style="color:blue;">turned upside down</strong>. With the rise of smartphones, everything is <strong style="color:blue;">at the tip of my fingers</strong>. I can transfer money, apply for loans, or even open a new savings account while lying in bed. I don't even have to <strong style="color:blue;">set foot in</strong> a physical branch anymore. These mobile apps are so sophisticated now that they use facial recognition, so I don’t have to <strong style="color:blue;">clutter up</strong> my brain with dozens of different passwords.
+
+The biggest difference, I would say, is the accessibility and speed. In the past, banking was a <strong style="color:blue;">time-consuming</strong> chore, but now it’s integrated into our daily lives seamlessly. However, a downside is that some elderly people who aren't tech-savvy might <strong style="color:blue;">feel left out</strong>. But overall, smartphone banking has <strong style="color:blue;">made a world of difference</strong> in terms of convenience and efficiency.
+
+**[Vocabulary & Expressions]**
+*   **Mind-blowing**: 놀라운
+*   **Deposit**: 입금하다
+*   **Hassle**: 번거로운 일
+*   **Sophisticated**: 정교한/복잡한
+*   **Integrated**: 통합된
+*   **Tech-savvy**: 기기에 능숙한
+*   **<strong style="color:blue;">Look back</strong>**: 회상하다/되돌아보다
+*   **<strong style="color:blue;">Stand in line</strong>**: 줄을 서다
+*   **<strong style="color:blue;">Work around</strong>**: (어려운 상황을) 고려하며 해결하다/시간에 맞추다
+*   **<strong style="color:blue;">Turn upside down</strong>**: 완전히 뒤바뀌다
+*   **<strong style="color:blue;">At the tip of one's fingers</strong>**: 아주 가까이에/손쉽게 이용 가능한
+*   **<strong style="color:blue;">Set foot in</strong>**: ~에 발을 들이다
+*   **<strong style="color:blue;">Clutter up</strong>**: 어지럽히다/가득 채우다
+*   **<strong style="color:blue;">Time-consuming</strong>**: 시간이 많이 걸리는
+*   **<strong style="color:blue;">Feel left out</strong>**: 소외감을 느끼다
+*   **<strong style="color:blue;">Make a world of difference</strong>**: 천지차이를 만들다/큰 변화를 주다
