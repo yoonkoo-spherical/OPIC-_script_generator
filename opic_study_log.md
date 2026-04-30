@@ -5644,3 +5644,138 @@ The biggest difference, I would say, is the accessibility and speed. In the past
 *   **<strong style="color:blue;">Time-consuming</strong>**: 시간이 많이 걸리는
 *   **<strong style="color:blue;">Feel left out</strong>**: 소외감을 느끼다
 *   **<strong style="color:blue;">Make a world of difference</strong>**: 천지차이를 만들다/큰 변화를 주다
+
+## 2026-04-30 05:48:12 OPIc Study
+
+반갑습니다! OPIc AL 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 문법이 정확한 것을 넘어, **자연스러운 흐름(Filler words), 구체적인 묘사, 그리고 원어민들이 자주 사용하는 구동사와 관용구**를 얼마나 능숙하게 구사하는지가 핵심입니다.
+
+요청하신 3가지 주제에 맞춰, 고득점을 보장하는 모범 답안과 분석 리스트를 준비했습니다.
+
+---
+
+## 1. Description (묘사): 출퇴근 시간 대중교통의 혼잡한 풍경
+
+### **[Question]**
+Could you describe what public transportation looks like during rush hour in your city? What do people do, and how does the environment feel? Provide as much detail as possible.
+
+당신이 사는 도시의 출퇴근 시간 대중교통 풍경이 어떤지 묘사해 주시겠습니까? 사람들은 무엇을 하고, 분위기는 어떤가요? 가능한 한 자세히 설명해 주세요.
+
+### **[Model Answer]**
+To be honest, describing the rush hour in Seoul is like describing a scene from an action movie, but much more exhausting. Since most companies are concentrated in certain areas, the subway and buses are <strong style="color:blue;">packed like sardines</strong> between 8 and 9 AM. 
+
+When you first step onto the platform, you can immediately feel the tension in the air. Everyone is <strong style="color:blue;">on edge</strong>, trying to <strong style="color:blue;">squeeze into</strong> carriages that already seem full. It’s quite a sight to see; people are literally <strong style="color:blue;">rubbing shoulders</strong> with total strangers. Most commuters try to <strong style="color:blue;">shut out</strong> the noise and the crowd by <strong style="color:blue;">tuning into</strong> music or podcasts, or they’re just <strong style="color:blue;">glued to</strong> their smartphones, scrolling through news or social media. 
+
+What strikes me the most is how everyone manages to <strong style="color:blue;">keep a straight face</strong> despite the stifling heat and lack of personal space. Sometimes, you might see someone <strong style="color:blue;">nodding off</strong> while standing up, which is a testament to how tired everyone is. When the train arrives at a major transfer station, a huge wave of people <strong style="color:blue;">pours out</strong>, and another wave <strong style="color:blue;">pushes in</strong>. It’s a chaotic dance that repeats every single day. Even though I’ve <strong style="color:blue;">gotten used to</strong> it, I still find it incredibly draining. By the time I <strong style="color:blue;">get off</strong> at my stop, I feel like I’ve already finished a full day’s work.
+
+---
+
+### **[Vocabulary & Expressions]**
+
+**1. 주요 어휘 (Vocabulary)**
+*   **Exhausting**: 기진맥진하게 하는
+*   **Concentrated**: 집중된
+*   **Commuters**: 통근자들
+*   **Stifling**: 숨 막히는, 답답한
+*   **Testament**: 증거
+
+**2. 주요 구동사 (Phrasal Verbs) & 숙어 (Idioms)**
+*   <strong style="color:blue;">Packed like sardines</strong>: (숙어) 콩나물시루처럼 빽빽이 들어찬
+*   <strong style="color:blue;">On edge</strong>: (숙어) 안달이 난, 긴장된
+*   <strong style="color:blue;">Squeeze into</strong>: (구동사) ~에 밀어 넣다, 비집고 들어가다
+*   <strong style="color:blue;">Rubbing shoulders</strong>: (숙어) ~와 어깨를 나란히 하다(가까이 있다)
+*   <strong style="color:blue;">Shut out</strong>: (구동사) ~을 차단하다, 내쫓다
+*   <strong style="color:blue;">Tuning into</strong>: (구동사) (방송/음악 등을) 청취하다, 맞추다
+*   <strong style="color:blue;">Glued to</strong>: (숙어) ~에 열중해 있는, 붙어 있는
+*   <strong style="color:blue;">Keep a straight face</strong>: (숙어) 무표정을 유지하다, 정색하다
+*   <strong style="color:blue;">Nodding off</strong>: (구동사) 꾸벅꾸벅 졸다
+*   <strong style="color:blue;">Pour out / Push in</strong>: (구동사) 쏟아져 나오다 / 밀고 들어오다
+*   <strong style="color:blue;">Get used to</strong>: (구동사) ~에 익숙해지다
+*   <strong style="color:blue;">Get off</strong>: (구동사) 내리다
+
+---
+
+## 2. Role-play (롤플레이): 친구와 영화 관람 약속 잡기
+
+### **[Question]**
+Call your friend and suggest going to see a movie this weekend. Ask three or four questions about the movie, the time, and the place to finalize the plans.
+
+친구에게 전화해서 이번 주말에 영화를 보자고 제안하세요. 영화, 시간, 장소에 대해 3~4개의 질문을 하여 약속을 확정 지으세요.
+
+### **[Model Answer]**
+Hey, Minho! It’s been a while since we last <strong style="color:blue;">hung out</strong>. How’s everything going? Listen, the reason I’m calling is that I was wondering if you’d be <strong style="color:blue;">up for</strong> catching a movie this weekend. I heard the new sci-fi blockbuster just <strong style="color:blue;">came out</strong>, and the reviews are <strong style="color:blue;">off the charts</strong>!
+
+Actually, I have a couple of things I want to <strong style="color:blue;">run by</strong> you. First off, which day works best for you, Saturday or Sunday? I’m <strong style="color:blue;">free as a bird</strong> on both days, so I can <strong style="color:blue;">work around</strong> your schedule. Also, is there a specific theater you prefer? I was thinking about the one downtown because it has those comfy reclining seats, but if that’s too far, we can just <strong style="color:blue;">settle for</strong> the one near your place. 
+
+What time should we aim for? I’m thinking an afternoon showing would be perfect so we can <strong style="color:blue;">grab a bite</strong> to eat afterwards. Oh, and should I <strong style="color:blue;">look into</strong> booking the tickets in advance? These big hits tend to <strong style="color:blue;">sell out</strong> pretty quickly, and I don’t want us to <strong style="color:blue;">miss out on</strong> getting good seats. Anyway, <strong style="color:blue;">get back to</strong> me when you get a chance, and we’ll <strong style="color:blue;">iron out</strong> the details. Talk soon!
+
+---
+
+### **[Vocabulary & Expressions]**
+
+**1. 주요 어휘 (Vocabulary)**
+*   **Blockbuster**: 대히트작
+*   **Reclining**: (의자 등이) 뒤로 넘어가는
+*   **Afterwards**: 그 후에, 나중에
+
+**2. 주요 구동사 (Phrasal Verbs) & 숙어 (Idioms)**
+*   <strong style="color:blue;">Hung out</strong>: (구동사) 시간을 보내다, 놀다
+*   <strong style="color:blue;">Up for</strong>: (숙어) ~할 의향이 있는
+*   <strong style="color:blue;">Came out</strong>: (구동사) 출시되다, 개봉하다
+*   <strong style="color:blue;">Off the charts</strong>: (숙어) 수치가 아주 높은, 매우 훌륭한
+*   <strong style="color:blue;">Run by</strong>: (구동사) (의견을 묻기 위해) ~에게 말하다/보여주다
+*   <strong style="color:blue;">Free as a bird</strong>: (숙어) 매우 한가한, 자유로운
+*   <strong style="color:blue;">Work around</strong>: (구동사) ~에 맞춰 조정하다
+*   <strong style="color:blue;">Settle for</strong>: (구동사) (아쉽지만) ~으로 정하다, 만족하다
+*   <strong style="color:blue;">Grab a bite</strong>: (숙어) 간단히 먹다
+*   <strong style="color:blue;">Look into</strong>: (구동사) 조사하다, 알아보다
+*   <strong style="color:blue;">Sell out</strong>: (구동사) 매진되다
+*   <strong style="color:blue;">Miss out on</strong>: (구동사) ~을 놓치다
+*   <strong style="color:blue;">Get back to</strong>: (구동사) ~에게 다시 연락하다
+*   <strong style="color:blue;">Iron out</strong>: (구동사) (문제를) 해결하다, (세부 사항을) 조율하다
+
+---
+
+## 3. Unexpected (돌발질문): 집 수리/인테리어 비용 초과 혹은 불만족 경험
+
+### **[Question]**
+Have you ever had an experience where a home repair or interior project didn't go as planned? Perhaps the cost exceeded your budget, or you weren't happy with the results. Tell me the whole story from start to finish.
+
+집 수리나 인테리어가 계획대로 되지 않았던 경험이 있나요? 비용이 예산을 초과했거나 결과가 마음에 들지 않았을 수도 있습니다. 처음부터 끝까지 전체 이야기를 들려주세요.
+
+### **[Model Answer]**
+Oh man, just thinking about this <strong style="color:blue;">brings back</strong> some pretty stressful memories. About two years ago, I decided to <strong style="color:blue;">spruce up</strong> my living room. It was looking a bit <strong style="color:blue;">run-down</strong>, so I hired a contractor to redo the flooring and repainting. At first, everything seemed to be <strong style="color:blue;">on track</strong>. I had a clear budget in mind, and the contractor gave me an estimate that <strong style="color:blue;">fell within</strong> my range.
+
+However, once they <strong style="color:blue;">ripped up</strong> the old floorboards, they <strong style="color:blue;">ran into</strong> a major problem. Apparently, there was some underlying water damage that I didn't <strong style="color:blue;">account for</strong>. The contractor told me that if we didn't <strong style="color:blue;">deal with</strong> it right away, the new floor would warp within months. Of course, fixing that <strong style="color:blue;">cost an arm and a leg</strong>, and it completely <strong style="color:blue;">blew my budget</strong>.
+
+To make matters worse, when they finally finished the painting, the color <strong style="color:blue;">turned out</strong> to be much darker than what I had picked from the samples. It didn’t <strong style="color:blue;">go with</strong> my furniture at all! I wanted to <strong style="color:blue;">speak up</strong> about it, but I was already so exhausted from the delays and the extra costs that I just decided to <strong style="color:blue;">let it slide</strong>. In the end, the project took twice as long as expected and <strong style="color:blue;">ate up</strong> all my savings. It was a huge <strong style="color:blue;">learning curve</strong> for me, and next time, I’ll definitely <strong style="color:blue;">set aside</strong> an emergency fund before starting any renovations.
+
+---
+
+### **[Vocabulary & Expressions]**
+
+**1. 주요 어휘 (Vocabulary)**
+*   **Contractor**: 업체, 시공업자
+*   **Estimate**: 견적(서)
+*   **Underlying**: 근저에 있는, 잠재적인
+*   **Warp**: 휘다, 뒤틀리다
+*   **Renovations**: 개보수, 수리
+
+**2. 주요 구동사 (Phrasal Verbs) & 숙어 (Idioms)**
+*   <strong style="color:blue;">Brings back</strong>: (구동사) (기억을) 소환하다, 상기시키다
+*   <strong style="color:blue;">Spruce up</strong>: (구동사) 단장하다, 맵시 있게 꾸미다
+*   <strong style="color:blue;">Run-down</strong>: (숙어/형용사) 황폐한, 낡은
+*   <strong style="color:blue;">On track</strong>: (숙어) 제대로 진행되고 있는
+*   <strong style="color:blue;">Fall within</strong>: (구동사) ~의 범위에 들어가다
+*   <strong style="color:blue;">Rip up</strong>: (구동사) 확 찢다, 뜯어내다
+*   <strong style="color:blue;">Run into</strong>: (구동사) (문제 등에) 맞닥뜨리다
+*   <strong style="color:blue;">Account for</strong>: (구동사) 고려하다, 설명하다
+*   <strong style="color:blue;">Deal with</strong>: (구동사) 처리하다, 다루다
+*   <strong style="color:blue;">Cost an arm and a leg</strong>: (숙어) 아주 많은 돈이 들다
+*   <strong style="color:blue;">Blew my budget</strong>: (숙어) 예산을 초과하다(날려버리다)
+*   <strong style="color:blue;">Turned out</strong>: (구동사) 결국 ~임이 드러나다/밝혀지다
+*   <strong style="color:blue;">Go with</strong>: (구동사) ~와 어울리다
+*   <strong style="color:blue;">Speak up</strong>: (구동사) (당당하게) 의견을 말하다
+*   <strong style="color:blue;">Let it slide</strong>: (숙어) 그냥 넘어가다, 묵인하다
+*   <strong style="color:blue;">Eat up</strong>: (구동사) (돈/시간 등을) 먹어치우다, 소모하다
+*   <strong style="color:blue;">Learning curve</strong>: (숙어) 학습 곡선 (배움의 과정)
+*   <strong style="color:blue;">Set aside</strong>: (구동사) 확보하다, 챙겨두다
