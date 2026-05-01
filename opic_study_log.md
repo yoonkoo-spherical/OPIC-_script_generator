@@ -5779,3 +5779,105 @@ To make matters worse, when they finally finished the painting, the color <stron
 *   <strong style="color:blue;">Eat up</strong>: (구동사) (돈/시간 등을) 먹어치우다, 소모하다
 *   <strong style="color:blue;">Learning curve</strong>: (숙어) 학습 곡선 (배움의 과정)
 *   <strong style="color:blue;">Set aside</strong>: (구동사) 확보하다, 챙겨두다
+
+## 2026-05-01 05:58:22 OPIc Study
+
+반갑습니다! OPIc AL 달성을 위한 전문 강사입니다. AL 등급은 단순히 문법이 정확한 것을 넘어, **문장 간의 유연한 연결, 풍부한 어휘 활용, 그리고 원어민스러운 표현(Idioms & Phrasal Verbs)**이 필수적입니다.
+
+지정하신 3가지 주제에 맞춰, 실제 시험에서 고득점을 받을 수 있는 모범 답안을 구성해 드립니다.
+
+---
+
+### [Topic 1] 묘사 (Description): 스포츠 경기장의 규모와 관중석
+
+**Question:**
+Tell me about a sports stadium you often visit to watch games. What does it look like? Please describe the size of the stadium and the seating arrangements in as much detail as possible.
+(당신이 경기를 관람하기 위해 자주 방문하는 스포츠 경기장에 대해 말해주세요. 어떻게 생겼나요? 경기장의 규모와 관중석 배치에 대해 가능한 한 자세히 설명해 주세요.)
+
+**Model Answer (AL Level):**
+To be honest, I’m a huge fan of baseball, so the place that <strong style="color:blue;">comes to mind</strong> immediately is the Jamsil Baseball Stadium in Seoul. It’s one of the oldest yet most iconic stadiums in Korea. When you first <strong style="color:blue;">show up</strong> at the venue, the sheer scale of the place is absolutely <strong style="color:blue;">breathtaking</strong>. It can <strong style="color:blue;">hold up to</strong> about 25,000 people, which makes the atmosphere incredibly electric during the post-season.
+
+The stadium is designed in a classic open-air style. The field itself is massive, and the emerald green grass always looks <strong style="color:blue;">top-notch</strong>. As for the seating, it’s divided into several sections. You have the infield seats, which are <strong style="color:blue;">jam-packed</strong> with die-hard fans who cheer <strong style="color:blue;">at the top of their lungs</strong>. If you want to <strong style="color:blue;">soak up</strong> the energy, that’s the place to be. On the other hand, the outfield seats offer a much wider perspective of the entire game. 
+
+What’s really interesting is that they’ve recently <strong style="color:blue;">beefed up</strong> the premium seating options. They now have "table seats" where you can comfortably enjoy fried chicken and beer while watching the game. The seats are arranged in a tiered structure, ensuring that even if you’re at the very back, your view isn't <strong style="color:blue;">cut off</strong> by the person in front of you. Overall, the combination of the massive crowd and the well-organized seating makes every visit a memorable experience.
+
+**Key Vocabulary & Expressions:**
+*   **Iconic**: 상징적인
+*   **Electric**: 열광적인, 활기 넘치는
+*   **Tiered**: 계단식의
+*   <strong style="color:blue;">come to mind</strong>: (숙어) 갑자기 생각나다
+*   <strong style="color:blue;">show up</strong>: (구동사) 나타나다, 도착하다
+*   <strong style="color:blue;">breathtaking</strong>: (숙어) 숨이 막히는, 놀라운
+*   <strong style="color:blue;">hold up to</strong>: (구동사) ~까지 수용하다
+*   <strong style="color:blue;">top-notch</strong>: (숙어) 최고의, 일류의
+*   <strong style="color:blue;">jam-packed</strong>: (숙어) 빽빽히 찬
+*   <strong style="color:blue;">at the top of one's lungs</strong>: (숙어) 목청껏, 아주 크게
+*   <strong style="color:blue;">soak up</strong>: (구동사) (분위기 등에) 흠뻑 젖다, 만끽하다
+*   <strong style="color:blue;">beef up</strong>: (구동사) 강화하다, 보강하다
+*   <strong style="color:blue;">cut off</strong>: (구동사) 차단하다, 가리다
+
+---
+
+### [Topic 2] 롤플레이 (Role-play): 식당에서 현지 음식 먹는 방법 묻기
+
+**Question:**
+You are traveling abroad and you’ve just entered a local restaurant. You ordered a traditional dish, but you are not sure how to eat it properly. Call the waiter over and ask 3 or 4 questions about how to enjoy the meal like a local.
+(당신은 해외 여행 중 현지 식당에 들어갔습니다. 전통 음식을 주문했지만, 어떻게 제대로 먹는지 잘 모릅니다. 웨이터를 불러 현지인처럼 식사를 즐기는 법에 대해 3~4가지 질문을 하세요.)
+
+**Model Answer (AL Level):**
+"Excuse me! Hi there. I’m sorry to <strong style="color:blue;">break in</strong> on your work, but I was wondering if you could <strong style="color:blue;">lend me a hand</strong> for a second? I just received this dish—it looks and smells amazing, but to be honest, I’m a bit <strong style="color:blue;">mixed up</strong> about how to actually start eating this. It’s my first time trying this local specialty!
+
+First of all, I see these various sauces and side garnishes on the plate. Should I <strong style="color:blue;">mix them up</strong> all at once, or am I supposed to dip the meat into each sauce individually? I really don't want to <strong style="color:blue;">mess up</strong> the intended flavor profile. 
+
+Also, regarding this flatbread on the side, do I <strong style="color:blue;">tear it off</strong> with my hands to wrap the filling, or should I use a knife and fork? I noticed some people at the next table are using their hands, and I want to <strong style="color:blue;">fit in</strong> with the locals here. 
+
+Oh, one more thing! Is there a specific order I should follow? Like, should I finish the broth first before <strong style="color:blue;">diving into</strong> the main portion? I want to make sure I don't <strong style="color:blue;">miss out on</strong> the full experience. I’d really appreciate it if you could <strong style="color:blue;">fill me in</strong> on the best way to enjoy this. Thank you so much!"
+
+**Key Vocabulary & Expressions:**
+*   **Garnish**: 고명, 곁들임 음식
+*   **Flavor profile**: 맛의 특징
+*   <strong style="color:blue;">break in</strong>: (구동사) 방해하다, 끼어들다
+*   <strong style="color:blue;">lend someone a hand</strong>: (숙어) ~를 도와주다
+*   <strong style="color:blue;">mixed up</strong>: (숙어) 혼란스러운
+*   <strong style="color:blue;">mix up</strong>: (구동사) 뒤섞다
+*   <strong style="color:blue;">mess up</strong>: (구동사) 망치다
+*   <strong style="color:blue;">tear off</strong>: (구동사) 떼어내다, 찢어내다
+*   <strong style="color:blue;">fit in</strong>: (구동사) 어울리다, 조화를 이루다
+*   <strong style="color:blue;">diving into</strong>: (구동사) ~을 본격적으로 시작하다/먹기 시작하다
+*   <strong style="color:blue;">miss out on</strong>: (구동사) ~을 놓치다
+*   <strong style="color:blue;">fill someone in</strong>: (구동사) ~에게 정보를 자세히 알려주다
+
+---
+
+### [Topic 3] 돌발질문 (Unexpected): 한국의 사회적 이슈 및 트렌드 변화
+
+**Question:**
+Every country goes through social changes. What are some of the biggest social issues or trend changes in Korea these days? Compared to the past, how has the atmosphere changed?
+(모든 국가는 사회적 변화를 겪습니다. 최근 한국에서 가장 큰 사회적 이슈나 트렌드 변화는 무엇인가요? 과거와 비교했을 때 분위기가 어떻게 변했나요?)
+
+**Model Answer (AL Level):**
+Well, that’s a very <strong style="color:blue;">thought-provoking</strong> question. If I had to <strong style="color:blue;">narrow it down</strong>, I’d say the most prominent shift in Korean society lately is the rise of the "solo-living culture" and the "God-saeng" trend. 
+
+In the past, Korea was deeply rooted in a collectivist culture where doing things together was the norm. However, we are now seeing a massive increase in one-person households. This has <strong style="color:blue;">given rise to</strong> new terms like "Hon-bab," which means eating alone. People no longer <strong style="color:blue;">look down on</strong> those who spend time by themselves; instead, it’s seen as a way to <strong style="color:blue;">recharge one's batteries</strong> and focus on personal growth. 
+
+Moreover, the "God-saeng" trend—a combination of "God" and "Saeng" (meaning life)—has <strong style="color:blue;">taken over</strong> the younger generation. It refers to living a diligent, productive life. After the pandemic, many people felt like they were <strong style="color:blue;">falling behind</strong>, so they started focusing on small daily achievements, like waking up early or exercising. This is a huge contrast to the past when people were more <strong style="color:blue;">wrapped up in</strong> climbing the corporate ladder or meeting societal expectations like marriage.
+
+However, this shift <strong style="color:blue;">stems from</strong> some serious issues, such as the <strong style="color:blue;">sky-high</strong> cost of living and the ultra-competitive job market. Since it’s getting harder to <strong style="color:blue;">settle down</strong> and start a family, people are shifting their focus toward individual fulfillment. It’s a bit <strong style="color:blue;">bittersweet</strong>, but it definitely <strong style="color:blue;">sums up</strong> the current vibe in Korea.
+
+**Key Vocabulary & Expressions:**
+*   **Collectivist**: 집단주의적인
+*   **Diligence**: 부지런함, 근면
+*   **Fulfillment**: 성취감, 충족
+*   <strong style="color:blue;">thought-provoking</strong>: (숙어) 시사하는 바가 큰, 생각을 자극하는
+*   <strong style="color:blue;">narrow it down</strong>: (구동사) 범위를 좁히다
+*   <strong style="color:blue;">given rise to</strong>: (숙어) ~을 일으키다, 초래하다
+*   <strong style="color:blue;">look down on</strong>: (구동사) 무시하다, 낮게 보다
+*   <strong style="color:blue;">recharge one's batteries</strong>: (숙어) 재충전하다
+*   <strong style="color:blue;">taken over</strong>: (구동사) 장악하다, 유행하다
+*   <strong style="color:blue;">falling behind</strong>: (구동사) 뒤처지다
+*   <strong style="color:blue;">wrapped up in</strong>: (숙어) ~에 몰두해 있는, 휩싸인
+*   <strong style="color:blue;">stems from</strong>: (구동사) ~에서 기인하다
+*   <strong style="color:blue;">sky-high</strong>: (숙어) 매우 높은 (물가 등)
+*   <strong style="color:blue;">settle down</strong>: (구동사) 정착하다 (결혼 등)
+*   <strong style="color:blue;">bittersweet</strong>: (숙어) 시원섭섭한, 씁쓸하면서도 달콤한
+*   <strong style="color:blue;">sums up</strong>: (구동사) 요약하다, 압축해서 보여주다
