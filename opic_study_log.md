@@ -5881,3 +5881,115 @@ However, this shift <strong style="color:blue;">stems from</strong> some serious
 *   <strong style="color:blue;">settle down</strong>: (구동사) 정착하다 (결혼 등)
 *   <strong style="color:blue;">bittersweet</strong>: (숙어) 시원섭섭한, 씁쓸하면서도 달콤한
 *   <strong style="color:blue;">sums up</strong>: (구동사) 요약하다, 압축해서 보여주다
+
+## 2026-05-02 05:27:48 OPIc Study
+
+안녕하세요! OPIc 전문 강사입니다. AL 등급 달성을 위해서는 단순히 유창하게 말하는 것을 넘어, **풍부한 표현력(Idioms/Phrasal Verbs)**, **논리적인 문장 구조**, 그리고 **상황에 맞는 자연스러운 감정 표현**이 필수적입니다.
+
+제시해주신 3가지 주제에 대해 AL 수준의 고득점 모범 답안을 구성해 드립니다.
+
+---
+
+## 1. Description: 야경이 아름다운 장소의 불빛과 분위기 묘사
+
+### [Question]
+Tell me about a place you know that has a beautiful night view. Describe what the lights look like and what kind of atmosphere it has. Why do you like that place?
+
+**[한국어 번역]**
+당신이 알고 있는 야경이 아름다운 장소에 대해 말해주세요. 불빛이 어떻게 보이는지, 그리고 어떤 분위기를 가지고 있는지 묘사해주세요. 왜 그 장소를 좋아하나요?
+
+### [AL Model Answer]
+Well, let me tell you about one of my absolute favorite spots in Seoul to <strong style="color:blue;">soak in</strong> the night view. It's the Han River Park, specifically near the Banpo Bridge. Whenever I feel a bit overwhelmed by the hustle and bustle of city life, I head there to <strong style="color:blue;">wind down</strong>.
+
+The first thing that hits you is the breathtaking panoramic view of the skyline. The skyscrapers across the river are <strong style="color:blue;">lit up</strong> like jewels, reflecting off the dark, shimmering water. It honestly looks like a sea of glitter. But the real highlight is the Moonlight Rainbow Fountain on the bridge. When the music starts, hundreds of LED lights dance in sync with the water jets, creating this ethereal glow that's just hard to <strong style="color:blue;">put into words</strong>.
+
+The atmosphere is what really <strong style="color:blue;">sets the mood</strong>. It’s a perfect mix of romantic and peaceful. You’ll see couples walking hand-in-hand, and groups of friends having a "chimek" party on the grass. The cool night breeze <strong style="color:blue;">takes the edge off</strong> the humid summer air, and the distant hum of the city makes the park feel like a cozy sanctuary.
+
+I personally love this place because it allows me to <strong style="color:blue;">clear my head</strong>. Watching the steady flow of the river and the twinkling lights helps me <strong style="color:blue;">keep things in perspective</strong>. It’s not just about the visuals; it’s about that unique sense of tranquility you can only find in the heart of a metropolis at night. It truly is a feast for the eyes.
+
+---
+
+### [Vocabulary & Expressions]
+*   **Vocabulary:** Overwhelmed (압도된), Shimmering (어른거리는), Ethereal (천상계의, 오묘한), Sanctuary (안식처), Tranquility (평온함)
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">soak in</strong>: (분위기 등에) 흠뻑 젖다, 즐기다
+    *   <strong style="color:blue;">wind down</strong>: 긴장을 풀다, 쉬다
+    *   <strong style="color:blue;">lit up</strong>: 환하게 불이 밝혀진
+    *   <strong style="color:blue;">clear one's head</strong>: 머리를 식히다, 생각을 정리하다
+*   **Idioms:**
+    *   <strong style="color:blue;">put into words</strong>: 말로 표현하다
+    *   <strong style="color:blue;">set the mood</strong>: 분위기를 조성하다
+    *   <strong style="color:blue;">take the edge off</strong>: (강도를) 완화시키다, 줄이다
+    *   <strong style="color:blue;">keep things in perspective</strong>: 넓은 관점에서 생각하다
+
+---
+
+## 2. Role-play: 자전거 대여소 타이어 교체 요청
+
+### [Question]
+You are at a bicycle rental shop and you’ve just rented a bike. However, you noticed that the tire is flat. Call the staff member over and explain the situation. Ask for an exchange or a solution to fix the problem.
+
+**[한국어 번역]**
+당신은 자전거 대여소에서 방금 자전거를 빌렸습니다. 그런데 타이어에 바람이 빠진 것을 발견했습니다. 직원을 불러 상황을 설명하고, 교체나 문제 해결을 위한 요청을 하세요.
+
+### [AL Model Answer]
+Excuse me! Hi there, sorry to <strong style="color:blue;">break in on</strong> your work, but I’m afraid I have a bit of an issue with the bike I just <strong style="color:blue;">checked out</strong>.
+
+I was just about to <strong style="color:blue;">set off</strong> for a ride along the trail, but I realized the rear tire is completely flat. I think there might be a small puncture, or maybe it just wasn’t pumped up properly. Either way, it’s definitely not in a condition to be ridden safely. 
+
+Could you <strong style="color:blue;">take a look at</strong> it for me? If it's a quick fix, that would be great, but if not, I’d really appreciate it if you could <strong style="color:blue;">swap it out</strong> for another one. I noticed there’s a similar mountain bike right over there; would it be possible to take that one instead?
+
+Also, since I’ve already spent about ten minutes trying to <strong style="color:blue;">sort this out</strong>, would you mind adjusting my rental time accordingly? I’d hate to <strong style="color:blue;">lose out on</strong> my riding time because of a mechanical issue. I’d really <strong style="color:blue;">count on</strong> your help to get me back on the road as soon as possible. Thank you so much for understanding!
+
+---
+
+### [Vocabulary & Expressions]
+*   **Vocabulary:** Puncture (구멍, 펑크), Properly (제대로), Mechanical (기계적인), Accordingly (그에 맞춰)
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">break in on</strong>: 방해하다, 끼어들다
+    *   <strong style="color:blue;">checked out</strong>: (대여 등을 위해) 확인하고 가져오다
+    *   <strong style="color:blue;">set off</strong>: 출발하다
+    *   <strong style="color:blue;">take a look at</strong>: ~을 살펴보다
+    *   <strong style="color:blue;">swap out</strong>: 교체하다
+    *   <strong style="color:blue;">sort out</strong>: 해결하다
+*   **Idioms:**
+    *   <strong style="color:blue;">lose out on</strong>: ~을 놓치다, 손해 보다
+    *   <strong style="color:blue;">count on</strong>: ~을 믿다, 기대하다
+
+---
+
+## 3. Unexpected: 친구에게 빌려준 것을 돌려받지 못한 경험
+
+### [Question]
+Have you ever had a situation where you lent money or an item to a friend but didn't get it back? What was the situation, and how did you handle it? Tell me all the details from beginning to end.
+
+**[한국어 번역]**
+친구에게 돈이나 물건을 빌려주었는데 돌려받지 못한 상황을 겪어본 적이 있나요? 어떤 상황이었고 어떻게 대처했나요? 처음부터 끝까지 상세하게 이야기해 주세요.
+
+### [AL Model Answer]
+Oh, man. Thinking back, there was this one time that really <strong style="color:blue;">put a strain on</strong> one of my closest friendships. It happened about two years ago with a friend I’ve known since high school. 
+
+At the time, he was going through a rough patch financially and asked if he could borrow a significant amount of money to <strong style="color:blue;">tide him over</strong> until his next paycheck. Being a good friend, I didn't <strong style="color:blue;">think twice</strong> and lent him the cash. He promised to <strong style="color:blue;">pay me back</strong> within a month.
+
+However, a month passed, then two, and he didn't <strong style="color:blue;">bring it up</strong> at all. I didn't want to sound desperate or rude, so I tried to <strong style="color:blue;">play it cool</strong> for a while. But eventually, I started to feel a bit taken advantage of. It’s always awkward to <strong style="color:blue;">talk shop</strong> about money with friends, right? 
+
+Finally, I decided to <strong style="color:blue;">bring the matter to a head</strong>. I called him and honestly told him that I needed the money for my own bills. It turns out he was just too embarrassed to admit he still couldn't afford it. We ended up working out a repayment plan where he paid me back in small installments. 
+
+Even though I eventually got my money back, the whole ordeal taught me a lesson to never <strong style="color:blue;">mix business with pleasure</strong>. It really <strong style="color:blue;">messed up</strong> our vibe for a while, and I’ve been a lot more cautious about lending anything significant ever since.
+
+---
+
+### [Vocabulary & Expressions]
+*   **Vocabulary:** Financially (재정적으로), Desperate (필사적인, 절박한), Installments (할부, 분할 납부), Ordeal (시련, 고된 경험)
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">tide someone over</strong>: ~가 (어려운 시기를) 넘기도록 돕다
+    *   <strong style="color:blue;">pay back</strong>: (돈을) 갚다
+    *   <strong style="color:blue;">bring up</strong>: (화제를) 꺼내다
+    *   <strong style="color:blue;">messed up</strong>: 망치다, 엉망으로 만들다
+*   **Idioms:**
+    *   <strong style="color:blue;">put a strain on</strong>: ~에 부담을 주다 / 관계를 악화시키다
+    *   <strong style="color:blue;">think twice</strong>: 숙고하다, 주저하다
+    *   <strong style="color:blue;">play it cool</strong>: 침착하게 행동하다, 아무렇지 않은 척하다
+    *   <strong style="color:blue;">talk shop</strong>: (격식 없이) 일/돈 이야기를 하다
+    *   <strong style="color:blue;">bring the matter to a head</strong>: 문제를 정면으로 다루다 / 결판을 내다
+    *   <strong style="color:blue;">mix business with pleasure</strong>: 공적인 일과 사적인 일을 섞다
