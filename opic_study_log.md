@@ -5993,3 +5993,116 @@ Even though I eventually got my money back, the whole ordeal taught me a lesson 
     *   <strong style="color:blue;">talk shop</strong>: (격식 없이) 일/돈 이야기를 하다
     *   <strong style="color:blue;">bring the matter to a head</strong>: 문제를 정면으로 다루다 / 결판을 내다
     *   <strong style="color:blue;">mix business with pleasure</strong>: 공적인 일과 사적인 일을 섞다
+
+## 2026-05-03 05:48:30 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 전문 강사입니다. 
+
+AL 등급을 받기 위해서는 단순히 문장을 나열하는 것이 아니라, **시제의 정확성, 풍부한 어휘 사용, 자연스러운 문장 연결(Filler words), 그리고 상황에 몰입한 감정 표현**이 필수적입니다. 요청하신 3가지 주제에 맞춰 실제 시험에서 높은 점수를 받을 수 있는 2분 30초 분량의 모범 답안을 구성해 드립니다.
+
+---
+
+## 1. 묘사 (Description): 집안일 과정과 청소 도구
+
+**[질문]**
+Could you describe your routine for doing household chores? What steps do you take to clean your home, and what specific cleaning tools or devices do you usually use? Please provide a detailed description.
+(집안일을 하는 루틴에 대해 설명해 주시겠어요? 집을 청소할 때 어떤 단계들을 거치며, 주로 어떤 청소 도구나 기기들을 사용하시나요? 자세하게 설명해 주세요.)
+
+**[모범 답안 스크립트]**
+Well, to be honest, I wouldn’t say I’m a neat freak, but I do try my best to <strong style="color:blue;">keep on top of</strong> things when it comes to cleaning. My routine is pretty systematic because if I don’t follow a certain order, I tend to <strong style="color:blue;">slack off</strong>.
+
+First, I start by <strong style="color:blue;">clearing away</strong> any clutter on the tables or the floor. It’s impossible to clean properly if there are things <strong style="color:blue;">lying around</strong>. Once the surfaces are clear, I <strong style="color:blue;">reach for</strong> my absolute favorite gadget, which is my Dyson cordless vacuum. It’s truly a <strong style="color:blue;">game-changer</strong>. Since it’s so lightweight and powerful, I can <strong style="color:blue;">zip through</strong> the entire living room and kitchen in no time. I make sure to <strong style="color:blue;">get into</strong> the corners and under the sofa where dust bunnies like to hide.
+
+After vacuuming, I move on to mopping. I used to use a traditional mop, but it was such a hassle to <strong style="color:blue;">wring out</strong> the water. Now, I use a steam mop that <strong style="color:blue;">eases the burden</strong> significantly. It uses hot steam to <strong style="color:blue;">wipe out</strong> any stubborn stains on the wooden floor, leaving everything <strong style="color:blue;">spick and span</strong>. 
+
+Lastly, I <strong style="color:blue;">finish off</strong> by wiping down the windows and mirrors with a microfiber cloth. It’s a bit of a <strong style="color:blue;">tall order</strong> to do this every time, so I usually save this step for the weekends. Once everything is done, I light a scented candle to <strong style="color:blue;">freshen up</strong> the air. Looking at my clean house makes me feel so <strong style="color:blue;">at ease</strong>, like I finally have my life <strong style="color:blue;">in order</strong>.
+
+**[주요 표현 정리]**
+*   **Keep on top of:** ~을 잘 파악하다, (일을) 미루지 않고 잘 처리하다.
+*   **Slack off:** 게으름을 피우다.
+*   **Clear away:** 치우다.
+*   **Lie around:** 여기저기 흩어져 있다.
+*   **Reach for:** ~으로 손을 뻗다.
+*   **Game-changer:** 판도를 바꾸는 것 (혁신적인 것).
+*   **Zip through:** 아주 빠르게 해치우다.
+*   **Get into:** ~에 들어가다 (구석진 곳 등).
+*   **Wring out:** (물을) 짜다.
+*   **Ease the burden:** 부담을 덜어주다.
+*   **Wipe out:** 닦아내다, 없애다.
+*   **Spick and span:** 아주 깔끔한.
+*   **Finish off:** 마무리하다.
+*   **Tall order:** 무리한 요구, 어려운 일.
+*   **Freshen up:** 새롭게 하다, 상쾌하게 하다.
+*   **At ease:** 마음이 편안한.
+*   **In order:** 정리된.
+
+---
+
+## 2. 롤플레이 (Role-play): 빵집에서 케이크 예약 및 레터링 문의
+
+**[질문]**
+You want to buy a special birthday cake for a friend and you are at a local bakery. Call the baker or speak to the staff to ask about the different types of cakes available and inquire about their custom lettering service.
+(친구를 위해 특별한 생일 케이크를 사고 싶어 동네 빵집에 왔습니다. 직원에게 케이크 종류에 대해 묻고 맞춤형 레터링 서비스에 대해 문의하세요.)
+
+**[모범 답안 스크립트]**
+Hi there! How are you doing today? I <strong style="color:blue;">stopped by</strong> because I’m looking to order a special cake for my best friend’s birthday next Friday. I’ve heard great things about your bakery, so I was wondering if you could help me out.
+
+First of all, what kind of cakes do you usually <strong style="color:blue;">whip up</strong> here? I saw some photos online of your strawberry shortcake and the dark chocolate ganache. They both look amazing, but which one would you say is your <strong style="color:blue;">best-seller</strong>? My friend doesn't have a huge <strong style="color:blue;">sweet tooth</strong>, so I’m looking for something that’s not too sugary or overwhelming.
+
+Also, I’m really interested in your custom lettering service. I’d love to have a short message written on top of the cake. Does that <strong style="color:blue;">come with</strong> an extra charge, or is it <strong style="color:blue;">on the house</strong>? And is there a character limit I should <strong style="color:blue;">stick to</strong>? I was thinking of something like "Happy Birthday, Sarah! Cheers to your 30s!"—do you think that would <strong style="color:blue;">fit on</strong> a medium-sized cake?
+
+One last thing, if I <strong style="color:blue;">place an order</strong> now, would I be able to <strong style="color:blue;">pick it up</strong> around 5 PM next Friday? I want to make sure it’s as fresh as possible before the party <strong style="color:blue;">kicks off</strong>. Oh, and do you provide any candles or matches, or do I need to <strong style="color:blue;">pick them up</strong> separately? Please <strong style="color:blue;">let me know</strong> the total cost so I can <strong style="color:blue;">settle the bill</strong>. Thanks a lot!
+
+**[주요 표현 정리]**
+*   **Stop by:** 잠깐 들르다.
+*   **Whip up:** (음식을) 뚝딱 만들어내다.
+*   **Best-seller:** 가장 잘 팔리는 제품.
+*   **Sweet tooth:** 단것을 좋아하는 식성.
+*   **Come with:** ~이 딸려오다.
+*   **On the house:** 서비스로 제공되는 (공짜인).
+*   **Stick to:** (제한 등을) 고수하다, 지키다.
+*   **Fit on:** ~에 (크기가) 맞다.
+*   **Place an order:** 주문하다.
+*   **Pick up:** 찾아오다, 수령하다.
+*   **Kick off:** 시작하다.
+*   **Let me know:** 알려주다.
+*   **Settle the bill:** 계산을 치르다.
+
+---
+
+## 3. 돌발질문 (Unexpected): 기기 고장으로 인한 불편 경험
+
+**[질문]**
+Technology is a big part of our lives, but sometimes it fails us. Tell me about a time when your smartphone or computer broke down unexpectedly. What exactly happened, and how did it affect your daily life? How did you solve the problem?
+(기술은 우리 삶의 큰 부분이지만 때로는 실패할 때가 있습니다. 스마트폰이나 컴퓨터가 예기치 않게 고장 났던 경험에 대해 말해 주세요. 정확히 어떤 일이 있었고 일상생활에 어떤 영향을 주었나요? 그 문제를 어떻게 해결했나요?)
+
+**[모범 답안 스크립트]**
+Oh man, just thinking about this <strong style="color:blue;">takes me back</strong> to a very stressful week I had a few months ago. My smartphone, which is basically my life support, suddenly <strong style="color:blue;">acted up</strong> and then completely <strong style="color:blue;">conked out</strong> on me. 
+
+It happened <strong style="color:blue;">out of the blue</strong> on a Monday morning. I was getting ready for work when the screen just flickered and <strong style="color:blue;">went black</strong>. I tried to <strong style="color:blue;">turn it on</strong> several times, but it wouldn't <strong style="color:blue;">budge</strong>. I felt totally <strong style="color:blue;">cut off</strong> from the world. I couldn't check my schedule, I couldn't use the GPS to get to my meeting, and worst of all, I couldn't even use my mobile pay to buy coffee! It’s crazy how much we <strong style="color:blue;">rely on</strong> these little gadgets.
+
+Since I couldn't <strong style="color:blue;">do without</strong> my phone, I had to <strong style="color:blue;">take time off</strong> from work in the afternoon to visit the authorized service center. I was <strong style="color:blue;">on pins and needles</strong> while waiting for the technician’s diagnosis. He told me that the motherboard had <strong style="color:blue;">burned out</strong>. It was a <strong style="color:blue;">bitter pill to swallow</strong> because the repair cost was quite high, but I had no choice but to <strong style="color:blue;">go ahead with</strong> it. 
+
+It took about three days to get it fixed. During that time, I had to <strong style="color:blue;">fall back on</strong> my old laptop to stay connected. When I finally <strong style="color:blue;">got my phone back</strong>, I felt like I could finally <strong style="color:blue;">breathe a sigh of relief</strong>. That experience really <strong style="color:blue;">brought home</strong> the fact that I need to <strong style="color:blue;">back up</strong> my data more regularly and perhaps not be so dependent on my phone.
+
+**[주요 표현 정리]**
+*   **Take back:** (과거의 기억을) 떠올리게 하다.
+*   **Act up:** 말을 안 듣다, 성능이 이상해지다.
+*   **Conk out:** (기계가) 갑자기 고장 나다/멈추다.
+*   **Out of the blue:** 느닷없이, 갑자기.
+*   **Go black:** (화면이) 꺼지다.
+*   **Turn on:** (전원을) 켜다.
+*   **Budge:** 약간 움직이다 (꼼짝도 안 하다 할 때 사용).
+*   **Cut off:** 고립되다, 단절되다.
+*   **Rely on:** ~에 의존하다.
+*   **Do without:** ~ 없이 지내다.
+*   **Take time off:** 휴가를 내다, 시간을 비우다.
+*   **On pins and needles:** 안절부절못하는, 조마조마한.
+*   **Burn out:** 타버리다, 소진되다.
+*   **Bitter pill to swallow:** 받아들이기 힘든 불쾌한 사실.
+*   **Go ahead with:** ~을 추진하다, 진행하다.
+*   **Fall back on:** ~에 의지하다 (플랜 B로 돌아가다).
+*   **Get back:** 되찾다.
+*   **Breathe a sigh of relief:** 안도의 한숨을 내쉬다.
+*   **Bring home:** (위험성 등을) 뼈저리게 느끼게 하다.
+*   **Back up:** 데이터를 백업하다.
