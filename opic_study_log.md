@@ -6106,3 +6106,120 @@ It took about three days to get it fixed. During that time, I had to <strong sty
 *   **Breathe a sigh of relief:** 안도의 한숨을 내쉬다.
 *   **Bring home:** (위험성 등을) 뼈저리게 느끼게 하다.
 *   **Back up:** 데이터를 백업하다.
+
+## 2026-05-04 05:53:46 OPIc Study
+
+안녕하세요! OPIc AL 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 정보를 전달하는 것을 넘어, **상황을 구체적으로 묘사하고, 감정을 풍부하게 표현하며, 논리적인 구조로 길게 발화하는 능력**이 필수적입니다.
+
+지정해주신 3가지 주제에 대해 AL 수준의 모범 답안을 구성해 보았습니다. 각 답변은 실제 발화 시 약 2분 30초 내외가 소요되도록 상세하게 작성되었으며, 주요 표현은 파란색으로 강조하였습니다.
+
+---
+
+## 1. 묘사 (Description): 어린이 놀이터의 미끄럼틀과 그네
+
+### [Question]
+**Tell me about the playground in your neighborhood. Can you describe the slides and swings there in as much detail as possible? What do they look like, and what is the atmosphere like?**
+(당신네 동네에 있는 놀이터에 대해 말해주세요. 그곳에 있는 미끄럼틀과 그네를 가능한 한 자세히 묘사해 주시겠어요? 어떻게 생겼으며, 분위기는 어떤가요?)
+
+### [Model Answer]
+You know, there’s a lovely little playground just a stone's throw away from my apartment, and it’s a place that really <strong style="color:blue;">brings back memories</strong> of my own childhood. When you first walk in, the first thing that <strong style="color:blue;">catches your eye</strong> is the massive, multi-colored slide structure. It’s not just a simple straight slide; it’s this elaborate, spiral design made of high-quality reinforced plastic. The colors are incredibly vibrant—bright yellows and deep blues—which really <strong style="color:blue;">stand out</strong> against the green rubber flooring. It has these sturdy metal ladders and a little "lookout tower" at the top where kids always <strong style="color:blue;">hang out</strong> before making their big descent.
+
+Right next to the slides, you’ll find the swing set, which is a classic staple of any park. There are usually four swings in a row. Two of them are bucket seats for toddlers, and the other two are the standard flat seats for older kids. The chains are coated in a thick, green rubber so that kids can <strong style="color:blue;">hold on tight</strong> without hurting their hands or getting rust on them. I often see children competing to see who can go the highest, kicking their legs back and forth until they are almost horizontal to the ground. 
+
+The atmosphere there is usually quite lively. You can hear kids laughing and screaming <strong style="color:blue;">at the top of their lungs</strong>, and parents sitting on nearby benches, keeping a close eye on their little ones while <strong style="color:blue;">catching up</strong> with each other. It’s a very safe and cheerful environment. Whenever I pass by, seeing the kids <strong style="color:blue;">line up</strong> for their turn on the slide really <strong style="color:blue;">cheers me up</strong>. It’s a small but vibrant hub for the community where everyone seems to be <strong style="color:blue;">in a good mood</strong>.
+
+### [Vocabulary & Expressions]
+*   **Vibrant:** 활기찬, 강렬한
+*   **Staple:** 주요 요소, 기본 요소
+*   **Horizontal:** 수평의
+*   **Hub:** 중심지
+
+### [Phrasal Verbs & Idioms]
+*   **Bring back memories:** 추억을 소환하다
+*   **Catch someone's eye:** ~의 눈길을 끌다
+*   **Stand out:** 눈에 띄다
+*   **Hang out:** 시간을 보내다
+*   **Hold on tight:** 꽉 잡다
+*   **At the top of one's lungs:** 목청껏
+*   **Catch up:** (밀린) 이야기를 나누다
+*   **Line up:** 줄을 서다
+*   **Cheer someone up:** ~를 기분 좋게 만들다
+*   **In a good mood:** 기분이 좋은
+
+---
+
+## 2. 롤플레이 (Role-play): 병원 예약 및 증상 설명
+
+### [Question]
+**I'd like to give you a situation and ask you to act it out. You have come down with a bad cold and need to see a doctor. Call a local clinic, explain your symptoms in detail, and try to make an appointment for later today.**
+(상황을 하나 드릴 테니 연기해 보세요. 당신은 심한 감기에 걸려 의사를 만나야 합니다. 지역 병원에 전화를 해서, 증상을 상세히 설명하고 오늘 늦게라도 진료 예약을 해보세요.)
+
+### [Model Answer]
+(Phone rings...) "Hello, this is Kim speaking. I’m calling because I’ve <strong style="color:blue;">come down with</strong> a pretty nasty cold, and I was hoping to <strong style="color:blue;">squeeze in</strong> an appointment for sometime today. 
+
+Actually, I started feeling a bit <strong style="color:blue;">under the weather</strong> yesterday evening, but when I woke up this morning, it had <strong style="color:blue;">turned into</strong> a full-blown flu-like situation. I have a splitting headache, and my throat is so sore that I can barely swallow. On top of that, I think I might be <strong style="color:blue;">running a fever</strong> because I’ve been having chills <strong style="color:blue;">on and off</strong> all morning. I tried taking some over-the-counter medicine, but the symptoms aren't <strong style="color:blue;">dying down</strong> at all.
+
+I know it’s short notice, but do you happen to have any openings this afternoon? I’m really struggling to <strong style="color:blue;">get through</strong> my workday, and I think I need a prescription to <strong style="color:blue;">shake off</strong> this bug. I can <strong style="color:blue;">head over</strong> to the clinic around 4 PM or anytime after that if you can <strong style="color:blue;">fit me in</strong>. 
+
+Oh, 4:30 PM works perfectly for me. Thank you so much for <strong style="color:blue;">looking out for</strong> me. I’ll make sure to be there a few minutes early to fill out any necessary paperwork. I really appreciate you helping me out on such short notice. See you soon."
+
+### [Vocabulary & Expressions]
+*   **Nasty:** 지독한, 고약한
+*   **Splitting headache:** 깨질 듯한 두통
+*   **Over-the-counter medicine:** 처방전 없이 사는 약
+*   **Short notice:** 촉박한 통보/연락
+
+### [Phrasal Verbs & Idioms]
+*   **Come down with:** (병에) 걸리다
+*   **Squeeze in:** (틈을 내어) 끼워 넣다
+*   **Under the weather:** 몸 상태가 좋지 않은
+*   **Turn into:** ~로 변하다
+*   **Run a fever:** 열이 나다
+*   **On and off:** 불규칙하게, 단속적으로
+*   **Die down:** 점차 가라앉다
+*   **Get through:** 견뎌내다, 통과하다
+*   **Shake off:** (병 등을) 털어내다/떨쳐내다
+*   **Head over:** ~로 가다
+*   **Fit someone in:** ~를 위한 시간을 내다
+*   **Look out for:** ~를 돌봐주다/배려해주다
+
+---
+
+## 3. 돌발질문 (Unexpected): 여행 중 길을 잃거나 분실한 경험
+
+### [Question]
+**Unexpected things can happen during a trip. Have you ever gotten lost or lost something valuable while traveling? Tell me about that experience from beginning to end. What happened, and how did you resolve the situation?**
+(여행 중에는 예상치 못한 일이 일어날 수 있습니다. 여행 중에 길을 잃거나 귀중품을 분실한 적이 있나요? 그 경험에 대해 처음부터 끝까지 이야기해 주세요. 무슨 일이 있었고, 어떻게 상황을 해결했나요?)
+
+### [Model Answer]
+Oh, I have a perfect, yet slightly traumatizing story for this. A couple of years ago, I was traveling solo in Paris. I was <strong style="color:blue;">having the time of my life</strong> exploring the city, but then something happened that completely <strong style="color:blue;">messed up</strong> my plans.
+
+I had just finished visiting the Louvre and decided to <strong style="color:blue;">head back</strong> to my Airbnb. I was quite exhausted, so I hopped on the subway. When I finally reached my stop and went to grab my wallet to buy a snack, my heart <strong style="color:blue;">skipped a beat</strong>. It was gone! I realized I must have <strong style="color:blue;">left it behind</strong> at a cafe near the museum, or even worse, I might have been pickpocketed.
+
+I started to <strong style="color:blue;">lose my cool</strong> because all my cash and credit cards were in that wallet. I didn't know what to do at first, but I told myself to <strong style="color:blue;">calm down</strong> and think. I immediately <strong style="color:blue;">reached out</strong> to my bank to freeze my cards using my phone. Then, I <strong style="color:blue;">retraced my steps</strong> back to the cafe. 
+
+When I arrived, I asked the waiter if anyone had <strong style="color:blue;">turned in</strong> a brown leather wallet. To my absolute relief, he smiled and <strong style="color:blue;">handed it over</strong>! A kind stranger had found it under my table and given it to the staff. I was so overwhelmed with gratitude that I almost cried. It was a huge <strong style="color:blue;">wake-up call</strong> for me to be more careful. Even though it <strong style="color:blue;">started out</strong> as a nightmare, it <strong style="color:blue;">turned out</strong> to be a lesson in the kindness of strangers. Now, I always <strong style="color:blue;">keep an eye on</strong> my belongings <strong style="color:blue;">at all times</strong> when I travel.
+
+### [Vocabulary & Expressions]
+*   **Traumatizing:** 충격적인, 대단히 불쾌한
+*   **Pickpocketed:** 소매치기 당한
+*   **Gratitude:** 감사, 고마움
+*   **Belongings:** 소지품
+
+### [Phrasal Verbs & Idioms]
+*   **Have the time of one's life:** 인생 최고의 시간을 보내다
+*   **Mess up:** 망치다
+*   **Head back:** 되돌아가다
+*   **Skip a beat:** (심장이) 덜컥 내려앉다
+*   **Left something behind:** ~를 두고 오다
+*   **Lose one's cool:** 평정심을 잃다
+*   **Calm down:** 진정하다
+*   **Reach out:** 연락을 취하다
+*   **Retrace one's steps:** 왔던 길을 되짚어가다
+*   **Turn in:** 제출하다/돌려주다
+*   **Hand over:** 건네주다
+*   **Wake-up call:** 경각심을 주는 사건
+*   **Start out:** 시작되다
+*   **Turn out:** 결국 ~임이 밝혀지다/되다
+*   **Keep an eye on:** ~을 계속 지켜보다/주의하다
+*   **At all times:** 항상
