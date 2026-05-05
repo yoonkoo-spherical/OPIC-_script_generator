@@ -6223,3 +6223,104 @@ When I arrived, I asked the waiter if anyone had <strong style="color:blue;">tur
 *   **Turn out:** 결국 ~임이 밝혀지다/되다
 *   **Keep an eye on:** ~을 계속 지켜보다/주의하다
 *   **At all times:** 항상
+
+## 2026-05-05 05:32:50 OPIc Study
+
+반갑습니다! OPIc AL 등급 달성을 위한 전문 강사입니다. AL 등급을 받기 위해서는 단순히 문법이 정확한 것을 넘어, **자연스러운 필러(Filler) 사용, 풍부한 어휘 선택, 그리고 논리적이고 구체적인 스토리텔링**이 필수적입니다.
+
+제시해주신 3가지 주제에 맞춰, 실제 시험에서 고득점을 받을 수 있는 모범 답안과 학습 자료를 구성해 드립니다.
+
+---
+
+## 1. 묘사 (Description): 거울에 비친 자신의 현재 모습 묘사
+
+**[Question]**
+Take a look at yourself in the mirror right now. Can you describe what you see in detail? Talk about your appearance, what you are wearing, and any thoughts that come to mind as you look at your reflection.
+(지금 거울에 비친 당신의 모습을 자세히 묘사해 보세요. 외모, 입고 있는 옷, 그리고 거울 속 자신의 모습을 보며 드는 생각들에 대해 이야기해 주세요.)
+
+**[Model Answer]**
+Well, let me see. Looking at myself in the mirror right now is actually a bit of a reality check. As I <strong style="color:blue;">stare at</strong> my reflection, the first thing I notice is my hair. It’s a bit of a mess because I’ve been studying all day, and I haven't really had the time to <strong style="color:blue;">fix it up</strong>. I have dark, wavy hair that seems to have a mind of its own today. 
+
+Regarding my face, I think I look a little bit tired. I have some slight dark circles under my eyes, which <strong style="color:blue;">comes from</strong> staying up late recently to prepare for this OPIc exam. However, I’m trying to <strong style="color:blue;">keep a positive vibe</strong>. I’m wearing a very casual, oversized charcoal hoodie and some comfortable sweatpants. I usually prefer to <strong style="color:blue;">dress down</strong> when I'm at home because comfort is my top priority. 
+
+As I <strong style="color:blue;">look back</strong> at the person in the mirror, it <strong style="color:blue;">dawns on me</strong> that I’ve changed quite a bit over the last few years. I look more mature now, and I can see a bit more confidence in my eyes compared to my early twenties. Even though I’m a bit <strong style="color:blue;">rough around the edges</strong> today, I’m pretty satisfied with who I am. It’s funny how a simple mirror can <strong style="color:blue;">bring up</strong> so many different thoughts about personal growth. Anyway, that’s pretty much what I see right now—just a hard-working student aiming for an AL!
+
+**[Key Vocabulary & Expressions]**
+*   **Vocabulary:** Reflection (반사된 모습/투영), Reality check (현실 자각), Mature (성숙한), Priority (우선순위), Charcoal (진한 회색)
+*   **Phrasal Verbs:** 
+    *   **stare at**: ~을 빤히 쳐다보다
+    *   **fix up**: 단장하다, 정리하다
+    *   **come from**: ~에서 비롯되다
+    *   **dress down**: 편하게 입다
+    *   **look back**: 뒤돌아보다 (과거를 회상하다)
+    *   **bring up**: (화제 등을) 꺼내다, 불러일으키다
+*   **Idioms:**
+    *   **keep a positive vibe**: 긍정적인 분위기를 유지하다
+    *   **dawn on (someone)**: ~에게 생각이 분명해지다, 깨닫게 되다
+    *   **rough around the edges**: (세련되지 못하고) 약간 거친, 미완성인
+
+---
+
+## 2. 롤플레이 (Role-play): 식당 주말 저녁 창가 자리 예약 문의
+
+**[Question]**
+I'd like to give you a situation and ask you to act it out. You want to make a reservation at a popular restaurant for this coming weekend. Call the restaurant and ask about the availability of a window seat for dinner. Ask three or four questions to get the information you need.
+(상황을 하나 드릴 테니 연기해 보세요. 이번 주말에 인기 있는 식당을 예약하려고 합니다. 식당에 전화해서 저녁 시간대 창가 자리 예약이 가능한지 문의하세요. 필요한 정보를 얻기 위해 3~4개의 질문을 하세요.)
+
+**[Model Answer]**
+Hi there! I’m <strong style="color:blue;">calling up</strong> to make a reservation for this coming Saturday, the 25th. I’ve heard so many great things about your place, and I really want to take my partner there for a special anniversary dinner. 
+
+First of all, do you have any tables available for two people around 7:00 PM? We’re really hoping to <strong style="color:blue;">fit in</strong> at that time. Also, the main reason I'm calling is to ask if we could possibly <strong style="color:blue;">set aside</strong> a window seat. I understand those are <strong style="color:blue;">in high demand</strong>, but it would really <strong style="color:blue;">make our day</strong> if we could enjoy the city view while we eat. 
+
+If the window seats are all <strong style="color:blue;">snapped up</strong>, is there any other quiet corner you could recommend? We’d prefer somewhere not too noisy so we can actually talk. Oh, and one more thing—I was wondering if you could <strong style="color:blue;">fill me in on</strong> your parking situation. Is there a valet service available, or should I <strong style="color:blue;">look for</strong> a public parking lot nearby? 
+
+Lastly, do you have any special events or live music scheduled for Saturday night? I want to make sure the atmosphere is just right. Please <strong style="color:blue;">get back to me</strong> whenever you have a moment to confirm these details. Thanks a lot, I’m really <strong style="color:blue;">looking forward to</strong> visiting!
+
+**[Key Vocabulary & Expressions]**
+*   **Vocabulary:** Availability (이용 가능 여부), Anniversary (기념일), Atmosphere (분위기), Valet service (발레 파킹)
+*   **Phrasal Verbs:** 
+    *   **call up**: 전화를 걸다
+    *   **fit in**: (시간을) 맞추다, 끼워 넣다
+    *   **set aside**: 확보해 두다, 따로 떼어 두다
+    *   **snap up**: 덥석 잡아채다 (매진되다)
+    *   **fill in on**: ~에 대해 정보를 주다
+    *   **look for**: ~을 찾다
+    *   **get back to**: ~에게 다시 연락하다
+    *   **look forward to**: ~을 고대하다
+*   **Idioms:**
+    *   **in high demand**: 수요가 많은, 인기가 높은
+    *   **make someone’s day**: ~를 매우 기쁘게 만들다
+
+---
+
+## 3. 돌발질문 (Unexpected): 운전면허 취득 및 첫 도로 연수 경험
+
+**[Question]**
+I remember the first time I got my driver's license was quite nerve-wracking. Can you tell me about your experience? How did you feel when you first started learning how to drive? Were there any memorable or scary moments during your first road test?
+(제가 처음 운전면허를 딸 때 매우 긴장했던 기억이 납니다. 당신의 경험은 어땠나요? 처음 운전을 배우기 시작했을 때 어떤 기분이었나요? 첫 도로 주행 시험 중 기억에 남거나 무서웠던 순간이 있었나요?)
+
+**[Model Answer]**
+Oh man, just thinking about my first driving experience makes my palms sweat! To <strong style="color:blue;">tell you the truth</strong>, I was a total nervous wreck when I first <strong style="color:blue;">got behind the wheel</strong>. I remember <strong style="color:blue;">heading out</strong> to the driving school for my very first road lesson, and my heart was pounding so hard I thought it might explode.
+
+The most memorable—and honestly, the scariest—moment was my first actual road test. I had to <strong style="color:blue;">pull over</strong> because I was so overwhelmed by the heavy traffic. My instructor told me to <strong style="color:blue;">keep my cool</strong>, but I kept <strong style="color:blue;">mixing up</strong> the gas pedal and the brake. It was such a <strong style="color:blue;">close call</strong> when a bus suddenly merged into my lane. I almost <strong style="color:blue;">freaked out</strong> right then and there. 
+
+However, I knew I had to <strong style="color:blue;">get through</strong> it to gain my independence. I had to <strong style="color:blue;">brush up on</strong> my parking skills specifically, as parallel parking was a total nightmare for me. After a few failed attempts and lots of practice, I finally <strong style="color:blue;">got the hang of</strong> it. When the examiner finally told me that I passed, I felt like I was <strong style="color:blue;">on cloud nine</strong>. It wasn't a <strong style="color:blue;">piece of cake</strong> by any means, but looking back, it was a huge milestone in my life. Now, driving is like second nature to me, but I’ll never forget those <strong style="color:blue;">butterflies in my stomach</strong> from that first day.
+
+**[Key Vocabulary & Expressions]**
+*   **Vocabulary:** Nerve-wracking (매우 긴장되는), Overwhelmed (당황한/압도된), Milestone (이정표/획기적인 사건), Second nature (습관/제2의 천성)
+*   **Phrasal Verbs:** 
+    *   **head out**: 출발하다, 나가다
+    *   **pull over**: 차를 길가에 세우다
+    *   **mix up**: 혼동하다
+    *   **freak out**: 자제력을 잃다, 매우 놀라다
+    *   **get through**: 통과하다, 견뎌내다
+    *   **brush up on**: 다시 공부하다, 갈고닦다
+    *   **get the hang of**: ~의 요령을 터득하다
+*   **Idioms:**
+    *   **tell you the truth**: 솔직히 말해서
+    *   **get behind the wheel**: 운전대를 잡다
+    *   **keep one's cool**: 평정심을 유지하다
+    *   **close call**: 위기일발, 아슬아슬한 순간
+    *   **on cloud nine**: 너무나 행복한
+    *   **piece of cake**: 식은 죽 먹기
+    *   **butterflies in one’s stomach**: (긴장으로) 가슴이 두근거리다/조마조마하다
