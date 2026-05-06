@@ -151,7 +151,7 @@ def generate_vocab_content(entry_text):
 
     try:
         response = client.models.generate_content(
-            model="gemini-2.0-flash-lite", # 가장 빠르고 안정적인 모델 적용
+            model="gemini-flash-lite-latest", # 가장 빠르고 안정적인 모델 적용
             contents=prompt,
             config=types.GenerateContentConfig(
                 response_mime_type="application/json",
