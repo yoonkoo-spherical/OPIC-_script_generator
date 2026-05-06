@@ -6324,3 +6324,109 @@ However, I knew I had to <strong style="color:blue;">get through</strong> it to 
     *   **on cloud nine**: 너무나 행복한
     *   **piece of cake**: 식은 죽 먹기
     *   **butterflies in one’s stomach**: (긴장으로) 가슴이 두근거리다/조마조마하다
+
+## 2026-05-06 05:47:47 OPIc Study
+
+안녕하세요! OPIc AL 등급 취득을 위한 전문 강사입니다. AL 등급을 목표로 하신다면 단순히 상황을 나열하는 것을 넘어, **구체적인 묘사(vivid description), 자연스러운 문장 연결(cohesion), 그리고 원어민스러운 표현(idioms & phrasal verbs)**의 활용이 핵심입니다.
+
+요청하신 세 가지 주제에 맞춰 AL 수준의 모범 답안을 구성해 드립니다.
+
+---
+
+## 1. 묘사 (Description): 대중교통의 혼잡한 풍경
+
+**[Question]**
+I’d like to know about the public transportation in your country. What does it look like during the morning or evening rush hour? Please describe the crowded scene in detail.
+(당신 나라의 대중교통에 대해 알고 싶습니다. 아침이나 저녁 출퇴근 시간대에는 어떤 모습인가요? 혼잡한 풍경을 자세히 묘사해 주세요.)
+
+**[Model Answer]**
+To be honest, describing the rush hour in Seoul is like describing a scene from an action movie where everyone is <strong style="color:blue;">racing against the clock</strong>. Since most people rely heavily on the subway and bus systems, the stations become <strong style="color:blue;">packed to the gills</strong> during peak hours.
+
+Every morning, as I <strong style="color:blue;">head out</strong> to work, the first thing I notice is the sheer volume of people. At the transfer stations, it’s not just a crowd; it's a massive tidal wave of commuters. You can see people <strong style="color:blue;">elbowing their way through</strong> the crowd just to <strong style="color:blue;">get on</strong> the train before the doors slam shut. Once you’re inside the subway car, personal space becomes a luxury you simply can't afford. We are basically <strong style="color:blue;">packed like sardines</strong>.
+
+What’s interesting, though, is the silence. Despite the physical chaos, most people are <strong style="color:blue;">glued to</strong> their smartphones, wearing noise-canceling headphones to <strong style="color:blue;">tune out</strong> the hustle and bustle. You’ll see people <strong style="color:blue;">dozing off</strong> while standing up, which is quite a skill if you <strong style="color:blue;">think about it</strong>. The atmosphere is a strange mix of high-speed movement and weary stillness. By the time I finally <strong style="color:blue;">hop off</strong> at my stop, I often feel like I’ve already finished a full day’s work. It’s definitely not the most pleasant experience, but it’s a quintessential part of the daily grind in a big city.
+
+**[Key Vocabulary & Expressions]**
+*   **Vocabulary:** Commuters (통근자), Tidal wave (거대한 물결), Quintessential (전형적인), Daily grind (매일 반복되는 지루한 일)
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">head out</strong>: 출발하다, 나가다
+    *   <strong style="color:blue;">get on</strong>: (차량 등에) 타다
+    *   <strong style="color:blue;">tune out</strong>: 무시하다, 소리를 듣지 않다
+    *   <strong style="color:blue;">dozing off</strong>: (잠깐) 졸다
+    *   <strong style="color:blue;">think about it</strong>: 그것에 대해 생각하다
+    *   <strong style="color:blue;">hop off</strong>: (차량에서) 내리다
+*   **Idioms:**
+    *   <strong style="color:blue;">racing against the clock</strong>: 시간과 다투다, 매우 급히 서두르다
+    *   <strong style="color:blue;">packed to the gills</strong>: (사람/물건으로) 꽉 차다
+    *   <strong style="color:blue;">elbowing their way through</strong>: 팔꿈치로 밀치며 나아가다
+    *   <strong style="color:blue;">packed like sardines</strong>: 콩나물시루처럼 빽빽이 들어찬
+    *   <strong style="color:blue;">glued to</strong>: ~에 열중하다 (딱 붙어 있다)
+
+---
+
+## 2. 롤플레이 (Role-play): 동료에게 업무 부탁하기
+
+**[Question]**
+You have an urgent personal matter to attend to, and you need to leave the office early. Call your colleague, explain the situation, and politely ask if they can handle some of your remaining tasks for you.
+(급한 개인 사정이 생겨 조기 퇴근을 해야 합니다. 동료에게 전화하여 상황을 설명하고, 남은 업무 중 일부를 대신 처리해 줄 수 있는지 정중하게 부탁해 보세요.)
+
+**[Model Answer]**
+Hi, Sarah. This is [Your Name]. I’m so sorry to <strong style="color:blue;">reach out to</strong> you like this at the last minute, but I was wondering if I could ask you a huge favor. 
+
+Something urgent has <strong style="color:blue;">cropped up</strong> at home—there’s a minor emergency with my water pipes—and I really need to <strong style="color:blue;">take off</strong> right now to meet the plumber. I feel terrible about <strong style="color:blue;">dropping everything</strong> on you, but I’m currently <strong style="color:blue;">snowed under</strong> with the final report for the marketing project. 
+
+Would you mind <strong style="color:blue;">looking over</strong> the last two pages and checking for any typos? Also, if you could <strong style="color:blue;">follow up on</strong> the email from the design team, I’d be incredibly grateful. I’ve already finished the core analysis, so it shouldn’t <strong style="color:blue;">take up</strong> too much of your time. 
+
+I know you’re busy with your own workload, and I wouldn’t ask if it weren't absolutely necessary. I promise to <strong style="color:blue;">make it up to</strong> you as soon as I <strong style="color:blue;">get back</strong> tomorrow. I’ll even <strong style="color:blue;">pick up</strong> lunch for you! Please <strong style="color:blue;">let me know</strong> if this is okay with you. Thanks a million, Sarah.
+
+**[Key Vocabulary & Expressions]**
+*   **Vocabulary:** Urgent (긴급한), Plumber (배관공), Grateful (감사하는), Analysis (분석)
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">reach out to</strong>: ~에게 연락하다
+    *   <strong style="color:blue;">cropped up</strong>: (예상치 못하게) 발생하다
+    *   <strong style="color:blue;">take off</strong>: (급히) 떠나다
+    *   <strong style="color:blue;">look over</strong>: 훑어보다, 검토하다
+    *   <strong style="color:blue;">follow up on</strong>: ~에 대해 후속 조치를 취하다
+    *   <strong style="color:blue;">take up</strong>: (시간/공간을) 차지하다
+    *   <strong style="color:blue;">get back</strong>: 돌아오다
+    *   <strong style="color:blue;">pick up</strong>: (물건을) 사다, 집어 들다
+    *   <strong style="color:blue;">let me know</strong>: 나에게 알려주다
+*   **Idioms:**
+    *   <strong style="color:blue;">dropping everything</strong>: 모든 것을 팽개치다
+    *   <strong style="color:blue;">snowed under</strong>: (일이) 산더미처럼 쌓이다
+    *   <strong style="color:blue;">make it up to</strong>: ~에게 신세를 갚다/보상하다
+
+---
+
+## 3. 돌발질문 (Unexpected): 상사/선생님과의 오해
+
+**[Question]**
+Tell me about a time when you had a misunderstanding with a boss or a teacher. What was the situation, and how did you resolve the conflict?
+(상사나 선생님과 오해가 생겼던 경험에 대해 말해 주세요. 어떤 상황이었으며, 그 갈등을 어떻게 해결했나요?)
+
+**[Model Answer]**
+I remember a time when I had a bit of a <strong style="color:blue;">run-in</strong> with my manager during a major project last year. To <strong style="color:blue;">set the scene</strong>, we were working on a tight deadline, and there was a major <strong style="color:blue;">breakdown in communication</strong> regarding the client’s feedback. 
+
+My manager thought I had ignored some critical changes requested by the client, but in reality, I hadn't <strong style="color:blue;">come across</strong> that specific email because it was <strong style="color:blue;">sent out</strong> to the wrong folder. When he <strong style="color:blue;">called me out</strong> in front of the team, I felt incredibly frustrated because I pride myself on being diligent. It was a classic case of <strong style="color:blue;">getting our wires crossed</strong>.
+
+Instead of <strong style="color:blue;">lashing out</strong> or getting defensive, I decided to <strong style="color:blue;">sleep on it</strong> to calm my nerves. The next morning, I requested a private meeting to <strong style="color:blue;">clear the air</strong>. I showed him the timestamp of when I received the correct information and explained the technical glitch. Once we <strong style="color:blue;">talked it through</strong>, he realized it was a simple misunderstanding and even apologized for his reaction. 
+
+Looking back, that experience taught me the importance of <strong style="color:blue;">standing up for</strong> myself while maintaining professionalism. It actually helped <strong style="color:blue;">smooth things over</strong> in the long run and strengthened our working relationship because we established a better way to double-check urgent communications.
+
+**[Key Vocabulary & Expressions]**
+*   **Vocabulary:** Resolution (해결), Diligent (성실한), Glitch (결함/오류), Professionalism (프로 정신)
+*   **Phrasal Verbs:**
+    *   <strong style="color:blue;">come across</strong>: 우연히 발견하다
+    *   <strong style="color:blue;">sent out</strong>: 발송하다
+    *   <strong style="color:blue;">called me out</strong>: (잘못 등을) 지적하다/호명하다
+    *   <strong style="color:blue;">lashing out</strong>: 몰아세우다, 화를 내다
+    *   <strong style="color:blue;">talked it through</strong>: 충분히 논의하다
+    *   <strong style="color:blue;">standing up for</strong>: ~을 옹호하다/지지하다
+    *   <strong style="color:blue;">smooth things over</strong>: 상황을 수습하다, 원만하게 만들다
+*   **Idioms:**
+    *   <strong style="color:blue;">run-in</strong>: (안 좋은 일로 인한) 언쟁, 마찰
+    *   <strong style="color:blue;">set the scene</strong>: 상황을 설명하다
+    *   <strong style="color:blue;">breakdown in communication</strong>: 의사소통의 부재/장애
+    *   <strong style="color:blue;">getting our wires crossed</strong>: 오해가 생기다, 손발이 안 맞다
+    *   <strong style="color:blue;">sleep on it</strong>: 신중히 생각하다 (하룻밤 자며 생각하다)
+    *   <strong style="color:blue;">clear the air</strong>: 오해를 풀다, 분위기를 가라앉히다
