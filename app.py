@@ -7,14 +7,24 @@ from collections import defaultdict
 from google import genai
 from google.genai import types
 
-# Streamlit 페이지 기본 설정 (와이드 모드 적용 권장)
+# Streamlit 페이지 기본 설정 (3열 배치를 위해 wide 모드 적용)
 st.set_page_config(page_title="OPIc Study Dashboard", layout="wide")
+
+def clean_html_tags(text):
+    """HTML 색상 태그를 Streamlit 네이티브 마크다운 문법으로 변환합니다."""
+    # <strong style="color:blue;">텍스트</strong> -> :blue[**텍스트**]
+    text = re.sub(
+        r'<(?:strong|span|b)[^>]*color:\s*blue[^>]*>(.*?)</(?:strong|span|b)>', 
+        r':blue[**\1**]', 
+        text, 
+        flags=re.IGNORECASE | re.DOTALL
+    )
+    return text
 
 def parse_log_file():
     """
     md 파일을 읽어 날짜별로 그룹화하고, 
-    인사말 제거, 문제/답안/어휘를 하나의 세트로 묶어 파싱합니다.
-    (LLM 토큰 소모가 없는 100% 로컬 텍스트 처리 함수입니다.)
+    인사말 제거 및 문제/답안/어휘를 하나의 온전한 세트로 파싱합니다.
     """
     file_path = "opic_study_log.md"
     if not os.path.exists(file_path):
@@ -41,52 +51,66 @@ def parse_log_file():
             continue
         date_str = date_match.group(1)
         
-        # '### ' 또는 '## 1.' 등으로 시작하는 문제 단락을 기준으로 본문 분할
-        # (이때 #### 인 단어장(Vocab) 부분은 잘리지 않고 문제와 한 덩어리로 유지됨)
-        blocks = re.split(r'\n(?=###\s|##\s\d\.)', '\n' + body)
+        # 1. '---' 구분선을 기준으로 개별 문제 블록 분할 (질문+답안+어휘가 묶이도록 보장)
+        blocks = re.split(r'\n\s*---\s*\n', body.strip())
         
+        # '---' 구분선이 없을 경우를 대비한 예비 분할 로직 (### 묘사 등 기준)
+        if len(blocks) <= 1:
+            blocks = re.split(r'\n(?=###\s*(?:묘사|롤플레이|돌발|Description|Role-?play|Unexpected))', '\n' + body, flags=re.I)
+            
         for block in blocks:
             block = block.strip()
             if not block:
                 continue
             
-            # 'Q:' 또는 'Question'이 포함된 블록만 추출 (인사말 필터링)
+            # 'Q:' 또는 'Question'이 포함되지 않은 블록(인사말 등) 필터링
             if not re.search(r'Q:|Question', block, re.I):
                 continue
             
-            # 끝부분에 남아있는 불필요한 '---' 구분선 제거
-            block = re.sub(r'\n---+[\s]*$', '', block).strip()
+            # HTML 파란색 태그를 마크다운으로 변환하여 깨짐 방지
+            block = clean_html_tags(block)
             
+            # 2. 제목 줄을 찾아 유형(Type)과 주제(Topic) 추출
             lines = block.split('\n')
-            header_raw = lines[0]
-            header_clean = re.sub(r'^#+\s*|\*+|\[|\]', '', header_raw).strip()
+            header_clean = ""
             
-            # 1. 문제 유형 추출
+            # 상위 5줄 내에서 제목이 될 만한 헤더 찾기
+            for line in lines[:5]:
+                clean_line = re.sub(r'^#+\s*|\*+|\[|\]', '', line).strip()
+                if re.search(r'(묘사|롤플레이|돌발|Description|Role-?play|Unexpected)', clean_line, re.I):
+                    header_clean = clean_line
+                    break
+            
+            # 못 찾았다면 첫 번째 줄을 헤더로 간주
+            if not header_clean:
+                header_clean = re.sub(r'^#+\s*|\*+|\[|\]', '', lines[0]).strip()
+            
+            # 문제 유형(Type) 추출
             type_str = "기타"
             if re.search(r'description|묘사', header_clean, re.I): type_str = "묘사"
             elif re.search(r'role-?play|롤플레이', header_clean, re.I): type_str = "롤플레이"
             elif re.search(r'unexpected|issue|돌발', header_clean, re.I): type_str = "돌발"
             
-            # 2. 주제 추출
+            # 주제(Topic) 추출
             topic_str = ""
             if ':' in header_clean:
                 topic_str = header_clean.split(':', 1)[1].strip()
             elif '-' in header_clean:
                 topic_str = header_clean.split('-', 1)[1].strip()
+            else:
+                topic_str = re.sub(r'(묘사|롤플레이|돌발|Description|Role-?play|Unexpected)', '', header_clean, flags=re.I).strip()
+            
             topic_str = re.sub(r'\(|\)', '', topic_str).strip()
             
-            ignore_topics = ['묘사', 'roleplay', 'role-play', 'unexpected', 'description', '롤플레이', '돌발', 'issue', '']
-            
-            # 주제가 추출되지 않았을 경우 Q: 줄에서 발췌
-            if not topic_str or topic_str.lower() in ignore_topics:
+            # 추출된 주제가 빈칸이거나 무의미할 경우, Q: 질문 내용에서 일부분 발췌
+            if not topic_str or topic_str.lower() in ['question', 'q', '기타']:
                 for line in lines:
-                    if re.match(r'^\*?\*?Q:', line.strip()):
-                        clean_q = re.sub(r'^\*?\*?Q:\s*', '', line.strip())
-                        clean_q = re.sub(r'\*+', '', clean_q)
-                        topic_str = clean_q[:35] + "..." if len(clean_q) > 35 else clean_q
+                    clean_line = re.sub(r'^#+\s*|\*+|\[|\]', '', line).strip()
+                    if re.search(r'[a-zA-Z가-힣]', clean_line) and not re.search(r'Question|Q:|묘사|롤플레이|돌발', clean_line, re.I):
+                        topic_str = clean_line[:35] + "..." if len(clean_line) > 35 else clean_line
                         break
                         
-            if not topic_str or topic_str.lower() in ignore_topics:
+            if not topic_str:
                 topic_str = "주제 생략"
                 
             parsed_entries.append({
@@ -127,7 +151,7 @@ def generate_vocab_content(entry_text):
 
     try:
         response = client.models.generate_content(
-            model="gemini-2.5-flash",
+            model="gemini-2.0-flash", # 가장 빠르고 안정적인 모델 적용
             contents=prompt,
             config=types.GenerateContentConfig(
                 response_mime_type="application/json",
@@ -183,21 +207,20 @@ with tab1:
         st.subheader(f"**{data['selected_word']}** : {data['meaning']}")
         st.divider()
 
-        # HTML 태그 렌더링이 필요할 수 있으므로 unsafe_allow_html=True 적용
         st.markdown("### 1. Original Example (From Script)")
-        st.markdown(data['original_sentence'], unsafe_allow_html=True)
+        st.markdown(clean_html_tags(data['original_sentence']))
         with st.expander("단락 보기 (Context Paragraph)"):
-            st.markdown(data['paragraph_original'], unsafe_allow_html=True)
+            st.markdown(clean_html_tags(data['paragraph_original']))
 
         st.markdown("### 2. New Example 1")
-        st.markdown(data['new_sentence_1'], unsafe_allow_html=True)
+        st.markdown(clean_html_tags(data['new_sentence_1']))
         with st.expander("단락 보기 (Context Paragraph)"):
-            st.markdown(data['paragraph_1'], unsafe_allow_html=True)
+            st.markdown(clean_html_tags(data['paragraph_1']))
 
         st.markdown("### 3. New Example 2")
-        st.markdown(data['new_sentence_2'], unsafe_allow_html=True)
+        st.markdown(clean_html_tags(data['new_sentence_2']))
         with st.expander("단락 보기 (Context Paragraph)"):
-            st.markdown(data['paragraph_2'], unsafe_allow_html=True)
+            st.markdown(clean_html_tags(data['paragraph_2']))
 
 # --- Tab 2: Study Log Viewer ---
 with tab2:
@@ -224,9 +247,9 @@ with tab2:
                 
                 for j, entry in enumerate(row_items):
                     with cols[j]:
-                        # 요청하신 " (문제유형) : 주제 " 포맷 적용
-                        title = f"({entry['type']}) : {entry['topic']}"
+                        # 요청하신 "YYYY-MM-DD (문제유형) : 주제" 포맷 적용
+                        title = f"{entry['date']} ({entry['type']}) : {entry['topic']}"
                         with st.expander(title):
-                            # unsafe_allow_html=True 로 파란색 글씨 정상 출력
-                            st.markdown(entry["content"], unsafe_allow_html=True)
+                            # clean_html_tags 덕분에 파란색 글씨가 깔끔한 텍스트로 보입니다.
+                            st.markdown(entry["content"])
             st.divider()
