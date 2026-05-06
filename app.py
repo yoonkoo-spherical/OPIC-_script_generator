@@ -3,16 +3,18 @@ import os
 import random
 import json
 import re
+from collections import defaultdict
 from google import genai
 from google.genai import types
 
-# Streamlit 페이지 기본 설정
-st.set_page_config(page_title="OPIc Study Dashboard", layout="centered")
+# Streamlit 페이지 기본 설정 (와이드 모드 적용 권장)
+st.set_page_config(page_title="OPIc Study Dashboard", layout="wide")
 
 def parse_log_file():
     """
-    md 파일을 읽어 날짜, 인사말 제거, 개별 문제 분리, 제목 포맷팅을 수행합니다.
-    토큰을 소모하지 않는 순수 파이썬 텍스트 처리 함수입니다.
+    md 파일을 읽어 날짜별로 그룹화하고, 
+    인사말 제거, 문제/답안/어휘를 하나의 세트로 묶어 파싱합니다.
+    (LLM 토큰 소모가 없는 100% 로컬 텍스트 처리 함수입니다.)
     """
     file_path = "opic_study_log.md"
     if not os.path.exists(file_path):
@@ -21,80 +23,82 @@ def parse_log_file():
     with open(file_path, "r", encoding="utf-8") as f:
         content = f.read()
     
-    # '## YYYY-MM-DD' 형식의 날짜 블록 기준으로 텍스트 1차 분할
-    raw_entries = re.split(r'^##\s+', content, flags=re.MULTILINE)
+    # '## YYYY-MM-DD' 형식의 날짜 블록을 기준으로 텍스트 1차 분할
+    raw_entries = re.split(r'^##\s+(?=\d{4}-\d{2}-\d{2})', content, flags=re.MULTILINE)
     parsed_entries = []
     
     for entry in raw_entries:
         if not entry.strip():
             continue
         
-        # 첫 번째 줄에서 날짜 추출
         parts = entry.split('\n', 1)
         title_line = parts[0].strip()
         body = parts[1].strip() if len(parts) > 1 else ""
         
+        # 날짜 추출 (YYYY-MM-DD)
         date_match = re.search(r'^(\d{4}-\d{2}-\d{2})', title_line)
-        date_str = date_match.group(1) if date_match else "Unknown Date"
+        if not date_match:
+            continue
+        date_str = date_match.group(1)
         
-        # '---' 구분선을 기준으로 텍스트 분할 (인사말과 문제들 분리)
-        chunks = re.split(r'\n---\n|\n--- \n|\n---\s*\n', body)
+        # '### ' 또는 '## 1.' 등으로 시작하는 문제 단락을 기준으로 본문 분할
+        # (이때 #### 인 단어장(Vocab) 부분은 잘리지 않고 문제와 한 덩어리로 유지됨)
+        blocks = re.split(r'\n(?=###\s|##\s\d\.)', '\n' + body)
         
-        # 배열의 첫 번째 요소는 무조건 인사말이므로 제외 (버림)
-        question_chunks = chunks[1:] if len(chunks) > 1 else chunks
-        
-        for chunk in question_chunks:
-            chunk = chunk.strip()
-            if not chunk:
+        for block in blocks:
+            block = block.strip()
+            if not block:
                 continue
-                
-            lines = chunk.split('\n')
+            
+            # 'Q:' 또는 'Question'이 포함된 블록만 추출 (인사말 필터링)
+            if not re.search(r'Q:|Question', block, re.I):
+                continue
+            
+            # 끝부분에 남아있는 불필요한 '---' 구분선 제거
+            block = re.sub(r'\n---+[\s]*$', '', block).strip()
+            
+            lines = block.split('\n')
             header_raw = lines[0]
-            # 불필요한 마크다운 특수기호 제거
             header_clean = re.sub(r'^#+\s*|\*+|\[|\]', '', header_raw).strip()
             
-            # 1. 문제 유형 추출 (키워드 기반 매칭)
+            # 1. 문제 유형 추출
             type_str = "기타"
             if re.search(r'description|묘사', header_clean, re.I): type_str = "묘사"
             elif re.search(r'role-?play|롤플레이', header_clean, re.I): type_str = "롤플레이"
             elif re.search(r'unexpected|issue|돌발', header_clean, re.I): type_str = "돌발"
             
-            # 2. 주제 추출 (콜론이나 하이픈 뒤의 텍스트)
+            # 2. 주제 추출
             topic_str = ""
             if ':' in header_clean:
                 topic_str = header_clean.split(':', 1)[1].strip()
             elif '-' in header_clean:
                 topic_str = header_clean.split('-', 1)[1].strip()
-            
-            # 괄호 제거 및 공백 정리
             topic_str = re.sub(r'\(|\)', '', topic_str).strip()
             
-            # 주제가 추출되지 않았거나 단순히 '묘사'와 같은 유형 이름만 남은 경우, 질문(Q:) 라인에서 발췌
             ignore_topics = ['묘사', 'roleplay', 'role-play', 'unexpected', 'description', '롤플레이', '돌발', 'issue', '']
-            if topic_str.lower() in ignore_topics:
+            
+            # 주제가 추출되지 않았을 경우 Q: 줄에서 발췌
+            if not topic_str or topic_str.lower() in ignore_topics:
                 for line in lines:
                     if re.match(r'^\*?\*?Q:', line.strip()):
                         clean_q = re.sub(r'^\*?\*?Q:\s*', '', line.strip())
                         clean_q = re.sub(r'\*+', '', clean_q)
-                        # 너무 길면 자름
-                        topic_str = clean_q[:40] + "..." if len(clean_q) > 40 else clean_q
+                        topic_str = clean_q[:35] + "..." if len(clean_q) > 35 else clean_q
                         break
                         
             if not topic_str or topic_str.lower() in ignore_topics:
                 topic_str = "주제 생략"
                 
-            # 최종 요청하신 포맷으로 병합: "YYYY-MM-DD (문제유형) : 주제"
-            formatted_title = f"{date_str} ({type_str}) : {topic_str}"
-            
             parsed_entries.append({
-                "title": formatted_title,
-                "content": chunk, # 스크립트 본문 (인사말 없음)
-                "raw": chunk      # Gemini에게 전달될 텍스트
+                "date": date_str,
+                "type": type_str,
+                "topic": topic_str,
+                "content": block,
+                "raw": block
             })
             
-    # 최신 날짜가 위로 오도록 정렬
-    parsed_entries.sort(key=lambda x: x["title"], reverse=True)
     return parsed_entries
+
 
 def generate_vocab_content(entry_text):
     """Gemini API를 호출하여 예문과 단락을 JSON 형태로 생성합니다."""
@@ -114,7 +118,7 @@ def generate_vocab_content(entry_text):
     2. 스크립트 본문에 포함된 기존 문장 1개를 찾아 예문으로 제공하십시오.
     3. 해당 어휘를 사용한 완전히 새로운 예문 2개를 생성하십시오.
     4. 위에서 도출된 3개의 예문 각각에 대해, 해당 예문이 포함된 자연스러운 문맥의 영어 단락(paragraph) 3개를 생성하십시오.
-    5. 3개의 예문과 영어 단락은 서로 다른 주제, 유사하지 않은 내용을 다루어야 합니다.
+    5. 도출된 3개의 예문과 각각의 영어 단락은 서로 다른 주제를 다루도록 하십시오.
     6. 생성된 영어 예문 및 영어 단락에 대한 한국어 해석은 절대 포함하지 마십시오.
 
     [OPIc 스크립트]
@@ -148,6 +152,7 @@ def generate_vocab_content(entry_text):
         st.error(f"콘텐츠 생성 중 오류가 발생했습니다: {e}")
         return None
 
+
 # --- UI 렌더링 ---
 st.title("OPIc Study Dashboard")
 
@@ -167,7 +172,6 @@ with tab1:
             st.error("`opic_study_log.md` 파일을 찾을 수 없거나 내용이 없습니다.")
         else:
             with st.spinner("스크립트에서 표현을 선정하고 문맥을 생성 중입니다..."):
-                # 파싱된 '개별 문제' 단위로 랜덤 추출
                 random_entry = random.choice(entries)
                 data = generate_vocab_content(random_entry["raw"])
                 if data:
@@ -179,30 +183,50 @@ with tab1:
         st.subheader(f"**{data['selected_word']}** : {data['meaning']}")
         st.divider()
 
+        # HTML 태그 렌더링이 필요할 수 있으므로 unsafe_allow_html=True 적용
         st.markdown("### 1. Original Example (From Script)")
-        st.write(data['original_sentence'])
+        st.markdown(data['original_sentence'], unsafe_allow_html=True)
         with st.expander("단락 보기 (Context Paragraph)"):
-            st.write(data['paragraph_original'])
+            st.markdown(data['paragraph_original'], unsafe_allow_html=True)
 
         st.markdown("### 2. New Example 1")
-        st.write(data['new_sentence_1'])
+        st.markdown(data['new_sentence_1'], unsafe_allow_html=True)
         with st.expander("단락 보기 (Context Paragraph)"):
-            st.write(data['paragraph_1'])
+            st.markdown(data['paragraph_1'], unsafe_allow_html=True)
 
         st.markdown("### 3. New Example 2")
-        st.write(data['new_sentence_2'])
+        st.markdown(data['new_sentence_2'], unsafe_allow_html=True)
         with st.expander("단락 보기 (Context Paragraph)"):
-            st.write(data['paragraph_2'])
+            st.markdown(data['paragraph_2'], unsafe_allow_html=True)
 
 # --- Tab 2: Study Log Viewer ---
 with tab2:
-    st.header("Daily OPIc Scripts")
-    
     if not entries:
         st.info("현재 저장된 학습 스크립트가 없습니다.")
     else:
-        # 요구사항에 맞게 변환된 제목으로 Expander 생성
+        # 1. 날짜별로 데이터 그룹화
+        grouped_entries = defaultdict(list)
         for entry in entries:
-            with st.expander(f"📁 {entry['title']}"):
-                # 인사말이 제거된 해당 스크립트 내용만 렌더링
-                st.markdown(entry["content"])
+            grouped_entries[entry['date']].append(entry)
+            
+        # 2. 최신 날짜순 정렬
+        sorted_dates = sorted(grouped_entries.keys(), reverse=True)
+        
+        # 3. 화면 렌더링 (날짜별 3열 구조)
+        for date in sorted_dates:
+            st.subheader(f"📅 {date}")
+            items = grouped_entries[date]
+            
+            # 3개 단위로 잘라서 Row(행) 생성
+            for i in range(0, len(items), 3):
+                cols = st.columns(3)
+                row_items = items[i:i+3]
+                
+                for j, entry in enumerate(row_items):
+                    with cols[j]:
+                        # 요청하신 " (문제유형) : 주제 " 포맷 적용
+                        title = f"({entry['type']}) : {entry['topic']}"
+                        with st.expander(title):
+                            # unsafe_allow_html=True 로 파란색 글씨 정상 출력
+                            st.markdown(entry["content"], unsafe_allow_html=True)
+            st.divider()
