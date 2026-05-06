@@ -337,22 +337,58 @@ def generate_opic_content():
     2. 롤플레이 (Role-play): {today_rp}
     3. 돌발질문 (Unexpected): {today_unexp}
 
-    다음 조건을 엄격하게 준수하여 답변을 작성하십시오.
+    [필수 준수 조건]
+    1. 분량: 각 질문에 대한 모범 답안은 실제 발화 시 약 2분 30초 분량이 되도록 작성할 것.
+    2. 강조: 답안 스크립트 본문 내의 '주요 구동사'와 '숙어'는 반드시 <strong style="color:blue;">텍스트</strong> HTML 태그를 사용할 것.
+    3. 제약: 시스템 파싱을 위해 인사말(예: 반갑습니다), 맺음말, 추가 설명은 절대 출력하지 마십시오. 오직 아래의 [출력 템플릿] 양식에만 맞추어 텍스트를 생성하십시오.
 
-    1. 구성: 위 지정된 3가지 주제에 맞춰 각각 하나씩 총 3개의 질문을 생성할 것.
-    2. 분량: 각 질문에 대한 모범 답안은 실제 영어로 발화 시 약 2분 30초 분량이 되도록 작성할 것.
-    3. 필수 포함 요소:
-       - 질문 (영어 및 한국어 번역)
-       - AL 레벨의 모범 답안 스크립트
-       - 스크립트에 사용된 주요 Vocabulary, 주요 구동사(Phrasal verbs), 숙어(Idioms) 정리 리스트
-    4. 서식 및 강조:
-       - 답안 스크립트 본문 내에 있는 '주요 구동사'와 '숙어'는 반드시 HTML 태그를 사용하여 <strong style="color:blue;">텍스트</strong> 형태로 작성할 것. (파란색 볼드체 적용)
-       - 전체 문서는 Markdown 문법으로 구조화할 것.
+    [출력 템플릿] (이 양식을 그대로 복사하여 내용을 채울 것)
+
+    ### 묘사 : (주제를 20자 이내로 요약)
+
+    **[Question]**
+    (영어 질문)
+    (한국어 번역)
+
+    **[Model Answer]**
+    (AL 레벨 모범 답안 스크립트)
+
+    **[Vocabulary & Expressions]**
+    * 영어 단어: 한국어 뜻
+    * <strong style="color:blue;">구동사/숙어</strong>: 한국어 뜻
+
+    ---
+    ### 롤플레이 : (주제를 20자 이내로 요약)
+
+    **[Question]**
+    (영어 질문)
+    (한국어 번역)
+
+    **[Model Answer]**
+    (AL 레벨 모범 답안 스크립트)
+
+    **[Vocabulary & Expressions]**
+    * 영어 단어: 한국어 뜻
+    * <strong style="color:blue;">구동사/숙어</strong>: 한국어 뜻
+
+    ---
+    ### 돌발 : (주제를 20자 이내로 요약)
+
+    **[Question]**
+    (영어 질문)
+    (한국어 번역)
+
+    **[Model Answer]**
+    (AL 레벨 모범 답안 스크립트)
+
+    **[Vocabulary & Expressions]**
+    * 영어 단어: 한국어 뜻
+    * <strong style="color:blue;">구동사/숙어</strong>: 한국어 뜻
     """
 
     # generate_content 호출
     response = client.models.generate_content(
-        model="gemini-flash-latest",
+        model="gemini-2.5-flash",
         contents=prompt
     )
     return response.text
