@@ -6430,3 +6430,64 @@ Looking back, that experience taught me the importance of <strong style="color:b
     *   <strong style="color:blue;">getting our wires crossed</strong>: 오해가 생기다, 손발이 안 맞다
     *   <strong style="color:blue;">sleep on it</strong>: 신중히 생각하다 (하룻밤 자며 생각하다)
     *   <strong style="color:blue;">clear the air</strong>: 오해를 풀다, 분위기를 가라앉히다
+
+## 2026-05-06 13:22:28 OPIc Study
+
+### 묘사 : 여행 필수 소지품
+
+**[Question]**
+Tell me about some of the essential items you always pack when you go on a trip. What are they, and why are they so important to you? Please describe them in detail.
+여행 갈 때 항상 챙기는 필수 소지품에 대해 말해주세요. 그것들은 무엇이며 왜 당신에게 그렇게 중요한가요? 상세히 묘사해주세요.
+
+**[Model Answer]**
+When it comes to traveling, I have a strict packing list that I never leave behind. First and foremost, a universal travel adapter is a must-have. Since different countries have different plug types, I always <strong style="color:blue;">keep an eye out for</strong> the most reliable one. Without it, I’d be completely <strong style="color:blue;">cut off from</strong> the digital world, which is a nightmare for a tech-savvy person like me. Another item I never travel without is my noise-canceling headphones. Traveling, especially on long-haul flights, can be incredibly draining, and the constant hum of the engine really gets on my nerves. Putting these headphones on helps me <strong style="color:blue;">shut out</strong> the noise and creates my own peaceful sanctuary. Lastly, I always pack a small, lightweight portable charger. You know how quickly your battery <strong style="color:blue;">runs down</strong> when you’re using GPS or taking photos all day. I’ve had many moments where my phone almost died, but thanks to this charger, I could <strong style="color:blue;">get by</strong> without any stress. These items might seem trivial, but they truly <strong style="color:blue;">make a difference</strong> in how much I enjoy my trip. They keep me connected, comfortable, and stress-free throughout my entire journey.
+
+**[Vocabulary & Expressions]**
+* Universal: 범용의, 전 세계 어디서든 쓸 수 있는
+* Sanctuary: 안식처
+* <strong style="color:blue;">keep an eye out for</strong>: ~을 주의 깊게 살피다
+* <strong style="color:blue;">cut off from</strong>: ~로부터 단절된
+* <strong style="color:blue;">shut out</strong>: (소리 등을) 차단하다
+* <strong style="color:blue;">runs down</strong>: (배터리가) 다 되다
+* <strong style="color:blue;">get by</strong>: 그럭저럭 해나가다/버티다
+* <strong style="color:blue;">make a difference</strong>: 중요한 차이를 만들다
+
+---
+### 롤플레이 : 배송 시간 변경 요청
+
+**[Question]**
+You ordered a new bed from a furniture store, and it is scheduled to be delivered tomorrow. However, something urgent has come up, and you need to change the delivery time. Call the furniture store and explain your situation. Ask for a change in time and suggest an alternative.
+가구점에서 침대를 주문했고 내일 배송 예정입니다. 하지만 급한 일이 생겨서 배송 시간을 변경해야 합니다. 가구점에 전화해서 상황을 설명하고, 시간 변경을 요청한 뒤 대안을 제시하세요.
+
+**[Model Answer]**
+Hi, I’m calling to talk about the delivery of the queen-sized bed I ordered last week. It’s currently scheduled to arrive tomorrow morning, but something urgent has <strong style="color:blue;">come up</strong> unexpectedly. I’m really sorry for the inconvenience, but I won’t be home at that time. Is there any way we can <strong style="color:blue;">push back</strong> the delivery to the afternoon or perhaps to the day after tomorrow? I’ve been looking forward to this bed, so I don't want to <strong style="color:blue;">call off</strong> the order entirely. If you could accommodate me, that would be fantastic. I’m quite flexible tomorrow evening after 6 PM, or if that doesn’t work, I can be available anytime on Thursday. Could you please check your schedule and let me know if we can <strong style="color:blue;">work something out</strong>? I really appreciate your understanding and I’m sorry for any trouble this might <strong style="color:blue;">bring about</strong>. Please let me know what works best for your delivery team. Thank you!
+
+**[Vocabulary & Expressions]**
+* Inconvenience: 불편
+* Accommodate: (요구 등을) 수용하다, 편의를 봐주다
+* <strong style="color:blue;">come up</strong>: (일이) 생기다
+* <strong style="color:blue;">push back</strong>: (일정을) 뒤로 미루다
+* <strong style="color:blue;">call off</strong>: 취소하다
+* <strong style="color:blue;">work something out</strong>: 문제를 해결하다/합의점을 찾다
+* <strong style="color:blue;">bring about</strong>: 야기하다/초래하다
+
+---
+### 돌발 : 대중교통 돌발 상황
+
+**[Question]**
+Have you ever experienced an unexpected situation while commuting on a subway or bus? What happened, and how did you handle it? Tell me about your experience in detail.
+지하철이나 버스로 출퇴근(통학)하던 중 돌발 상황을 겪은 적이 있나요? 무슨 일이 있었고 어떻게 대처했나요? 경험을 상세히 말해주세요.
+
+**[Model Answer]**
+Honestly, commuting is usually uneventful, but one time, I had a truly bizarre experience on the subway. I was on my way to work during rush hour, and the train was packed. Suddenly, the train came to a screeching halt in the middle of a tunnel. The lights flickered and then died out completely. Everyone started to <strong style="color:blue;">freak out</strong> because we had no idea what was going on. A few minutes later, the conductor announced that there was a power outage on the line. People began to <strong style="color:blue;">get restless</strong>, and the air in the carriage was getting stuffy. I decided I shouldn't just sit there and <strong style="color:blue;">panic</strong>. I tried to stay calm and <strong style="color:blue;">bring up</strong> a conversation with the person next to me to help <strong style="color:blue;">ease the tension</strong>. We talked about how we were going to be late, which actually helped us <strong style="color:blue;">bond over</strong> the unfortunate situation. After about 30 minutes, the train finally started moving again at a snail's pace. It was such a relief to finally reach the next station and get off. I realized that keeping a cool head is crucial when you are <strong style="color:blue;">caught up in</strong> such an unexpected incident.
+
+**[Vocabulary & Expressions]**
+* Screeching halt: 급정거
+* Stuffy: 답답한
+* Snail's pace: 매우 느린 속도
+* <strong style="color:blue;">freak out</strong>: 당황해서 어쩔 줄 모르다
+* <strong style="color:blue;">get restless</strong>: 가만히 있지 못하다/안달 나다
+* <strong style="color:blue;">bring up</strong>: (대화를) 꺼내다
+* <strong style="color:blue;">ease the tension</strong>: 긴장을 완화하다
+* <strong style="color:blue;">bond over</strong>: (~라는 경험을 공유하며) 유대감을 느끼다
+* <strong style="color:blue;">caught up in</strong>: ~에 휘말리다/갇히다
