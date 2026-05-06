@@ -388,7 +388,7 @@ def generate_opic_content():
 
     # generate_content 호출
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-1.5-flash",
         contents=prompt
     )
     return response.text
