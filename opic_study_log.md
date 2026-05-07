@@ -6491,3 +6491,76 @@ Honestly, commuting is usually uneventful, but one time, I had a truly bizarre e
 * <strong style="color:blue;">ease the tension</strong>: 긴장을 완화하다
 * <strong style="color:blue;">bond over</strong>: (~라는 경험을 공유하며) 유대감을 느끼다
 * <strong style="color:blue;">caught up in</strong>: ~에 휘말리다/갇히다
+
+## 2026-05-07 05:51:23 OPIc Study
+
+### 묘사 : 은행의 풍경과 분위기 묘사
+
+**[Question]**
+Please describe the bank you usually visit. What do the bank tellers look like while they are working, and what is the atmosphere like with the customers waiting in line?
+평소 방문하는 은행을 묘사해 주세요. 은행원들이 일할 때 어떤 모습인지, 그리고 고객들이 대기할 때의 분위기는 어떤지 설명해 주세요.
+
+**[Model Answer]**
+Honestly, banks these days are quite different from how they used to be. The branch I visit is located in a very busy part of the city, so it’s always <strong style="color:blue;">packed with</strong> people. When you walk in, the first thing you notice is the sound of the ticket machine and the hushed murmurs of people waiting.
+
+The tellers are always <strong style="color:blue;">on their toes</strong>. They are strictly dressed in formal uniforms, looking very professional and composed despite the heavy workload. You can see them <strong style="color:blue;">typing away</strong> at their computers with intense focus, constantly multitasking—answering phones, processing documents, and dealing with customers simultaneously. Even when the lines get long, they try to <strong style="color:blue;">keep their cool</strong> and offer a polite smile to everyone.
+
+As for the customers, the atmosphere is usually a mix of impatience and boredom. You see people <strong style="color:blue;">glancing at</strong> their watches or checking their phones, clearly eager to <strong style="color:blue;">get it over with</strong>. Some elderly folks look a bit confused by the digital kiosks, while business people are usually tapping their feet, looking frustrated because they are in a rush. Overall, it’s a high-pressure environment, but there is a strange sense of orderliness that makes the whole process <strong style="color:blue;">go smoothly</strong>.
+
+**[Vocabulary & Expressions]**
+* Composed: 침착한
+* Orderliness: 정돈됨
+* <strong style="color:blue;">Packed with</strong>: ~로 꽉 찬
+* <strong style="color:blue;">On one's toes</strong>: 긴장을 늦추지 않는
+* <strong style="color:blue;">Typing away</strong>: 열심히 타이핑하다
+* <strong style="color:blue;">Keep one's cool</strong>: 침착함을 유지하다
+* <strong style="color:blue;">Glance at</strong>: 힐끗 보다
+* <strong style="color:blue;">Get it over with</strong>: 서둘러 끝내버리다
+* <strong style="color:blue;">Go smoothly</strong>: 원활하게 진행되다
+
+---
+### 롤플레이 : 모임 장소를 찾기 위해 전화하기
+
+**[Question]**
+You are on your way to a club meeting, but you realize you are lost. Call the club's general manager, explain the situation, and ask for the exact directions to the venue.
+동호회 모임 장소로 가고 있는데 길을 잃었습니다. 총무에게 전화하여 상황을 설명하고, 장소로 가는 정확한 길을 물어보세요.
+
+**[Model Answer]**
+Hi, Min-ho! It’s me. I’m so sorry to bother you, but I think I’m totally <strong style="color:blue;">turned around</strong>. I’m currently standing in front of a giant coffee shop near the subway station, but I can’t seem to <strong style="color:blue;">figure out</strong> where the restaurant is.
+
+I’ve been walking around in circles for about ten minutes, and my phone’s GPS is <strong style="color:blue;">acting up</strong>, so I’m really struggling here. Could you please give me some clear directions from where I am? I really don't want to <strong style="color:blue;">miss out on</strong> the start of the meeting. 
+
+Wait, are there any landmarks nearby? Maybe a bookstore or a park? Oh, I see a library across the street! Should I cross the road and head straight, or do I need to turn left at the corner? I’m sorry, I’m not really good with directions, so if you could explain it slowly, I would really <strong style="color:blue;">appreciate it</strong>. I’ll make sure to <strong style="color:blue;">pick up the pace</strong> once I get the right direction. Thanks so much for your help, and I’ll be there as soon as possible!
+
+**[Vocabulary & Expressions]**
+* Landmark: 주요 지형지물
+* <strong style="color:blue;">Turned around</strong>: 길을 잃은/헷갈리는
+* <strong style="color:blue;">Figure out</strong>: 알아내다/이해하다
+* <strong style="color:blue;">Acting up</strong>: 제대로 작동하지 않는
+* <strong style="color:blue;">Miss out on</strong>: ~을 놓치다
+* <strong style="color:blue;">Appreciate it</strong>: 감사하게 생각하다
+* <strong style="color:blue;">Pick up the pace</strong>: 속도를 내다
+
+---
+### 돌발 : 술자리에서 겪은 실수나 기억 상실
+
+**[Question]**
+Have you ever had a time when you drank too much at a social gathering or a company dinner and lost your memory or made a mistake? Tell me about that experience in detail.
+술자리나 회식에서 너무 취해서 기억을 잃었거나 실수했던 경험이 있나요? 그 경험에 대해 자세히 말해 주세요.
+
+**[Model Answer]**
+Oh man, this is quite embarrassing to admit, but yes, I definitely have a story like that. A few years ago, we had a major company dinner to celebrate the end of a big project. Everyone was in such high spirits, and the atmosphere was <strong style="color:blue;">off the charts</strong>. We kept ordering rounds of drinks, and I honestly didn't realize how much I was consuming.
+
+The next thing I knew, I was waking up in my bed the following morning with a <strong style="color:blue;">splitting headache</strong>. I had absolutely no memory of how I got home. I started panicking and checked my phone to see if I had <strong style="color:blue;">messed up</strong> with anyone. It turns out, I had accidentally sent a very long, sentimental, and quite incoherent text message to my boss! 
+
+When I went to work, I was so terrified that I wanted to <strong style="color:blue;">crawl into a hole</strong>. But surprisingly, my boss just laughed it off and told me that it was the most honest feedback he had ever received. I was so relieved that I didn't <strong style="color:blue;">get into trouble</strong>, but it was a massive wake-up call. Ever since that day, I’ve learned to <strong style="color:blue;">know my limits</strong> and never drink past the point of no return. It was definitely a lesson learned the hard way.
+
+**[Vocabulary & Expressions]**
+* Incoherent: 앞뒤가 안 맞는
+* Relieved: 안도하는
+* <strong style="color:blue;">Off the charts</strong>: 대단한/최고조인
+* <strong style="color:blue;">Splitting headache</strong>: 깨질 듯한 두통
+* <strong style="color:blue;">Messed up</strong>: 실수를 저지르다/망치다
+* <strong style="color:blue;">Crawl into a hole</strong>: 숨고 싶을 만큼 창피하다
+* <strong style="color:blue;">Get into trouble</strong>: 곤경에 처하다
+* <strong style="color:blue;">Know one's limits</strong>: 주량을 알다/자기 한계를 알다
