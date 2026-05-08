@@ -6564,3 +6564,77 @@ When I went to work, I was so terrified that I wanted to <strong style="color:bl
 * <strong style="color:blue;">Crawl into a hole</strong>: 숨고 싶을 만큼 창피하다
 * <strong style="color:blue;">Get into trouble</strong>: 곤경에 처하다
 * <strong style="color:blue;">Know one's limits</strong>: 주량을 알다/자기 한계를 알다
+
+## 2026-05-08 05:21:52 OPIc Study
+
+### 묘사 : 즐겨 하는 축구의 규칙 설명
+
+**[Question]**
+You indicated that you enjoy playing soccer. Tell me about the rules of soccer in detail. What are the basic regulations and how is the game played?
+당신은 축구를 즐긴다고 했습니다. 축구 규칙을 자세히 설명해 주세요. 기본적인 규정은 무엇이며 게임은 어떻게 진행되나요?
+
+**[Model Answer]**
+Well, soccer is definitely my go-to sport, and honestly, it’s quite straightforward once you <strong style="color:blue;">get the hang of</strong> it. Basically, it’s a game played between two teams of eleven players on a rectangular field. The primary objective is to score by getting the ball into the opponent's goal. Now, the most fundamental rule is that no one, except for the goalkeeper, is allowed to use their hands or arms to touch the ball. This is what makes the game so challenging and skillful, as players have to rely on their feet, chest, or head to control the ball. 
+
+The game is divided into two 45-minute halves, and the referee is there to ensure everyone plays by the rules. If a player commits a foul, such as tripping or pushing an opponent, the referee can blow the whistle and award a free kick or even a penalty kick if the foul happens inside the penalty area. Also, we have the yellow and red card system. If a player engages in unsportsmanlike conduct, they might get a yellow card as a warning, and if they <strong style="color:blue;">carry on</strong> with bad behavior, they get a red card, which means they are sent off the field. 
+
+What really <strong style="color:blue;">sets it apart</strong> from other sports is the offside rule. It’s a bit tricky to grasp at first, but basically, you can’t just hang around the opponent’s goal waiting for a pass; you need to be mindful of your positioning. It’s an incredibly dynamic sport, and you really have to <strong style="color:blue;">keep up with</strong> the pace of the game. I love it because it’s not just about physical strength; it’s about strategy and working as a team to <strong style="color:blue;">pull off</strong> a win.
+
+**[Vocabulary & Expressions]**
+* Straightforward: 간단한, 쉬운
+* Objective: 목적
+* Unsportsmanlike: 스포츠맨십에 어긋나는
+* Positioning: 위치 선정
+* <strong style="color:blue;">get the hang of</strong>: 요령을 터득하다
+* <strong style="color:blue;">carry on</strong>: 계속하다
+* <strong style="color:blue;">set apart</strong>: 구별 짓다, 차별화하다
+* <strong style="color:blue;">keep up with</strong>: 뒤처지지 않고 따라가다
+* <strong style="color:blue;">pull off</strong>: (힘든 일을) 해내다
+
+---
+### 롤플레이 : 직거래 물품 하자 발생 및 취소
+
+**[Question]**
+You are meeting a seller to buy a second-hand camera you found online. However, when you arrive, you notice a significant scratch on the lens. Call the seller and explain the situation, and tell them that you want to cancel the deal.
+온라인에서 발견한 중고 카메라를 사러 판매자를 만났습니다. 하지만 도착해보니 렌즈에 큰 흠집이 있는 것을 발견했습니다. 판매자에게 전화하여 상황을 설명하고 거래를 취소하겠다고 말하세요.
+
+**[Model Answer]**
+Hi there, I’m so sorry to bother you, but could we take a second to talk about the camera? I just got a chance to look at it closely, and I’m afraid I’ve spotted a significant scratch right in the middle of the lens. To be honest, I’m quite disappointed because the photos in your ad didn’t show any signs of damage, and it was listed as being in mint condition. 
+
+I’m really sorry, but I don’t think I can <strong style="color:blue;">go through with</strong> the purchase at this point. I was really looking forward to using this camera for my trip, but with this kind of defect, it’s just not going to work for me. I understand you might have been busy, but I really had to travel a long way to meet you, so I feel like I have to <strong style="color:blue;">call it off</strong>. 
+
+I really don’t want to <strong style="color:blue;">make a fuss</strong>, but it’s a pretty expensive item, and I can’t risk spending that much money on something that’s already damaged. Could you please double-check the lens yourself? I’m sure you didn’t do this on purpose, but I’m afraid I have to <strong style="color:blue;">back out of</strong> our agreement. I really hope you understand my position. I’ll be heading home now, but thank you for your time today.
+
+**[Vocabulary & Expressions]**
+* Significant: 상당한, 중요한
+* Defect: 결함
+* On purpose: 고의로
+* <strong style="color:blue;">go through with</strong>: ~을 완수하다, 진행하다
+* <strong style="color:blue;">call it off</strong>: 취소하다
+* <strong style="color:blue;">make a fuss</strong>: 소란을 피우다, 야단법석을 떨다
+* <strong style="color:blue;">back out of</strong>: (약속 등을) 철회하다, 손을 떼다
+
+---
+### 돌발 : 식당 이물질 발견 및 서비스 불만
+
+**[Question]**
+Tell me about a time when you were at a restaurant and something went wrong. Maybe you found something strange in your food, or you were unhappy with the service. What happened, and how did you resolve the situation?
+식당에서 무언가 잘못되었던 경험에 대해 말해주세요. 음식에서 이상한 것을 발견했거나, 서비스에 불만족스러웠던 적이 있나요? 무슨 일이 있었고, 어떻게 해결했나요?
+
+**[Model Answer]**
+Oh, this brings back a bad memory! A few months ago, I went to this popular Italian bistro that had such great reviews online. I was really excited to try their famous seafood pasta. But when I was halfway through my meal, I suddenly felt something hard in my mouth. I pulled it out, and to my shock, it was a piece of sharp plastic! I was absolutely disgusted and couldn't believe it. I immediately called the waiter over and showed him what I found. 
+
+To be honest, the waiter’s reaction was what really <strong style="color:blue;">put me off</strong>. He just gave me a blank look and said, "Oh, that’s strange," without even a sincere apology. I was incredibly frustrated because it wasn’t just about the foreign object; it was the lack of concern for hygiene and the poor customer service that made me want to <strong style="color:blue;">walk out</strong>. 
+
+I had to ask to speak to the manager. When the manager arrived, I calmly explained that I could have choked on that piece of plastic. Finally, the manager realized how serious the situation was, offered a sincere apology, and decided to <strong style="color:blue;">waive the bill</strong> for my entire meal. They also promised to look into their kitchen procedures. Even after that, I couldn't really <strong style="color:blue;">get over</strong> the experience, and I haven’t been back to that place since. It was a classic example of how a single mistake and a bad attitude can completely <strong style="color:blue;">ruin a reputation</strong>.
+
+**[Vocabulary & Expressions]**
+* Disgusted: 역겨운, 혐오감을 느끼는
+* Hygiene: 위생
+* Choke: 질식하다, 숨이 막히다
+* Procedure: 절차
+* <strong style="color:blue;">put off</strong>: 불쾌하게 만들다, 정떨어지게 하다
+* <strong style="color:blue;">walk out</strong>: (화가 나서) 나가버리다
+* <strong style="color:blue;">waive the bill</strong>: 청구액을 면제하다
+* <strong style="color:blue;">get over</strong>: 극복하다, 잊어버리다
+* <strong style="color:blue;">ruin a reputation</strong>: 평판을 망치다
