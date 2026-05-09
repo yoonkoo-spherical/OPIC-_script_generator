@@ -6638,3 +6638,69 @@ I had to ask to speak to the manager. When the manager arrived, I calmly explain
 * <strong style="color:blue;">waive the bill</strong>: 청구액을 면제하다
 * <strong style="color:blue;">get over</strong>: 극복하다, 잊어버리다
 * <strong style="color:blue;">ruin a reputation</strong>: 평판을 망치다
+
+## 2026-05-09 05:38:51 OPIc Study
+
+### 묘사 : 나의 공부 책상 정리 상태
+
+**[Question]**
+Tell me about your desk where you study. What does it look like, and how do you keep it organized?
+당신이 공부하는 책상에 대해 이야기해주세요. 어떤 모습인가요, 그리고 어떻게 정리된 상태를 유지하나요?
+
+**[Model Answer]**
+Well, let me tell you about my study desk, which is arguably my favorite spot in my apartment. Honestly, my desk is a total mess most of the time because I tend to <strong style="color:blue;">spread out</strong> all my materials whenever I’m deep into my studies. It’s a large wooden desk, and on the right side, there’s a massive stack of textbooks and notebooks that I barely have time to <strong style="color:blue;">go through</strong>. 
+
+However, whenever I feel like I’m losing focus, I make it a point to <strong style="color:blue;">tidy up</strong> everything. I usually start by clearing away all the coffee cups and snack wrappers that have <strong style="color:blue;">piled up</strong> over the week. I’m quite particular about the layout, so I always make sure my laptop is dead center, with my planner on the left. Even though I try to keep it neat, I often <strong style="color:blue;">end up</strong> cluttering it again within a couple of days. It’s a constant battle, but I feel like I can’t get any work done unless I have a designated space that feels somewhat organized. Sometimes, when the mess becomes too much to handle, I just <strong style="color:blue;">put away</strong> all the unnecessary papers into my drawers to clear my head. It’s definitely not a minimalist setup, but it works for me because I like having all my resources within arm's reach.
+
+**[Vocabulary & Expressions]**
+* Arguably: 거의 틀림없이
+* Minimalist: 미니멀리스트의
+* <strong style="color:blue;">spread out</strong>: 펼쳐 놓다
+* <strong style="color:blue;">go through</strong>: 훑어보다/검토하다
+* <strong style="color:blue;">tidy up</strong>: 정리하다
+* <strong style="color:blue;">piled up</strong>: 쌓이다
+* <strong style="color:blue;">end up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">put away</strong>: 치우다/넣어두다
+
+---
+### 롤플레이 : 영화관 온도 조절 요청
+
+**[Question]**
+You are at a movie theater and it is way too cold inside the screening room. Call the manager or a staff member to explain the situation and ask to adjust the temperature.
+당신은 영화관에 있는데 상영관 내부가 너무 춥습니다. 직원에게 전화하여 상황을 설명하고 온도 조절을 요청하세요.
+
+**[Model Answer]**
+Excuse me, hi. I’m currently sitting in theater number four, and I’m having a bit of an issue with the temperature inside. To be honest, it’s absolutely freezing in here. I’ve been trying to <strong style="color:blue;">bear with</strong> the cold for the past twenty minutes, but I’m shivering so much that I can’t even focus on the movie. 
+
+Could you please check if the air conditioning is set too low? It would be great if you could <strong style="color:blue;">turn down</strong> the AC or turn up the heat a little bit. It’s just physically impossible for me to stay here any longer without catching a cold. Is there any way you could look into this right away? If it’s not possible to adjust the temperature, would it be possible to move me to a different, warmer theater, or perhaps <strong style="color:blue;">get a refund</strong> for my ticket? I was really looking forward to this movie, but the cold is just too much to handle. I’m sorry to <strong style="color:blue;">bring this up</strong> in the middle of the screening, but I’d appreciate it if you could <strong style="color:blue;">sort this out</strong> as soon as possible. Thanks for your help.
+
+**[Vocabulary & Expressions]**
+* Shivering: 떨고 있는
+* Physically: 신체적으로
+* <strong style="color:blue;">bear with</strong>: 참다/견디다
+* <strong style="color:blue;">turn down</strong>: (온도/소리 등을) 낮추다
+* <strong style="color:blue;">get a refund</strong>: 환불받다
+* <strong style="color:blue;">bring this up</strong>: (문제를) 꺼내다/제기하다
+* <strong style="color:blue;">sort this out</strong>: 문제를 해결하다
+
+---
+### 돌발 : 여행 예약 중 발생한 문제
+
+**[Question]**
+Have you ever had a problem when booking a hotel or a flight for a trip? Tell me about what happened, how you found out about it, and how you eventually resolved the situation.
+여행을 위해 호텔이나 항공권을 예약할 때 문제가 생긴 적이 있나요? 무슨 일이 있었는지, 어떻게 알게 되었는지, 그리고 결국 어떻게 해결했는지 말해주세요.
+
+**[Model Answer]**
+Oh, this reminds me of a nightmare experience I had while planning my trip to Europe last summer. I had booked a hotel through an online site, and I was so excited. However, a week before my departure, I decided to <strong style="color:blue;">look into</strong> my confirmation details one more time, and that’s when I noticed a major discrepancy. My booking had simply vanished from the hotel’s system.
+
+I was completely panicked. I immediately tried to <strong style="color:blue;">get in touch with</strong> the customer service center of the booking agency. I spent hours on hold, and I felt like I was going to <strong style="color:blue;">give up</strong>. Eventually, I was able to speak to a representative who told me there had been a technical glitch. It took a lot of back-and-forth, but I had to <strong style="color:blue;">stand my ground</strong> and insist that they find me a room at the same price. Thankfully, the agent managed to <strong style="color:blue;">sort out</strong> the issue and booked me into a sister hotel nearby. It was a massive headache, and I learned that I should always double-check my reservations directly with the hotel. I definitely don't want to <strong style="color:blue;">go through</strong> that kind of stress ever again. It taught me to be much more careful with digital bookings from then on.
+
+**[Vocabulary & Expressions]**
+* Discrepancy: 불일치/차이
+* Glitch: 일시적인 오류
+* Representative: 담당자/대리인
+* <strong style="color:blue;">look into</strong>: 조사하다/확인하다
+* <strong style="color:blue;">get in touch with</strong>: 연락하다
+* <strong style="color:blue;">give up</strong>: 포기하다
+* <strong style="color:blue;">stand my ground</strong>: 자신의 입장을 고수하다
+* <strong style="color:blue;">go through</strong>: (힘든 일을) 겪다
