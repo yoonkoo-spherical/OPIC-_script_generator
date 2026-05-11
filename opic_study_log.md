@@ -6704,3 +6704,61 @@ I was completely panicked. I immediately tried to <strong style="color:blue;">ge
 * <strong style="color:blue;">give up</strong>: 포기하다
 * <strong style="color:blue;">stand my ground</strong>: 자신의 입장을 고수하다
 * <strong style="color:blue;">go through</strong>: (힘든 일을) 겪다
+
+## 2026-05-11 06:26:55 OPIc Study
+
+### 묘사 : 자주 방문하는 은행 내부 구조 및 창구 묘사
+
+**[Question]**
+You indicated that you like to visit the bank. Please describe the bank you usually go to. What does the interior look like, and what can you see at the counters?
+귀하는 은행 방문을 좋아한다고 하셨습니다. 평소 자주 가는 은행에 대해 설명해 주세요. 내부는 어떻게 생겼고, 창구에서는 어떤 모습들을 볼 수 있나요?
+
+**[Model Answer]**
+Honestly, I don't visit the bank as often as I used to because of mobile banking, but whenever I do, I go to a branch near my office. The moment you <strong style="color:blue;">step into</strong> the bank, you’re greeted by a spacious and modern lobby. The lighting is very bright, which gives it a professional and clean vibe. On the right side, there’s a waiting area with comfortable sofas and a large TV that shows news or financial tips. 
+
+What I find most interesting is the structure of the counters. There are about five or six teller windows arranged in a row. Behind each counter, you can see staff members busily working on their computers. They are usually <strong style="color:blue;">dressed up in</strong> neat uniforms, which makes them look very organized. In front of each window, there is a small partition for privacy, and a screen that displays the current waiting number. Sometimes, I see customers <strong style="color:blue;">engaged in</strong> serious conversations with financial advisors in private rooms located at the corner of the bank. Overall, the place always feels very systematic and efficient, and it’s actually a quite relaxing place to wait for my turn.
+
+**[Vocabulary & Expressions]**
+* Spacious: 넓은
+* Systematic: 체계적인
+* <strong style="color:blue;">Step into</strong>: ~에 들어가다
+* <strong style="color:blue;">Dressed up in</strong>: ~을 차려입은
+* <strong style="color:blue;">Engaged in</strong>: ~에 종사하는, ~을 하고 있는
+
+---
+### 롤플레이 : 여권 분실 시 대사관 긴급 조치 문의
+
+**[Question]**
+You are currently traveling abroad, but you have lost your passport. Call the embassy, explain the situation, and ask for help. Provide three or four questions to solve the problem.
+현재 해외 여행 중인데 여권을 분실했습니다. 대사관에 전화하여 상황을 설명하고 도움을 요청하세요. 문제를 해결하기 위해 3~4가지 질문을 하세요.
+
+**[Model Answer]**
+Hello, is this the Embassy? My name is [Name], and I’m a Korean citizen currently traveling in this country. I’m calling because I’m in a huge emergency. I think I’ve lost my passport while I was moving between hotels, and I’m in a total panic right now. I’ve checked my luggage several times but it’s nowhere to be found. 
+
+Could you please let me know what I should do first to <strong style="color:blue;">deal with</strong> this situation? Also, what kind of documents do I need to prepare if I need to apply for a temporary travel certificate? Is it possible for me to visit the embassy today without an appointment, or do I need to <strong style="color:blue;">book ahead</strong>? I have a flight to catch in two days, so I’m really worried if I can make it home on time. Could you give me some advice on whether I should report this to the local police station first? I would really appreciate your guidance so I can <strong style="color:blue;">get through</strong> this stressful situation safely.
+
+**[Vocabulary & Expressions]**
+* Emergency: 비상사태
+* Temporary travel certificate: 긴급여권/여행증명서
+* <strong style="color:blue;">Deal with</strong>: ~을 처리하다
+* <strong style="color:blue;">Book ahead</strong>: 미리 예약하다
+* <strong style="color:blue;">Get through</strong>: ~을 견뎌내다, 통과하다
+
+---
+### 돌발 : 술자리 후 필름이 끊겼거나 실수했던 경험
+
+**[Question]**
+Tell me about a time when you drank too much at a social gathering or a company dinner and lost your memory or made a mistake. What happened and how did you feel the next day?
+사회 모임이나 회식에서 술을 너무 많이 마셔 기억을 잃었거나 실수했던 경험에 대해 이야기해 주세요. 무슨 일이 있었고 다음 날 기분이 어땠나요?
+
+**[Model Answer]**
+Oh, this is actually a bit embarrassing to admit, but I definitely have a story like that. A few years ago, we had a big year-end company dinner. Since it was the end of the year, the atmosphere was super hyped up, and I ended up drinking way more than my limit. I remember having a great time, but then everything just became a complete blur. I must have <strong style="color:blue;">passed out</strong> in the taxi on my way home because I have absolutely no memory of arriving at my apartment.
+
+The next morning, I woke up with a terrible headache, and I couldn't even recall how I got home. My phone was dead, and I had no idea where my bag was. When I finally <strong style="color:blue;">turned on</strong> my phone, I had dozens of missed calls and messages. I was terrified that I might have said something rude to my boss. I felt so anxious and regretful all day long. It turned out I hadn't done anything catastrophic, but I was so ashamed of my behavior. I really learned my lesson and decided to <strong style="color:blue;">cut down on</strong> my alcohol consumption from that day on. It was definitely an experience I’d rather not repeat.
+
+**[Vocabulary & Expressions]**
+* Embarrassing: 당황스러운
+* Catastrophic: 파멸적인
+* <strong style="color:blue;">Passed out</strong>: 기절하다, 필름이 끊기다
+* <strong style="color:blue;">Turned on</strong>: (기기를) 켜다
+* <strong style="color:blue;">Cut down on</strong>: ~을 줄이다
