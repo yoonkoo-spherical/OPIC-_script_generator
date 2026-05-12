@@ -6762,3 +6762,84 @@ The next morning, I woke up with a terrible headache, and I couldn't even recall
 * <strong style="color:blue;">Passed out</strong>: 기절하다, 필름이 끊기다
 * <strong style="color:blue;">Turned on</strong>: (기기를) 켜다
 * <strong style="color:blue;">Cut down on</strong>: ~을 줄이다
+
+## 2026-05-12 05:56:16 OPIc Study
+
+### 묘사 : 단골 미용실 내부 묘사
+
+**[Question]**
+I’d like to know about the hair salon you frequent. What does it look like inside? Describe the atmosphere and the layout in detail.
+자주 가는 미용실에 대해 알고 싶습니다. 내부 모습은 어떤가요? 분위기와 구조를 자세히 묘사해 주세요.
+
+**[Model Answer]**
+Honestly, the hair salon I go to is like my second home. It's not just a place to get a haircut; it’s a sanctuary where I can <strong style="color:blue;">unwind</strong>. When you first step in, you are greeted by this warm, minimalist interior. The place is filled with bright lighting and sleek, wooden furniture that gives off a very cozy, high-end vibe. 
+
+On the left side, there is a row of wide mirrors framed with soft LED lights. Right in front of them are comfortable leather chairs that feel like they are from a luxury car. The area is always <strong style="color:blue;">spick and span</strong>, which makes me feel at ease. Towards the back, there’s a relaxing shampoo station where they dim the lights, making it incredibly easy to <strong style="color:blue;">drift off</strong> while getting a scalp massage. 
+
+What I really love is the waiting area. They have a small library of magazines and a high-quality coffee machine. I often <strong style="color:blue;">catch up on</strong> my reading while waiting for my turn. The place is <strong style="color:blue;">laid out</strong> so efficiently that even when it’s packed, it never feels cramped or chaotic. The staff always keeps everything <strong style="color:blue;">in order</strong>, and the pleasant smell of aromatic hair products always <strong style="color:blue;">lingers in the air</strong>, which is quite soothing. It’s the perfect blend of style and comfort that makes me keep coming back.
+
+**[Vocabulary & Expressions]**
+* Sanctuary: 안식처
+* Minimalist: 미니멀한
+* Cramped: 비좁은
+* <strong style="color:blue;">unwind</strong>: 긴장을 풀다
+* <strong style="color:blue;">spick and span</strong>: 아주 깨끗한
+* <strong style="color:blue;">drift off</strong>: 잠이 들다
+* <strong style="color:blue;">catch up on</strong>: 밀린 일을 하다
+* <strong style="color:blue;">laid out</strong>: 설계된
+* <strong style="color:blue;">in order</strong>: 정리된
+* <strong style="color:blue;">lingers in the air</strong>: 공기에 남아있다
+
+---
+### 롤플레이 : 미용실 헤어스타일 상담
+
+**[Question]**
+You are at the hair salon. Tell the hairdresser exactly what kind of haircut you want by showing them a photo on your phone. Explain the style in detail to the stylist.
+미용실에 있습니다. 휴대폰에 있는 사진을 보여주며 원하는 헤어스타일을 미용사에게 상세히 설명하세요.
+
+**[Model Answer]**
+Hi there! Thanks for seeing me today. I’ve been looking forward to this haircut for weeks because my current hair is just way too heavy and hard to manage. I actually have a picture here on my phone that I’d like to show you. See this? 
+
+I really admire the way the layers are <strong style="color:blue;">chopped into</strong> the back—it gives it such a natural, voluminous look. I want to <strong style="color:blue;">go for</strong> a style that’s a bit shorter, maybe around shoulder length, but I want to make sure it doesn't look too flat. Could you <strong style="color:blue;">focus on</strong> creating more texture around the face? I think it would really <strong style="color:blue;">bring out</strong> my facial features.
+
+Also, I’m worried about my bangs. Do you think we could <strong style="color:blue;">trim them down</strong> just a bit so they don't get in my eyes? I really want something that I can style easily in the morning without having to <strong style="color:blue;">fret over</strong> it for too long. If you think this style would <strong style="color:blue;">clash with</strong> my hair texture, please feel free to suggest something else. I really <strong style="color:blue;">rely on</strong> your professional opinion, so let’s see what we can <strong style="color:blue;">come up with</strong> together.
+
+**[Vocabulary & Expressions]**
+* Voluminous: 풍성한
+* Texture: 질감
+* Professional opinion: 전문가적 소견
+* <strong style="color:blue;">chopped into</strong>: (머리를) 층내어 자른
+* <strong style="color:blue;">go for</strong>: ~을 선택하다
+* <strong style="color:blue;">focus on</strong>: ~에 집중하다
+* <strong style="color:blue;">bring out</strong>: ~을 돋보이게 하다
+* <strong style="color:blue;">trim down</strong>: 다듬다
+* <strong style="color:blue;">fret over</strong>: ~에 대해 안달하다
+* <strong style="color:blue;">clash with</strong>: ~와 어울리지 않다
+* <strong style="color:blue;">rely on</strong>: ~을 신뢰하다
+* <strong style="color:blue;">come up with</strong>: 생각해내다
+
+---
+### 돌발 : 지갑/카드 분실 경험
+
+**[Question]**
+Have you ever lost your wallet or credit card? Tell me about the experience. How did you feel, and what steps did you take to handle the situation?
+지갑이나 신용카드를 잃어버린 적이 있나요? 그 경험에 대해 말해주세요. 어떤 기분이었고, 어떻게 대처했나요?
+
+**[Model Answer]**
+Oh, just thinking about it gives me a headache! About a year ago, I had a total nightmare situation. I was at a bustling local market, and after buying some groceries, I realized my wallet was missing from my bag. My heart literally <strong style="color:blue;">sank</strong> the moment I checked my pocket. I felt completely <strong style="color:blue;">wiped out</strong> and panicked because all my ID cards and credit cards were in there.
+
+The first thing I did was try to <strong style="color:blue;">keep my cool</strong>, although I was shaking. I immediately <strong style="color:blue;">logged into</strong> my banking app on my phone to check if there were any suspicious transactions. Thankfully, there were none. Without wasting a single second, I decided to <strong style="color:blue;">block</strong> all my cards through the mobile app. It’s such a relief that banking apps are so convenient these days. 
+
+After that, I <strong style="color:blue;">retraced my steps</strong> to the stalls where I had bought things, hoping someone had found it. It was like looking for a needle in a haystack. Eventually, I had to report it to the local police station just in case. It turned out, someone had dropped it at the information desk, and the security guard <strong style="color:blue;">held onto</strong> it for me. I was so incredibly relieved that I almost cried. Since then, I’ve become much more careful and I’ve started using a digital wallet on my phone so I don’t have to <strong style="color:blue;">carry around</strong> too many physical cards.
+
+**[Vocabulary & Expressions]**
+* Bustling: 붐비는
+* Suspicious: 의심스러운
+* Needle in a haystack: 사막에서 바늘 찾기
+* <strong style="color:blue;">sank</strong>: (심장이) 철렁하다
+* <strong style="color:blue;">wiped out</strong>: 기진맥진한
+* <strong style="color:blue;">keep my cool</strong>: 침착함을 유지하다
+* <strong style="color:blue;">logged into</strong>: ~에 접속하다
+* <strong style="color:blue;">retraced my steps</strong>: 왔던 길을 되짚어가다
+* <strong style="color:blue;">held onto</strong>: ~을 보관하다
+* <strong style="color:blue;">carry around</strong>: ~을 가지고 다니다
