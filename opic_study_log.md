@@ -6843,3 +6843,65 @@ After that, I <strong style="color:blue;">retraced my steps</strong> to the stal
 * <strong style="color:blue;">retraced my steps</strong>: 왔던 길을 되짚어가다
 * <strong style="color:blue;">held onto</strong>: ~을 보관하다
 * <strong style="color:blue;">carry around</strong>: ~을 가지고 다니다
+
+## 2026-05-15 06:22:08 OPIc Study
+
+### 묘사 : 매일 사용하는 화장품 용기 묘사
+
+**[Question]**
+Tell me about the cosmetics or skincare products you use every day. Describe the containers or packaging of these items in detail. What do they look like, and how are they designed?
+매일 사용하는 화장품이나 스킨케어 제품에 대해 말해주세요. 그 제품들의 용기나 포장을 자세히 묘사해 보세요. 어떻게 생겼고, 어떻게 디자인되어 있나요?
+
+**[Model Answer]**
+Honestly, I’m a bit of a skincare junkie, so I have a bunch of products on my bathroom vanity. If I had to pick one, I’d talk about my favorite moisturizer. First off, it comes in a sleek, frosted glass jar that feels quite substantial in my hand. It has a minimalist design, with a matte white lid that screws on tightly to prevent any leakage. What I really <strong style="color:blue;">look for</strong> in a product is usability, and this one is perfect. It features a small, hidden spatula inside, which helps me scoop out the cream without getting bacteria in the jar. The font on the label is very modern and clean, giving it a high-end vibe. Whenever I use it, I feel like I'm treating myself to a spa day. Also, the packaging is eco-friendly, so I don't feel bad <strong style="color:blue;">throwing away</strong> the empty container once I’m done. Sometimes, if the product is too bulky, I find it hard to pack for trips, but this one is compact enough to <strong style="color:blue;">fit into</strong> my toiletry bag. Overall, the design is not just aesthetic; it’s highly functional, which is exactly why I’ve been <strong style="color:blue;">sticking with</strong> this brand for over two years now.
+
+**[Vocabulary & Expressions]**
+* Skincare junkie: 스킨케어에 열광하는 사람
+* Substantial: 묵직한, 상당한
+* Minimalist: 미니멀한, 단순한
+* Aesthetic: 미적인
+* <strong style="color:blue;">Look for</strong>: ~을 찾다, 기대하다
+* <strong style="color:blue;">Throwing away</strong>: ~을 버리다
+* <strong style="color:blue;">Fit into</strong>: ~에 들어가다, 맞다
+* <strong style="color:blue;">Sticking with</strong>: ~을 계속 사용하다/고수하다
+
+---
+### 롤플레이 : ATM에서 카드가 나오지 않는 상황
+
+**[Question]**
+You are at an ATM to withdraw some cash, but your card got stuck in the machine and won't come out. Call the bank and explain the situation to the employee, and ask for help to resolve this issue.
+ATM에서 현금을 인출하려는데 카드가 기계에 끼어서 나오지 않습니다. 은행에 전화해서 직원에게 상황을 설명하고, 문제를 해결하기 위해 도움을 요청하세요.
+
+**[Model Answer]**
+Hi there. I’m currently at one of your ATM kiosks near the subway station, and I’m having a bit of a crisis. I tried to withdraw some cash about ten minutes ago, but after the transaction, my card didn’t pop out. The machine seems to have <strong style="color:blue;">broken down</strong>, and my card is literally stuck inside. I’m quite worried because I have an urgent payment to make. Could you please check if there’s anyone who can come over and help me retrieve it? I’ve already tried to <strong style="color:blue;">press the cancel button</strong> multiple times, but the screen is just frozen. I really need that card back because it’s my main account. Is there any way you can <strong style="color:blue;">look into</strong> this immediately? Also, since the machine is unresponsive, how can I be sure that no one else will use my account? I hope you can <strong style="color:blue;">sort this out</strong> for me as soon as possible. I’ll be waiting right here by the machine. Please let me know what the next steps are, because I’m honestly a bit panicked right now.
+
+**[Vocabulary & Expressions]**
+* Crisis: 위기
+* Retrieve: 되찾다, 회수하다
+* Unresponsive: 반응이 없는
+* Panicked: 당황한
+* <strong style="color:blue;">Broken down</strong>: 고장 나다
+* <strong style="color:blue;">Press the cancel button</strong>: 취소 버튼을 누르다
+* <strong style="color:blue;">Look into</strong>: ~을 조사하다/살펴보다
+* <strong style="color:blue;">Sort this out</strong>: 이 문제를 해결하다
+
+---
+### 돌발 : 교통사고와 보험 처리 경험
+
+**[Question]**
+Have you ever been in or witnessed a minor traffic accident? If so, tell me what happened and how you handled the situation, especially regarding the insurance process.
+가벼운 교통사고를 직접 겪거나 목격한 적이 있나요? 그렇다면 무슨 일이 있었는지, 특히 보험 처리와 관련하여 그 상황을 어떻게 해결했는지 말해주세요.
+
+**[Model Answer]**
+Actually, I had a minor fender bender about a year ago. It was a rainy evening, and I was driving home when the car in front of me suddenly hit the brakes. I tried to stop, but the road was slippery, and I ended up <strong style="color:blue;">bumping into</strong> the back of their vehicle. It wasn't a major crash, but it was enough to dent the bumper. My heart started to race because I had never dealt with a car accident before. I immediately <strong style="color:blue;">pulled over</strong> to a safe spot and checked on the other driver. Thankfully, nobody was hurt. We exchanged contact information and decided to <strong style="color:blue;">call in</strong> our insurance companies right away. The insurance agent arrived shortly after, and they took pictures of the damage to <strong style="color:blue;">fill out</strong> the report. It was quite a stressful process because there was a lot of paperwork to go through, and I had to explain exactly how the accident <strong style="color:blue;">came about</strong>. Eventually, everything was settled, and my insurance company covered the repairs. That experience really taught me to always maintain a safe distance and to stay calm even when things go wrong. It was definitely a lesson I’ll never forget.
+
+**[Vocabulary & Expressions]**
+* Fender bender: 가벼운 접촉 사고
+* Slippery: 미끄러운
+* Dent: 찌그러뜨리다
+* Paperwork: 서류 작업
+* <strong style="color:blue;">Bumping into</strong>: ~와 충돌하다
+* <strong style="color:blue;">Pulled over</strong>: (차를) 길가에 대다
+* <strong style="color:blue;">Call in</strong>: ~을 부르다/호출하다
+* <strong style="color:blue;">Fill out</strong>: ~을 작성하다
+* <strong style="color:blue;">Came about</strong>: 발생하다, 일어나다
