@@ -6905,3 +6905,68 @@ Actually, I had a minor fender bender about a year ago. It was a rainy evening, 
 * <strong style="color:blue;">Call in</strong>: ~을 부르다/호출하다
 * <strong style="color:blue;">Fill out</strong>: ~을 작성하다
 * <strong style="color:blue;">Came about</strong>: 발생하다, 일어나다
+
+## 2026-05-16 05:44:51 OPIc Study
+
+### 묘사 : 최근에 읽은 책의 표지와 내용
+
+**[Question]**
+Tell me about a book you recently read. Describe the cover design in detail and give me a brief summary of what the book is about.
+최근에 읽은 책에 대해 이야기해 주세요. 표지 디자인을 자세히 묘사하고 책의 전반적인 내용에 대해 간단히 요약해 주세요.
+
+**[Model Answer]**
+The last book I read is titled "The Midnight Library," and to be honest, I was <strong style="color:blue;">drawn to</strong> the cover design the moment I saw it in the bookstore. It features a whimsical illustration of a dark blue, starry night sky with countless doors scattered across the cover, which perfectly <strong style="color:blue;">sets the tone</strong> for the magical journey inside. The texture of the cover is matte and feels quite premium, and the title is embossed in shimmering gold foil, making it really <strong style="color:blue;">stand out</strong> on my bookshelf.
+
+As for the story, it centers on a woman named Nora who feels like her life has been a series of failures. She finds herself in a mysterious library that exists between life and death. Each book in this library represents a different path her life could have taken if she had made different choices. As she starts to <strong style="color:blue;">dip into</strong> these alternative lives, she realizes that the grass isn't always greener on the other side. Ultimately, the story is a profound meditation on regret, the choices we make, and the beauty of ordinary life. It really <strong style="color:blue;">put things into perspective</strong> for me, reminding me to appreciate what I currently have rather than constantly chasing 'what ifs.' I would highly recommend it to anyone who feels a bit lost in their daily routine.
+
+**[Vocabulary & Expressions]**
+* Whimsical: 엉뚱한, 기발한
+* Embossed: 양각으로 새겨진
+* Profound: 심오한
+* <strong style="color:blue;">drawn to</strong>: ~에 마음이 끌리다
+* <strong style="color:blue;">sets the tone</strong>: 분위기를 조성하다
+* <strong style="color:blue;">stand out</strong>: 눈에 띄다
+* <strong style="color:blue;">dip into</strong>: 잠깐 훑어보다/읽어보다
+* <strong style="color:blue;">put things into perspective</strong>: 사물을 객관적인 시각으로 보게 하다
+
+---
+### 롤플레이 : 우체국 택배 서비스 문의
+
+**[Question]**
+You want to send a package overseas. Call the post office and ask the clerk about the shipping regulations and the cost.
+해외로 택배를 보내려고 합니다. 우체국에 전화해서 직원에게 배송 규정과 비용에 대해 물어보세요.
+
+**[Model Answer]**
+Hi there, I’m calling because I need to ship a package to my friend in London, and I’m a bit <strong style="color:blue;">in the dark about</strong> the international shipping process. Could you please give me a hand? First of all, are there any specific restrictions on what I can send? I heard that liquids or certain electronic items are restricted, so I want to make sure I don't <strong style="color:blue;">run into any trouble</strong> at the customs office. 
+
+Also, I’d like to know how the pricing works. Is it calculated based on weight, or does the size of the box matter more? I'm trying to <strong style="color:blue;">figure out</strong> if I should pack everything in one big box or separate it into smaller ones to save on shipping costs. Oh, and do you offer any insurance options for international parcels? I’m quite worried about the package getting lost or damaged since it contains some fragile items. I’d really appreciate it if you could <strong style="color:blue;">clear up</strong> some of these questions for me. Thank you!
+
+**[Vocabulary & Expressions]**
+* Customs: 세관
+* Parcel: 소포
+* Fragile: 깨지기 쉬운
+* <strong style="color:blue;">in the dark about</strong>: ~에 대해 잘 모르는
+* <strong style="color:blue;">run into any trouble</strong>: 문제에 직면하다
+* <strong style="color:blue;">figure out</strong>: 알아내다, 파악하다
+* <strong style="color:blue;">clear up</strong>: (오해나 궁금증을) 풀다, 해결하다
+
+---
+### 돌발 : 재활용/분리수거 실수 경험
+
+**[Question]**
+Have you ever had an embarrassing or difficult experience because you didn't recycle or sort your trash correctly? Tell me about what happened and how you felt.
+재활용이나 분리수거를 제대로 하지 않아서 당황스럽거나 곤란했던 적이 있나요? 무슨 일이 있었고 당시 기분이 어땠는지 이야기해 주세요.
+
+**[Model Answer]**
+Oh, this is actually a pretty embarrassing memory. About a year ago, I moved into a new apartment complex with very strict recycling rules. One evening, I was in a hurry to get to an appointment, so I just dumped a bunch of plastic bags, including some containers with food residue still inside, into the general recycling bin. I thought I could just <strong style="color:blue;">brush it off</strong>, but the next morning, I found a bright yellow warning sticker on my bag. 
+
+My building manager had actually <strong style="color:blue;">gone through</strong> my trash and found my mail inside, so he knew exactly who it belonged to. He left a note telling me that the entire bin had been rejected by the collection team because of my trash. I felt absolutely mortified when I saw my neighbors whispering while looking at that sticker. I had to <strong style="color:blue;">own up to</strong> my mistake and apologize to the manager, and I ended up having to sort through all the trash in the bin by myself under his supervision. It was such a humbling experience. Ever since then, I make sure to clean and rinse every single item before throwing it away. I never want to <strong style="color:blue;">go through</strong> that kind of humiliation again.
+
+**[Vocabulary & Expressions]**
+* Residue: 잔여물
+* Mortified: 굴욕감을 느끼는
+* Supervision: 감독
+* <strong style="color:blue;">brush it off</strong>: 대수롭지 않게 여기다
+* <strong style="color:blue;">gone through</strong>: 조사하다, 샅샅이 뒤지다
+* <strong style="color:blue;">own up to</strong>: (실수를) 인정하다
+* <strong style="color:blue;">go through</strong>: 겪다, 경험하다
