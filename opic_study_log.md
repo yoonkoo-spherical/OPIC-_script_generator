@@ -6970,3 +6970,55 @@ My building manager had actually <strong style="color:blue;">gone through</stron
 * <strong style="color:blue;">gone through</strong>: 조사하다, 샅샅이 뒤지다
 * <strong style="color:blue;">own up to</strong>: (실수를) 인정하다
 * <strong style="color:blue;">go through</strong>: 겪다, 경험하다
+
+## 2026-05-17 06:11:28 OPIc Study
+
+### 묘사 : 과일 가게의 제철 과일들
+
+**[Question]**
+Tell me about a fruit store or a local market you often visit. What kind of seasonal fruits are displayed there, and what is the atmosphere like?
+당신이 자주 방문하는 과일 가게나 동네 시장에 대해 말해주세요. 그곳에는 어떤 제철 과일들이 진열되어 있고, 분위기는 어떤가요?
+
+**[Model Answer]**
+There is a lovely fruit store right around the corner from my place, and it’s my go-to spot whenever I crave something fresh. The store is always vibrant, and the moment you step inside, you are greeted by the sweet, refreshing scent of various fruits. Since we are currently in the peak of summer, the display is absolutely stunning. You can see piles of juicy watermelons and crates full of plump, dark red cherries stacked up high. They also have a wide variety of peaches that smell incredibly fragrant. The store owner takes great pride in the quality of the produce, so everything looks as if it were just <strong style="color:blue;">picked off</strong> the vine. The atmosphere is quite lively as well. You can hear the owner chatting with customers, which makes the whole shopping experience feel very warm and personal. I often find myself <strong style="color:blue;">lingering around</strong> just to enjoy the colorful scenery. Sometimes, I end up buying more than I originally planned because everything just looks too delicious to pass up. It’s truly a feast for the eyes and the stomach.
+
+**[Vocabulary & Expressions]**
+* Vibrant: 활기 넘치는
+* Fragrant: 향긋한
+* <strong style="color:blue;">go-to spot</strong>: 자주 찾는 장소
+* <strong style="color:blue;">picked off</strong>: (직접) 따낸
+* <strong style="color:blue;">lingering around</strong>: 서성이다 / 시간을 보내다
+
+---
+### 롤플레이 : 자전거 타이어 교체 요청
+
+**[Question]**
+You are at a rental shop to borrow a bicycle, but you realize that one of the tires is flat. Talk to the employee and explain the problem, then ask for a replacement or a repair.
+자전거를 빌리러 대여소에 갔는데 타이어가 펑크 난 것을 발견했습니다. 직원에게 상황을 설명하고 교체나 수리를 요청하세요.
+
+**[Model Answer]**
+Hi there. I’m sorry to bother you, but I’m having a bit of an issue with this bicycle I just picked out. I was about to head out for a ride, but when I took a closer look, I noticed that the rear tire is completely flat. It looks like it might have a puncture or just needs some air. Honestly, it’s not in a condition to be ridden safely. Could you possibly take a look at it for me? If it’s just a simple leak, maybe you could pump it up, but if the tire itself is damaged, I’d really appreciate it if you could <strong style="color:blue;">swap it out</strong> for another bike. I was really looking forward to cycling along the park today, so I’d love to get this sorted out as quickly as possible. Do you have any other bikes available that are in better shape? I don't want to <strong style="color:blue;">end up stranded</strong> halfway through my ride, so I want to make sure everything is in top-notch condition before I <strong style="color:blue;">set off</strong>. Thanks so much for your help!
+
+**[Vocabulary & Expressions]**
+* Puncture: 펑크
+* Top-notch: 최고의, 아주 좋은
+* <strong style="color:blue;">swap out</strong>: 교체하다
+* <strong style="color:blue;">end up stranded</strong>: 오도 가도 못하게 되다
+* <strong style="color:blue;">set off</strong>: 출발하다
+
+---
+### 돌발 : 교통사고와 보험 처리 경험
+
+**[Question]**
+Have you ever witnessed or been involved in a car accident? What happened exactly, and how did you handle the situation, especially regarding the insurance process?
+교통사고를 목격하거나 직접 겪은 적이 있나요? 정확히 어떤 상황이었고, 특히 보험 처리 과정을 어떻게 해결했는지 자세히 이야기해주세요.
+
+**[Model Answer]**
+A couple of years ago, I was unfortunately involved in a minor fender bender on my way to work. It was raining heavily, and the car in front of me suddenly hit the brakes. I tried to stop, but the road was so slippery that I ended up <strong style="color:blue;">bumping into</strong> the back of their vehicle. My heart was pounding, and I was quite shaken up. However, I managed to <strong style="color:blue;">pull myself together</strong> and stepped out to check on the other driver. Thankfully, nobody was hurt. We quickly took photos of the damage from different angles and exchanged contact information. The trickiest part was dealing with the insurance company. I had to call them right away to <strong style="color:blue;">report the incident</strong>, and I spent a long time explaining exactly how the accident occurred. I had to fill out various forms and submit the photos I took. It was a tedious process, but I learned a lot about how to stay calm and handle legal matters step-by-step. Since then, I’ve become much more cautious, especially in bad weather. It was a stressful experience, but it served as a wake-up call to always be extra careful on the road.
+
+**[Vocabulary & Expressions]**
+* Fender bender: 가벼운 접촉 사고
+* Tedious: 지루한, 성가신
+* <strong style="color:blue;">bumping into</strong>: ~와 충돌하다
+* <strong style="color:blue;">pull oneself together</strong>: 진정하다 / 마음을 추스르다
+* <strong style="color:blue;">report the incident</strong>: 사고를 신고하다
