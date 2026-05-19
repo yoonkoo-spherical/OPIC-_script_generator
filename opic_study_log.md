@@ -7022,3 +7022,67 @@ A couple of years ago, I was unfortunately involved in a minor fender bender on 
 * <strong style="color:blue;">bumping into</strong>: ~와 충돌하다
 * <strong style="color:blue;">pull oneself together</strong>: 진정하다 / 마음을 추스르다
 * <strong style="color:blue;">report the incident</strong>: 사고를 신고하다
+
+## 2026-05-19 06:38:12 OPIc Study
+
+### 묘사 : 나의 반려견 '코코' 외모 묘사
+
+**[Question]**
+Tell me about a pet you have or know well. What does it look like? Please describe it in detail.
+당신이 기르거나 잘 아는 반려동물에 대해 이야기해주세요. 어떻게 생겼나요? 자세하게 묘사해주세요.
+
+**[Model Answer]**
+I’d love to tell you about my lovely dog, Coco. She is a golden retriever, and to be honest, she is the most adorable creature I have ever seen. When it comes to her physical appearance, she has this beautiful, silky coat that looks like melted caramel under the sun. Her fur is incredibly soft, so I always find myself <strong style="color:blue;">taking to</strong> her whenever I feel stressed out after a long day. 
+
+What’s really striking about Coco are her eyes. They are deep, dark brown, and they seem to <strong style="color:blue;">look right through</strong> me as if she understands exactly how I’m feeling. Whenever I come home, she greets me with her tail wagging so hard that her whole body shakes, which is just hilarious. She has these floppy, velvet-like ears that bounce when she runs, and a black, wet nose that is always sniffing around for treats. 
+
+I’ve had her for about three years now, and I must say, she has really <strong style="color:blue;">grown on</strong> me. Even though she sheds a lot, which can be a bit of a nightmare to clean up, I wouldn’t trade her for anything. Keeping her well-groomed is a bit of a chore, but it’s a great way to bond with her. She isn't just a pet; she’s a huge part of my life, and I feel so lucky to have such a loyal companion by my side.
+
+**[Vocabulary & Expressions]**
+* Adorable: 사랑스러운
+* Shed: 털이 빠지다
+* <strong style="color:blue;">Taking to</strong>: ~에게 마음이 끌리다, ~을 좋아하게 되다
+* <strong style="color:blue;">Look right through</strong>: 속마음을 꿰뚫어 보다
+* <strong style="color:blue;">Grow on</strong>: 점점 좋아지게 되다
+
+---
+### 롤플레이 : 재활용 쓰레기 배출 문의
+
+**[Question]**
+You have just moved into a new neighborhood. Call the apartment manager and ask about the recycling system. Ask three or four questions to get the information you need.
+새 동네로 이사했습니다. 경비실에 전화해서 재활용 시스템에 대해 물어보세요. 필요한 정보를 얻기 위해 3~4가지 질문을 하세요.
+
+**[Model Answer]**
+Hi there, I’m the new resident in unit 402. I just moved in yesterday, and I’m a bit confused about how to handle the recycling here. Could you please give me a hand? First of all, could you tell me which days I should put out my recyclables? I want to make sure I don't <strong style="color:blue;">mess up</strong> the schedule. 
+
+Also, where exactly is the designated area for recyclables? Is it near the main gate or in the basement? I have quite a few boxes to dispose of from moving, so I want to be sure I <strong style="color:blue;">clear out</strong> everything properly. Additionally, are there any specific rules I need to follow? For instance, do I need to separate plastics and glass into different bins, or is it okay to mix them? I really want to be a responsible neighbor and <strong style="color:blue;">stick to</strong> the building's regulations. Thank you so much for your help!
+
+**[Vocabulary & Expressions]**
+* Designated: 지정된
+* Dispose of: 처리하다
+* <strong style="color:blue;">Give a hand</strong>: 도와주다
+* <strong style="color:blue;">Mess up</strong>: 망치다, 실수하다
+* <strong style="color:blue;">Clear out</strong>: 치우다, 비우다
+* <strong style="color:blue;">Stick to</strong>: ~을 준수하다, 고수하다
+
+---
+### 돌발 : 과거와 현재의 전자기기 비교
+
+**[Question]**
+Think about the very first electronic device you ever owned. What was it? Compare it with the device you use nowadays. How has technology changed?
+당신이 처음 가졌던 전자기기에 대해 생각해보세요. 무엇이었나요? 요즘 사용하는 기기와 비교해보세요. 기술이 어떻게 변했나요?
+
+**[Model Answer]**
+Thinking back to my first electronic device, it was a chunky, old-fashioned mobile phone I got back in middle school. Compared to the smartphones we use today, it was basically a brick! It could only make calls and send simple text messages, and I remember I was so excited to play that classic snake game on it. 
+
+Fast forward to today, my current smartphone is essentially a pocket-sized supercomputer. It’s light, sleek, and it has completely <strong style="color:blue;">done away with</strong> the need for cameras, maps, or even physical books. The change in technology is just mind-blowing. Back then, I had to <strong style="color:blue;">keep track of</strong> my phone minutes because they were so expensive, but now, everything is unlimited and connected to the internet 24/7. 
+
+I think the biggest difference is how we interact with these devices. My old phone was just a tool for communication, but my current one is how I manage my life. I use it for banking, working, and even socializing. Sometimes I feel like we’ve become too dependent on these gadgets, and I occasionally miss the days when I wasn't constantly <strong style="color:blue;">plugged in</strong>. Technology has definitely made life more convenient, but it has also blurred the lines between our personal and professional lives.
+
+**[Vocabulary & Expressions]**
+* Chunky: 투박한
+* Sleek: 세련된
+* Blurred: 흐릿해진
+* <strong style="color:blue;">Done away with</strong>: ~을 없애다, 폐지하다
+* <strong style="color:blue;">Keep track of</strong>: ~을 기록하다, 파악하다
+* <strong style="color:blue;">Plugged in</strong>: (기술이나 정보에) 연결된, 접속된
