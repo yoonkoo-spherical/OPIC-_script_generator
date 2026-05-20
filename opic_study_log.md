@@ -7086,3 +7086,66 @@ I think the biggest difference is how we interact with these devices. My old pho
 * <strong style="color:blue;">Done away with</strong>: ~을 없애다, 폐지하다
 * <strong style="color:blue;">Keep track of</strong>: ~을 기록하다, 파악하다
 * <strong style="color:blue;">Plugged in</strong>: (기술이나 정보에) 연결된, 접속된
+
+## 2026-05-20 06:38:04 OPIc Study
+
+### 묘사 : 도서관의 내부 구조와 분위기
+
+**[Question]**
+Please describe the library you frequently visit. What does the reading room look like, and how are the bookshelves arranged?
+당신이 자주 방문하는 도서관을 묘사해 주세요. 열람실은 어떻게 생겼고, 서가들은 어떻게 배치되어 있나요?
+
+**[Model Answer]**
+I frequent a local library downtown, and honestly, it is my favorite hideout. As soon as you walk in, you’re greeted by a massive, open-plan reading room that is incredibly airy. The ceiling is very high, and the walls are lined with floor-to-ceiling windows, which <strong style="color:blue;">let in</strong> plenty of natural light. The interior is decorated in soft, neutral tones, making it the perfect environment to focus.
+
+As for the bookshelves, they are systematically arranged by genre and subject. The main area is divided into long aisles, and they are <strong style="color:blue;">packed with</strong> thousands of books. What I really love is that the shelves are not cluttered; there is enough space to walk through comfortably. The literature section is situated in the quietest corner of the library, while the reference books are placed near the entrance for easy access. Whenever I need to find something, I usually just <strong style="color:blue;">look through</strong> the digital catalog first, which helps me navigate the shelves with ease. I honestly think the way they’ve laid out the space is just brilliant; it encourages people to <strong style="color:blue;">settle down</strong> and get lost in a good book for hours on end. It is truly an oasis in the middle of the busy city.
+
+**[Vocabulary & Expressions]**
+* Hideout: 아지트
+* Airy: 통풍이 잘되는
+* Systematic: 체계적인
+* <strong style="color:blue;">let in</strong>: (빛이나 공기를) 들어오게 하다
+* <strong style="color:blue;">packed with</strong>: ~로 가득 찬
+* <strong style="color:blue;">look through</strong>: ~을 훑어보다/찾아보다
+* <strong style="color:blue;">settle down</strong>: 자리를 잡고 앉다
+
+---
+### 롤플레이 : 여권 분실 시 대사관 문의
+
+**[Question]**
+You are currently traveling abroad, but you suddenly realized that your passport is missing. Call the embassy, explain the situation, and ask what you should do to handle this emergency.
+해외 여행 중 여권을 분실했다는 사실을 깨달았습니다. 대사관에 전화하여 상황을 설명하고, 이 긴급한 상황을 대처하기 위해 무엇을 해야 하는지 물어보세요.
+
+**[Model Answer]**
+Hello, is this the embassy? My name is [Name], and I’m calling because I’ve run into a serious emergency. I’m currently traveling, but I’ve just realized that my passport is completely gone. I’ve <strong style="color:blue;">turned my hotel room inside out</strong> trying to find it, but it’s nowhere to be seen. I’m in a state of panic because my flight back home is scheduled for the day after tomorrow.
+
+Could you please walk me through what I need to do to <strong style="color:blue;">sort this out</strong> as quickly as possible? Do I need to visit the local police station to report it missing, or should I come directly to the embassy with some documents? Also, if I need to apply for an emergency travel document, what kind of identification or photos do I need to bring along? I really need to <strong style="color:blue;">get back on track</strong> with my travel plans, so any guidance you could provide would be incredibly helpful. Please let me know what the next steps are, and if there’s anything I can prepare ahead of time. Thank you so much for your assistance.
+
+**[Vocabulary & Expressions]**
+* Emergency travel document: 긴급 여행 증명서
+* Panic: 당황, 공포
+* <strong style="color:blue;">turn inside out</strong>: ~을 뒤집어 샅샅이 뒤지다
+* <strong style="color:blue;">sort out</strong>: 문제를 해결하다
+* <strong style="color:blue;">get back on track</strong>: 다시 정상 궤도에 오르다/계획대로 진행하다
+
+---
+### 돌발 : 여행 중 소지품 분실 경험
+
+**[Question]**
+Have you ever lost your personal belongings or gotten lost while traveling? Tell me about the experience in detail, where you were, what happened, and how you resolved the situation.
+여행 중에 소지품을 잃어버리거나 길을 잃었던 적이 있나요? 그 경험에 대해 장소, 상황, 해결 과정까지 자세히 말해 주세요.
+
+**[Model Answer]**
+Actually, I had a pretty stressful experience a few years ago while I was backpacking in Europe. I was in a bustling market in Rome, and I was so captivated by the sights and the street food that I completely lost track of my surroundings. At some point, I realized my small crossbody bag was gone. I must have been distracted by the crowd, and someone managed to <strong style="color:blue;">make off with</strong> it.
+
+I felt absolutely terrible, as my wallet and camera were inside. First, I tried to stay calm and retraced my steps, but I couldn’t find it anywhere. I decided to <strong style="color:blue;">reach out to</strong> a nearby police officer to file a report. It was quite difficult due to the language barrier, but with some gestures and a translation app, I managed to explain the situation. The police were helpful and advised me to cancel my credit cards immediately. After that, I had to <strong style="color:blue;">go through</strong> the trouble of contacting my bank from abroad. It was a huge wake-up call for me. Since then, I’ve become extra careful with my belongings whenever I travel. I always keep my valuables hidden and never let my guard down in crowded places. It was definitely a hard lesson to learn, but it taught me how to <strong style="color:blue;">deal with</strong> unexpected crises while traveling solo.
+
+**[Vocabulary & Expressions]**
+* Backpacking: 배낭여행
+* Bustling: 붐비는
+* Retrace one's steps: 왔던 길을 되돌아가다
+* Language barrier: 언어 장벽
+* <strong style="color:blue;">make off with</strong>: ~을 훔쳐 달아나다
+* <strong style="color:blue;">reach out to</strong>: ~에게 도움을 요청하다/연락하다
+* <strong style="color:blue;">go through</strong>: (힘든 일을) 겪다/처리하다
+* <strong style="color:blue;">deal with</strong>: ~을 다루다/대처하다
