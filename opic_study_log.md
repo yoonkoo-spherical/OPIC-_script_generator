@@ -7149,3 +7149,77 @@ I felt absolutely terrible, as my wallet and camera were inside. First, I tried 
 * <strong style="color:blue;">reach out to</strong>: ~에게 도움을 요청하다/연락하다
 * <strong style="color:blue;">go through</strong>: (힘든 일을) 겪다/처리하다
 * <strong style="color:blue;">deal with</strong>: ~을 다루다/대처하다
+
+## 2026-05-22 06:37:52 OPIc Study
+
+### 묘사 : 이웃에 대한 묘사와 관계
+
+**[Question]**
+Please describe your neighbors in detail. What are they like, and what is your relationship with them like?
+당신의 이웃에 대해 자세히 묘사해 주세요. 그들은 어떤 사람이며, 그들과의 관계는 어떤가요?
+
+**[Model Answer]**
+To be honest, I’ve been living in my current apartment complex for about five years now, and I’ve been quite fortunate to have such wonderful neighbors. If I have to paint a picture of them, they are generally polite, considerate, and quiet, which is exactly what I prefer in a living environment. 
+
+Specifically, I have a couple living right next door who are in their early thirties. They are incredibly friendly, and we often <strong style="color:blue;">run into</strong> each other in the elevator or the lobby. Whenever we meet, we always exchange warm greetings and have a brief chat about how our week has been. Last month, when I was <strong style="color:blue;">going through</strong> a hectic period at work, they even offered to look after my package delivery so it wouldn't be left unattended. That small gesture really <strong style="color:blue;">touched my heart</strong>. 
+
+We don't necessarily hang out every single day, but we definitely maintain a respectful and healthy relationship. We try our best to <strong style="color:blue;">keep the noise down</strong> during late hours, which is a big deal in an apartment building. Overall, I think having neighbors who are mindful of others' space makes a world of difference. It’s not just about living in the same building; it’s about feeling a sense of community even in a busy city. I’m truly glad that we have a mutual understanding and <strong style="color:blue;">get along</strong> so well. It just makes coming home after a long day feel much more comfortable and welcoming.
+
+**[Vocabulary & Expressions]**
+* Complex: 단지
+* Considerate: 배려심 있는
+* <strong style="color:blue;">run into</strong>: 우연히 마주치다
+* <strong style="color:blue;">going through</strong>: (힘든 일을) 겪다
+* <strong style="color:blue;">touched my heart</strong>: 감동을 주다
+* <strong style="color:blue;">keep the noise down</strong>: 소음을 줄이다
+* <strong style="color:blue;">get along</strong>: 잘 지내다
+
+---
+
+### 롤플레이 : 해외 여행 중 여권 분실
+
+**[Question]**
+You are currently on a trip abroad, but you have lost your passport. Call the embassy and explain the situation to ask for emergency assistance.
+현재 해외 여행 중인데 여권을 분실했습니다. 대사관에 전화하여 상황을 설명하고 긴급 도움을 요청하세요.
+
+**[Model Answer]**
+Hello, is this the embassy? My name is [Your Name], and I’m currently visiting here. I’m calling because I’m in a total panic right now. I just realized that my passport is missing, and I’ve been <strong style="color:blue;">searching high and low</strong> for it everywhere, but I simply can't find it. I think I might have left it at a cafe earlier this morning. 
+
+I’m supposed to fly out in two days, and I’m really worried that this will <strong style="color:blue;">mess up</strong> my entire travel schedule. Could you please tell me what I should do in this situation? Do I need to report it to the local police first, or is there any document I need to prepare to issue a temporary travel permit? 
+
+I’m feeling quite overwhelmed, so if you could <strong style="color:blue;">walk me through</strong> the emergency process step-by-step, I would really appreciate it. I have my ID card and a copy of my passport on my phone. Will that be enough to start the process? Also, how long does it usually take to get an emergency passport? Please let me know if there’s anything I need to <strong style="color:blue;">keep in mind</strong> or bring with me when I visit the office. I am ready to head over to the embassy immediately, so please just give me the instructions. Thank you so much for your help.
+
+**[Vocabulary & Expressions]**
+* Embassy: 대사관
+* Temporary travel permit: 임시 여행 허가증
+* Overwhelmed: 압도된, 당황한
+* <strong style="color:blue;">searching high and low</strong>: 여기저기 다 뒤지다
+* <strong style="color:blue;">mess up</strong>: 망치다
+* <strong style="color:blue;">walk me through</strong>: 차근차근 설명해주다
+* <strong style="color:blue;">keep in mind</strong>: 명심하다
+
+---
+
+### 돌발 : 어릴 적 취미와 성인 취미 비교
+
+**[Question]**
+How did your hobbies change from when you were a child to now? Compare your childhood hobbies with your current ones.
+당신의 취미는 어린 시절과 비교해 어떻게 바뀌었나요? 과거와 현재의 취미를 비교해 보세요.
+
+**[Model Answer]**
+That’s an interesting question. Looking back, my hobbies when I was a child were mostly active and outdoor-oriented. Back then, I was totally obsessed with playing soccer and riding my bike around the neighborhood with my friends. We would just <strong style="color:blue;">head out</strong> as soon as school was over and play until the sun went down. It was all about burning off energy and being physically active. My biggest concern was just getting home before dinner.
+
+However, as I’ve grown into an adult, my lifestyle and energy levels have shifted, and so have my hobbies. Nowadays, I find myself drawn to more quiet and reflective activities. Instead of running around outside, I prefer spending my weekends reading books, listening to jazz, or even trying out some new recipes in the kitchen. I guess you could say I’ve <strong style="color:blue;">grown out of</strong> those high-energy outdoor games. 
+
+The biggest difference is that my childhood hobbies were all about social interaction and physical movement, while my current hobbies are more about personal growth and relaxation. After a stressful week at work, I don’t really want to go out and sweat; I just want to <strong style="color:blue;">wind down</strong> and recharge my batteries. I’ve learned to <strong style="color:blue;">appreciate the value of</strong> solitude and quiet time. I wouldn’t say one is better than the other, but I certainly enjoy the calmness that my current hobbies bring to my life. It’s a natural evolution, and I’m actually quite happy with how things have <strong style="color:blue;">turned out</strong>.
+
+**[Vocabulary & Expressions]**
+* Obsessed with: ~에 집착하는
+* Reflective: 성찰적인, 사색적인
+* Solitude: 고독, 혼자 있는 시간
+* Evolution: 진화, 변화
+* <strong style="color:blue;">head out</strong>: (밖으로) 나가다
+* <strong style="color:blue;">grown out of</strong>: ~에서 벗어나다 (성장하여 그만두다)
+* <strong style="color:blue;">wind down</strong>: 긴장을 풀다
+* <strong style="color:blue;">appreciate the value of</strong>: ~의 가치를 이해하다/인정하다
+* <strong style="color:blue;">turned out</strong>: (결과가) ~게 되다
