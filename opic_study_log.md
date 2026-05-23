@@ -7223,3 +7223,79 @@ The biggest difference is that my childhood hobbies were all about social intera
 * <strong style="color:blue;">wind down</strong>: 긴장을 풀다
 * <strong style="color:blue;">appreciate the value of</strong>: ~의 가치를 이해하다/인정하다
 * <strong style="color:blue;">turned out</strong>: (결과가) ~게 되다
+
+## 2026-05-23 05:57:09 OPIc Study
+
+### 묘사 : 헬스장 내부 기구 배치 및 특징
+
+**[Question]**
+Tell me about your gym in as much detail as possible. Where are the exercise machines located, and how are they arranged? Describe the overall layout of the place.
+당신이 다니는 헬스장에 대해 가능한 한 상세하게 말해주세요. 운동 기구들은 어디에 위치해 있고 어떻게 배치되어 있나요? 그곳의 전반적인 구조를 묘사해주세요.
+
+**[Model Answer]**
+To be honest, my gym is like my second home because I <strong style="color:blue;">head over to</strong> the place almost every single day. The moment you walk through the main entrance, you’ll see the cardio zone right in front of you. There are rows of treadmills lined up against the floor-to-ceiling windows, which makes it quite pleasant because you can <strong style="color:blue;">take in</strong> the city view while running. 
+
+If you move past the cardio area, you’ll find the weight training section. It’s definitely the busiest part of the gym. In the center, there are several squat racks and bench press stations. What I really like about the layout is that they <strong style="color:blue;">set aside</strong> a specific corner for free weights and dumbbells. It’s organized by weight, so it’s never hard to find what you need. 
+
+To the far left, there’s a small, quiet area with yoga mats and stability balls. I usually <strong style="color:blue;">wrap up</strong> my workout there with some stretching. The whole place is designed in a way that creates a smooth flow; you don’t feel like you’re <strong style="color:blue;">bumping into</strong> other people even when it’s crowded. Everything is <strong style="color:blue;">laid out</strong> so logically that even a beginner wouldn't feel intimidated. It’s a very well-thought-out space, and that’s why I never <strong style="color:blue;">get tired of</strong> working out there.
+
+**[Vocabulary & Expressions]**
+* Treadmill: 러닝머신
+* Intimidated: 겁먹은, 위축된
+* <strong style="color:blue;">Head over to</strong>: ~로 향하다
+* <strong style="color:blue;">Take in</strong>: (경치 등을) 감상하다
+* <strong style="color:blue;">Set aside</strong>: (특정한 목적을 위해) 따로 떼어두다
+* <strong style="color:blue;">Wrap up</strong>: 마무리하다
+* <strong style="color:blue;">Bump into</strong>: ~와 부딪히다
+* <strong style="color:blue;">Lay out</strong>: 배치하다
+* <strong style="color:blue;">Get tired of</strong>: ~에 싫증 나다
+
+---
+### 롤플레이 : 부동산 매물 문의하기
+
+**[Question]**
+I'd like to give you a situation. You are planning to move into a new apartment or studio. Call a real estate agency and ask three or four questions about the property you are interested in.
+상황을 하나 드리겠습니다. 새로운 아파트나 원룸으로 이사할 계획입니다. 부동산 사무실에 전화해서 관심 있는 매물에 대해 3~4가지 질문을 해보세요.
+
+**[Model Answer]**
+Hi there! I saw your online listing for the studio apartment on Main Street, and I’m very interested in <strong style="color:blue;">looking into</strong> it further. Could you tell me if it’s still available for rent? Great. 
+
+Actually, I have a few questions before I <strong style="color:blue;">make up my mind</strong>. First of all, could you tell me about the monthly maintenance fee? I want to make sure it doesn't <strong style="color:blue;">add up to</strong> too much on top of the base rent. Also, how is the soundproofing? I’m a bit sensitive to noise, so I really need a place where I can <strong style="color:blue;">nod off</strong> peacefully without being disturbed by neighbors. 
+
+Lastly, does the apartment come with any basic furniture or appliances? I’m trying to <strong style="color:blue;">figure out</strong> if I need to buy everything from scratch or if I can just move in with my personal belongings. If it’s possible, I’d love to <strong style="color:blue;">drop by</strong> your office this afternoon to see the unit in person. Would that be okay with you? Please let me know when you can <strong style="color:blue;">fit me in</strong> your schedule. Thanks for your help!
+
+**[Vocabulary & Expressions]**
+* Maintenance fee: 관리비
+* Soundproofing: 방음
+* <strong style="color:blue;">Look into</strong>: 조사하다, 알아보다
+* <strong style="color:blue;">Make up one's mind</strong>: 결심하다
+* <strong style="color:blue;">Add up to</strong>: (합계가) ~가 되다
+* <strong style="color:blue;">Nod off</strong>: 졸다, 잠들다
+* <strong style="color:blue;">Figure out</strong>: 알아내다, 이해하다
+* <strong style="color:blue;">Drop by</strong>: 잠깐 들르다
+* <strong style="color:blue;">Fit someone in</strong>: 시간을 내주다
+
+---
+### 돌발 : 성격 변화에 대한 설명
+
+**[Question]**
+How has your personality changed from when you were a child to now that you are an adult? Tell me about some specific factors that contributed to these changes.
+어린 시절과 비교했을 때 성인인 지금 당신의 성격은 어떻게 변했나요? 이러한 변화에 기여한 구체적인 요인들에 대해 말해주세요.
+
+**[Model Answer]**
+Thinking back to my childhood, I was quite an introverted and shy kid. I would often <strong style="color:blue;">keep to myself</strong> and felt nervous whenever I had to speak in front of a group. However, as I grew older, my personality started to shift. A major turning point was when I entered university. I decided to <strong style="color:blue;">step out of</strong> my comfort zone and joined a debate club. 
+
+At first, it was extremely challenging, but I forced myself to <strong style="color:blue;">go through with</strong> it. Slowly but surely, I became more confident and started to enjoy social interactions. Over time, I learned that it’s important to <strong style="color:blue;">speak up for</strong> myself and express my opinions clearly. Now, as an adult, I consider myself a much more outgoing and adaptable person. 
+
+I think the biggest factor was the professional experience I gained during my internship. Working in a fast-paced environment really forced me to <strong style="color:blue;">brush up on</strong> my communication skills and handle stress more effectively. These experiences helped me <strong style="color:blue;">get over</strong> my fear of public speaking. Looking back, I’m really proud of how much I’ve evolved. I think it’s essential to be open to change, and I’m glad I didn’t just <strong style="color:blue;">stick to</strong> my old, shy ways.
+
+**[Vocabulary & Expressions]**
+* Introverted: 내성적인
+* Adaptable: 적응력이 강한
+* <strong style="color:blue;">Keep to oneself</strong>: 남과 어울리지 않다
+* <strong style="color:blue;">Step out of one's comfort zone</strong>: 안전지대에서 나오다
+* <strong style="color:blue;">Go through with</strong>: (어려움을) 해내다, 끝까지 하다
+* <strong style="color:blue;">Speak up for</strong>: ~를 위해 대변하다
+* <strong style="color:blue;">Brush up on</strong>: (실력을) 다시 갈고닦다
+* <strong style="color:blue;">Get over</strong>: 극복하다
+* <strong style="color:blue;">Stick to</strong>: ~를 고수하다
