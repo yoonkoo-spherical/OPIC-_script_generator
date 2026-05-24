@@ -7299,3 +7299,64 @@ I think the biggest factor was the professional experience I gained during my in
 * <strong style="color:blue;">Brush up on</strong>: (실력을) 다시 갈고닦다
 * <strong style="color:blue;">Get over</strong>: 극복하다
 * <strong style="color:blue;">Stick to</strong>: ~를 고수하다
+
+## 2026-05-24 06:26:10 OPIc Study
+
+### 묘사 : 겨울철 스키장의 풍경 묘사
+
+**[Question]**
+Please describe the ski resort you visited recently. What did it look like and what was the atmosphere like there?
+최근에 방문했던 스키장에 대해 묘사해 주세요. 그곳의 모습은 어떠했고 전반적인 분위기는 어땠나요?
+
+**[Model Answer]**
+To be honest, I’m quite a fan of winter sports, so I make it a point to visit a ski resort at least once every winter. The last time I went to a resort in Pyeongchang, the scenery was absolutely breathtaking. As soon as I arrived, I was <strong style="color:blue;">blown away</strong> by the sheer scale of the snow-covered mountains. Everything was blanketed in a thick, pristine layer of white snow, and the sunlight reflecting off the slopes made the whole area sparkle like diamonds. 
+
+The atmosphere was incredibly vibrant and lively. You could see people of all ages zipping down the slopes, and the crisp, cold air really <strong style="color:blue;">added to</strong> the excitement. I remember looking at the skiers from the top of the mountain, and it felt like watching a well-coordinated dance. Even though the temperature was freezing, the energy of the crowd kept me warm. Also, the wooden chalets scattered around the base of the mountain gave the place a cozy, rustic vibe. It was a perfect escape from the hustle and bustle of city life. I really feel that going there helps me <strong style="color:blue;">wind down</strong> and recharge my batteries. Whenever I look back on that trip, I feel a sense of tranquility mixed with the thrill of the slopes. It is definitely one of those places that I look forward to visiting again.
+
+**[Vocabulary & Expressions]**
+* Pristine: 자연 그대로의, 아주 깨끗한
+* Vibrant: 활기 넘치는
+* Tranquility: 고요함, 평온함
+* <strong style="color:blue;">blown away</strong>: 감명받다, 압도되다
+* <strong style="color:blue;">added to</strong>: ~에 더해지다, 높이다
+* <strong style="color:blue;">wind down</strong>: 긴장을 풀다, 휴식을 취하다
+
+---
+### 롤플레이 : 이사한 집 보일러 수리 요청
+
+**[Question]**
+You just moved into a new apartment, but the boiler is not working. Call your landlord, explain the problem, and suggest a solution.
+새 아파트에 막 이사를 왔는데 보일러가 작동하지 않습니다. 집주인에게 전화하여 상황을 설명하고 해결책을 제시해 보세요.
+
+**[Model Answer]**
+Hello, is this Mr. Kim? This is the new tenant from unit 302. I’m sorry to bother you, but I’m calling because I’m having some serious trouble with the heating system in my new place. I tried to turn on the boiler as soon as I moved in, but it seems to be completely broken. The water is ice cold, and the radiators aren’t warming up at all. It’s freezing in here, and to be frank, I’m worried I might <strong style="color:blue;">come down with</strong> a cold if this continues through the night. 
+
+Could you please look into this as soon as possible? I know it’s late, but is there any chance you could send a technician over early tomorrow morning? I really need to get this sorted out because I can’t live in a house without heating, especially in this weather. If it’s going to take longer to repair, would it be possible for you to provide a space heater for the meantime? I don’t want to <strong style="color:blue;">put you out</strong>, but this is quite an urgent matter for me. Please let me know what you can do to help. I look forward to hearing from you soon. Thank you.
+
+**[Vocabulary & Expressions]**
+* Tenant: 세입자
+* Radiator: 방열기
+* Urgent: 긴급한
+* <strong style="color:blue;">come down with</strong>: (병에) 걸리다
+* <strong style="color:blue;">sort out</strong>: 해결하다, 정리하다
+* <strong style="color:blue;">put someone out</strong>: ~에게 폐를 끼치다
+
+---
+### 돌발 : 과거와 현재의 소통 방식 차이
+
+**[Question]**
+How has the way people communicate changed over the years? What are the main differences between how people communicated in the past and how they do now?
+사람들이 소통하는 방식은 세월이 흐르며 어떻게 변화했나요? 과거와 현재의 소통 방식 사이의 주요 차이점은 무엇인가요?
+
+**[Model Answer]**
+That’s a very interesting question. Honestly, the shift in how we communicate has been nothing short of revolutionary. In the past, people relied heavily on slow, analog methods like handwritten letters or landline telephones. Sending a letter was a thoughtful process; it required patience because you had to wait days or even weeks for a reply. This made every message feel more personal and significant. People really took the time to <strong style="color:blue;">pour their hearts out</strong> on paper.
+
+In contrast, nowadays, communication is instantaneous. With the rise of smartphones and social media, we are constantly connected. We use messengers to send short, quick texts, and we can video chat with anyone across the globe in real-time. The biggest difference, I think, is the sense of immediacy. We no longer have to wait; we expect answers right away. While this is great for efficiency, I sometimes feel that we have <strong style="color:blue;">drifted away from</strong> the depth of genuine connection. We trade long, meaningful conversations for quick emojis or short clips. However, we cannot deny that technology has bridged the gap between cultures and distances. It’s a double-edged sword, but ultimately, it has definitely <strong style="color:blue;">changed the way</strong> we perceive relationships and intimacy in our daily lives.
+
+**[Vocabulary & Expressions]**
+* Revolutionary: 혁명적인
+* Immediacy: 신속성, 즉각성
+* Intimacy: 친밀함
+* <strong style="color:blue;">pour one's heart out</strong>: 속마음을 털어놓다
+* <strong style="color:blue;">drift away from</strong>: ~로부터 멀어지다
+* <strong style="color:blue;">changed the way</strong>: ~하는 방식을 바꾸다
