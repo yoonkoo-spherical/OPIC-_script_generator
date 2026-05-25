@@ -7360,3 +7360,82 @@ In contrast, nowadays, communication is instantaneous. With the rise of smartpho
 * <strong style="color:blue;">pour one's heart out</strong>: 속마음을 털어놓다
 * <strong style="color:blue;">drift away from</strong>: ~로부터 멀어지다
 * <strong style="color:blue;">changed the way</strong>: ~하는 방식을 바꾸다
+
+## 2026-05-25 07:00:30 OPIc Study
+
+### 묘사 : 가장 기억에 남는 은사님
+
+**[Question]**
+I’d like to know about a teacher you liked the most when you were a student. Could you describe what they looked like and what their personality was like? Why were they so special to you?
+
+학창 시절 가장 좋아했던 선생님에 대해 알고 싶습니다. 그 선생님의 외모와 성격은 어땠는지 묘사해 주실 수 있나요? 왜 그분이 당신에게 특별한 존재였는지도 말해주세요.
+
+**[Model Answer]**
+Honestly, thinking back to my high school days, one teacher really <strong style="color:blue;">stands out</strong> in my memory. His name was Mr. Kim, and he was my English teacher. Physically, he had a very distinct look. He was quite tall and slender, and he always wore these vintage, round-rimmed glasses that made him look like a scholar from an old movie. He had a gentle smile that instantly <strong style="color:blue;">put me at ease</strong> whenever I felt nervous about my grades.
+
+Beyond his appearance, his personality was what truly <strong style="color:blue;">made him stand out</strong>. He wasn't just a teacher who followed the textbook; he was incredibly passionate about literature. He had a way of bringing poems and novels to life, which really <strong style="color:blue;">caught my interest</strong>. Whenever I struggled with my studies, he would <strong style="color:blue;">go out of his way</strong> to provide extra materials or stay after school to explain things until I fully grasped the concepts.
+
+He was special because he didn't just teach the language; he taught me how to view the world from different perspectives. He really believed in my potential, even when I started to <strong style="color:blue;">give up on</strong> myself. He helped me <strong style="color:blue;">build up</strong> my confidence. Even now, whenever I face a difficult challenge, I often think of his words of encouragement. He really <strong style="color:blue;">left a lasting impression</strong> on me, and I’m so grateful to have been his student. He truly shaped who I am today.
+
+**[Vocabulary & Expressions]**
+* Scholar: 학자
+* Potential: 잠재력
+* <strong style="color:blue;">stands out</strong>: 두드러지다, 눈에 띄다
+* <strong style="color:blue;">put someone at ease</strong>: ~를 편안하게 해주다
+* <strong style="color:blue;">caught my interest</strong>: 흥미를 끌다
+* <strong style="color:blue;">go out of his way</strong>: 각별히 애쓰다
+* <strong style="color:blue;">give up on</strong>: ~를 포기하다
+* <strong style="color:blue;">build up</strong>: 쌓아 올리다, 키우다
+* <strong style="color:blue;">left a lasting impression</strong>: 깊은 인상을 남기다
+
+---
+### 롤플레이 : 결혼식 축가와 리허설 일정
+
+**[Question]**
+Your friend has asked you to sing a congratulatory song at their wedding. Call your friend and suggest a song you’d like to sing. Also, explain why you need to have a rehearsal together and discuss the schedule for it.
+
+친구가 결혼식에서 축가를 불러달라고 부탁했습니다. 친구에게 전화를 걸어 부르고 싶은 노래를 제안하세요. 또한, 왜 함께 리허설을 해야 하는지 설명하고 리허설 일정에 대해 논의하세요.
+
+**[Model Answer]**
+Hey, congrats again on your upcoming wedding! I’m so honored that you asked me to sing. I’ve been thinking about what song would be perfect, and I’d love to perform "A Thousand Years." It’s such a beautiful, classic choice, and I think it would <strong style="color:blue;">set the mood</strong> perfectly for your ceremony. What do you think?
+
+Actually, I’d really like to <strong style="color:blue;">go over</strong> the logistics with you. Even though I’ve practiced a lot, I think we really need to have a quick rehearsal. You know, live performances can be tricky, and I want to make sure I <strong style="color:blue;">sync up with</strong> the sound system and your entrance timing. If we don't <strong style="color:blue;">iron out</strong> these details, it might turn into a disaster on the big day, and I definitely don't want that to happen!
+
+So, how does your schedule look next week? I’m pretty <strong style="color:blue;">booked up</strong> on weekdays, but I’m totally free this coming Saturday. Could we meet at the wedding venue around 2 PM? We could <strong style="color:blue;">run through</strong> the song a couple of times and check the microphone settings. If that doesn't work for you, just let me know, and I’ll try to <strong style="color:blue;">fit it into</strong> my schedule whenever you’re available. I just want everything to be perfect for you!
+
+**[Vocabulary & Expressions]**
+* Logistics: 실행 계획, 세부 사항
+* Ceremony: 예식
+* <strong style="color:blue;">set the mood</strong>: 분위기를 조성하다
+* <strong style="color:blue;">go over</strong>: 검토하다, 살펴보다
+* <strong style="color:blue;">sync up with</strong>: ~와 맞추다
+* <strong style="color:blue;">iron out</strong>: (문제 등을) 해결하다, 정리하다
+* <strong style="color:blue;">booked up</strong>: 예약이 꽉 찬
+* <strong style="color:blue;">run through</strong>: 연습하다, 검토하다
+* <strong style="color:blue;">fit it into</strong>: (시간을) 내다, 포함시키다
+
+---
+### 돌발 : 결혼식장에서의 당황스러운 실수
+
+**[Question]**
+Have you ever made a mistake or felt embarrassed because you didn't know the proper etiquette at a wedding or a funeral? Tell me about the experience in detail. What happened and how did you handle it?
+
+결혼식장이나 장례식장에서 예절을 잘 몰라서 당황했거나 실수했던 경험이 있나요? 그 경험을 자세히 말해주세요. 어떤 일이 일어났고 어떻게 대처했나요?
+
+**[Model Answer]**
+Actually, I have a pretty embarrassing story about a wedding I attended a few years ago. I was invited to a traditional wedding, but I was so busy that I didn't <strong style="color:blue;">look into</strong> the specific customs beforehand. I just assumed it was a regular modern ceremony. When I arrived, I noticed everyone was wearing these very formal, dark-colored traditional outfits, but I showed up in a bright, colorful suit. I immediately felt like I was <strong style="color:blue;">sticking out like a sore thumb</strong>.
+
+It got worse during the ceremony. I wasn't sure when to stand, sit, or bow because I hadn't <strong style="color:blue;">caught on to</strong> the flow of the ritual. At one point, I accidentally walked into the front area where the immediate family was seated. I realized my mistake when people started whispering and giving me confused looks. I was so embarrassed that I just wanted to <strong style="color:blue;">sink into the floor</strong>.
+
+However, I decided to just be honest. I pulled the groom aside during the reception and apologized for my outfit and my confusion. I told him I really wanted to respect their culture but had <strong style="color:blue;">mixed up</strong> the details. Thankfully, he just laughed it off and told me he was happy I came regardless of what I wore. From that day on, I’ve made it a rule to always <strong style="color:blue;">brush up on</strong> the etiquette before attending any formal event. It was definitely a lesson I won't ever <strong style="color:blue;">live down</strong> easily!
+
+**[Vocabulary & Expressions]**
+* Etiquette: 예절
+* Ritual: 의식
+* <strong style="color:blue;">look into</strong>: 조사하다, 알아보다
+* <strong style="color:blue;">sticking out like a sore thumb</strong>: 눈에 너무 띄어 거북하다
+* <strong style="color:blue;">caught on to</strong>: ~를 이해하다, 파악하다
+* <strong style="color:blue;">sink into the floor</strong>: 쥐구멍에라도 숨고 싶다
+* <strong style="color:blue;">mixed up</strong>: 혼동하다
+* <strong style="color:blue;">brush up on</strong>: ~를 복습하다, 다시 공부하다
+* <strong style="color:blue;">live down</strong>: (창피한 일을) 잊게 하다, 극복하다
