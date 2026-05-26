@@ -7439,3 +7439,79 @@ However, I decided to just be honest. I pulled the groom aside during the recept
 * <strong style="color:blue;">mixed up</strong>: 혼동하다
 * <strong style="color:blue;">brush up on</strong>: ~를 복습하다, 다시 공부하다
 * <strong style="color:blue;">live down</strong>: (창피한 일을) 잊게 하다, 극복하다
+
+## 2026-05-26 06:36:01 OPIc Study
+
+### 묘사 : 나의 취미 장비, DSLR 카메라
+
+**[Question]**
+You mentioned that you enjoy photography as a hobby. Tell me about the equipment or tools you use for your photography. Describe them in detail. What do they look like, and why are they important to you?
+당신은 사진 촬영을 취미로 즐긴다고 했습니다. 사진 촬영에 사용하는 장비나 도구에 대해 말해보세요. 그것들에 대해 자세히 묘사하고, 어떻게 생겼는지, 왜 당신에게 중요한지 설명해주세요.
+
+**[Model Answer]**
+To be honest, photography has been a huge part of my life for years. When it comes to the equipment I use, I’m quite attached to my DSLR camera, a Canon EOS R6. It’s a sleek, black-bodied machine that feels incredibly sturdy in my hands. It has a high-resolution sensor and a versatile 24-70mm lens attached to it. 
+
+I’ve always loved capturing landscapes, so I <strong style="color:blue;">put a lot of effort into</strong> maintaining my gear. The lens, in particular, is a masterpiece; it allows me to capture crisp details even in low light. Whenever I head out for a photo walk, I make sure to <strong style="color:blue;">pack up</strong> all my essentials, including extra batteries, a lightweight tripod, and a cleaning kit. 
+
+You see, for me, this camera isn't just a piece of technology. It’s an extension of my vision. It helps me <strong style="color:blue;">bring out</strong> the beauty in everyday moments that others might overlook. I remember when I first bought it; I had to <strong style="color:blue;">save up</strong> for months, but every penny was worth it. Whenever I feel stressed, I just grab my camera bag, head to a park, and <strong style="color:blue;">get lost in</strong> the process of framing the perfect shot. It’s truly my stress-reliever. Honestly, I can’t imagine my hobby without this setup; it has truly become a part of who I am.
+
+**[Vocabulary & Expressions]**
+* Sturdy: 튼튼한
+* Versatile: 다재다능한, 용도가 많은
+* High-resolution: 고해상도의
+* <strong style="color:blue;">Put a lot of effort into</strong>: ~에 많은 노력을 기울이다
+* <strong style="color:blue;">Pack up</strong>: 짐을 꾸리다
+* <strong style="color:blue;">Bring out</strong>: ~을 끌어내다, 두드러지게 하다
+* <strong style="color:blue;">Save up</strong>: (돈을) 모으다
+* <strong style="color:blue;">Get lost in</strong>: ~에 몰두하다, 빠져들다
+
+---
+### 롤플레이 : 호텔 예약 문의 전화
+
+**[Question]**
+I’d like to give you a situation and ask you to act it out. You are planning a business trip next week and you need to book a hotel room. Call the hotel front desk, ask about room availability, and inquire about the room rates.
+상황을 하나 드리겠습니다. 연기해 보세요. 당신은 다음 주에 출장을 계획 중이며 호텔 객실을 예약해야 합니다. 호텔 프론트 데스크에 전화해서 객실 상황을 묻고, 숙박 요금에 대해 문의하세요.
+
+**[Model Answer]**
+Hello, is this the front desk? Yes, hi. I’m planning to visit your city for a business trip next week, from Wednesday to Friday, and I was wondering if you might have any rooms available for those dates. 
+
+I’ve heard great things about your hotel’s location, so I really hope to stay there. Could you tell me what kind of rooms are still open? Oh, I see. Do you have any single rooms with a view? I’d prefer something a bit quiet because I need to finish some paperwork.
+
+Also, I’m a bit curious about the price. Could you please give me a rough estimate of the room rates per night? And, does that price <strong style="color:blue;">come with</strong> breakfast? Actually, I’m trying to <strong style="color:blue;">figure out</strong> my travel budget, so knowing if there are any corporate discounts or special deals would be really helpful. 
+
+I don’t want to <strong style="color:blue;">miss out on</strong> a good deal, so if there’s a way to book it right now, let me know. I really <strong style="color:blue;">count on</strong> your hotel to provide a comfortable stay while I’m working. Could you please check that for me and <strong style="color:blue;">get back to</strong> me as soon as possible? Thank you so much for your help!
+
+**[Vocabulary & Expressions]**
+* Availability: 가용성, 예약 가능 여부
+* Rough estimate: 대략적인 견적
+* Corporate discount: 법인 할인
+* <strong style="color:blue;">Come with</strong>: ~이 딸려 오다, 포함되다
+* <strong style="color:blue;">Figure out</strong>: ~을 알아내다, 파악하다
+* <strong style="color:blue;">Miss out on</strong>: ~을 놓치다
+* <strong style="color:blue;">Count on</strong>: ~을 기대하다, 믿다
+* <strong style="color:blue;">Get back to</strong>: 다시 연락하다
+
+---
+### 돌발 : 친구와의 갈등과 화해
+
+**[Question]**
+Tell me about a time you had a big argument with your best friend. What was the conflict about, and how did you eventually make up? Explain the whole process in detail.
+가장 친한 친구와 크게 다투었던 적에 대해 이야기해주세요. 갈등의 원인은 무엇이었으며, 결국 어떻게 화해하게 되었나요? 전체 과정을 자세히 설명해주세요.
+
+**[Model Answer]**
+You know, even the closest friends have their ups and downs. A few years ago, I had a massive falling out with my best friend, Min-ji. It was actually about a misunderstanding regarding a project we were working on together. She thought I was <strong style="color:blue;">slacking off</strong>, while I felt she was being way too controlling. It led to a heated argument, and we didn't talk for almost a month. 
+
+At first, I was quite stubborn and didn't want to <strong style="color:blue;">back down</strong>, but as time passed, I realized how much I missed our friendship. I knew we had to <strong style="color:blue;">patch things up</strong> because it felt like a part of my daily routine was missing. So, I decided to take the first step. I invited her to our favorite cafe and poured my heart out. 
+
+I told her I was sorry for my part in the misunderstanding and explained my perspective. She did the same, and to my surprise, she also admitted that she had been overreacting. We were able to <strong style="color:blue;">clear the air</strong>, and surprisingly, our friendship became even stronger after that incident. It taught me that it’s important to <strong style="color:blue;">talk things over</strong> instead of letting emotions boil over. Sometimes, you just have to <strong style="color:blue;">put your ego aside</strong> to save a valuable relationship. Looking back, I’m glad we didn't let that argument ruin everything.
+
+**[Vocabulary & Expressions]**
+* Falling out: 불화, 다툼
+* Stubborn: 고집 센
+* Perspective: 관점
+* <strong style="color:blue;">Slacking off</strong>: 게으름을 피우다
+* <strong style="color:blue;">Back down</strong>: 물러서다, 굽히다
+* <strong style="color:blue;">Patch things up</strong>: 관계를 회복하다
+* <strong style="color:blue;">Clear the air</strong>: (오해 등을 풀어) 분위기를 개선하다
+* <strong style="color:blue;">Talk things over</strong>: 차근차근 상의하다
+* <strong style="color:blue;">Put your ego aside</strong>: 자존심을 내려놓다
