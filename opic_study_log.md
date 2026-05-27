@@ -7515,3 +7515,80 @@ I told her I was sorry for my part in the misunderstanding and explained my pers
 * <strong style="color:blue;">Clear the air</strong>: (오해 등을 풀어) 분위기를 개선하다
 * <strong style="color:blue;">Talk things over</strong>: 차근차근 상의하다
 * <strong style="color:blue;">Put your ego aside</strong>: 자존심을 내려놓다
+
+## 2026-05-27 06:52:28 OPIc Study
+
+### 묘사 : 주말에 집에서 보내는 휴식 시간
+
+**[Question]**
+Please describe how you usually spend your time at home on weekends or holidays. What kind of activities do you enjoy, and why do you prefer spending time at home rather than going out?
+주말이나 휴일에 집에서 주로 어떻게 시간을 보내는지 설명해 주세요. 어떤 활동을 즐기며, 왜 밖으로 나가는 것보다 집에서 시간을 보내는 것을 선호하나요?
+
+**[Model Answer]**
+To be honest, I am a huge homebody. During the weekends, I prefer to <strong style="color:blue;">lay low</strong> and recharge my batteries at home. Since my weekdays are incredibly hectic, I find it essential to <strong style="color:blue;">wind down</strong> in my own space. 
+
+Typically, my Saturday starts quite late. I love to <strong style="color:blue;">sleep in</strong> until noon. Once I drag myself out of bed, I usually head straight to the kitchen to whip up a simple brunch. After that, the real relaxation begins. I am a big fan of binge-watching TV series on Netflix. I can <strong style="color:blue;">get lost in</strong> a good thriller or a sitcom for hours. It’s the perfect way to <strong style="color:blue;">block out</strong> the stress of the previous week.
+
+Besides watching shows, I also enjoy tidying up my room. It might sound like a chore, but it actually helps me <strong style="color:blue;">sort out</strong> my thoughts and clear my mind. Also, I occasionally <strong style="color:blue;">catch up on</strong> some reading that I’ve been putting off. 
+
+You might wonder why I don’t go out. Well, I think the city is just too crowded and noisy. I would much rather stay in my cozy room where I can control the environment and just be myself. It’s not that I’m anti-social, but I truly believe that staying at home allows me to <strong style="color:blue;">gear up</strong> for the upcoming week with a much clearer perspective. Overall, home is my sanctuary where I can fully relax and just enjoy my own company.
+
+**[Vocabulary & Expressions]**
+* Sanctuary: 안식처
+* Hectic: 정신없이 바쁜
+* <strong style="color:blue;">lay low</strong>: 조용히 지내다
+* <strong style="color:blue;">wind down</strong>: 긴장을 풀다
+* <strong style="color:blue;">sleep in</strong>: 늦잠 자다
+* <strong style="color:blue;">get lost in</strong>: ~에 몰입하다
+* <strong style="color:blue;">block out</strong>: 차단하다
+* <strong style="color:blue;">sort out</strong>: 정리하다
+* <strong style="color:blue;">catch up on</strong>: 밀린 일을 하다
+* <strong style="color:blue;">gear up</strong>: 대비하다
+
+---
+### 롤플레이 : 친구가 약속에 1시간째 늦는 상황
+
+**[Question]**
+You arranged to meet a friend at a restaurant, but they have been an hour late. You are very frustrated. Call your friend and express your frustration, ask why they are late, and suggest an alternative plan.
+친구와 식당에서 만나기로 했는데, 친구가 1시간째 오지 않고 있습니다. 매우 화가 난 상태입니다. 친구에게 전화해서 화를 표현하고, 왜 늦는지 묻고, 대안을 제시하세요.
+
+**[Model Answer]**
+Hey, Min-su. Where on earth are you? I’ve been waiting here at the restaurant for over an hour now! To be completely honest, I’m feeling really frustrated because I’ve been sitting here by myself like a fool. I tried to <strong style="color:blue;">get a hold of</strong> you multiple times, but you didn't even pick up. What is going on?
+
+I mean, we had a clear plan, and I even made a reservation. You know how much I hate to <strong style="color:blue;">stand someone up</strong> or be stood up. Is everything okay? Did something urgent <strong style="color:blue;">come up</strong>, or did you just totally forget about our plans? I’m really upset because I could have been doing something else if I had known you were going to be this late.
+
+Anyway, it’s already past 2 PM, so the lunch rush is over. I don’t think I have the appetite to eat here anymore. Let’s just <strong style="color:blue;">call it off</strong> for today. Instead, why don’t we just meet at a cafe near my place later this evening so we can talk properly? I really need an explanation for this. Please <strong style="color:blue;">get back to</strong> me as soon as you get this message so I know what’s going on. I’m heading home now.
+
+**[Vocabulary & Expressions]**
+* Frustrated: 좌절감을 느끼는, 짜증나는
+* Appetite: 식욕
+* <strong style="color:blue;">get a hold of</strong>: ~와 연락을 취하다
+* <strong style="color:blue;">stand someone up</strong>: 약속 상대가 나오지 않게 하다
+* <strong style="color:blue;">come up</strong>: (일이) 생기다
+* <strong style="color:blue;">call it off</strong>: 취소하다
+* <strong style="color:blue;">get back to</strong>: 다시 연락하다
+
+---
+### 돌발 : 생애 첫 비행기 탑승 경험
+
+**[Question]**
+Think back to the first time you ever traveled by airplane. How did you feel about the experience? Was it exciting, or did you suffer from motion sickness or fear? Describe the event in detail.
+처음으로 비행기를 탔던 경험을 떠올려 보세요. 그 경험에 대해 어떻게 느꼈나요? 설렜나요, 아니면 멀미나 공포를 겪었나요? 그 사건을 자세히 설명해 주세요.
+
+**[Model Answer]**
+Oh, I remember my first flight like it was yesterday. I was about ten years old, and my family was heading to Jeju Island for a summer vacation. I was absolutely thrilled. I remember being so excited that I couldn't even <strong style="color:blue;">sleep a wink</strong> the night before. I kept imagining what it would be like to look down at the clouds.
+
+When I finally boarded the plane, everything felt so surreal. I was <strong style="color:blue;">taken aback by</strong> how large the cabin was and how professional the flight attendants looked. However, as soon as the plane started to take off, my excitement quickly turned into sheer terror. I felt my stomach <strong style="color:blue;">churning</strong> as the plane banked sharply. I started to <strong style="color:blue;">break out in</strong> a cold sweat because the motion was quite intense. 
+
+I think I was mostly scared because I didn't know what to expect. My mom tried to calm me down by giving me some snacks, but I was too nervous to eat anything. I just wanted to <strong style="color:blue;">get through</strong> the flight as quickly as possible. Fortunately, once we reached cruising altitude and the ride smoothed out, I felt much better. I eventually peeked out the window, and the view was breathtaking. It was truly a <strong style="color:blue;">once-in-a-lifetime</strong> experience that I still vividly remember. Looking back, that fear was just a part of the adventure, and it definitely helped me <strong style="color:blue;">grow out of</strong> my childhood fear of flying.
+
+**[Vocabulary & Expressions]**
+* Surreal: 비현실적인
+* Breathtaking: 숨 막히게 아름다운
+* <strong style="color:blue;">sleep a wink</strong>: 잠을 한숨도 못 자다
+* <strong style="color:blue;">taken aback by</strong>: ~에 깜짝 놀라다
+* <strong style="color:blue;">churning</strong>: (속이) 뒤틀리는
+* <strong style="color:blue;">break out in</strong>: (땀 등이) 갑자기 나다
+* <strong style="color:blue;">get through</strong>: 견뎌내다, 통과하다
+* <strong style="color:blue;">once-in-a-lifetime</strong>: 일생일대의
+* <strong style="color:blue;">grow out of</strong>: (나이가 들면서) ~를 극복하다/벗어나다
