@@ -7592,3 +7592,69 @@ I think I was mostly scared because I didn't know what to expect. My mom tried t
 * <strong style="color:blue;">get through</strong>: 견뎌내다, 통과하다
 * <strong style="color:blue;">once-in-a-lifetime</strong>: 일생일대의
 * <strong style="color:blue;">grow out of</strong>: (나이가 들면서) ~를 극복하다/벗어나다
+
+## 2026-05-28 06:41:52 OPIc Study
+
+### 묘사 : 아름다운 밤하늘의 풍경
+
+**[Question]**
+Could you describe the night sky with the moon and stars in detail? What does it look like, and how does it make you feel when you gaze up at it?
+(달과 별이 떠 있는 밤하늘을 자세히 묘사해 주시겠어요? 어떤 모습이며, 그것을 올려다볼 때 어떤 기분이 드는지 말씀해 주세요.)
+
+**[Model Answer]**
+To be honest, whenever I have a chance to step outside on a clear night, I find myself completely mesmerized by the celestial display above. The night sky I often see is like a vast, velvet canvas stretched out endlessly. First of all, the moon is usually the center of attention. Depending on the phase, it either hangs like a delicate crescent or glows as a full, radiant orb, <strong style="color:blue;">casting a silvery light</strong> over the world below. It’s truly breathtaking.
+
+Surrounding the moon, there are countless stars that look like scattered diamonds. When the air is crisp, they seem to <strong style="color:blue;">pop out</strong> against the deep indigo background, shimmering with such intensity. I love to just stand still and lose track of time while observing them. It makes me feel both small and strangely comforted. Looking at this tranquil landscape helps me <strong style="color:blue;">decompress from</strong> the stresses of my daily life. It’s as if the vastness of the universe helps me <strong style="color:blue;">put things into perspective</strong>, reminding me that my worries are just tiny specks in the grand scheme of things. I honestly believe that stargazing is the ultimate way to <strong style="color:blue;">clear my head</strong> and find inner peace. It is such a serene experience that I wish I could capture it in a photo, but no camera can ever really do it justice.
+
+**[Vocabulary & Expressions]**
+* Mesmerized: 매료된
+* Celestial: 하늘의, 천체의
+* Indigo: 남색의
+* Tranquil: 고요한
+* <strong style="color:blue;">casting a silvery light</strong>: 은빛을 드리우다
+* <strong style="color:blue;">pop out</strong>: 두드러지게 나타나다
+* <strong style="color:blue;">decompress from</strong>: ~로부터 긴장을 풀다
+* <strong style="color:blue;">put things into perspective</strong>: 객관적으로 바라보다
+* <strong style="color:blue;">clear my head</strong>: 머리를 식히다
+
+---
+### 롤플레이 : 음료 교환 요청하기
+
+**[Question]**
+You just ordered a coffee at a cafe, but the barista gave you the wrong drink. Call the staff and explain the situation, and suggest a way to resolve the problem.
+(카페에서 음료를 주문했는데 직원이 잘못된 음료를 주었습니다. 직원에게 전화하여 상황을 설명하고 해결 방안을 제시하세요.)
+
+**[Model Answer]**
+Excuse me, sorry to bother you, but I think there’s been a slight mix-up with my order. I ordered an iced caramel macchiato about five minutes ago, but the drink I received seems to be a hot vanilla latte. I didn’t realize it until I took a sip, so I’m really sorry about that. Could you please check my order?
+
+I understand that it gets really busy here, and it’s very easy to <strong style="color:blue;">mix up</strong> orders. However, I’m quite sensitive to caffeine, so I specifically asked for the iced caramel macchiato. Would it be possible for you to replace this with the correct drink? I’d be happy to wait if you’re short on time, but I really can’t drink this one. Also, is there any chance I could get a fresh one? I feel terrible asking, but I’ve been looking forward to this treat all day. If it’s too much trouble, maybe you could just <strong style="color:blue;">make up for</strong> the mistake by providing a voucher for next time? Please let me know what we can do to <strong style="color:blue;">sort this out</strong>. I really appreciate your help and I don't want to <strong style="color:blue;">make a fuss</strong>, I just want to make sure I get what I paid for. Thank you so much for your understanding.
+
+**[Vocabulary & Expressions]**
+* Mix-up: 혼동, 착오
+* Voucher: 할인권, 교환권
+* <strong style="color:blue;">mix up</strong>: 혼동하다, 뒤섞다
+* <strong style="color:blue;">make up for</strong>: 보상하다
+* <strong style="color:blue;">sort this out</strong>: 이 문제를 해결하다
+* <strong style="color:blue;">make a fuss</strong>: 소란을 피우다
+
+---
+### 돌발 : 기억에 남는 가족 여행
+
+**[Question]**
+Tell me about a memorable trip you took with your family when you were younger. Where did you go, who did you go with, and why is that trip still etched in your memory?
+(어렸을 때 가족과 함께 갔던 여행 중 가장 기억에 남는 곳은 어디인가요? 누구와 갔으며 왜 그 여행이 기억에 남는지 말씀해 주세요.)
+
+**[Model Answer]**
+When I look back on my childhood, one trip stands out above the rest: a family summer vacation to Jeju Island when I was ten years old. My parents, my younger sister, and I went on this trip, and it was the first time we ever flew on an airplane together. Everything about it felt like a grand adventure.
+
+The most unforgettable moment happened when we went hiking up Hallasan Mountain. We were totally unprepared for how steep the trail would be. My sister and I were <strong style="color:blue;">wearing ourselves out</strong> within the first hour. I remember feeling so frustrated that I wanted to <strong style="color:blue;">give up</strong> right then and there. But my father encouraged us, promising us some delicious black pork barbecue once we reached the base again. My mother also kept our spirits up by singing songs and telling funny stories. We eventually reached a scenic lookout point, and the view was absolutely breathtaking. We all sat down, shared a snack, and took a family photo. That trip really helped us <strong style="color:blue;">bond as a family</strong>. We had to <strong style="color:blue;">go through</strong> some hardships together, but overcoming that challenge made the victory at the end so much sweeter. Even now, whenever we get together, we <strong style="color:blue;">bring up</strong> that trip and laugh about how exhausted we were. It’s a core memory that I will always cherish.
+
+**[Vocabulary & Expressions]**
+* Etched: 새겨진
+* Steep: 가파른
+* Cherish: 소중히 간직하다
+* <strong style="color:blue;">wearing ourselves out</strong>: 지쳐버리다
+* <strong style="color:blue;">give up</strong>: 포기하다
+* <strong style="color:blue;">bond as a family</strong>: 가족 간의 유대감을 쌓다
+* <strong style="color:blue;">go through</strong>: (힘든 일을) 겪다
+* <strong style="color:blue;">bring up</strong>: (화제를) 꺼내다/말하다
