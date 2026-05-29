@@ -7658,3 +7658,72 @@ The most unforgettable moment happened when we went hiking up Hallasan Mountain.
 * <strong style="color:blue;">bond as a family</strong>: 가족 간의 유대감을 쌓다
 * <strong style="color:blue;">go through</strong>: (힘든 일을) 겪다
 * <strong style="color:blue;">bring up</strong>: (화제를) 꺼내다/말하다
+
+## 2026-05-29 06:44:13 OPIc Study
+
+### 묘사 : 자주 사용하는 주방 도구 묘사
+
+**[Question]**
+Tell me about the kitchen tools you use most often when you cook. What do they look like and why are they so important to you?
+요리할 때 가장 자주 사용하는 주방 도구에 대해 말해주세요. 그것들은 어떻게 생겼고 왜 당신에게 그렇게 중요한가요?
+
+**[Model Answer]**
+Well, when it comes to cooking, I’m quite particular about my kitchen gear. If I have to pick the most essential item, it would definitely be my high-quality chef’s knife. It has a sleek, ergonomic handle that fits perfectly in my palm, and the blade is razor-sharp. I honestly believe it is a game-changer. Whenever I need to slice vegetables or trim meat, it <strong style="color:blue;">cuts through</strong> everything like butter. It really helps me <strong style="color:blue;">speed up</strong> the preparation process, which is a lifesaver when I'm in a rush. Another tool I can't live without is my cast-iron skillet. It’s quite heavy, but it has excellent heat retention. Whenever I want to sear a steak, I just <strong style="color:blue;">fire up</strong> the stove, and this pan makes sure the meat is cooked to perfection. Cooking is not just about eating for me; it’s a therapeutic process. Having the right tools allows me to <strong style="color:blue;">get into</strong> the flow of cooking without any frustration. I often <strong style="color:blue;">look after</strong> my kitchen tools with great care, like washing them by hand immediately after use, because they are reliable partners in my kitchen. Overall, these items aren't just gadgets; they are extensions of my hands that help me <strong style="color:blue;">bring out</strong> the best flavors in every meal I prepare.
+
+**[Vocabulary & Expressions]**
+* Ergonomic: 인체공학적인
+* Retention: 유지(열 보존)
+* Therapeutic: 치료적인, 마음이 편해지는
+* <strong style="color:blue;">cuts through</strong>: ~을 쉽게 베어내다/통과하다
+* <strong style="color:blue;">speed up</strong>: 속도를 높이다
+* <strong style="color:blue;">fire up</strong>: (불을) 지피다/켜다
+* <strong style="color:blue;">get into</strong>: ~에 몰입하게 되다
+* <strong style="color:blue;">look after</strong>: ~을 관리하다/돌보다
+* <strong style="color:blue;">bring out</strong>: ~을 끌어내다(맛 등)
+
+---
+### 롤플레이 : 친구에게 콘서트 티켓 예매 부탁
+
+**[Question]**
+I’d like to give you a situation to act out. You want to go to a concert with your friend, but you are too busy to book the tickets. Call your friend, explain the situation, and ask them to book the tickets for you with specific instructions.
+상황극을 해봅시다. 친구와 콘서트에 가고 싶은데, 당신이 너무 바빠서 티켓 예매를 할 수 없습니다. 친구에게 전화해서 상황을 설명하고, 구체적인 지시사항과 함께 티켓 예매를 부탁하세요.
+
+**[Model Answer]**
+Hey, what’s up? Listen, I’m calling because I’m in a bit of a bind. You know that K-pop concert we’ve been dying to go to next month? Tickets go on sale in an hour, but I’m currently <strong style="color:blue;">swamped with</strong> this urgent project at work, so there's no way I can access the website. Could you possibly do me a huge favor and book the tickets for us? If you’re willing to help, I need you to <strong style="color:blue;">keep in mind</strong> a few things. First, please go for the seats in section A. I know they’re a bit pricey, but they are right next to the stage, and I really want to <strong style="color:blue;">soak up</strong> the atmosphere. Also, please make sure you <strong style="color:blue;">sign up for</strong> the early bird discount if it’s still available. I’ve already saved my credit card info on your account, so you shouldn't have any trouble paying. I’m so sorry to <strong style="color:blue;">put you out</strong> like this, but I’d be eternally grateful if you could <strong style="color:blue;">pull this off</strong> for me. Let me know as soon as you <strong style="color:blue;">get through</strong> the reservation process, okay? I’ll buy you dinner to <strong style="color:blue;">make up for</strong> all the trouble! Thanks a ton!
+
+**[Vocabulary & Expressions]**
+* In a bind: 곤경에 처한
+* Pricey: 비싼
+* Eternally grateful: 매우 감사하는
+* <strong style="color:blue;">swamped with</strong>: ~로 눈코 뜰 새 없이 바쁜
+* <strong style="color:blue;">keep in mind</strong>: 명심하다
+* <strong style="color:blue;">soak up</strong>: (분위기 등을) 마음껏 즐기다/흡수하다
+* <strong style="color:blue;">sign up for</strong>: ~에 등록/가입하다
+* <strong style="color:blue;">put someone out</strong>: ~에게 폐를 끼치다
+* <strong style="color:blue;">pull this off</strong>: (힘든 일을) 해내다
+* <strong style="color:blue;">get through</strong>: (과정을) 끝마치다/통과하다
+* <strong style="color:blue;">make up for</strong>: ~을 보상하다
+
+---
+### 돌발 : 야외 활동 중 갑작스러운 날씨 변화
+
+**[Question]**
+Tell me about a time when you were in a park or outdoors and the weather suddenly changed. What happened, and how did you deal with the situation?
+공원이나 야외에 있다가 갑작스럽게 날씨가 변했던 경험에 대해 말해주세요. 무슨 일이 있었고 어떻게 대처했나요?
+
+**[Model Answer]**
+Oh, this brings back a vivid memory. Last autumn, I decided to go for a picnic at a large park near the Han River. The sky was crystal clear when I arrived, and I was really looking forward to <strong style="color:blue;">kicking back</strong> and reading my book under the trees. However, about an hour later, the weather <strong style="color:blue;">took a turn for the worse</strong> out of nowhere. The sky turned dark gray, and a strong wind started to <strong style="color:blue;">pick up</strong>. Within minutes, it started pouring rain! I was completely <strong style="color:blue;">caught off guard</strong> because the weather forecast had said it would be sunny all day. I had to <strong style="color:blue;">scramble to</strong> pack my stuff into my bag. Everything was getting soaked, and it was quite a chaotic scene. I quickly <strong style="color:blue;">headed over to</strong> a nearby café to get out of the rain. I ended up waiting there for almost two hours while sipping a hot latte. Even though my picnic was <strong style="color:blue;">called off</strong>, I actually enjoyed watching the rain through the window; it was quite atmospheric. Looking back, I realized that I should always be prepared for unpredictable weather, so now I always <strong style="color:blue;">check up on</strong> the live radar before I head out. It was definitely a lesson learned the hard way!
+
+**[Vocabulary & Expressions]**
+* Crystal clear: 아주 맑은
+* Chaotic: 혼란스러운
+* Atmospheric: 분위기 있는
+* Unpredictable: 예측 불가능한
+* <strong style="color:blue;">kicking back</strong>: 편히 쉬다
+* <strong style="color:blue;">took a turn for the worse</strong>: 급격히 악화되다
+* <strong style="color:blue;">pick up</strong>: (바람 등이) 강해지다
+* <strong style="color:blue;">caught off guard</strong>: 방심하다/불시에 당하다
+* <strong style="color:blue;">scramble to</strong>: 허둥지둥 ~하다
+* <strong style="color:blue;">headed over to</strong>: ~로 향하다
+* <strong style="color:blue;">called off</strong>: 취소되다
+* <strong style="color:blue;">check up on</strong>: ~을 확인하다/점검하다
