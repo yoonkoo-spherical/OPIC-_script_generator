@@ -7727,3 +7727,74 @@ Oh, this brings back a vivid memory. Last autumn, I decided to go for a picnic a
 * <strong style="color:blue;">headed over to</strong>: ~로 향하다
 * <strong style="color:blue;">called off</strong>: 취소되다
 * <strong style="color:blue;">check up on</strong>: ~을 확인하다/점검하다
+
+## 2026-05-30 06:13:39 OPIc Study
+
+### 묘사 : 단골 식당의 인테리어 및 배치
+
+**[Question]**
+You mentioned that you like going to restaurants. Tell me about your favorite restaurant. What does it look like inside, and how are the tables arranged?
+당신은 식당에 가는 것을 좋아한다고 했습니다. 당신이 가장 좋아하는 식당에 대해 이야기해 주세요. 내부 모습은 어떤가요, 그리고 테이블은 어떻게 배치되어 있나요?
+
+**[Model Answer]**
+Honestly, there’s this one local Italian bistro I <strong style="color:blue;">keep going back to</strong> because it feels like a home away from home. When you first step into the place, you’re immediately struck by the warm, cozy atmosphere. The interior is <strong style="color:blue;">decked out with</strong> vintage wooden furniture, and the dim, amber-colored lighting makes everything feel incredibly intimate. It’s not a huge place, which I actually prefer. The walls are covered with old photographs and paintings, which really <strong style="color:blue;">add to</strong> the charm of the restaurant.
+
+As for the table arrangement, it’s quite strategic despite the limited space. They have a mix of small two-person tables scattered near the windows, which are perfect for a quiet dinner. In the middle of the dining area, there’s a long, communal wooden table that can <strong style="color:blue;">accommodate</strong> larger groups or families. What I really appreciate is that the tables aren't <strong style="color:blue;">jammed together</strong>; you can have a conversation without feeling like you’re invading your neighbor's personal space. Even when the place is packed, the layout feels intentional and breathable. It’s the kind of place where you can just <strong style="color:blue;">kick back</strong> and enjoy your meal without any sense of rush or discomfort.
+
+**[Vocabulary & Expressions]**
+* Bistro: 작은 식당
+* Intimate: 아늑한
+* Strategic: 전략적인
+* Communal: 공동의
+* <strong style="color:blue;">Keep going back to</strong>: 계속해서 다시 찾다
+* <strong style="color:blue;">Decked out with</strong>: ~로 꾸며진
+* <strong style="color:blue;">Add to</strong>: ~에 기여하다/더하다
+* <strong style="color:blue;">Jammed together</strong>: 빽빽하게 밀어 넣어진
+* <strong style="color:blue;">Kick back</strong>: 긴장을 풀고 쉬다
+
+---
+### 롤플레이 : 여행사 항공권 예약 문의
+
+**[Question]**
+I’d like you to call a travel agency and ask for information about flight bookings. Ask at least three questions about the schedule and the price.
+여행사에 전화해서 항공권 예약에 관한 정보를 문의해 보세요. 일정과 가격에 관해 최소 세 가지 질문을 하세요.
+
+**[Model Answer]**
+Hi there, I’m planning to take a trip to Europe next month, and I was hoping you could help me with some flight details. I’ve been trying to <strong style="color:blue;">look into</strong> some options online, but I’m a bit confused about the availability.
+
+First of all, I’m looking to fly out around the 15th of next month. Could you check if there are any direct flights available from Seoul to Paris on that day? Also, I’m curious about the return schedule. If I want to <strong style="color:blue;">fly back</strong> on the 25th, what are the best options for me in terms of timing? 
+
+Another thing is the price. Could you give me an estimate of how much the round-trip ticket would be? I’m trying to <strong style="color:blue;">stay within my budget</strong>, so I’d love to know if there are any promotional fares or discounts I should be aware of. Lastly, what’s the policy if I need to <strong style="color:blue;">call off</strong> the trip due to an emergency? Is it easy to get a refund or change the dates? I would really appreciate it if you could <strong style="color:blue;">sort this out</strong> for me so I can finalize my plans as soon as possible. Thanks!
+
+**[Vocabulary & Expressions]**
+* Availability: 가용성/예약 가능 여부
+* Promotional fare: 할인 운임
+* <strong style="color:blue;">Look into</strong>: 알아보다/조사하다
+* <strong style="color:blue;">Fly back</strong>: 돌아오는 비행기를 타다
+* <strong style="color:blue;">Stay within one's budget</strong>: 예산 범위 내에서 지출하다
+* <strong style="color:blue;">Call off</strong>: 취소하다
+* <strong style="color:blue;">Sort out</strong>: 해결하다/정리하다
+
+---
+### 돌발 : 과거 살던 집과 현재 집의 비교
+
+**[Question]**
+Think about the house you lived in when you were a child and the one you live in now. How are they different? Compare the two in terms of size, location, and atmosphere.
+어릴 적 살았던 집과 지금 사는 집을 생각해 보세요. 어떻게 다른가요? 크기, 위치, 분위기 측면에서 두 집을 비교해 보세요.
+
+**[Model Answer]**
+When I think back to the house I grew up in, it feels like a completely different world compared to my current apartment. My childhood home was a detached house in the suburbs. It was quite spacious, with a front yard where I used to play with my friends. The atmosphere was very lively and warm because the house was always <strong style="color:blue;">filled with</strong> the sound of family members and neighbors passing by. It felt very grounded and connected to nature.
+
+In contrast, the place I’m living in now is a high-rise apartment in the heart of the city. While it’s much more modern and convenient, it’s significantly smaller in terms of square footage. The location is the biggest change; instead of a quiet garden, I have a view of the busy skyline. The atmosphere here is a lot more private and quiet, which is something I’ve had to <strong style="color:blue;">get used to</strong> over time. Even though my current place lacks the yard, it <strong style="color:blue;">makes up for it</strong> with accessibility. I don’t have to worry about maintenance like I did in my old house, and everything I need is within walking distance. 
+
+Overall, while I sometimes <strong style="color:blue;">miss the nostalgia</strong> of my old home, I’ve learned to appreciate the efficiency and convenience of my current urban lifestyle. Both homes served their purposes at different stages of my life, and I wouldn’t trade those memories for anything.
+
+**[Vocabulary & Expressions]**
+* Detached house: 단독 주택
+* High-rise apartment: 고층 아파트
+* Square footage: 면적
+* Maintenance: 유지 보수
+* <strong style="color:blue;">Filled with</strong>: ~로 가득 찬
+* <strong style="color:blue;">Get used to</strong>: ~에 익숙해지다
+* <strong style="color:blue;">Make up for</strong>: 보상하다/만회하다
+* <strong style="color:blue;">Miss the nostalgia</strong>: 향수를 그리워하다
