@@ -7798,3 +7798,80 @@ Overall, while I sometimes <strong style="color:blue;">miss the nostalgia</stron
 * <strong style="color:blue;">Get used to</strong>: ~에 익숙해지다
 * <strong style="color:blue;">Make up for</strong>: 보상하다/만회하다
 * <strong style="color:blue;">Miss the nostalgia</strong>: 향수를 그리워하다
+
+## 2026-05-31 06:46:06 OPIc Study
+
+### 묘사 : 자전거 안전장비의 종류와 중요성
+
+**[Question]**
+You mentioned that you enjoy riding bicycles. What kind of safety gear do you typically wear when you go cycling? Please describe the items in detail and explain why they are essential for your safety.
+자전거 타기를 즐긴다고 하셨는데요. 자전거를 탈 때 보통 어떤 안전장비를 착용하시나요? 해당 장비들에 대해 자세히 묘사해주시고, 그것들이 왜 안전을 위해 필수적인지 설명해주세요.
+
+**[Model Answer]**
+Well, since I’m quite a frequent cyclist, I’ve learned that safety should always be the top priority. When I head out for a ride, I never fail to <strong style="color:blue;">suit up</strong> with my essential gear. First and foremost, a high-quality helmet is a must. It’s not just a piece of plastic; it’s designed to absorb impact in case of an accidental fall. I always make sure it fits snugly because if it’s too loose, it won’t do its job properly. 
+
+Next, I wear knee and elbow pads. These are crucial because when you tumble, your joints are usually the first to hit the pavement. I also wear high-visibility vests or use LED lights, especially when I ride in the evening. It’s vital to <strong style="color:blue;">stand out</strong> so that car drivers can see me from a distance, which helps me <strong style="color:blue;">steer clear of</strong> any dangerous traffic situations.
+
+Honestly, at first, I didn't think these things were that important, but I eventually <strong style="color:blue;">woke up to</strong> the reality that one minor mistake can lead to a serious injury. Now, I always <strong style="color:blue;">go over</strong> my gear before I start pedaling. It gives me peace of mind, allowing me to fully enjoy the ride without constantly worrying about potential mishaps. It’s definitely a habit I’m going to <strong style="color:blue;">stick with</strong> for a long time.
+
+**[Vocabulary & Expressions]**
+* Impact: 충격
+* Snug: 밀착된, 빈틈없는
+* Mishap: 작은 사고, 불행
+* <strong style="color:blue;">Suit up</strong>: (장비를) 갖춰 입다
+* <strong style="color:blue;">Stand out</strong>: 눈에 띄다
+* <strong style="color:blue;">Steer clear of</strong>: ~을 피하다
+* <strong style="color:blue;">Wake up to</strong>: ~의 중요성을 깨닫다
+* <strong style="color:blue;">Go over</strong>: 점검하다
+* <strong style="color:blue;">Stick with</strong>: ~을 계속 유지하다
+
+---
+### 롤플레이 : 두고 온 우산 챙겨달라고 부탁하기
+
+**[Question]**
+I'm sorry, but there's a problem you need to resolve. You were at a cafe with your friend, and you accidentally left your umbrella there. Call your friend, explain the situation, and ask them to pick it up for you.
+죄송하지만 해결해야 할 문제가 생겼습니다. 친구와 카페에 있었는데 실수로 우산을 두고 왔네요. 친구에게 전화를 걸어 상황을 설명하고 대신 챙겨달라고 부탁하세요.
+
+**[Model Answer]**
+Hey, [Friend's Name]! How’s it going? I’m so sorry to bother you, but I just realized that I left my umbrella at that cafe we were at earlier. I feel so clumsy! You know how unpredictable the weather has been lately; I really don't want to get caught in the rain tomorrow. 
+
+Would you mind doing me a huge favor? Since you’re still near that area, could you possibly <strong style="color:blue;">pop by</strong> the cafe and see if it’s still there? It’s a blue, foldable one, so it should be easy to spot. If it’s there, could you please <strong style="color:blue;">pick it up</strong> for me? I’ll be home for the rest of the day, but I can definitely come by your place to <strong style="color:blue;">drop by</strong> and grab it from you whenever it’s convenient.
+
+I really apologize for the trouble, and I promise to <strong style="color:blue;">make it up to</strong> you next time we hang out. Maybe I can treat you to a nice lunch or grab a coffee on me? Let me know if you can help me out. I really <strong style="color:blue;">count on</strong> you for this because I’m totally lost without that umbrella. Thanks a million!
+
+**[Vocabulary & Expressions]**
+* Unpredictable: 예측할 수 없는
+* Clumsy: 서투른, 덤벙대는
+* Convenient: 편리한
+* <strong style="color:blue;">Pop by</strong>: 잠시 들르다
+* <strong style="color:blue;">Pick up</strong>: 집어 들다/가져오다
+* <strong style="color:blue;">Drop by</strong>: 방문하다
+* <strong style="color:blue;">Make it up to</strong>: ~에게 (잘해서) 보상하다
+* <strong style="color:blue;">Count on</strong>: ~를 믿다/의지하다
+
+---
+### 돌발 : 환경 오염 인식과 재활용의 중요성
+
+**[Question]**
+Environmental issues are a major concern these days. How has people's perception of environmental problems changed compared to the past? Also, explain why recycling has become so important recently.
+환경 문제는 요즘 큰 관심사입니다. 과거와 비교했을 때 사람들의 환경 문제에 대한 인식은 어떻게 변했나요? 또한 최근 왜 재활용이 그토록 중요해졌는지 설명해주세요.
+
+**[Model Answer]**
+It’s quite fascinating to look at how our collective mindset has shifted over the past few decades. In the past, environmental issues were often seen as something distant or secondary, something we could just <strong style="color:blue;">put off</strong> for future generations to deal with. Most people didn't really <strong style="color:blue;">take it to heart</strong>. However, nowadays, we are literally living through the consequences, such as extreme weather patterns and severe air pollution. Now, it has become a top priority for everyone.
+
+The importance of recycling has skyrocketed as a direct response to this. We’ve reached a point where we can no longer just <strong style="color:blue;">throw away</strong> everything without considering the long-term impact. The massive amount of plastic waste filling up our oceans is a wake-up call. Recycling is no longer just an option; it’s a necessity to <strong style="color:blue;">cut down on</strong> our carbon footprint. 
+
+Also, people are starting to <strong style="color:blue;">catch on to</strong> the idea of a circular economy. Instead of consuming and discarding, we are learning to reuse and repurpose materials. It’s an essential step to <strong style="color:blue;">turn things around</strong> before the damage becomes irreversible. We have to <strong style="color:blue;">get together</strong> as a global community to minimize waste. I truly believe that even small, consistent actions in recycling can <strong style="color:blue;">bring about</strong> a significant change for our planet.
+
+**[Vocabulary & Expressions]**
+* Collective mindset: 집단적 사고방식
+* Consequences: 결과, 영향
+* Skyrocketed: 급증했다
+* Irreversible: 되돌릴 수 없는
+* <strong style="color:blue;">Put off</strong>: 미루다
+* <strong style="color:blue;">Take to heart</strong>: 진지하게 받아들이다
+* <strong style="color:blue;">Cut down on</strong>: ~을 줄이다
+* <strong style="color:blue;">Catch on to</strong>: ~를 이해하기 시작하다
+* <strong style="color:blue;">Turn things around</strong>: 상황을 호전시키다
+* <strong style="color:blue;">Get together</strong>: 힘을 합치다
+* <strong style="color:blue;">Bring about</strong>: 초래하다, 가져오다
