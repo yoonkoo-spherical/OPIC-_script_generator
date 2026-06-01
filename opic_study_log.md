@@ -7875,3 +7875,66 @@ Also, people are starting to <strong style="color:blue;">catch on to</strong> th
 * <strong style="color:blue;">Turn things around</strong>: 상황을 호전시키다
 * <strong style="color:blue;">Get together</strong>: 힘을 합치다
 * <strong style="color:blue;">Bring about</strong>: 초래하다, 가져오다
+
+## 2026-06-01 08:22:47 OPIc Study
+
+### 묘사 : 동네 공원의 조경 및 시설물 묘사
+
+**[Question]**
+I’d like to know about the park you frequently visit in your neighborhood. Describe its landscape and the facilities it offers in detail. What makes this park so special to you?
+당신이 동네에서 자주 가는 공원에 대해 알고 싶습니다. 그곳의 조경과 시설물을 상세히 묘사해 주세요. 무엇이 이 공원을 당신에게 특별하게 만드나요?
+
+**[Model Answer]**
+To be honest, the local park near my house, which is called Green Valley Park, is my absolute favorite place to <strong style="color:blue;">unwind after a long day</strong>. As soon as you enter the park, you are greeted by a breathtaking landscape. There is a massive, man-made pond right in the center, surrounded by willow trees that sway gracefully in the wind. The way the sunlight reflects off the water during the golden hour is just stunning; it really helps me <strong style="color:blue;">clear my head</strong>.
+
+As for the facilities, the park is incredibly well-equipped. There is a long, rubber-paved jogging track that stretches for about three kilometers, which is perfect for those who want to <strong style="color:blue;">keep in shape</strong>. For those who prefer a more relaxed vibe, there are plenty of wooden benches placed under the shade of ancient oak trees. Recently, they even added a small outdoor fitness zone with high-end exercise machines. What makes this park truly special is the harmony between the urban environment and nature. It is the perfect place to <strong style="color:blue;">get away from it all</strong> and just enjoy the silence. Whenever I feel overwhelmed by my busy schedule, I <strong style="color:blue;">head over to</strong> this park to recharge my batteries. It’s definitely a hidden gem in our neighborhood.
+
+**[Vocabulary & Expressions]**
+* Breathtaking: 숨 막히게 아름다운
+* Well-equipped: 시설이 잘 갖춰진
+* <strong style="color:blue;">unwind after a long day</strong>: 긴 하루 끝에 긴장을 풀다
+* <strong style="color:blue;">clear my head</strong>: 머리를 식히다
+* <strong style="color:blue;">keep in shape</strong>: 건강을 유지하다
+* <strong style="color:blue;">get away from it all</strong>: 일상에서 벗어나 휴식하다
+* <strong style="color:blue;">head over to</strong>: ~로 향하다
+
+---
+### 롤플레이 : 공항 보안 검색대 문제 발생
+
+**[Question]**
+You are currently at the airport security checkpoint. Your bag is flagged, and the security officer says you are carrying a prohibited item. Ask the officer what the rule is and try to resolve the situation by offering a solution.
+지금 공항 보안 검색대에 있습니다. 당신의 가방이 적발되었고, 보안 요원이 금지 물품을 소지하고 있다고 말합니다. 요원에게 규정이 무엇인지 묻고, 해결책을 제시하여 상황을 마무리하세요.
+
+**[Model Answer]**
+Excuse me, officer. I’m really sorry about this. I had no idea that my large bottle of facial toner was over the liquid limit. It completely <strong style="color:blue;">slipped my mind</strong> while I was packing in such a rush this morning. Could you please explain the specific security rules regarding liquids? Is there any way I can still keep this item, or is it strictly prohibited?
+
+I understand the security protocols are in place to ensure everyone’s safety, so I don’t want to cause any trouble. However, this is quite an expensive product that I bought as a gift, and I’d hate to just throw it away. Is it possible for me to <strong style="color:blue;">check it in</strong> with my luggage? Or perhaps, could I leave it at the post office counter in the airport and have it mailed to my home address? I am more than willing to <strong style="color:blue;">go the extra mile</strong> to resolve this without simply discarding the item. Please let me know what my options are, and I will <strong style="color:blue;">follow through with</strong> whatever is necessary to proceed with my boarding. Thank you for your patience and understanding.
+
+**[Vocabulary & Expressions]**
+* Prohibited: 금지된
+* Protocol: 규정, 절차
+* <strong style="color:blue;">slipped my mind</strong>: 깜빡했다
+* <strong style="color:blue;">check in</strong>: (수하물을) 부치다
+* <strong style="color:blue;">go the extra mile</strong>: 할 수 있는 최선을 다하다
+* <strong style="color:blue;">follow through with</strong>: ~을 끝까지 이행하다
+
+---
+### 돌발 : 지갑 분실 경험과 조치 방법
+
+**[Question]**
+Have you ever lost your wallet or credit card? Tell me about the situation, how you felt at that moment, and what specific steps you took to resolve the problem.
+지갑이나 신용카드를 잃어버린 적이 있나요? 그 상황에 대해 말해주고, 그때 어떤 기분이었는지, 그리고 문제를 해결하기 위해 어떤 구체적인 조치를 취했는지 말해주세요.
+
+**[Model Answer]**
+Actually, I have a very frustrating story about losing my wallet last year. I was at a crowded café downtown, and after I finished my coffee, I realized my wallet was gone. My heart just <strong style="color:blue;">sank to my stomach</strong>. I panicked because my credit cards and my ID were all in there. I felt completely helpless and vulnerable for a few minutes.
+
+Once I <strong style="color:blue;">got a grip on</strong> myself, I immediately took action. First, I called my bank to report the missing card and requested them to <strong style="color:blue;">block the card</strong> right away so no one could make fraudulent transactions. Then, I went to the nearest police station to file a report, which is crucial for identity theft protection. After that, I contacted the café to see if anyone had turned it in, though unfortunately, they hadn’t. It was such a stressful ordeal, but I learned a valuable lesson. Since then, I always make sure to double-check my belongings before I <strong style="color:blue;">head out</strong>. I’ve also started using digital payments more often so I don’t have to carry physical cards around, which definitely helps me <strong style="color:blue;">put my mind at ease</strong>.
+
+**[Vocabulary & Expressions]**
+* Fraudulent: 사기의, 부정의
+* Ordeal: 시련, 고난
+* <strong style="color:blue;">sank to my stomach</strong>: 철렁 내려앉다 (매우 놀라다)
+* <strong style="color:blue;">got a grip on</strong>: 침착함을 되찾다
+* <strong style="color:blue;">block the card</strong>: 카드를 정지시키다
+* <strong style="color:blue;">head out</strong>: 나가다, 출발하다
+* <strong style="color:blue;">put my mind at ease</strong>: 마음을 놓게 하다
