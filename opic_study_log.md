@@ -7938,3 +7938,66 @@ Once I <strong style="color:blue;">got a grip on</strong> myself, I immediately 
 * <strong style="color:blue;">block the card</strong>: 카드를 정지시키다
 * <strong style="color:blue;">head out</strong>: 나가다, 출발하다
 * <strong style="color:blue;">put my mind at ease</strong>: 마음을 놓게 하다
+
+## 2026-06-02 07:15:23 OPIc Study
+
+### 묘사 : 평소 즐겨 입는 옷차림과 스타일
+
+**[Question]**
+Tell me about your typical style of clothing. What do you usually wear on a daily basis, and why do you prefer that style?
+평소 즐겨 입는 옷차림에 대해 말해주세요. 일상적으로 어떤 옷을 입고, 왜 그런 스타일을 선호하나요?
+
+**[Model Answer]**
+To be honest, I am someone who values comfort above everything else. On a daily basis, I tend to <strong style="color:blue;">go for</strong> a casual look, usually consisting of oversized hoodies, comfortable jeans, and a pair of sneakers. You know, since I’m always on the move, wearing something that doesn’t restrict my movement is essential. I used to be really into trendy outfits, but I’ve realized that <strong style="color:blue;">dressing up</strong> just for the sake of looking good can be quite exhausting. 
+
+Whenever I have an important meeting or a special occasion, I do try to <strong style="color:blue;">put together</strong> a more professional outfit, perhaps a crisp shirt or a blazer. However, once I’m done, I can't wait to <strong style="color:blue;">get out of</strong> those stiff clothes and get back into my cozy loungewear. My style is definitely leaning towards 'athleisure' these days because it’s so versatile. It’s perfect for grabbing a coffee or even working from a cafe. Actually, my friends often tell me that I <strong style="color:blue;">take after</strong> my older brother in terms of fashion, as he also prefers simple, clean-cut, and comfortable clothes rather than flashy items. Overall, I think your outfit should reflect your lifestyle, and for me, simplicity is the ultimate sophistication.
+
+**[Vocabulary & Expressions]**
+* Versatile: 다재다능한, 활용도가 높은
+* Sophistication: 세련미
+* <strong style="color:blue;">go for</strong>: ~을 선택하다, 선호하다
+* <strong style="color:blue;">dressing up</strong>: 멋을 내다, 차려입다
+* <strong style="color:blue;">put together</strong>: (옷을) 맞춰 입다, 구성하다
+* <strong style="color:blue;">get out of</strong>: ~에서 벗어나다
+* <strong style="color:blue;">take after</strong>: ~을 닮다
+
+---
+### 롤플레이 : 꽃집에 꽃바구니 주문 문의
+
+**[Question]**
+I’d like you to call a flower shop to order a flower basket for an anniversary. Ask the florist about the price range and discuss what kind of flowers would be suitable for the occasion.
+기념일을 위한 꽃바구니를 주문하기 위해 꽃집에 전화를 걸어보세요. 꽃집 주인에게 예산 범위에 대해 묻고, 어떤 꽃 종류가 적합할지 상담하세요.
+
+**[Model Answer]**
+Hello! I’m calling because I’d like to order a flower basket for my parents’ wedding anniversary this coming weekend. I want to make sure it looks really special. Could you tell me what the typical price range is for a premium-sized basket? I have a budget of around 100 dollars, but I’m willing to <strong style="color:blue;">shell out</strong> a bit more if it means adding some high-quality flowers. 
+
+Also, do you have any recommendations for the types of flowers? I was thinking of roses, but I’m worried they might be too cliché. Maybe something more vibrant or seasonal? I really want to <strong style="color:blue;">come up with</strong> an arrangement that feels fresh and unique. Oh, that sounds great! Lilies and tulips? Yes, that would be a lovely combination. Could you also <strong style="color:blue;">look into</strong> whether you can include a small note with a personalized message? I want to make sure it’s delivered right to their doorstep by Saturday morning. Can we <strong style="color:blue;">count on</strong> the delivery being on time? I know it’s a busy season, so please let me know if there’s anything else I should be aware of. I really appreciate your help!
+
+**[Vocabulary & Expressions]**
+* Cliché: 진부한, 흔해빠진
+* Vibrant: 활기찬, 생기 넘치는
+* <strong style="color:blue;">shell out</strong>: (거금을) 쓰다, 지불하다
+* <strong style="color:blue;">come up with</strong>: ~을 생각해내다
+* <strong style="color:blue;">look into</strong>: ~을 조사하다, 알아보다
+* <strong style="color:blue;">count on</strong>: ~을 믿다, 의지하다
+
+---
+### 돌발 : 독립 후 겪은 외로움과 현실적 문제
+
+**[Question]**
+Tell me about the first time you moved out and lived on your own. What were the biggest challenges or feelings you experienced during that transition?
+처음 독립해서 혼자 살게 되었을 때에 대해 이야기해주세요. 그 과정에서 겪었던 가장 큰 어려움이나 감정은 무엇이었나요?
+
+**[Model Answer]**
+Moving out for the first time was a huge turning point in my life. I was both excited and terrified. At first, I loved the freedom of not having to answer to anyone. However, the excitement soon <strong style="color:blue;">wore off</strong> when I realized how much work goes into maintaining a household. The most overwhelming part was definitely the sheer loneliness. Living in a silent apartment after coming home from a long day at work really <strong style="color:blue;">got to me</strong>. It was a completely different environment compared to my family home where there was always someone to talk to.
+
+Then, there were the practical problems. I quickly learned that I had to <strong style="color:blue;">stay on top of</strong> things like paying utility bills, grocery shopping, and keeping the place clean. I remember running out of basic supplies like toilet paper or detergent at the most inconvenient times, and I had to <strong style="color:blue;">figure out</strong> how to manage my monthly budget so that I wouldn't be broke by the middle of the month. It was a steep learning curve, but it taught me to be more responsible. Looking back, although it was a bit lonely at times, it helped me <strong style="color:blue;">grow into</strong> a more independent and capable person. I wouldn't trade that experience for anything because it was the moment I truly became an adult.
+
+**[Vocabulary & Expressions]**
+* Turning point: 전환점
+* Steep learning curve: 가파른 학습 곡선 (배우기 힘든 상황)
+* <strong style="color:blue;">wore off</strong>: 점차 사라지다
+* <strong style="color:blue;">got to me</strong>: 나를 힘들게 했다, 영향을 주었다
+* <strong style="color:blue;">stay on top of</strong>: ~을 완벽히 파악하다, 처리하다
+* <strong style="color:blue;">figure out</strong>: ~을 알아내다, 해결하다
+* <strong style="color:blue;">grow into</strong>: ~로 성장하다
