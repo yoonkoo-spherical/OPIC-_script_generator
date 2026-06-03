@@ -8001,3 +8001,69 @@ Then, there were the practical problems. I quickly learned that I had to <strong
 * <strong style="color:blue;">stay on top of</strong>: ~을 완벽히 파악하다, 처리하다
 * <strong style="color:blue;">figure out</strong>: ~을 알아내다, 해결하다
 * <strong style="color:blue;">grow into</strong>: ~로 성장하다
+
+## 2026-06-03 07:29:55 OPIc Study
+
+### 묘사 : 도서관 시설 및 서가 배치 묘사
+
+**[Question]**
+You indicated that you like going to the library. Please describe the reading room and the layout of the bookshelves in your favorite library. What does it look like and why do you like spending time there?
+(당신은 도서관에 가는 것을 좋아한다고 했습니다. 당신이 가장 좋아하는 도서관의 열람실과 서가 배치를 묘사해주세요. 어떤 모습이며 왜 그곳에서 시간을 보내는 것을 좋아하나요?)
+
+**[Model Answer]**
+Well, let me tell you about my favorite public library, which is located just a stone’s throw away from my apartment. The reading room is quite impressive; it has floor-to-ceiling windows that allow for plenty of natural light, which makes the whole place feel incredibly airy and spacious. The desks are strategically arranged in rows, facing away from each other to ensure that visitors can <strong style="color:blue;">get down to</strong> business without any distractions.
+
+As for the bookshelf layout, it’s remarkably organized. The library uses a Dewey Decimal System, and the shelves are sectioned off by genres. One thing that really <strong style="color:blue;">stands out</strong> is the dedicated corner for rare editions, which is tucked away in the back for a quieter atmosphere. I absolutely love spending my weekends there. Whenever I feel overwhelmed, I just head over to the library to <strong style="color:blue;">clear my head</strong>. The smell of old books combined with the pin-drop silence creates a perfect environment for me to focus. It’s definitely my go-to spot whenever I need to <strong style="color:blue;">catch up on</strong> my reading list or just escape from the hustle and bustle of daily life. I truly believe that the well-thought-out layout is the main reason why the library <strong style="color:blue;">draws in</strong> so many book lovers like me.
+
+**[Vocabulary & Expressions]**
+* Airy: 통풍이 잘 되는
+* Spacious: 넓은
+* Strategically: 전략적으로
+* <strong style="color:blue;">Get down to</strong>: (~을) 본격적으로 시작하다
+* <strong style="color:blue;">Stand out</strong>: 눈에 띄다
+* <strong style="color:blue;">Clear one's head</strong>: 머리를 식히다
+* <strong style="color:blue;">Catch up on</strong>: (~동안 못한 일을) 보충하다
+* <strong style="color:blue;">Draw in</strong>: 사람을 끌어들이다
+
+---
+### 롤플레이 : 세탁 지연에 대한 불만 제기
+
+**[Question]**
+I am sorry, but there is a problem with the laundry you left. You went to pick it up on the agreed date, but it is not ready. Call the laundry shop and explain the situation, and ask for a solution.
+(죄송하지만, 맡기신 세탁물에 문제가 생겼습니다. 약속된 날짜에 찾으러 갔지만 세탁물이 준비되지 않았습니다. 세탁소에 전화해서 상황을 설명하고 해결책을 요구하세요.)
+
+**[Model Answer]**
+Hi there, I’m calling regarding the laundry I dropped off last week. I was supposed to pick up my suit and coats today, but when I arrived at the shop, the staff told me they weren't ready. Honestly, I’m quite frustrated because I have a very important business meeting tomorrow morning, and I was planning to wear that specific suit.
+
+I really need you to <strong style="color:blue;">look into</strong> this matter immediately. Could you tell me exactly what’s going on? Did the cleaning process take longer than expected, or was there some sort of mix-up with the order? Look, I’m not trying to be difficult, but this is a serious inconvenience for me. I need a solution, and I need it fast. Is there any way you can <strong style="color:blue;">expedite</strong> the process and have them delivered to my place by tonight? Or perhaps you could offer a discount for the trouble? Please <strong style="color:blue;">get back to</strong> me as soon as possible with a concrete plan. I’m really counting on you to <strong style="color:blue;">straighten out</strong> this mess, because I cannot afford to be late for my meeting without proper attire. I’ll be waiting for your prompt response. Thank you.
+
+**[Vocabulary & Expressions]**
+* Frustrated: 좌절감을 느끼는
+* Inconvenience: 불편
+* Concrete: 구체적인
+* <strong style="color:blue;">Look into</strong>: 조사하다
+* <strong style="color:blue;">Get back to</strong>: (~에게) 다시 연락하다
+* <strong style="color:blue;">Straighten out</strong>: (문제를) 해결하다, 바로잡다
+* <strong style="color:blue;">Count on</strong>: (~을) 믿다, 의지하다
+
+---
+### 돌발 : 과거와 현재의 명절 비교
+
+**[Question]**
+Tell me about the holidays you celebrated when you were a child. How is that different from the way you spend your holidays nowadays? Please describe the changes in detail.
+(어린 시절에 보냈던 명절에 대해 이야기해주세요. 오늘날 명절을 보내는 방식과 어떻게 다른가요? 그 변화를 자세히 설명해주세요.)
+
+**[Model Answer]**
+When I was a kid, holidays were such a huge deal. My extended family would all <strong style="color:blue;">gather around</strong> at my grandparents' house, and the whole place would be filled with the delicious aroma of traditional dishes being prepared. Back then, it felt like an endless festival. We played traditional games, dressed in colorful hanboks, and spent the entire day talking and laughing. It was a time when the whole family was <strong style="color:blue;">on the same page</strong> regarding family traditions.
+
+However, things are quite different now. As everyone has grown up and become busy with their own lives, it’s become much harder for us to get together. Nowadays, people are more inclined to <strong style="color:blue;">make the most of</strong> the holiday break by traveling abroad or just catching up on some much-needed sleep. The extravagant, large-scale family gatherings have significantly <strong style="color:blue;">died down</strong>. Instead of spending hours in the kitchen preparing elaborate meals, many families now choose to order food or simply go out to eat. Honestly, I sometimes feel a bit nostalgic for the old days, but I guess it’s just the natural progression of life. We are now trying to <strong style="color:blue;">keep up with</strong> the modern, fast-paced lifestyle while still finding small ways to honor our traditions. It’s a shift from a community-centered holiday to a more individualistic and flexible approach.
+
+**[Vocabulary & Expressions]**
+* Extended family: 대가족
+* Aroma: 향기
+* Nostalgic: 향수를 불러일으키는
+* <strong style="color:blue;">Gather around</strong>: 둘러앉다, 모이다
+* <strong style="color:blue;">On the same page</strong>: 의견이 일치하는
+* <strong style="color:blue;">Make the most of</strong>: ~을 최대한 활용하다
+* <strong style="color:blue;">Die down</strong>: (활동 등이) 차츰 잦아들다
+* <strong style="color:blue;">Keep up with</strong>: ~을 따라잡다, 유지하다
