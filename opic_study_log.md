@@ -8067,3 +8067,67 @@ However, things are quite different now. As everyone has grown up and become bus
 * <strong style="color:blue;">Make the most of</strong>: ~을 최대한 활용하다
 * <strong style="color:blue;">Die down</strong>: (활동 등이) 차츰 잦아들다
 * <strong style="color:blue;">Keep up with</strong>: ~을 따라잡다, 유지하다
+
+## 2026-06-04 07:13:09 OPIc Study
+
+### 묘사 : 최근 다녀온 제주도 여행기
+
+**[Question]**
+Tell me about a domestic trip you recently took. Describe the natural scenery of the place you visited in detail and explain why it was memorable.
+최근 다녀온 국내 여행지에 대해 말해주세요. 방문했던 곳의 자연경관을 자세히 묘사하고 왜 기억에 남는지 설명해주세요.
+
+**[Model Answer]**
+Honestly, I just <strong style="color:blue;">got back from</strong> a trip to Jeju Island last month, and I am still reeling from its breathtaking scenery. If I had to pick the most memorable part, it would be the sunrise at Seongsan Ilchulbong. The way the golden sun started to <strong style="color:blue;">peek through</strong> the clouds over the vast, endless ocean was truly otherworldly. It felt like time had stood still. Beyond the ocean, the lush green fields of the island <strong style="color:blue;">stretch out</strong> as far as the eye can see, dotted with little stone walls that define the unique landscape of Jeju. Everything about the environment was so pristine and untouched. I spent hours just hiking through the trails, <strong style="color:blue;">soaking up</strong> the fresh, salty air. It was a complete <strong style="color:blue;">break from</strong> the hectic city life I usually lead in Seoul. The harmony between the jagged volcanic rocks and the soft, rhythmic waves crashing against the shore left a deep impression on me. It really reminded me how important it is to <strong style="color:blue;">slow down</strong> and reconnect with nature. I really think anyone who needs to recharge their batteries should head down there. It was definitely a trip I will <strong style="color:blue;">look back on</strong> for a long time.
+
+**[Vocabulary & Expressions]**
+* Breathtaking: 숨 막히게 아름다운
+* Pristine: 자연 그대로의, 오염되지 않은
+* <strong style="color:blue;">got back from</strong>: ~에서 돌아오다
+* <strong style="color:blue;">peek through</strong>: 사이로 살짝 보이다
+* <strong style="color:blue;">stretch out</strong>: 펼쳐져 있다
+* <strong style="color:blue;">soaking up</strong>: ~을 마음껏 즐기다/흡수하다
+* <strong style="color:blue;">break from</strong>: ~로부터의 일시적 중단/휴식
+* <strong style="color:blue;">slow down</strong>: 속도를 늦추다, 여유를 갖다
+* <strong style="color:blue;">look back on</strong>: ~을 회상하다
+
+---
+### 롤플레이 : 인터넷 요금제 문의
+
+**[Question]**
+You want to sign up for a new internet service at your home. Call your internet service provider and ask three or four questions about the available plans and any potential discounts.
+집에 새로운 인터넷 서비스를 가입하려고 합니다. 통신사에 전화해서 이용 가능한 요금제와 할인 혜택에 대해 3~4가지 질문을 하세요.
+
+**[Model Answer]**
+Hi, I’m calling because I’m looking to sign up for a new high-speed internet plan for my new apartment. Before I <strong style="color:blue;">commit to</strong> anything, I have a few questions. First off, could you tell me what kind of speed options you have? I work from home, so a stable connection is a priority for me. Also, I’ve heard about some promotional offers for new customers. Is there anything currently available that could help me <strong style="color:blue;">cut down on</strong> the monthly costs? I’m also wondering if there’s a bundle package. If I <strong style="color:blue;">go for</strong> both internet and TV services, do I get a better deal? Lastly, what is the process if I ever need to <strong style="color:blue;">switch over</strong> to a different plan later on? I don’t want to be <strong style="color:blue;">locked into</strong> a long-term contract if my needs change. Please let me know what my best options are so I can <strong style="color:blue;">weigh my choices</strong> before I make a final decision. Thanks for your help!
+
+**[Vocabulary & Expressions]**
+* Stable: 안정적인
+* Bundle: 묶음 상품
+* <strong style="color:blue;">commit to</strong>: ~에 전념하다/약속하다
+* <strong style="color:blue;">cut down on</strong>: ~을 줄이다
+* <strong style="color:blue;">go for</strong>: ~을 선택하다
+* <strong style="color:blue;">switch over</strong>: 바꾸다/전환하다
+* <strong style="color:blue;">locked into</strong>: ~에 얽매이다/계약에 묶이다
+* <strong style="color:blue;">weigh my choices</strong>: 선택지를 저울질하다/고민하다
+
+---
+### 돌발 : 가치관을 바꾼 책 경험
+
+**[Question]**
+Have you ever read a book that deeply moved you or changed your perspective on life? Describe the book and explain how it influenced your way of thinking.
+책을 읽고 깊은 감동을 받았거나 삶을 바라보는 관점이 바뀐 적이 있나요? 그 책을 묘사하고 그것이 당신의 사고방식에 어떤 영향을 주었는지 설명해주세요.
+
+**[Model Answer]**
+Actually, there is this one book that completely <strong style="color:blue;">turned my world upside down</strong>. It’s a book called 'Tuesdays with Morrie.' When I first picked it up, I didn't expect much, but as I <strong style="color:blue;">dug into</strong> the story, I realized it was about much more than just a professor and his student. It deals with death, regrets, and what it truly means to live a meaningful life. Before reading this, I was someone who was always <strong style="color:blue;">caught up in</strong> the rat race, obsessing over career success and material things. However, Morrie's perspective on human connection and love really <strong style="color:blue;">struck a chord with</strong> me. It taught me that we often <strong style="color:blue;">put off</strong> things that truly matter until it’s too late. It pushed me to <strong style="color:blue;">step back</strong> and reevaluate my priorities. I started to focus more on spending quality time with my family and friends rather than just chasing titles. It basically <strong style="color:blue;">brought about</strong> a positive shift in my mindset. Now, I try to live each day with more gratitude and mindfulness. It was truly a life-changing experience, and I often <strong style="color:blue;">go back to</strong> certain chapters when I feel like I'm losing my way again.
+
+**[Vocabulary & Expressions]**
+* Perspective: 관점
+* Mindfulness: 마음 챙김, 현재에 집중함
+* <strong style="color:blue;">turned my world upside down</strong>: 세상을 뒤집어 놓다 (큰 변화를 주다)
+* <strong style="color:blue;">dug into</strong>: 깊이 파고들다/집중하다
+* <strong style="color:blue;">caught up in</strong>: ~에 휘말리다/사로잡히다
+* <strong style="color:blue;">struck a chord with</strong>: 심금을 울리다/공감을 사다
+* <strong style="color:blue;">put off</strong>: 미루다
+* <strong style="color:blue;">step back</strong>: 한 걸음 물러나다
+* <strong style="color:blue;">brought about</strong>: 야기하다/초래하다
+* <strong style="color:blue;">go back to</strong>: 다시 돌아보다/찾아보다
