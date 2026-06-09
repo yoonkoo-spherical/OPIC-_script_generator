@@ -8131,3 +8131,70 @@ Actually, there is this one book that completely <strong style="color:blue;">tur
 * <strong style="color:blue;">step back</strong>: 한 걸음 물러나다
 * <strong style="color:blue;">brought about</strong>: 야기하다/초래하다
 * <strong style="color:blue;">go back to</strong>: 다시 돌아보다/찾아보다
+
+## 2026-06-09 06:38:28 OPIc Study
+
+### 묘사 : 직장 동료들의 성격과 특징 묘사
+
+**[Question]**
+Tell me about the group of colleagues you interact with the most at work. What do they look like, and what are their personalities like? Why do you enjoy spending time with them?
+직장에서 주로 함께 어울리는 동료들에 대해 말해주세요. 그들은 어떻게 생겼고 성격은 어떤가요? 왜 그들과 시간을 보내는 것을 즐기나요?
+
+**[Model Answer]**
+Honestly, I feel incredibly lucky to work with such an amazing group of people. There are about four of us who are very close, and we tend to <strong style="color:blue;">hang out</strong> together almost every single day. First off, let me talk about Sarah. She is the heart of our team. She has a bright, contagious smile that can <strong style="color:blue;">light up</strong> a room instantly. Personality-wise, she is extremely empathetic and is always the first one to <strong style="color:blue;">reach out</strong> to anyone who is having a tough day. Then there’s Mark, who is the exact opposite but in a great way. He’s a bit of a nerd, but in the most charming sense. He’s super organized and always <strong style="color:blue;">keeps track of</strong> our deadlines. We often <strong style="color:blue;">joke around</strong> about how he’s the "dad" of our group because he’s so responsible. I truly enjoy being around them because we share a similar sense of humor, which helps us <strong style="color:blue;">get through</strong> even the most stressful work weeks. Whenever we are feeling overwhelmed, we just <strong style="color:blue;">vent out</strong> our frustrations over a cup of coffee, and somehow everything feels manageable again. We genuinely <strong style="color:blue;">care for</strong> one another, and that supportive atmosphere is what keeps me motivated to go to work every morning. We don’t just talk about work; we often discuss our lives and dreams, which has really <strong style="color:blue;">brought us closer together</strong> over the past year.
+
+**[Vocabulary & Expressions]**
+* Contagious: 전염성의
+* Empathetic: 공감 능력이 있는
+* <strong style="color:blue;">hang out</strong>: 어울려 놀다
+* <strong style="color:blue;">light up</strong>: 환하게 만들다
+* <strong style="color:blue;">reach out</strong>: 도움의 손길을 내밀다
+* <strong style="color:blue;">keep track of</strong>: ~을 계속 파악하다
+* <strong style="color:blue;">joke around</strong>: 농담을 주고받다
+* <strong style="color:blue;">get through</strong>: (힘든 일을) 이겨내다
+* <strong style="color:blue;">vent out</strong>: (감정을) 털어놓다
+* <strong style="color:blue;">brought us closer together</strong>: 우리를 더 가깝게 만들다
+
+---
+### 롤플레이 : 택시 기사에게 길 안내하기
+
+**[Question]**
+You are in a taxi. Tell the driver where you need to go, and ask the driver to take the fastest route because you are in a rush. Also, ask how long it will take.
+택시에 탔습니다. 기사님께 어디로 가야 하는지 말하고, 급한 상황이니 가장 빠른 길로 가달라고 요청하세요. 또한 얼마나 걸리는지도 물어보세요.
+
+**[Model Answer]**
+Hi, excuse me! I’m so sorry, but I’m in a huge rush right now because I have a very important business meeting. Could you please take me to the Grand Central Hotel downtown? I know there might be a lot of traffic at this hour, but is there any way you could take the fastest route possible? Maybe you can <strong style="color:blue;">take a shortcut</strong> through the side streets to <strong style="color:blue;">avoid the traffic jam</strong>? I’ve checked the GPS, and it seems like the main highway is completely <strong style="color:blue;">backed up</strong>. By the way, how long do you think it will take to get there? If we could arrive within 20 minutes, that would be a total lifesaver for me. I’m quite worried because if I <strong style="color:blue;">show up</strong> late, I might lose a major client. Oh, also, please let me know if you need me to <strong style="color:blue;">point out</strong> any specific landmarks or turns along the way. I really appreciate your help! Please feel free to drive as quickly as is safely possible—I’d really <strong style="color:blue;">take it to heart</strong> if you could help me get there on time. Thank you so much for your understanding.
+
+**[Vocabulary & Expressions]**
+* Downtown: 시내
+* Landmark: 랜드마크
+* <strong style="color:blue;">take a shortcut</strong>: 지름길로 가다
+* <strong style="color:blue;">avoid the traffic jam</strong>: 교통 체증을 피하다
+* <strong style="color:blue;">backed up</strong>: 정체된
+* <strong style="color:blue;">show up</strong>: 나타나다, 도착하다
+* <strong style="color:blue;">point out</strong>: 지적하다, 가리키다
+* <strong style="color:blue;">take it to heart</strong>: ~을 마음 깊이 고맙게 생각하다
+
+---
+### 돌발 : 집안일 중 발생한 문제 경험
+
+**[Question]**
+You were doing chores at home when a sudden problem occurred, such as a vacuum cleaner breaking down or a water leak. Tell me what happened, what the problem was, and how you handled it.
+집안일을 하다가 청소기가 고장 나거나 물이 새는 등 문제가 발생했습니다. 무슨 일이 있었고, 어떤 문제였으며, 어떻게 해결했는지 말해주세요.
+
+**[Model Answer]**
+Oh, you wouldn't believe what happened to me just last weekend. I was busy <strong style="color:blue;">tidying up</strong> my living room because I had invited some friends over for a small party. I was using my vacuum cleaner, which I bought only a few months ago, when all of a sudden, it started making this terrible, high-pitched screeching noise. I immediately <strong style="color:blue;">turned it off</strong>, but when I tried to <strong style="color:blue;">switch it on</strong> again, it was completely dead. It was so frustrating because the room was still half-dirty! I didn't know what was wrong, so I decided to <strong style="color:blue;">take it apart</strong> to see if something was <strong style="color:blue;">stuck in</strong> the hose. To my surprise, a huge chunk of plastic from a toy I didn't even know I had was <strong style="color:blue;">jammed in</strong> the suction pipe. It took me nearly an hour to <strong style="color:blue;">fish it out</strong> with a pair of tweezers. Once I cleared the blockage, I put it back together and thankfully, it started working again. I really <strong style="color:blue;">dodged a bullet</strong> there because I was about to throw it out and buy a new one, which would have cost me a fortune. It was a huge relief, and I learned my lesson to always check the floor for small items before I start vacuuming.
+
+**[Vocabulary & Expressions]**
+* Chores: 집안일
+* High-pitched: 높은 음의
+* Screeching: 끽하는 소리의
+* Tweezers: 핀셋
+* <strong style="color:blue;">tidying up</strong>: 정리하다
+* <strong style="color:blue;">turned it off</strong>: 끄다
+* <strong style="color:blue;">switch it on</strong>: 켜다
+* <strong style="color:blue;">take it apart</strong>: 분해하다
+* <strong style="color:blue;">stuck in</strong>: ~에 낀
+* <strong style="color:blue;">jammed in</strong>: 꽉 낀
+* <strong style="color:blue;">fish it out</strong>: (애써) 꺼내다
+* <strong style="color:blue;">dodged a bullet</strong>: (위기를) 모면하다
