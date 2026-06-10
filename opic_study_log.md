@@ -8198,3 +8198,59 @@ Oh, you wouldn't believe what happened to me just last weekend. I was busy <stro
 * <strong style="color:blue;">jammed in</strong>: 꽉 낀
 * <strong style="color:blue;">fish it out</strong>: (애써) 꺼내다
 * <strong style="color:blue;">dodged a bullet</strong>: (위기를) 모면하다
+
+## 2026-06-10 06:56:51 OPIc Study
+
+### 묘사 : 가장 아끼는 신발 묘사
+
+**[Question]**
+Tell me about your favorite pair of shoes. What do they look like and how do they feel when you wear them?
+가장 아끼는 신발에 대해 이야기해 주세요. 어떻게 생겼고 신었을 때 어떤 느낌인가요?
+
+**[Model Answer]**
+Honestly, I’m a huge sneakerhead, so it’s tough to pick just one, but if I had to choose, it would definitely be my vintage-style leather sneakers. Visually, they have this timeless, minimalist design with a clean white base and subtle navy accents on the side. What I love most is the texture; the leather is incredibly soft and has started to age beautifully. When I first <strong style="color:blue;">put them on</strong>, I was worried they might be stiff, but they fit like a glove. The sole is cushioned perfectly, so even if I walk for hours, my feet never feel tired. I actually <strong style="color:blue;">came across</strong> them at a small boutique in a back alley while traveling, and it was love at first sight. I tend to <strong style="color:blue;">dress up</strong> or down depending on the occasion, and these shoes are so versatile that they <strong style="color:blue;">go well with</strong> pretty much anything in my closet. Whenever I wear them, I feel a boost of confidence. They are not just an accessory; they are a part of my daily identity.
+
+**[Vocabulary & Expressions]**
+* Sneakerhead: 운동화 수집가
+* Versatile: 다재다능한, 활용도가 높은
+* <strong style="color:blue;">put on</strong>: 착용하다
+* <strong style="color:blue;">come across</strong>: 우연히 발견하다
+* <strong style="color:blue;">dress up</strong>: 멋을 내다, 차려입다
+* <strong style="color:blue;">go well with</strong>: ~와 잘 어울리다
+
+---
+### 롤플레이 : 약속에 늦은 친구에게 화내기
+
+**[Question]**
+You are supposed to meet a friend, but they haven't shown up for an hour. Call your friend and leave a message expressing your frustration and asking where they are.
+친구와 만나기로 했는데 1시간째 나타나지 않고 있습니다. 친구에게 전화해서 화를 내고 어디에 있는지 물어보세요.
+
+**[Model Answer]**
+Hey, are you kidding me right now? I’ve been waiting here for over an hour! I’m honestly so frustrated because I’ve been <strong style="color:blue;">standing around</strong> like a fool in this heat. You know how much I hate being late, and you’ve left me here with no explanation. I tried to call you three times, but you didn't even <strong style="color:blue;">pick up</strong>. What is going on? Did you forget about our plans? If something came up, you should have at least shot me a text. I was really looking forward to this lunch, but now I’m just fuming. I don't want to <strong style="color:blue;">blow up</strong> at you, but this is really disrespectful of my time. Just tell me exactly where you are and how long it’s going to take for you to get here. If you’re still far away, just be honest so I can decide whether to stay or just <strong style="color:blue;">call it a day</strong> and go home. Please get back to me immediately.
+
+**[Vocabulary & Expressions]**
+* Frustration: 좌절감, 불만
+* Fuming: 화가 머리끝까지 난
+* <strong style="color:blue;">stand around</strong>: (할 일 없이) 서성이다
+* <strong style="color:blue;">pick up</strong>: (전화를) 받다
+* <strong style="color:blue;">blow up at</strong>: ~에게 버럭 화를 내다
+* <strong style="color:blue;">call it a day</strong>: (하던 일을) 그만두기로 하다
+
+---
+### 돌발 : 술자리에서 기억을 잃은 경험
+
+**[Question]**
+Have you ever had a time when you drank too much at a social gathering or a company dinner and blacked out or made a mistake? Tell me about that experience in detail.
+술자리나 회식에서 너무 취해서 필름이 끊기거나 실수를 했던 경험이 있나요? 그 경험에 대해 자세히 말해주세요.
+
+**[Model Answer]**
+Oh man, this is a bit embarrassing, but I definitely have a story for you. A few years ago, during my first company dinner, I was feeling a bit nervous and kept <strong style="color:blue;">knocking back</strong> drinks to loosen up. Everything was fine until the atmosphere got really hyped. I remember laughing and talking, but then... everything just went blank. When I finally <strong style="color:blue;">came to</strong> the next morning, I was in my bed with no recollection of how I got home. I was in a total panic! I had to <strong style="color:blue;">reach out</strong> to my colleague to find out if I had done anything stupid. It turned out I had apparently stood up and given a very long, very loud, and very emotional speech about how much I loved the company. I was so mortified! I tried to <strong style="color:blue;">brush it off</strong> when I got to the office, but it took me weeks to live it down. Since then, I’ve learned to <strong style="color:blue;">take it easy</strong> and never let myself get to that point again. It was a brutal lesson on keeping my limits in check.
+
+**[Vocabulary & Expressions]**
+* Recollection: 기억
+* Mortified: 굴욕감을 느끼는
+* <strong style="color:blue;">knock back</strong>: (술을) 단숨에 들이켜다
+* <strong style="color:blue;">come to</strong>: 정신이 들다, 의식을 회복하다
+* <strong style="color:blue;">reach out</strong>: ~에게 연락을 취하다
+* <strong style="color:blue;">brush off</strong>: 무시하다, 대수롭지 않게 넘기다
+* <strong style="color:blue;">take it easy</strong>: 여유를 갖다, 무리하지 않다
