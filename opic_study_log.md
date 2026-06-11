@@ -8254,3 +8254,72 @@ Oh man, this is a bit embarrassing, but I definitely have a story for you. A few
 * <strong style="color:blue;">reach out</strong>: ~에게 연락을 취하다
 * <strong style="color:blue;">brush off</strong>: 무시하다, 대수롭지 않게 넘기다
 * <strong style="color:blue;">take it easy</strong>: 여유를 갖다, 무리하지 않다
+
+## 2026-06-11 07:20:28 OPIc Study
+
+### 묘사 : 동네 코인 세탁방 묘사
+
+**[Question]**
+Please describe the laundromat or coin laundry near your house in detail. What does it look like, and what kind of facilities are there?
+집 근처에 있는 세탁소나 코인 세탁방을 자세히 묘사해 주세요. 어떤 모습이며 어떤 시설들이 있나요?
+
+**[Model Answer]**
+To be honest, I’m a regular at the coin laundry near my place because I don't own a large washing machine. Whenever I walk into the laundromat, the first thing that strikes me is how neat and organized it is. The place is <strong style="color:blue;">kitted out with</strong> rows of high-end washing machines and massive tumble dryers on the left side, all shining in stainless steel. 
+
+The interior is quite cozy and modern, with soft LED lighting that makes it feel less like a chore and more like a cafe. There’s a dedicated waiting area equipped with a couple of comfortable sofas and a vending machine that sells snacks and detergent. I usually <strong style="color:blue;">kill time</strong> by reading a book or surfing the web while my clothes are being washed. Another thing I love about this place is the smell. They have these automatic air fresheners that <strong style="color:blue;">give off</strong> a subtle lavender scent, which is super relaxing. 
+
+On the opposite wall, there are some folding tables where people can neatly organize their laundry. It's never overly crowded, so it’s pretty easy to <strong style="color:blue;">get hold of</strong> an available machine whenever I visit. Overall, it’s a very well-maintained space that I heavily rely on. I honestly don't know what I would do if it ever <strong style="color:blue;">shut down</strong>. It has truly become an essential part of my weekly routine.
+
+**[Vocabulary & Expressions]**
+* Stainless steel: 스테인리스 스틸
+* Detergent: 세탁 세제
+* <strong style="color:blue;">Kitted out with</strong>: ~를 갖추고 있는
+* <strong style="color:blue;">Kill time</strong>: 시간을 때우다
+* <strong style="color:blue;">Give off</strong>: (냄새 등을) 내뿜다
+* <strong style="color:blue;">Get hold of</strong>: ~를 손에 넣다/이용하다
+* <strong style="color:blue;">Shut down</strong>: 문을 닫다/폐업하다
+
+---
+### 롤플레이 : 친구와의 약속 장소 1시간 지각
+
+**[Question]**
+You arranged to meet your friend at a cafe an hour ago, but they still haven't shown up. Call your friend and leave a message expressing your frustration and asking what is going on.
+한 시간 전 카페에서 친구를 만나기로 했지만, 친구가 아직 나타나지 않았습니다. 친구에게 전화하여 화가 난 상황을 표현하고 어떻게 된 일인지 물어보세요.
+
+**[Model Answer]**
+Hey, listen. I’m currently sitting at the cafe, and I’ve been waiting for you for over an hour now. To be frank, I’m really losing my patience. We agreed to meet at 2 o’clock, and it’s already past 3! I’ve been trying to <strong style="color:blue;">get in touch with</strong> you for the last 30 minutes, but you haven't answered any of my calls or texts. 
+
+I’m really <strong style="color:blue;">fed up with</strong> this kind of behavior. You know how much I value punctuality, and it feels like my time is being completely disregarded. Honestly, I’m about to <strong style="color:blue;">give up on</strong> waiting and just head home. Where are you? Is everything okay? Please <strong style="color:blue;">get back to</strong> me as soon as you hear this message. If there’s a real emergency, I understand, but if you just forgot or overslept, I’m going to be really upset. This really <strong style="color:blue;">put a damper on</strong> my whole day. I need an explanation right now. I’ll wait for another 10 minutes, but if I don’t hear from you, I’m leaving.
+
+**[Vocabulary & Expressions]**
+* Punctuality: 시간 엄수
+* Disregarded: 무시된
+* <strong style="color:blue;">Get in touch with</strong>: ~와 연락하다
+* <strong style="color:blue;">Fed up with</strong>: ~에 질린/싫증 난
+* <strong style="color:blue;">Give up on</strong>: ~를 포기하다
+* <strong style="color:blue;">Get back to</strong>: ~에게 답장을 보내다/다시 연락하다
+* <strong style="color:blue;">Put a damper on</strong>: ~의 분위기를 망치다
+
+---
+### 돌발 : 과거와 현재의 전자기기 비교
+
+**[Question]**
+What was the first electronic device you ever owned, like a mobile phone? Compare that device with the one you use today. What has changed and how do those changes impact your life?
+당신이 처음 가졌던 전자기기(휴대폰 등)는 무엇인가요? 그 기기와 현재 사용하는 기기를 비교해 보세요. 어떤 점이 변했고, 그 변화가 당신의 삶에 어떤 영향을 미치나요?
+
+**[Model Answer]**
+Thinking back, the very first mobile phone I ever owned was a bulky, button-based flip phone back in high school. It was basically just for making calls and sending simple text messages. Compared to the smartphone I’m using right now, that old device feels like a relic from a different century. 
+
+Back then, the battery lasted for days, but it had zero internet functionality. Today, my smartphone is an all-in-one hub that helps me <strong style="color:blue;">keep track of</strong> my schedule, work remotely, and stay connected with the world through social media. The transition from physical buttons to a full-touch interface has definitely made everything much more intuitive. 
+
+These changes have significantly impacted my life. Because my current device is so powerful, I can <strong style="color:blue;">get through</strong> my tasks much faster than before. I don’t have to carry a camera, a music player, or a map anymore because everything is <strong style="color:blue;">built into</strong> one sleek device. However, I sometimes feel that these constant notifications tend to <strong style="color:blue;">wear me out</strong>. While it’s great to have everything at my fingertips, it’s also easy to feel overwhelmed by the constant inflow of data. All in all, I wouldn’t want to go back to those days, but I do occasionally miss the simplicity that the old device <strong style="color:blue;">brought about</strong>.
+
+**[Vocabulary & Expressions]**
+* Relic: 유물
+* Intuitive: 직관적인
+* Sleek: 세련된
+* <strong style="color:blue;">Keep track of</strong>: ~을 기록하다/파악하다
+* <strong style="color:blue;">Get through</strong>: (일을) 끝내다
+* <strong style="color:blue;">Built into</strong>: ~에 내장된
+* <strong style="color:blue;">Wear me out</strong>: 나를 지치게 하다
+* <strong style="color:blue;">Brought about</strong>: ~를 가져오다/야기하다
