@@ -8323,3 +8323,70 @@ These changes have significantly impacted my life. Because my current device is 
 * <strong style="color:blue;">Built into</strong>: ~에 내장된
 * <strong style="color:blue;">Wear me out</strong>: 나를 지치게 하다
 * <strong style="color:blue;">Brought about</strong>: ~를 가져오다/야기하다
+
+## 2026-06-12 07:10:43 OPIc Study
+
+### 묘사 : 자주 사용하는 신용카드와 지갑 묘사
+
+**[Question]**
+Tell me about the wallet you use and the credit card you frequently use. What do they look like and why do you like them?
+당신이 사용하는 지갑과 자주 사용하는 신용카드에 대해 말해주세요. 그것들은 어떻게 생겼고 왜 그것들을 좋아하나요?
+
+**[Model Answer]**
+To be honest, I am not really a fan of carrying a bulky wallet around. So, I currently use a slim card holder that I <strong style="color:blue;">picked up</strong> at a local boutique a couple of years ago. It’s made of genuine leather in a matte navy finish, which I really like because it doesn’t show scratches easily. It’s compact enough to <strong style="color:blue;">fit into</strong> my pocket without making it look awkward. 
+
+As for my credit card, I mainly use a metallic platinum card. It has a sleek, minimalist design with no embossed numbers, which makes it feel quite modern. Honestly, I didn't choose it just for the looks. I <strong style="color:blue;">opted for</strong> it because of the perks, like the airport lounge access and the cashback rewards. Whenever I take it out, it feels quite solid, and it definitely <strong style="color:blue;">stands out</strong> from the typical plastic cards. It’s a perfect combination of aesthetics and functionality for me. I think it reflects my preference for simple yet practical items. It’s safe to say that I’m quite attached to these two items as they are essential parts of my daily routine.
+
+**[Vocabulary & Expressions]**
+* Bulky: 부피가 큰
+* Boutique: 작은 상점
+* Embossed: 양각의
+* Aesthetics: 미학
+* <strong style="color:blue;">Pick up</strong>: 우연히 사다/얻다
+* <strong style="color:blue;">Fit into</strong>: ~에 쏙 들어가다
+* <strong style="color:blue;">Opt for</strong>: ~을 선택하다
+* <strong style="color:blue;">Stand out</strong>: 눈에 띄다
+
+---
+### 롤플레이 : 과다 청구된 자동차 수리비 문의
+
+**[Question]**
+You brought your car to a repair shop for a simple fix, but the bill is much higher than you expected. Call the mechanic, explain the situation, and ask for a detailed breakdown of the costs.
+단순 수리를 위해 정비소에 차를 맡겼는데, 예상보다 비용이 너무 많이 나왔습니다. 정비사에게 전화해서 상황을 설명하고 비용에 대한 상세 내역을 요구하세요.
+
+**[Model Answer]**
+Hi, is this the manager at the repair shop? This is the person who dropped off the silver sedan this morning. I’m calling because I just received the invoice for the repair, and I have to say, I’m quite shocked by the total amount. I was told it would be a minor fix for the air conditioning system, but the bill seems way higher than what we initially discussed. Could you please <strong style="color:blue;">break down</strong> the costs for me? 
+
+I’m really confused about why the price has <strong style="color:blue;">shot up</strong> like this. Are there any extra parts that were replaced without my approval? I need you to <strong style="color:blue;">walk me through</strong> each item on the bill so I can understand where these expenses are coming from. I value your expertise, but I’m afraid I can’t just <strong style="color:blue;">go along with</strong> this price without a clear explanation. Can you please review the invoice again and let me know if there was some sort of mistake? I’d appreciate it if we could find a way to settle this fairly. Please call me back as soon as you have a moment.
+
+**[Vocabulary & Expressions]**
+* Invoice: 청구서
+* Sedan: 세단
+* Expertise: 전문 지식
+* Settle: 해결하다
+* <strong style="color:blue;">Break down</strong>: 세부적으로 나누다/설명하다
+* <strong style="color:blue;">Shot up</strong>: 급등하다
+* <strong style="color:blue;">Walk someone through</strong>: ~에게 자세히 설명해주다
+* <strong style="color:blue;">Go along with</strong>: ~에 동의하다/따르다
+
+---
+### 돌발 : 과거 살던 집과 현재 집의 비교
+
+**[Question]**
+Think about the house you lived in when you were a child and compare it with the home you live in now. How are they different in terms of atmosphere or structure?
+어릴 적 살던 집을 떠올려보고 지금 사는 집과 비교해보세요. 분위기나 구조적인 면에서 어떻게 다른가요?
+
+**[Model Answer]**
+If I compare my childhood home to my current apartment, the differences are quite striking. I grew up in a spacious detached house with a small backyard. It was a bit old, so it had a very cozy and nostalgic vibe. The structure was quite simple, with a wooden porch where I used to sit and watch the sunset. Everything about that house <strong style="color:blue;">brings back</strong> memories of my family gatherings and the sound of birds in the morning.
+
+On the other hand, my current place is a modern, high-rise apartment in the city center. It’s much more efficient and practical. The floor plan is open, and it features large windows that <strong style="color:blue;">let in</strong> a lot of natural light, which makes the room look larger. While my old house was all about warmth and personal touch, my current home is more about convenience and a minimalist lifestyle. I don't have a backyard anymore, but I have a great view of the skyline. It’s hard to say which one I prefer because they <strong style="color:blue;">cater to</strong> different stages of my life. The childhood home was a place to grow up, while my current apartment is a place to <strong style="color:blue;">get ahead</strong> in my professional life.
+
+**[Vocabulary & Expressions]**
+* Detached house: 단독 주택
+* Nostalgic: 향수를 불러일으키는
+* High-rise: 고층의
+* Skyline: 도시의 윤곽
+* <strong style="color:blue;">Bring back</strong>: ~을 떠올리게 하다
+* <strong style="color:blue;">Let in</strong>: ~을 안으로 들어오게 하다
+* <strong style="color:blue;">Cater to</strong>: ~의 요구를 충족시키다
+* <strong style="color:blue;">Get ahead</strong>: 성공하다/앞서 나가다
