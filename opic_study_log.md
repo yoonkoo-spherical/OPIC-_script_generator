@@ -8390,3 +8390,68 @@ On the other hand, my current place is a modern, high-rise apartment in the city
 * <strong style="color:blue;">Let in</strong>: ~을 안으로 들어오게 하다
 * <strong style="color:blue;">Cater to</strong>: ~의 요구를 충족시키다
 * <strong style="color:blue;">Get ahead</strong>: 성공하다/앞서 나가다
+
+## 2026-06-13 06:45:11 OPIc Study
+
+### 묘사 : 은행 내부 구조 및 창구 묘사
+
+**[Question]**
+You mentioned that you often go to the bank. Can you describe the layout of the bank you usually visit? What does the interior look like, and how are the teller counters arranged? Please provide as much detail as possible.
+당신은 은행을 자주 간다고 했습니다. 당신이 자주 가는 은행의 구조를 묘사해 주실 수 있나요? 내부 모습은 어떠하며, 창구는 어떻게 배치되어 있는지 최대한 자세히 설명해 주세요.
+
+**[Model Answer]**
+Honestly, the bank I frequent is quite special to me because it has a very calming and modern vibe. As soon as you <strong style="color:blue;">walk into</strong> the lobby, you are greeted by a high ceiling with floor-to-ceiling glass windows, which makes the whole space feel incredibly spacious. The interior design is minimalist, mostly featuring light oak wood tones and soft, warm lighting.
+
+To your left, there is a designated waiting area with comfortable lounge chairs where you can relax while waiting for your turn. Directly across from the entrance, you will find the teller counters. These aren't your typical old-fashioned barriers; instead, they are sleek, individual islands that allow for more private interactions. Each station is equipped with the latest digital systems. 
+
+What I really like is that the staff members don't just stay behind their desks. They often <strong style="color:blue;">come around</strong> to assist customers at the kiosks to ensure everything is running smoothly. The layout is very intuitive, so even first-time visitors can easily <strong style="color:blue;">figure out</strong> where to go for specific services like international transfers or mortgage consultations. It honestly feels more like a cozy cafe than a traditional, stuffy bank. It’s definitely a place where I don’t mind spending time if I have to wait a little longer.
+
+**[Vocabulary & Expressions]**
+* Minimalist: 미니멀리즘의, 단순한
+* Intuitive: 직관적인
+* <strong style="color:blue;">walk into</strong>: ~에 걸어 들어가다
+* <strong style="color:blue;">come around</strong>: (도움을 주기 위해) 돌아다니다/들르다
+* <strong style="color:blue;">figure out</strong>: ~을 이해하다/알아내다
+
+---
+### 롤플레이 : 결혼식 축가 부탁 및 일정 논의
+
+**[Question]**
+Your friend is getting married soon, and they have asked you to sing a congratulatory song at the wedding. Call your friend to accept the request, suggest a song you would like to sing, and ask about the rehearsal schedule.
+친구가 곧 결혼하는데 당신에게 축가를 불러달라고 부탁했습니다. 친구에게 전화를 걸어 부탁을 수락하고, 부르고 싶은 노래를 제안한 뒤 리허설 일정에 대해 물어보세요.
+
+**[Model Answer]**
+Hey, congrats again on your wedding! I’m absolutely honored that you asked me to sing at your big day. I’ve been thinking about it, and I’d love to perform "Perfect" by Ed Sheeran. It’s such a beautiful song, and I think it would <strong style="color:blue;">fit in</strong> perfectly with the romantic mood of your ceremony. Does that song sound okay to you?
+
+Anyway, I really want to make sure I don't <strong style="color:blue;">mess up</strong> the performance. Could we talk about the rehearsal? I’m thinking we should probably coordinate with the venue. Have you already booked a time to check the sound system at the wedding hall? If not, let’s try to <strong style="color:blue;">set up</strong> a practice session as soon as possible, maybe sometime next weekend? 
+
+Also, do I need to bring my own accompaniment, or will there be a live pianist there? I just want to be fully prepared and <strong style="color:blue;">keep everything under control</strong>. Let me know what your schedule looks like, and we can finalize the details. I’m so excited to be part of your special moment!
+
+**[Vocabulary & Expressions]**
+* Congratulatory song: 축가
+* Accompaniment: 반주
+* <strong style="color:blue;">fit in</strong>: 잘 어울리다
+* <strong style="color:blue;">mess up</strong>: 망치다/실수하다
+* <strong style="color:blue;">set up</strong>: 준비하다/계획하다
+* <strong style="color:blue;">keep everything under control</strong>: 모든 것을 통제 하에 두다/철저히 관리하다
+
+---
+### 돌발 : 과거 전자기기와 현재 기기 비교
+
+**[Question]**
+Think about the very first electronic device you ever owned. Compare that device with the electronic device you use most these days. How have things changed in terms of their functions and how you interact with them?
+당신이 가졌던 첫 번째 전자기기에 대해 생각해 보세요. 그것과 당신이 요즘 가장 많이 사용하는 전자기기를 비교해 보세요. 기능적인 면이나 그것들을 사용하는 방식이 어떻게 변했나요?
+
+**[Model Answer]**
+The first electronic device I ever owned was a clunky, basic button phone back in middle school. It had a tiny monochrome screen, and the only thing I could really do was make calls or send simple text messages. Compared to the smartphone I use today, it feels like an ancient artifact.
+
+The smartphone I have now is basically a pocket-sized computer that helps me <strong style="color:blue;">keep up with</strong> my daily life. The biggest difference is the complexity of its functions. Back then, I just pushed physical buttons, but now I interact with everything through intuitive touch gestures. It’s fascinating how we’ve moved from simple communication to a world where I can stream movies, manage my bank accounts, and even control my home appliances with a single tap. 
+
+Also, I feel like my dependence on technology has grown significantly. In the past, I could easily <strong style="color:blue;">get by without</strong> my phone for a day. Now, if I happen to leave my house without it, I feel completely lost. I think technology has really <strong style="color:blue;">changed the way</strong> we live and think. While it’s definitely more convenient, sometimes I do miss the simplicity of those old days when I wasn't constantly bombarded with notifications.
+
+**[Vocabulary & Expressions]**
+* Monochrome: 단색의
+* Clunky: 투박한
+* <strong style="color:blue;">keep up with</strong>: ~의 흐름을 따라가다/최신 정보를 얻다
+* <strong style="color:blue;">get by without</strong>: ~없이 지내다/견디다
+* <strong style="color:blue;">changed the way</strong>: ~하는 방식을 바꾸다
