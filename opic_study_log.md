@@ -8455,3 +8455,64 @@ Also, I feel like my dependence on technology has grown significantly. In the pa
 * <strong style="color:blue;">keep up with</strong>: ~의 흐름을 따라가다/최신 정보를 얻다
 * <strong style="color:blue;">get by without</strong>: ~없이 지내다/견디다
 * <strong style="color:blue;">changed the way</strong>: ~하는 방식을 바꾸다
+
+## 2026-06-14 07:14:26 OPIc Study
+
+### 묘사 : 비행기 탑승구 앞 대기 공간
+
+**[Question]**
+Please describe the boarding area at an airport in detail. What does it look like, and how are the people behaving while waiting for their flights?
+공항의 탑승구 대기 구역을 자세히 묘사해 주세요. 그곳은 어떤 모습이며, 사람들은 비행기를 기다리는 동안 어떤 행동을 하고 있나요?
+
+**[Model Answer]**
+To be honest, the boarding area is one of the most hectic places I’ve ever been. When you first walk into the gate area, the first thing you notice is the sheer number of people <strong style="color:blue;">packed into</strong> such a small space. The seating is usually arranged in rows, but since it’s always crowded, it’s quite a challenge to <strong style="color:blue;">track down</strong> an empty seat. Most people are glued to their smartphones, <strong style="color:blue;">scrolling through</strong> their feeds or watching videos to <strong style="color:blue;">kill time</strong> before boarding. You can also spot business travelers who are frantically tapping away on their laptops, trying to <strong style="color:blue;">wrap up</strong> some last-minute tasks. The atmosphere is a mixture of anticipation and fatigue. You see families with energetic children running around, while exhausted travelers are trying to <strong style="color:blue;">catch some shut-eye</strong> in their chairs. There’s also the constant buzz of announcements over the speaker, which makes everyone look up occasionally to check if their flight is finally ready. Honestly, it’s a chaotic yet fascinating place that really captures the essence of modern travel.
+
+**[Vocabulary & Expressions]**
+* Hectic: 정신없이 바쁜
+* Anticipation: 기대
+* <strong style="color:blue;">Packed into</strong>: ~에 빽빽하게 들어찬
+* <strong style="color:blue;">Track down</strong>: 찾아내다
+* <strong style="color:blue;">Scroll through</strong>: (화면을) 넘겨보다
+* <strong style="color:blue;">Kill time</strong>: 시간을 때우다
+* <strong style="color:blue;">Wrap up</strong>: 마무리하다
+* <strong style="color:blue;">Catch some shut-eye</strong>: 잠깐 눈을 붙이다(자다)
+
+---
+### 롤플레이 : 구매한 옷의 얼룩 문제로 교환 요청
+
+**[Question]**
+You recently bought a shirt at a clothing store, but when you got home, you realized there was a stain on it. Call the store and explain the situation to the employee, and ask for an exchange.
+최근 의류 매장에서 셔츠를 샀는데, 집에 와서 보니 얼룩이 있었습니다. 매장에 전화해서 상황을 설명하고 교환을 요청하세요.
+
+**[Model Answer]**
+Hi there, I’m calling because I purchased a dress shirt from your store earlier today, and I’m quite disappointed to <strong style="color:blue;">run into</strong> an issue with it. When I got home and took the shirt out of the packaging, I noticed a rather large, dark stain on the sleeve that I somehow missed at the store. I was really looking forward to wearing this for an important meeting tomorrow, so I’m a bit stressed out. Could you please check if you still have the same item in my size? I’d like to <strong style="color:blue;">bring it in</strong> tomorrow to exchange it for a clean one. I’ve already removed the price tag, but I still have the original receipt, so I hope that’s okay. I really don’t want to <strong style="color:blue;">give up on</strong> this purchase because the fit was perfect. Please let me know if you can <strong style="color:blue;">hold onto</strong> one for me, or if I should just stop by whenever I can. I’m sorry for the inconvenience, but I’d really appreciate it if you could <strong style="color:blue;">sort this out</strong> for me.
+
+**[Vocabulary & Expressions]**
+* Inconvenience: 불편
+* Receipt: 영수증
+* <strong style="color:blue;">Run into</strong>: (문제 등에) 부닥치다
+* <strong style="color:blue;">Bring in</strong>: 가져오다
+* <strong style="color:blue;">Give up on</strong>: ~을 포기하다
+* <strong style="color:blue;">Hold onto</strong>: 보관하다/잡고 있다
+* <strong style="color:blue;">Sort out</strong>: 해결하다
+
+---
+### 돌발 : 온라인 쇼핑몰 배송 사고 경험
+
+**[Question]**
+Have you ever had a bad experience while shopping online, such as a shipping accident or a scam? Tell me about what happened and how you handled the situation.
+온라인 쇼핑을 하다가 배송 사고나 사기 등 나쁜 경험을 한 적이 있나요? 무슨 일이 있었고 어떻게 해결했는지 말해주세요.
+
+**[Model Answer]**
+Yes, actually, I had a pretty frustrating experience with an online purchase a couple of years ago. I decided to order a high-end pair of headphones from a website that offered a really competitive price. I thought I had found a great deal, but I should have known better. After waiting for two weeks, I realized the package was never going to arrive. When I tried to <strong style="color:blue;">look into</strong> the status on the website, the page was no longer active. I immediately realized that I had <strong style="color:blue;">fallen for</strong> a scam. I was furious, but I had to <strong style="color:blue;">keep my cool</strong>. I contacted my credit card company right away to <strong style="color:blue;">dispute the charge</strong>. It took some time to <strong style="color:blue;">go through</strong> all the paperwork, but thankfully, they were able to track the fraudulent transaction and refund my money. This experience taught me a valuable lesson. Now, I always <strong style="color:blue;">check out</strong> the reputation of the seller before making any payments. It’s always better to <strong style="color:blue;">play it safe</strong> than to regret it later when shopping online.
+
+**[Vocabulary & Expressions]**
+* Competitive: 경쟁력 있는 (가격 등이)
+* Fraudulent: 사기의
+* <strong style="color:blue;">Look into</strong>: 조사하다/알아보다
+* <strong style="color:blue;">Fallen for</strong>: ~에 속아 넘어가다
+* <strong style="color:blue;">Keep one’s cool</strong>: 침착함을 유지하다
+* <strong style="color:blue;">Dispute the charge</strong>: 결제 건에 대해 이의를 제기하다
+* <strong style="color:blue;">Go through</strong>: (절차 등을) 거치다/살펴보다
+* <strong style="color:blue;">Check out</strong>: 확인하다
+* <strong style="color:blue;">Play it safe</strong>: 신중하게 행동하다/안전을 기하다
