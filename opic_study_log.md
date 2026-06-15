@@ -8516,3 +8516,72 @@ Yes, actually, I had a pretty frustrating experience with an online purchase a c
 * <strong style="color:blue;">Go through</strong>: (절차 등을) 거치다/살펴보다
 * <strong style="color:blue;">Check out</strong>: 확인하다
 * <strong style="color:blue;">Play it safe</strong>: 신중하게 행동하다/안전을 기하다
+
+## 2026-06-15 08:46:35 OPIc Study
+
+### 묘사 : 기억에 남는 박물관 전시실 묘사
+
+**[Question]**
+Tell me about a specific room in a museum or art gallery that you remember visiting. Describe what it looked like and why it left such a lasting impression on you.
+당신이 방문했던 박물관이나 미술관 중 기억에 남는 전시실에 대해 이야기해 주세요. 그곳이 어떻게 생겼었는지, 그리고 왜 당신에게 그렇게 강한 인상을 남겼는지 설명해 주세요.
+
+**[Model Answer]**
+Honestly, the most memorable place I’ve ever visited is the Impressionist gallery at the Musée d'Orsay in Paris. As soon as I walked in, I was <strong style="color:blue;">blown away</strong> by the sheer scale of the room. It was this massive, sun-drenched space that used to be a train station, so the architecture itself was breathtaking. The walls were painted a subtle, creamy white, which really allowed the vibrant colors of the Monet and Renoir paintings to <strong style="color:blue;">pop out</strong>. 
+
+The lighting was carefully managed, with natural light filtering through the giant glass clock face, creating this soft, ethereal glow. I remember strolling through the aisles and feeling like I was stepping back in time. What really <strong style="color:blue;">set it apart</strong> from other galleries was the layout. It wasn’t just a collection of canvases; it felt like a narrative. I found myself <strong style="color:blue;">getting lost in</strong> the intricate brushstrokes, trying to <strong style="color:blue;">figure out</strong> the emotion the artists were trying to convey. It was a tranquil escape from the bustling city outside. I actually <strong style="color:blue;">ended up</strong> spending nearly three hours there, completely unaware of how time was passing. It wasn’t just about the art; the entire atmosphere <strong style="color:blue;">sunk in</strong> and left a profound impact on me. I still <strong style="color:blue;">look back on</strong> that experience as one of the highlights of my travels.
+
+**[Vocabulary & Expressions]**
+* Ethereal: 천상의, 아주 우아한
+* Intricate: 복잡한
+* <strong style="color:blue;">blown away</strong>: 깜짝 놀라다, 깊은 감명을 받다
+* <strong style="color:blue;">pop out</strong>: 두드러지다, 튀어나오다
+* <strong style="color:blue;">set apart</strong>: 차별화하다
+* <strong style="color:blue;">getting lost in</strong>: ~에 푹 빠지다
+* <strong style="color:blue;">figure out</strong>: 이해하다, 파악하다
+* <strong style="color:blue;">ended up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">sunk in</strong>: 충분히 이해되다, 완전히 스며들다
+* <strong style="color:blue;">look back on</strong>: ~을 회상하다
+
+---
+### 롤플레이 : 콘서트장 좌석 문제 해결
+
+**[Question]**
+You have arrived at a concert venue, but you find someone else sitting in your assigned seat. Call the staff member over and explain the situation. Ask for their help to resolve this issue.
+콘서트장에 도착했지만, 누군가 당신의 좌석에 앉아 있는 것을 발견했습니다. 직원에게 다가가 상황을 설명하고, 문제를 해결해 달라고 요청하세요.
+
+**[Model Answer]**
+Excuse me, sorry to bother you, but I think there’s a bit of a mix-up with the seating here. I have a ticket for section B, row 4, seat 12, but when I arrived, I noticed someone is already sitting in my spot. I was really looking forward to this performance, so I’d appreciate it if you could help me <strong style="color:blue;">sort this out</strong>. 
+
+Could you please double-check the reservation records? I’ve already checked my ticket twice, so I’m sure I’m in the right section. It’s quite awkward to just ask them to move, so I was hoping you could <strong style="color:blue;">step in</strong> and clarify the situation for me. Perhaps there was a double booking or a system error? If the seat is truly taken, is there any possibility of me getting an upgrade or at least a comparable seat elsewhere? I really don't want to <strong style="color:blue;">miss out on</strong> the opening act, so could you look into this as soon as possible? I’m happy to <strong style="color:blue;">back you up</strong> if you need to verify my ticket again. Thanks for your help; I’m sure we can <strong style="color:blue;">work something out</strong> quickly. 
+
+**[Vocabulary & Expressions]**
+* Mix-up: 혼동, 착오
+* Comparable: 비슷한, 대등한
+* <strong style="color:blue;">sort this out</strong>: 이 문제를 해결하다
+* <strong style="color:blue;">step in</strong>: 개입하다, 나서다
+* <strong style="color:blue;">miss out on</strong>: ~할 기회를 놓치다
+* <strong style="color:blue;">back up</strong>: 돕다, 지원하다
+* <strong style="color:blue;">work something out</strong>: 해결책을 찾아내다
+
+---
+### 돌발 : 과거와 현재의 주거 환경 변화
+
+**[Question]**
+How has the way people live in their homes changed compared to the past? Describe the differences in housing types and the overall living environment between the past and today.
+과거에 비해 사람들이 거주하는 방식이 어떻게 변했습니까? 과거와 오늘날의 주택 형태와 전반적인 주거 환경의 차이점을 설명해 주세요.
+
+**[Model Answer]**
+That’s an interesting question. If you compare the living environment of, say, thirty years ago with today, the changes are quite drastic. In the past, many people lived in detached houses, often with a small yard or a shared garden space. There was a strong sense of community, and neighbors would often <strong style="color:blue;">drop by</strong> without much notice. However, nowadays, the vast majority of people, especially in urban areas, live in high-rise apartment complexes. 
+
+These buildings are designed for efficiency and security, but they often lack that personal touch. Everything is much more modernized, with smart home systems and high-tech security features that were <strong style="color:blue;">unheard of</strong> in the past. People tend to value their privacy more now, so the community vibe has definitely <strong style="color:blue;">toned down</strong> a bit. Furthermore, because of the rapid urbanization, people are often <strong style="color:blue;">squeezed into</strong> smaller living spaces, which forced us to <strong style="color:blue;">cut down on</strong> unnecessary belongings and focus on minimalism. We’ve also seen a shift where people prioritize proximity to public transport and amenities over having a large garden. It’s a trade-off; we’ve gained convenience and comfort, but I think we’ve <strong style="color:blue;">given up</strong> some of that warmth and connection that characterized our past homes. It really just comes down to how our priorities have <strong style="color:blue;">shifted over time</strong>.
+
+**[Vocabulary & Expressions]**
+* Drastic: 급격한
+* Minimalist: 미니멀리즘의
+* <strong style="color:blue;">drop by</strong>: 잠깐 들르다
+* <strong style="color:blue;">unheard of</strong>: 들어본 적 없는, 전례 없는
+* <strong style="color:blue;">toned down</strong>: (기세 등이) 누그러지다
+* <strong style="color:blue;">squeezed into</strong>: 비좁게 들어가다
+* <strong style="color:blue;">cut down on</strong>: ~을 줄이다
+* <strong style="color:blue;">given up</strong>: 포기하다
+* <strong style="color:blue;">shifted over time</strong>: 시간이 지나며 바뀌다
