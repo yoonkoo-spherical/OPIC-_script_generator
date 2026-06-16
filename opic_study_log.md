@@ -8585,3 +8585,72 @@ These buildings are designed for efficiency and security, but they often lack th
 * <strong style="color:blue;">cut down on</strong>: ~을 줄이다
 * <strong style="color:blue;">given up</strong>: 포기하다
 * <strong style="color:blue;">shifted over time</strong>: 시간이 지나며 바뀌다
+
+## 2026-06-16 08:37:08 OPIc Study
+
+### 묘사 : 자주 가는 은행의 구조와 창구 묘사
+
+**[Question]**
+Please describe the bank you usually visit. What does the interior look like, and what do the service counters look like?
+(당신이 자주 가는 은행에 대해 묘사해 주세요. 내부는 어떻게 생겼고, 서비스 창구는 어떤 모습인가요?)
+
+**[Model Answer]**
+Well, let me tell you about the local bank branch I frequent. It’s located just a stone's throw away from my office, so I <strong style="color:blue;">drop by</strong> quite often. As soon as you step inside, you get this really calm and professional vibe. The interior is quite spacious with high ceilings, and the overall color scheme is mostly white and light grey, which makes the whole place feel very tidy and bright.
+
+On the right side of the entrance, there’s a self-service zone where they have several ATMs lined up. People usually <strong style="color:blue;">head straight to</strong> these machines if they just need to withdraw some cash. If you walk a bit further in, there’s a waiting area with comfortable leather sofas where customers can sit and flip through magazines while waiting for their turn.
+
+Now, as for the service counters, they are arranged in a long row at the back of the lobby. Each counter is separated by glass partitions to ensure privacy during transactions. The tellers are always dressed in crisp, neat uniforms, and they are incredibly helpful. Honestly, the atmosphere is so well-organized that I never feel overwhelmed even when the place is <strong style="color:blue;">packed with</strong> people. I really think the layout is designed to <strong style="color:blue;">bring out</strong> a sense of reliability and trust, which is exactly why I’ve been a loyal customer for over five years. It’s definitely my go-to place whenever I need to manage my finances.
+
+**[Vocabulary & Expressions]**
+* Spacious: 넓은
+* Transaction: 거래
+* Reliable: 신뢰할 수 있는
+* <strong style="color:blue;">Drop by</strong>: 잠시 들르다
+* <strong style="color:blue;">Head straight to</strong>: ~로 곧장 향하다
+* <strong style="color:blue;">Packed with</strong>: ~로 꽉 찬
+* <strong style="color:blue;">Bring out</strong>: ~을 이끌어내다/드러내다
+
+---
+### 롤플레이 : 친구에게 우산을 부탁하기
+
+**[Question]**
+You went to a cafe with your friend, but you left your umbrella there. Call your friend and ask them to pick it up for you.
+(친구와 카페에 갔다가 우산을 두고 왔습니다. 친구에게 전화해서 우산을 챙겨달라고 부탁하세요.)
+
+**[Model Answer]**
+Hey, Min-su! How’s it going? Look, I’m so sorry to bother you, but I think I <strong style="color:blue;">messed up</strong> big time. I just realized that I left my favorite umbrella back at the cafe where we were hanging out earlier. It started to rain heavily out of nowhere, and that’s when I noticed my bag felt a bit lighter than usual.
+
+I know it’s a total pain, but do you think you could possibly <strong style="color:blue;">go back and grab it</strong> for me? It’s a navy blue one, and I left it right under the table where we were sitting near the window. I really don’t want to lose it because it was a birthday gift from my sister. 
+
+If it’s still there, could you please keep it with you until we meet next time? Or, if you’re heading home, maybe you could just leave it with the staff at the counter and I’ll <strong style="color:blue;">swing by</strong> to pick it up later today? I’m incredibly sorry to put this on you, but I’d really appreciate your help. Just let me know if it’s there once you get a chance to check. Thanks a million, man! I owe you big time!
+
+**[Vocabulary & Expressions]**
+* Suddenly: 갑자기
+* Appreciate: 고맙게 생각하다
+* <strong style="color:blue;">Mess up</strong>: 실수하다/일을 망치다
+* <strong style="color:blue;">Go back and grab</strong>: 다시 돌아가서 챙기다
+* <strong style="color:blue;">Swing by</strong>: 잠깐 들르다
+* <strong style="color:blue;">Owe you</strong>: 신세를 지다
+
+---
+### 돌발 : 버스킹 공연을 보고 감동한 경험
+
+**[Question]**
+Tell me about a time you saw a street performance or an unexpected event that moved you. What happened, and why was it so memorable?
+(길거리 공연이나 예기치 않은 이벤트를 보고 감동했던 경험에 대해 이야기해 주세요. 무슨 일이 있었고 왜 기억에 남나요?)
+
+**[Model Answer]**
+You know, I’m generally a busy person, so I usually just rush past everything on the street. But one rainy Tuesday evening, something completely unexpected happened that really <strong style="color:blue;">caught me off guard</strong>. I was walking through a subway station, feeling exhausted from work, when I heard this beautiful sound of a violin.
+
+It wasn't just some random noise; it was a soul-stirring performance by a young street musician. She was playing a classical piece right in the middle of the busy terminal. What made it so special was the way people reacted. Despite the chaotic atmosphere of the rush hour, the crowd started to slow down. People were stopping in their tracks, putting their phones away, and just listening. I could see some people actually <strong style="color:blue;">tearing up</strong> because the music was just so raw and emotional.
+
+I ended up staying there for about twenty minutes, just losing myself in the melody. It was such a rare moment of peace in a hectic city. When she finished, everyone started clapping, and the applause felt so genuine. It really <strong style="color:blue;">hit home</strong> how much we all crave a little bit of beauty in our daily routines. That performance didn't just <strong style="color:blue;">cheer me up</strong>; it completely shifted my perspective on the city. It’s a memory that still stays with me whenever I feel overwhelmed by life.
+
+**[Vocabulary & Expressions]**
+* Exhausted: 지친
+* Genuine: 진심 어린
+* Perspective: 관점
+* <strong style="color:blue;">Caught me off guard</strong>: 예상치 못하게 놀라게 하다
+* <strong style="color:blue;">Tearing up</strong>: 눈물이 글썽이다
+* <strong style="color:blue;">Hit home</strong>: 가슴에 와닿다
+* <strong style="color:blue;">Cheer up</strong>: 기운을 북돋우다
