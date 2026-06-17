@@ -8654,3 +8654,67 @@ I ended up staying there for about twenty minutes, just losing myself in the mel
 * <strong style="color:blue;">Tearing up</strong>: 눈물이 글썽이다
 * <strong style="color:blue;">Hit home</strong>: 가슴에 와닿다
 * <strong style="color:blue;">Cheer up</strong>: 기운을 북돋우다
+
+## 2026-06-17 08:20:01 OPIc Study
+
+### 묘사 : 최근 읽은 책 묘사
+
+**[Question]**
+Tell me about the book you read recently. Describe its cover design and what the book is mainly about.
+최근에 읽은 책에 대해 이야기해 주세요. 책 표지 디자인과 전반적인 내용에 대해 묘사해 주세요.
+
+**[Model Answer]**
+To be honest, I’m quite a bookworm, so I tend to read a lot. The most recent book I finished is a novel titled ‘The Midnight Library.’ First off, when it comes to the cover design, it is absolutely stunning. It features a deep navy background that represents the night sky, and there are countless little doors scattered across it, which look quite mysterious and inviting. The minimalist font for the title really <strong style="color:blue;">stands out</strong> against the dark backdrop, making the book look very sophisticated on my shelf.
+
+As for the content, the story revolves around a woman who feels like she has messed up her life. She somehow finds herself in a magical library between life and death, where every book represents a life she could have lived if she had made different choices. It’s a very thought-provoking story because it explores the concept of regret and the idea that there is no perfect life. As I <strong style="color:blue;">went through</strong> the pages, I couldn't help but reflect on my own life path. It really <strong style="color:blue;">brought home to me</strong> that we should appreciate the life we have right now rather than dwelling on the ‘what-ifs.’ It was a truly emotional journey, and it <strong style="color:blue;">left a lasting impression on</strong> me. I highly recommend it to anyone who feels a bit lost in their daily grind.
+
+**[Vocabulary & Expressions]**
+* Bookworm: 독서광
+* Minimalist: 미니멀리스트의, 단순한
+* Thought-provoking: 시사하는 바가 많은
+* <strong style="color:blue;">Stand out</strong>: 눈에 띄다
+* <strong style="color:blue;">Go through</strong>: (책을) 읽다, 경험하다
+* <strong style="color:blue;">Bring home to someone</strong>: ~에게 깊이 깨닫게 하다
+* <strong style="color:blue;">Leave a lasting impression on</strong>: ~에게 깊은 인상을 남기다
+
+---
+### 롤플레이 : 두고 온 우산 찾기
+
+**[Question]**
+You went to a cafe with your friend, but you left your umbrella there. Call your friend and explain the situation. Ask them to pick it up for you if they are still nearby.
+친구와 카페에 갔는데 우산을 두고 왔습니다. 친구에게 전화해서 상황을 설명하고, 혹시 근처라면 우산을 챙겨달라고 부탁하세요.
+
+**[Model Answer]**
+Hey, are you still near that cafe we went to earlier? Listen, I’m so embarrassed to even ask this, but I think I <strong style="color:blue;">left behind</strong> my umbrella there. I’m pretty sure I hung it on the back of my chair, and I totally forgot about it until I got home just now. I know it’s a huge favor, but could you possibly check if it’s still there? It’s a bright yellow one, so it should be pretty easy to spot.
+
+If it’s still there, would you mind picking it up for me? I’d be really grateful if you could bring it when we meet next time. I’m so sorry for being so forgetful! Honestly, I feel like my brain is <strong style="color:blue;">all over the place</strong> lately. Anyway, if the staff has already cleared it or if it’s gone, don’t worry about it at all. I know you’re busy, so please don't <strong style="color:blue;">go out of your way</strong> to get it if it’s too much trouble. Just let me know when you get a chance. Thanks so much for being such a great friend!
+
+**[Vocabulary & Expressions]**
+* Embarrassed: 당황스러운, 민망한
+* Forgetful: 잘 잊어버리는
+* <strong style="color:blue;">Leave behind</strong>: 두고 오다
+* <strong style="color:blue;">All over the place</strong>: 정신이 없는, 산만한
+* <strong style="color:blue;">Go out of your way</strong>: 무리해서 ~하다, 특별히 애쓰다
+* <strong style="color:blue;">Get a chance</strong>: 기회가 되다, 시간이 나다
+
+---
+### 돌발 : 건강에 대한 인식의 변화
+
+**[Question]**
+How has your perception of health changed from when you were a child until now? Compare your attitude toward health in the past and the present.
+어릴 때와 현재, 건강에 대한 당신의 인식은 어떻게 변했나요? 과거와 현재의 건강에 대한 태도를 비교해 보세요.
+
+**[Model Answer]**
+That’s an interesting question. Looking back, my perception of health has changed significantly over the years. When I was a child, I was pretty much invincible. I used to think that being healthy was just something that naturally happened. I didn't pay any attention to what I ate, and I certainly didn't <strong style="color:blue;">work out</strong> on a regular basis. I would just play outside until sunset, and I assumed that my energy levels would always stay high no matter how much junk food I consumed. I took my health for granted.
+
+However, as I entered my late twenties, things started to change. I began to realize that my body couldn't just <strong style="color:blue;">bounce back</strong> from lack of sleep or unhealthy food like it used to. Now, I’m much more proactive about my well-being. I try to <strong style="color:blue;">cut down on</strong> processed sugars and make sure to include some greens in my meals. Also, I’ve made it a habit to go to the gym at least three times a week. It’s no longer just about looking good; it’s about maintaining my stamina so I can <strong style="color:blue;">keep up with</strong> my busy schedule. I’ve learned the hard way that health is something you have to actively manage, or else it will <strong style="color:blue;">catch up with</strong> you sooner or later.
+
+**[Vocabulary & Expressions]**
+* Invincible: 천하무적의
+* Proactive: 주도적인, 사전 예방적인
+* Stamina: 체력
+* <strong style="color:blue;">Work out</strong>: 운동하다
+* <strong style="color:blue;">Bounce back</strong>: 회복하다
+* <strong style="color:blue;">Cut down on</strong>: ~을 줄이다
+* <strong style="color:blue;">Keep up with</strong>: ~을 따라잡다, 보조를 맞추다
+* <strong style="color:blue;">Catch up with</strong>: (나쁜 결과가) ~에게 나타나다, 발목을 잡다
