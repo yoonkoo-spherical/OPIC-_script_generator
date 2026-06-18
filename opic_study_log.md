@@ -8718,3 +8718,64 @@ However, as I entered my late twenties, things started to change. I began to rea
 * <strong style="color:blue;">Cut down on</strong>: ~을 줄이다
 * <strong style="color:blue;">Keep up with</strong>: ~을 따라잡다, 보조를 맞추다
 * <strong style="color:blue;">Catch up with</strong>: (나쁜 결과가) ~에게 나타나다, 발목을 잡다
+
+## 2026-06-18 07:24:51 OPIc Study
+
+### 묘사 : 주말 저녁 번화가의 풍경
+
+**[Question]**
+Please describe the scene of a busy downtown street on a weekend evening in as much detail as possible. What are people doing and what is the atmosphere like?
+주말 저녁 번화가의 붐비는 거리 풍경을 최대한 자세히 묘사해 주세요. 사람들은 무엇을 하고 있으며 분위기는 어떤가요?
+
+**[Model Answer]**
+If you go to the downtown area on a Saturday night, you are immediately <strong style="color:blue;">hit with</strong> a massive wave of energy. It is absolutely packed with people, and the atmosphere is just electric. As soon as I step onto the main street, I see groups of friends laughing, couples walking hand in hand, and office workers finally letting loose after a long week. The sidewalks are so crowded that you have to <strong style="color:blue;">weave through</strong> the throng of people just to get anywhere.
+
+The street is lined with neon-lit restaurants and trendy cafes, and most of them have lines stretching out the door. The smell of street food, like roasted chestnuts or spicy rice cakes, <strong style="color:blue;">wafts through</strong> the air, making everyone’s mouth water. You can hear a mix of sounds: street performers playing music, the distant hum of traffic, and the constant chatter of people trying to hear each other over the noise. It’s such a vibrant, chaotic, yet exciting scene. People really seem to be <strong style="color:blue;">soaking up</strong> the weekend vibes. Honestly, just watching the busy flow of people makes me feel like I’m in the heart of the city's pulse. It’s a sensory overload in the best way possible, and it really shows how much life this city has to offer when the sun goes down.
+
+**[Vocabulary & Expressions]**
+* Vibrant: 활기 넘치는
+* Sensory overload: 감각 과부하
+* <strong style="color:blue;">hit with</strong>: ~에 직면하다/압도되다
+* <strong style="color:blue;">weave through</strong>: 사이사이를 요리조리 빠져나가다
+* <strong style="color:blue;">waft through</strong>: (냄새/소리가) 퍼지다
+* <strong style="color:blue;">soaking up</strong>: 즐기다/만끽하다
+
+---
+### 롤플레이 : 전자기기 불량 문의
+
+**[Question]**
+You recently bought a new electronic device, but it’s not working properly. Call the customer service center, explain the problem, and ask for a solution.
+최근 새로 산 전자기기가 작동하지 않습니다. 고객센터에 전화해 문제를 설명하고 해결책을 요구하세요.
+
+**[Model Answer]**
+Hi there, I’m calling because I’m quite frustrated with a product I purchased from your store just three days ago. It’s the new wireless tablet, and I’ve been trying to <strong style="color:blue;">set it up</strong> since I got home, but I’ve hit a wall. Every time I try to power it on, the screen just flickers and goes black. It seems like the battery or the display is completely dead. 
+
+I really needed this device for my work this coming Monday, so this is very inconvenient. I tried to <strong style="color:blue;">troubleshoot</strong> the issue myself by following the online manual, but nothing I did seemed to <strong style="color:blue;">iron out</strong> the problem. I’m really disappointed because I’ve heard great things about your brand. Could you please let me know what my options are? I’d prefer a full replacement rather than a repair since it’s brand new. Also, do I need to bring the original receipt, or is my digital order confirmation enough? Please <strong style="color:blue;">get back to</strong> me as soon as possible, as I am in a bit of a rush to get this resolved. I look forward to your quick assistance.
+
+**[Vocabulary & Expressions]**
+* Inconvenient: 불편한
+* Replacement: 교환/교체
+* <strong style="color:blue;">set up</strong>: 설치하다
+* <strong style="color:blue;">hit a wall</strong>: 난관에 부딪히다
+* <strong style="color:blue;">iron out</strong>: (문제를) 해결하다
+* <strong style="color:blue;">get back to</strong>: 다시 연락하다
+
+---
+### 돌발 : 야외에서의 갑작스러운 날씨 변화
+
+**[Question]**
+Tell me about a time when you experienced a sudden change in weather while you were in a park or outdoors. What happened, and how did you handle the situation?
+공원이나 야외에 있다가 갑작스러운 날씨 변화를 겪었던 경험에 대해 이야기해 주세요. 무슨 일이 있었고 어떻게 대처했나요?
+
+**[Model Answer]**
+I remember a time about a year ago when I decided to go for a hike in a nearby national park. It started off as a beautiful, sunny day with not a cloud in the sky. I was really <strong style="color:blue;">caught up in</strong> the beauty of the trails and lost track of time. Then, completely out of the blue, the sky turned dark grey and the temperature dropped drastically. 
+
+Within minutes, a heavy downpour started, and I was stuck right in the middle of the trail. I didn't have an umbrella or even a proper raincoat, so I was <strong style="color:blue;">taken aback</strong> by how quickly the weather shifted. I had to quickly <strong style="color:blue;">duck into</strong> a small cave area near the trail to take cover. I stayed there for about forty minutes, just waiting for the storm to <strong style="color:blue;">die down</strong>. During that time, I was pretty anxious, but I tried to stay positive. Once the rain finally let up, I hiked back as quickly as I could. That experience really taught me a lesson; now, I always check the weather forecast and pack a light jacket whenever I head outdoors, no matter how nice it looks outside. You can never be too prepared when it comes to nature.
+
+**[Vocabulary & Expressions]**
+* Downpour: 폭우
+* Forecast: 예보
+* <strong style="color:blue;">caught up in</strong>: ~에 정신이 팔리다
+* <strong style="color:blue;">taken aback</strong>: 놀라다/당황하다
+* <strong style="color:blue;">duck into</strong>: 급히 몸을 피하다
+* <strong style="color:blue;">die down</strong>: (비/바람이) 잦아들다
