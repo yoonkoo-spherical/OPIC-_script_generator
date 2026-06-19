@@ -8779,3 +8779,66 @@ Within minutes, a heavy downpour started, and I was stuck right in the middle of
 * <strong style="color:blue;">taken aback</strong>: 놀라다/당황하다
 * <strong style="color:blue;">duck into</strong>: 급히 몸을 피하다
 * <strong style="color:blue;">die down</strong>: (비/바람이) 잦아들다
+
+## 2026-06-19 08:23:55 OPIc Study
+
+### 묘사 : 집에서 보내는 주말의 일상
+
+**[Question]**
+Please describe how you usually spend your time at home on weekends or holidays. What do you do to relax and what is your favorite spot in your house?
+주말이나 휴일에 주로 집에서 어떻게 시간을 보내는지 묘사해 주세요. 휴식을 위해 무엇을 하며, 집에서 가장 좋아하는 공간은 어디인가요?
+
+**[Model Answer]**
+Honestly, my weekends are pretty much my sanctuary, as I barely have time to rest during the hectic work week. Usually, I <strong style="color:blue;">sleep in</strong> until around 10 or 11 a.m. to <strong style="color:blue;">catch up on</strong> my lost sleep. Once I get up, my absolute favorite ritual is brewing a fresh cup of coffee and heading straight to my balcony. It’s my favorite spot in the house because it’s filled with sunlight and some small plants I’ve been growing.
+
+After that, I usually spend some time just <strong style="color:blue;">kicking back</strong> and listening to lo-fi music or catching up on some Netflix series that I’ve been <strong style="color:blue;">meaning to</strong> watch for weeks. Sometimes, if I feel like I need to be productive, I might <strong style="color:blue;">tidy up</strong> the living room or reorganize my bookshelf, which I find surprisingly therapeutic. When the evening hits, I love to order some takeout—usually spicy Korean food—and just lounge on my sofa. It’s not anything extravagant, but this quiet, peaceful routine is exactly what I need to <strong style="color:blue;">recharge my batteries</strong> before the next week begins.
+
+**[Vocabulary & Expressions]**
+* Sanctuary: 안식처
+* Extravagant: 사치스러운
+* <strong style="color:blue;">Sleep in</strong>: 늦잠을 자다
+* <strong style="color:blue;">Catch up on</strong>: 밀린 것을 하다/보충하다
+* <strong style="color:blue;">Kick back</strong>: 편히 쉬다
+* <strong style="color:blue;">Tidy up</strong>: 정리하다
+* <strong style="color:blue;">Recharge one's batteries</strong>: 재충전하다
+
+---
+### 롤플레이 : 부동산에 매물 문의하기
+
+**[Question]**
+I’d like you to call a real estate agency and ask about an apartment or studio you are interested in moving into. Ask three or four questions about the place, such as the monthly rent, location, or utility costs.
+부동산에 전화하여 새로 이사 갈 원룸/아파트에 대해 문의하세요. 월세, 위치, 공과금 등 매물에 대해 3~4가지 질문을 하세요.
+
+**[Model Answer]**
+Hi there, I’m calling because I saw your listing online for the studio apartment near City Hall, and I’m very interested in <strong style="color:blue;">checking it out</strong>. Before I visit, I have a few quick questions. First, could you clarify the monthly rent? I’d also like to know if the utility costs are included or if they are billed separately each month. 
+
+Also, I’m quite concerned about the noise levels since the building is near a busy street. Would you say the area is relatively quiet at night? Lastly, I have a car, so is there a designated parking spot available for residents, or would I have to find a public garage nearby? I’m hoping to <strong style="color:blue;">look into</strong> a few options, but this place is definitely at the top of my list. Could we <strong style="color:blue;">set up</strong> an appointment for me to view the room sometime this weekend? Please let me know what time <strong style="color:blue;">works for you</strong>.
+
+**[Vocabulary & Expressions]**
+* Listing: 매물 목록
+* Designated: 지정된
+* <strong style="color:blue;">Check out</strong>: 확인하다/방문하다
+* <strong style="color:blue;">Look into</strong>: 조사하다/알아보다
+* <strong style="color:blue;">Set up</strong>: 일정을 잡다
+* <strong style="color:blue;">Work for someone</strong>: ~에게 괜찮다/시간이 맞다
+
+---
+### 돌발 : 어릴 적 싫어하던 음식의 변화
+
+**[Question]**
+Tell me about a food you disliked when you were a child, but now you actually enjoy. What changed your mind and how did you start to like it?
+어릴 때 싫어했지만 지금은 즐겨 먹는 음식에 대해 말해 주세요. 무엇이 당신의 생각을 바꾸었으며 어떻게 좋아하게 되었나요?
+
+**[Model Answer]**
+When I was a kid, I absolutely loathed bell peppers. I couldn’t stand their distinct smell and the slightly bitter aftertaste. Every time my mom added them to a stir-fry or salad, I would meticulously <strong style="color:blue;">pick them out</strong> and hide them under my rice. My parents used to tell me it was healthy, but that just made me want to <strong style="color:blue;">steer clear of</strong> them even more.
+
+However, everything changed when I started living on my own during college. I was trying to <strong style="color:blue;">whip up</strong> a healthy meal one night, and I realized that roasted bell peppers taste completely different. When you grill them with a bit of olive oil and salt, they become surprisingly sweet and tender. I gave it a try, and to my surprise, I actually enjoyed the flavor profile! Since then, I’ve been <strong style="color:blue;">incorporating</strong> them into almost every dish I cook, like pasta or fajitas. It’s funny how my palate evolved, and now I can’t imagine a meal without them. I guess it’s true that as you grow up, your taste buds <strong style="color:blue;">mature over time</strong>.
+
+**[Vocabulary & Expressions]**
+* Loathe: 몹시 싫어하다
+* Meticulously: 꼼꼼하게
+* Palate: 미각
+* <strong style="color:blue;">Pick out</strong>: 골라내다
+* <strong style="color:blue;">Steer clear of</strong>: ~을 피하다
+* <strong style="color:blue;">Whip up</strong>: (음식을) 뚝딱 만들어내다
+* <strong style="color:blue;">Mature over time</strong>: 시간이 지나며 성숙해지다
