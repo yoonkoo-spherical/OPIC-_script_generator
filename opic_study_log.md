@@ -8842,3 +8842,69 @@ However, everything changed when I started living on my own during college. I wa
 * <strong style="color:blue;">Steer clear of</strong>: ~을 피하다
 * <strong style="color:blue;">Whip up</strong>: (음식을) 뚝딱 만들어내다
 * <strong style="color:blue;">Mature over time</strong>: 시간이 지나며 성숙해지다
+
+## 2026-06-20 06:53:43 OPIc Study
+
+### 묘사 : 현재 계절의 날씨와 옷차림
+
+**[Question]**
+Could you describe the current season in your country? What is the weather like, and what do people usually wear during this time?
+현재 당신이 사는 나라의 계절을 묘사해 주시겠어요? 날씨는 어떤지, 그리고 사람들은 보통 어떤 옷을 입는지 알려주세요.
+
+**[Model Answer]**
+Right now, we are in the middle of autumn, which is arguably my favorite season of the year. The weather is absolutely fantastic—it's crisp and refreshing. The scorching heat of summer has finally <strong style="color:blue;">died down</strong>, and we are now experiencing those cool, breezy days that make you want to spend time outdoors. The sky is incredibly clear and blue, and the leaves are starting to turn vibrant shades of red and gold, which makes the whole city look like a beautiful painting.
+
+Because the temperature fluctuates quite a bit between the day and night, people have to be smart about their clothing. It’s the perfect season for layering. You see most people <strong style="color:blue;">sporting</strong> stylish light jackets, cozy cardigans, or thin sweaters. Trench coats are also very popular these days. People tend to <strong style="color:blue;">dress in layers</strong> so they can easily remove or add items as the temperature changes throughout the day. Personally, I love wearing scarves to keep my neck warm during the chilly evenings. Overall, the atmosphere feels very cozy, and everyone seems to be in a great mood <strong style="color:blue;">taking advantage of</strong> the pleasant weather before the freezing winter arrives.
+
+**[Vocabulary & Expressions]**
+* Scorching: 타는 듯이 더운
+* Fluctuate: 변동하다
+* Vibrant: 생기 넘치는
+* <strong style="color:blue;">Die down</strong>: 잠잠해지다, 사그라들다
+* <strong style="color:blue;">Sporting</strong>: ~을 착용한(뽐내며 입은)
+* <strong style="color:blue;">Dress in layers</strong>: 겹쳐 입다
+* <strong style="color:blue;">Take advantage of</strong>: ~을 활용하다, ~을 누리다
+
+---
+### 롤플레이 : 친구와 함께 운동하기
+
+**[Question]**
+You want to start working out to get in shape, and you want your friend to join you. Call your friend and persuade them to start exercising together.
+몸매 관리를 위해 운동을 시작하고 싶고, 친구에게 함께하자고 권유하고 싶습니다. 친구에게 전화해서 함께 운동하자고 설득해 보세요.
+
+**[Model Answer]**
+Hey, what’s up? Listen, I’ve been feeling a bit sluggish lately, and I’ve finally decided to <strong style="color:blue;">get off the couch</strong> and start working out. But to be honest, I know myself—if I try to do this alone, I’ll probably <strong style="color:blue;">give up</strong> within a week. That’s why I’m calling you! Why don’t we start hitting the gym together?
+
+I know you’ve been saying you’re stressed with work, and honestly, working out is the best way to <strong style="color:blue;">blow off some steam</strong>. I found this great fitness center nearby that has a special promotion for new members this month. If we sign up together, we can get a discount. Plus, if we go together, we can hold each other accountable and keep our motivation high. We could go three times a week, maybe right after work? Come on, it’ll be a total game-changer for our health and energy levels. Don’t just <strong style="color:blue;">brush off</strong> the idea—think about it! How about we drop by the gym tomorrow to check it out? Let me know what you think.
+
+**[Vocabulary & Expressions]**
+* Sluggish: 활기 없는, 늘어진
+* Accountable: 책임이 있는
+* Game-changer: 판도를 바꾸는 것
+* <strong style="color:blue;">Get off the couch</strong>: (게으름을 피우다 말고) 움직이다
+* <strong style="color:blue;">Give up</strong>: 포기하다
+* <strong style="color:blue;">Blow off some steam</strong>: 스트레스를 풀다
+* <strong style="color:blue;">Brush off</strong>: 무시하다, 거절하다
+
+---
+### 돌발 : 어린 시절과 현재의 건강 인식 변화
+
+**[Question]**
+How has your perception of health changed since you were a child compared to now? Explain the differences in detail.
+어릴 때와 비교해서 현재 당신의 건강에 대한 인식은 어떻게 바뀌었나요? 그 차이점을 상세히 설명해 주세요.
+
+**[Model Answer]**
+Thinking back to my childhood, my perception of health was quite simple and naive. When I was a kid, being "healthy" just meant not catching a cold or having enough energy to run around outside all day. I didn't really think about what I ate or how much I moved. I was lucky enough to have a fast metabolism, so I could <strong style="color:blue;">stuff my face</strong> with junk food without worrying about my weight or long-term health issues. Health was something I took for granted.
+
+However, as I’ve <strong style="color:blue;">gotten older</strong>, my perspective has shifted drastically. Now, health is not just about the absence of sickness; it’s about proactive maintenance. I’ve realized that my body isn't an invincible machine. I’ve started to <strong style="color:blue;">pay close attention to</strong> my nutrition, making sure I get enough vegetables and protein rather than just relying on processed snacks. I also recognize the importance of mental well-being, which I completely overlooked when I was younger. Now, I try to <strong style="color:blue;">fit in</strong> regular exercise, not because I have to, but because it helps me manage stress and stay sharp. I guess you could say that health has become a core priority in my life, and I’m much more conscious about what I need to do to <strong style="color:blue;">keep in shape</strong> for the long run.
+
+**[Vocabulary & Expressions]**
+* Naive: 순진한
+* Metabolism: 신진대사
+* Invincible: 무적의
+* Proactive: 주도적인
+* <strong style="color:blue;">Stuff my face</strong>: (음식을) 마구 먹다
+* <strong style="color:blue;">Get older</strong>: 나이가 들다
+* <strong style="color:blue;">Pay close attention to</strong>: ~에 주의를 기울이다
+* <strong style="color:blue;">Fit in</strong>: (시간을 내어) 포함시키다
+* <strong style="color:blue;">Keep in shape</strong>: 건강을 유지하다
