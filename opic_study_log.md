@@ -8908,3 +8908,71 @@ However, as I’ve <strong style="color:blue;">gotten older</strong>, my perspec
 * <strong style="color:blue;">Pay close attention to</strong>: ~에 주의를 기울이다
 * <strong style="color:blue;">Fit in</strong>: (시간을 내어) 포함시키다
 * <strong style="color:blue;">Keep in shape</strong>: 건강을 유지하다
+
+## 2026-06-21 07:23:02 OPIc Study
+
+### 묘사 : 새로 산 다이어리의 구성 묘사
+
+**[Question]**
+Tell me about the design and the layout of the diary or notebook you recently bought. What is special about its inner pages, and why do you find it useful for your daily routine?
+최근에 산 다이어리나 노트의 디자인과 구성에 대해 말해 주세요. 속지의 어떤 점이 특별하며, 왜 일상생활에 유용하다고 생각하나요?
+
+**[Model Answer]**
+I recently purchased a new planner, and honestly, it has been a total game changer for me. It’s not just a simple notebook; it’s more like a comprehensive tool for productivity. First off, the layout is incredibly intuitive. When you open it, there’s a monthly calendar view that allows me to <strong style="color:blue;">look ahead at</strong> my upcoming deadlines. Then, the inner pages are split into specific sections. One part is dedicated to daily to-do lists, and the other has a dotted grid layout, which is perfect for my habit of journaling. 
+
+What I really love about it is the quality of the paper. It’s thick enough that my pens don't <strong style="color:blue;">bleed through</strong>, which is a huge plus. Every week, there is a reflection page where I can write down what I achieved. This helps me <strong style="color:blue;">keep track of</strong> my progress over time. It has helped me <strong style="color:blue;">get organized</strong> during hectic weeks, and I honestly can’t imagine managing my schedule without it anymore. It’s become an essential part of my morning ritual, helping me <strong style="color:blue;">set the tone for</strong> the rest of the day.
+
+**[Vocabulary & Expressions]**
+* Comprehensive: 포괄적인
+* Intuitive: 직관적인
+* Ritual: 의식, 습관
+* <strong style="color:blue;">Look ahead at</strong>: 미리 내다보다
+* <strong style="color:blue;">Bleed through</strong>: (잉크가 종이 뒤로) 배어 나오다
+* <strong style="color:blue;">Keep track of</strong>: ~을 계속 파악하다
+* <strong style="color:blue;">Get organized</strong>: 체계화하다, 정리하다
+* <strong style="color:blue;">Set the tone for</strong>: ~의 분위기/방향을 정하다
+
+---
+### 롤플레이 : 보일러 수리 요청하기
+
+**[Question]**
+You just moved into a new apartment, but the boiler is not working properly. Call your landlord, explain the situation, and ask for a repair or a solution.
+새 아파트에 이사했는데 보일러가 제대로 작동하지 않습니다. 집주인에게 전화해서 상황을 설명하고 수리나 해결책을 요구하세요.
+
+**[Model Answer]**
+Hi, Mr. Kim? This is the tenant from unit 302. I’m calling because I’m having a bit of trouble with the boiler in my new apartment. I moved in just two days ago, and I realized that the heating system isn't kicking in at all. It’s freezing in here, especially at night, and I’m having a really hard time staying warm. I tried to <strong style="color:blue;">mess around with</strong> the thermostat, but it doesn't seem to respond. 
+
+Could you please come over and take a look at it as soon as possible? Or, if you can’t make it, could you send someone to <strong style="color:blue;">sort out</strong> the issue today? I’m afraid I won't be able to stay here overnight if the heating doesn't get fixed. It’s quite urgent, so please let me know when you can <strong style="color:blue;">drop by</strong>. I don't want to <strong style="color:blue;">put off</strong> this repair because it’s getting colder by the hour. I’m looking forward to hearing from you soon. Thanks for your understanding.
+
+**[Vocabulary & Expressions]**
+* Tenant: 세입자
+* Thermostat: 온도 조절 장치
+* Urgent: 긴급한
+* <strong style="color:blue;">Kick in</strong>: 작동하기 시작하다
+* <strong style="color:blue;">Mess around with</strong>: ~을 이것저것 만져보다
+* <strong style="color:blue;">Sort out</strong>: 해결하다
+* <strong style="color:blue;">Drop by</strong>: 잠깐 들르다
+* <strong style="color:blue;">Put off</strong>: 미루다
+
+---
+### 돌발 : 낯선 음식을 먹고 놀랐던 경험
+
+**[Question]**
+Have you ever tried an unfamiliar food or a foreign dish that completely surprised you? What was it, why were you hesitant to try it, and what made you feel that way after tasting it?
+완전히 색다른 음식이나 외국 음식을 먹고 놀랐던 경험이 있나요? 그게 무엇이었고, 왜 먹기 망설였으며, 맛본 후 왜 그렇게 느꼈는지 말해 주세요.
+
+**[Model Answer]**
+A few years ago, I visited a traditional market in Vietnam, and I encountered a dish called 'Balut'. I had heard of it before, but I had never actually seen one in person. Honestly, I was very hesitant to even look at it, let alone eat it, because of what it actually is—a developing bird embryo inside an egg. It’s a delicacy there, but for someone like me, it was quite shocking to <strong style="color:blue;">come across</strong> in a street food stall.
+
+However, I decided to <strong style="color:blue;">go for it</strong> just to experience the local culture. After I finally <strong style="color:blue;">worked up the courage</strong> to take a bite, I was genuinely surprised. The taste was much richer and more savory than I expected, almost like a very creamy, intense egg soup. It really taught me not to <strong style="color:blue;">judge a book by its cover</strong>. Even though the appearance was daunting, the flavor was something entirely new. It <strong style="color:blue;">ended up being</strong> one of the most memorable culinary experiences I've ever had, and it definitely helped me <strong style="color:blue;">open up to</strong> trying more unconventional foods whenever I travel.
+
+**[Vocabulary & Expressions]**
+* Delicacy: 별미
+* Embryo: 배아
+* Daunting: 벅찬, 겁나는
+* <strong style="color:blue;">Come across</strong>: 우연히 마주치다
+* <strong style="color:blue;">Go for it</strong>: 시도해보다
+* <strong style="color:blue;">Worked up the courage</strong>: 용기를 내다
+* <strong style="color:blue;">Judge a book by its cover</strong>: 겉모습만 보고 판단하다
+* <strong style="color:blue;">Ended up being</strong>: 결국 ~하게 되었다
+* <strong style="color:blue;">Open up to</strong>: ~에 마음을 열다(수용하게 되다)
