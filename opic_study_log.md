@@ -8976,3 +8976,76 @@ However, I decided to <strong style="color:blue;">go for it</strong> just to exp
 * <strong style="color:blue;">Judge a book by its cover</strong>: 겉모습만 보고 판단하다
 * <strong style="color:blue;">Ended up being</strong>: 결국 ~하게 되었다
 * <strong style="color:blue;">Open up to</strong>: ~에 마음을 열다(수용하게 되다)
+
+## 2026-06-22 08:47:02 OPIc Study
+
+### 묘사 : 핸드워시의 향과 거품 묘사
+
+**[Question]**
+Tell me about the soap or hand wash you currently use. What does it smell like, and what is the texture of the foam like when you use it?
+현재 사용하고 있는 비누나 핸드워시에 대해 말해주세요. 어떤 향이 나며, 사용할 때 거품의 질감은 어떤가요?
+
+**[Model Answer]**
+To be honest, I’m quite particular about the hand wash I keep in my bathroom. Right now, I’m using this citrus-scented foaming hand wash that I <strong style="color:blue;">picked up</strong> at a local boutique last month. The moment I press the pump, it releases this incredibly rich, dense foam that feels like a soft cloud against my skin. It’s not one of those watery, thin bubbles that disappear instantly; it’s thick and creamy, which makes the whole cleansing experience feel quite luxurious.
+
+As for the scent, it’s honestly the highlight of my day. It has this vibrant, zesty aroma of freshly peeled oranges mixed with a subtle hint of bergamot. It’s not overpowering at all, but it’s strong enough to <strong style="color:blue;">linger on</strong> my hands for a while after I wash them. Whenever I feel a bit tired or stressed during the day, I head to the bathroom just to use this hand wash because the citrus scent really helps me <strong style="color:blue;">clear my head</strong>.
+
+Before I found this specific product, I used to just buy whatever was on sale at the supermarket. But I realized that since I wash my hands so frequently, it’s worth it to invest in something that smells good and feels gentle. It’s a small detail, but it definitely <strong style="color:blue;">brightens up</strong> my routine. It’s not just about hygiene; it’s about that brief, refreshing sensory break in the middle of a busy schedule. If you haven’t tried a high-quality foaming hand wash yet, I would highly recommend you <strong style="color:blue;">look into</strong> it because it completely changes how you feel about a mundane task.
+
+**[Vocabulary & Expressions]**
+* Particular: 까다로운
+* Luxurious: 고급스러운
+* Zesty: 톡 쏘는, 향긋한
+* Mundane: 일상적인, 평범한
+* <strong style="color:blue;">Pick up</strong>: (물건을) 사다, 구하다
+* <strong style="color:blue;">Linger on</strong>: (향 등이) 남아있다
+* <strong style="color:blue;">Clear one's head</strong>: 머리를 식히다
+* <strong style="color:blue;">Brighten up</strong>: (분위기를) 밝게 만들다
+* <strong style="color:blue;">Look into</strong>: ~을 알아보다
+
+---
+### 롤플레이 : 카페 음료 교환 요청
+
+**[Question]**
+You ordered a hot latte at a coffee shop, but the staff member gave you an iced americano instead. Explain the situation to the employee and suggest a solution to resolve the problem.
+카페에서 따뜻한 라떼를 주문했는데, 직원이 아이스 아메리카노를 주었습니다. 상황을 설명하고 문제를 해결할 수 있는 방법을 제안하세요.
+
+**[Model Answer]**
+Excuse me, sorry to bother you, but I think there might be a mix-up with my order. I specifically ordered a hot latte a few minutes ago, but I just received this iced americano. I’m afraid I can’t drink this because I’m quite sensitive to cold drinks, especially when the weather is this chilly outside.
+
+I know the shop is quite busy right now, and I’m sure it was just an honest mistake, so please don’t worry about it. However, would it be possible to exchange this for the hot latte I originally ordered? If it’s too much trouble or if you’ve already discarded the other ingredients, I’d be happy to wait for a fresh one. 
+
+Actually, to make things easier, I can just leave this iced americano here on the counter if someone else wants it, or if you prefer, I can <strong style="color:blue;">take it off your hands</strong> so it doesn’t go to waste. I’m not in a huge rush, so take your time. I really love the coffee here, so I’d hate to <strong style="color:blue;">give up on</strong> having my favorite drink today. Let me know what you think is the best way to <strong style="color:blue;">sort this out</strong>. I’ll just find a seat and wait for your signal. Thanks for understanding and helping me out with this.
+
+**[Vocabulary & Expressions]**
+* Mix-up: 착오, 혼동
+* Discard: 버리다
+* <strong style="color:blue;">Take off one's hands</strong>: ~의 처리를 대신 맡아주다
+* <strong style="color:blue;">Give up on</strong>: ~을 포기하다
+* <strong style="color:blue;">Sort out</strong>: 문제를 해결하다
+* <strong style="color:blue;">Bother someone</strong>: ~에게 폐를 끼치다
+
+---
+### 돌발 : 어린 시절과 현재의 명절 비교
+
+**[Question]**
+How did you celebrate holidays like Chuseok or Seollal when you were a child? How is it different from the way you celebrate them nowadays?
+어린 시절 추석이나 설날 같은 명절을 어떻게 보냈나요? 오늘날 명절을 보내는 방식과는 어떻게 다른가요?
+
+**[Model Answer]**
+Thinking back to my childhood, holidays were always massive, bustling events. The entire extended family would <strong style="color:blue;">gather around</strong> at my grandparents' house. The atmosphere was incredibly lively with cousins running everywhere and the smell of various traditional dishes, like jeon or songpyeon, filling the air. We would spend hours preparing the food together, and even though it was exhausting, there was this strong sense of togetherness. It felt like the whole world stopped just for these two holidays.
+
+However, the way we celebrate these days is a night-and-day difference. These days, many families, including mine, prefer a much more low-key approach. Because everyone is so busy with their own careers and personal lives, we rarely have those huge family reunions anymore. Instead of spending the entire holiday cooking in the kitchen, we often <strong style="color:blue;">opt for</strong> ordering pre-made food or even going out to a restaurant. 
+
+To be honest, I kind of miss the old days. There was something special about everyone helping out and sharing stories late into the night. Now, we might just exchange messages or have a brief video call. It’s definitely more convenient, but sometimes it feels like we’ve <strong style="color:blue;">drifted apart</strong> a little bit compared to the past. People seem to value their personal downtime during the holidays rather than feeling obligated to visit relatives. I guess you could say we’ve <strong style="color:blue;">moved away from</strong> the traditional, duty-bound celebrations to more individualistic, relaxing holidays. It’s a natural change in society, but I think it’s important to <strong style="color:blue;">keep in touch</strong> with the spirit of the holidays, even if the methods have changed.
+
+**[Vocabulary & Expressions]**
+* Bustling: 붐비는, 북적거리는
+* Night-and-day difference: 하늘과 땅 차이
+* Low-key: 절제된, 조용한
+* Obligated: 의무가 있는
+* <strong style="color:blue;">Gather around</strong>: 둘러앉다, 모이다
+* <strong style="color:blue;">Opt for</strong>: ~을 선택하다
+* <strong style="color:blue;">Drift apart</strong>: (관계가) 멀어지다
+* <strong style="color:blue;">Move away from</strong>: ~에서 벗어나다
+* <strong style="color:blue;">Keep in touch</strong>: 연락을 유지하다, 정신을 이어가다
