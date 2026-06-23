@@ -9049,3 +9049,62 @@ To be honest, I kind of miss the old days. There was something special about eve
 * <strong style="color:blue;">Drift apart</strong>: (관계가) 멀어지다
 * <strong style="color:blue;">Move away from</strong>: ~에서 벗어나다
 * <strong style="color:blue;">Keep in touch</strong>: 연락을 유지하다, 정신을 이어가다
+
+## 2026-06-23 06:38:17 OPIc Study
+
+### 묘사 : 캠핑장 및 텐트 내부 묘사
+
+**[Question]**
+Tell me about a campsite or the inside of a tent you have visited. What does it look like, and what kind of atmosphere does it have?
+당신이 방문했던 캠핑장이나 텐트 내부의 모습에 대해 이야기해주세요. 어떤 모습이며 어떤 분위기를 가지고 있나요?
+
+**[Model Answer]**
+Honestly, thinking about my last camping trip always makes me feel so relaxed. The campsite I stayed at was tucked away in a dense forest, right next to a small, crystal-clear stream. As for the tent, it was a spacious, high-quality cabin-style tent that felt like a small home. Inside, I had set up an inflatable mattress with thick, cozy blankets, which really <strong style="color:blue;">spruced up</strong> the space. There was a small portable lantern hanging from the center ceiling that cast a warm, amber glow, creating such a tranquil atmosphere. I also placed a couple of camping chairs near the entrance, which allowed me to <strong style="color:blue;">soak up</strong> the fresh mountain air while sipping my morning coffee. Every corner of the tent was carefully organized to <strong style="color:blue;">make the most of</strong> the limited space. The sound of the rustling leaves outside and the gentle flow of the stream combined to form a perfect, peaceful vibe. It was the kind of place where you could truly <strong style="color:blue;">wind down</strong> after a hectic week. I remember feeling so satisfied just sitting there, watching the sunlight filter through the trees. It was definitely a memorable experience that helped me <strong style="color:blue;">recharge my batteries</strong>.
+
+**[Vocabulary & Expressions]**
+* Tucked away: 구석진 곳에 위치한
+* Tranquil: 고요한
+* <strong style="color:blue;">Spruce up</strong>: ~을 꾸미다/단장하다
+* <strong style="color:blue;">Soak up</strong>: (기분, 분위기 등을) 흠뻑 즐기다
+* <strong style="color:blue;">Make the most of</strong>: ~을 최대한 활용하다
+* <strong style="color:blue;">Wind down</strong>: 긴장을 풀고 쉬다
+* <strong style="color:blue;">Recharge one’s batteries</strong>: 재충전하다
+
+---
+### 롤플레이 : 파티 음식 준비 역할 분담
+
+**[Question]**
+You are planning a party with your friend. Call your friend and ask them to share the responsibilities for food and drink preparation.
+친구와 파티를 계획하고 있습니다. 친구에게 전화해서 음식과 음료 준비에 대한 역할 분담을 제안하세요.
+
+**[Model Answer]**
+Hey, what’s up? I’m calling because I’m getting everything ready for our party this Saturday, and it’s turning out to be quite a bit of work. I wanted to see if we could <strong style="color:blue;">divide and conquer</strong> the tasks for the food and drinks. Since I’ve already taken the liberty of ordering the main dishes, like the pizzas and fried chicken, would you mind taking care of the beverages and some light snacks? I’m a bit worried we might run out of drinks, so could you please pick up some soda, juices, and maybe a few bottles of sparkling water? Also, if you could <strong style="color:blue;">swing by</strong> the grocery store on your way over to grab some chips and salsa, that would be a huge help. I really want to make sure we’re all set so we don’t have to <strong style="color:blue;">scramble at the last minute</strong>. Do you think you can manage that? If you’re feeling overwhelmed, just let me know, and we can <strong style="color:blue;">figure something out</strong> together. I really appreciate you helping me out with this, and I’m sure it’s going to be a blast once we get everything sorted. Let’s <strong style="color:blue;">keep in touch</strong> and finalize the plan by Friday.
+
+**[Vocabulary & Expressions]**
+* Take the liberty of: ~하는 실례를 범하다 (주도적으로 하다)
+* Blast: 아주 즐거운 시간
+* <strong style="color:blue;">Divide and conquer</strong>: 역할을 분담하다
+* <strong style="color:blue;">Swing by</strong>: 잠시 들르다
+* <strong style="color:blue;">Scramble at the last minute</strong>: 마지막 순간에 허둥대다
+* <strong style="color:blue;">Figure something out</strong>: ~을 해결책을 찾다
+* <strong style="color:blue;">Keep in touch</strong>: 계속 연락하다
+
+---
+### 돌발 : 스포츠 경기 관람 중 돌발 상황
+
+**[Question]**
+Tell me about a time you were watching a sports game and something unexpected happened. What was the situation, and why were you so excited?
+스포츠 경기를 보다가 예상치 못한 일이 일어났던 경험에 대해 말해주세요. 어떤 상황이었으며 왜 그렇게 흥분했나요?
+
+**[Model Answer]**
+Oh man, I vividly remember this baseball game I attended last summer. My home team was down by three runs in the bottom of the ninth inning, and honestly, everyone around me had basically <strong style="color:blue;">given up on</strong> a comeback. The atmosphere was quite somber, and fans were starting to pack their bags to leave early. But then, everything changed in a heartbeat! Our team started hitting back-to-back singles, and suddenly, the bases were loaded. The crowd started to <strong style="color:blue;">come alive</strong>, and the energy in the stadium just skyrocketed. Then, our pinch hitter stepped up to the plate and—I still get goosebumps thinking about it—he hit a grand slam! I was completely shocked; I actually ended up screaming my lungs out and jumping up and down. It was a classic example of how sports can really <strong style="color:blue;">take you by surprise</strong>. The whole stadium erupted into cheers, and we stayed there for another hour just celebrating the unexpected victory. It was such an adrenaline rush that I couldn’t <strong style="color:blue;">calm down</strong> for a long time afterward. That game really <strong style="color:blue;">stuck with me</strong> because it reminded me to never lose hope until the very end.
+
+**[Vocabulary & Expressions]**
+* Vividly: 생생하게
+* Somber: 침울한
+* Adrenaline rush: 아드레날린 분출(흥분)
+* <strong style="color:blue;">Give up on</strong>: ~을 포기하다
+* <strong style="color:blue;">Come alive</strong>: 활기를 띠다
+* <strong style="color:blue;">Take someone by surprise</strong>: 놀라게 하다
+* <strong style="color:blue;">Calm down</strong>: 진정하다
+* <strong style="color:blue;">Stick with someone</strong>: 기억에 남다/오래 기억되다
