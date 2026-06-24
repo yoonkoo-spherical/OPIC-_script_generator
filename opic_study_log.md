@@ -9108,3 +9108,64 @@ Oh man, I vividly remember this baseball game I attended last summer. My home te
 * <strong style="color:blue;">Take someone by surprise</strong>: 놀라게 하다
 * <strong style="color:blue;">Calm down</strong>: 진정하다
 * <strong style="color:blue;">Stick with someone</strong>: 기억에 남다/오래 기억되다
+
+## 2026-06-24 06:34:39 OPIc Study
+
+### 묘사 : 어린 시절 즐겨 가지고 놀던 장난감
+
+**[Question]**
+Tell me about a toy you used to play with a lot when you were a child. What did it look like, and why were you so attached to it?
+어린 시절 자주 가지고 놀던 장난감에 대해 말해주세요. 그것은 어떻게 생겼었나요? 그리고 왜 그렇게 그 장난감에 애착을 느꼈나요?
+
+**[Model Answer]**
+When I think back to my childhood, the first thing that comes to mind is a vintage-looking red robot toy that I received as a birthday gift when I was about seven years old. To describe its appearance, it was made of heavy-duty metal, not plastic, which gave it a very sturdy and durable feel. It had two glowing LED eyes that would light up in bright blue whenever I flipped the switch on its back. The arms were articulated so I could adjust them into various poses. It was honestly such a unique piece of machinery compared to the common toys my friends had.
+
+I was incredibly attached to this robot because it felt like my one and only companion. Whenever I felt lonely or stressed after school, I would just sit on the floor and tinker with it. I really <strong style="color:blue;">bonded with</strong> that toy. It’s funny how a simple object can hold such a special place in your heart. Even today, whenever I see a similar robot, I am instantly <strong style="color:blue;">transported back to</strong> those carefree days. It makes me feel nostalgic and reminds me of how creative I used to be. I <strong style="color:blue;">held onto</strong> it for many years until I eventually grew out of it, but it still remains one of my most cherished childhood memories.
+
+**[Vocabulary & Expressions]**
+* Vintage: 고풍스러운
+* Articulated: 관절이 있는
+* Nostalgic: 향수를 불러일으키는
+* <strong style="color:blue;">Bond with</strong>: ~와 유대감을 형성하다
+* <strong style="color:blue;">Transport back to</strong>: ~하던 시절로 돌아가게 하다
+* <strong style="color:blue;">Held onto</strong>: ~을 간직하다/붙잡고 있다
+
+---
+### 롤플레이 : 카페 콘센트 고장 문의
+
+**[Question]**
+You are at a cafe to study, but the power outlet at your table is not working. Call the staff, explain the situation, and suggest an alternative solution.
+카페에서 공부를 하려는데 테이블의 콘센트가 작동하지 않습니다. 직원에게 전화하여 상황을 설명하고 대안을 제시하세요.
+
+**[Model Answer]**
+Excuse me, sorry to bother you. I’m sitting at the corner table near the window, and I’m having a bit of a technical issue. I’m here to finish up some urgent work on my laptop, but it seems like the power outlet next to my seat is completely dead. I tried plugging in my charger multiple times, but there’s no power at all. My laptop battery is running quite low, so I really need a functional outlet to get some work done.
+
+Is there any chance you could check if there’s another available seat with a working power source nearby? Or perhaps, if the cafe is too crowded, do you happen to have a spare power strip I could borrow? I really need to <strong style="color:blue;">get through</strong> my tasks within the next two hours. I’m sorry for the inconvenience, and I truly appreciate your help. Please let me know what we can do about this so I can <strong style="color:blue;">crack on with</strong> my work as soon as possible. I would be more than happy to move to another spot if that’s easier for you. Thank you for your assistance.
+
+**[Vocabulary & Expressions]**
+* Urgent: 긴급한
+* Functional: 작동하는
+* Spare: 여분의
+* <strong style="color:blue;">Get through</strong>: (할 일을) 끝내다/완수하다
+* <strong style="color:blue;">Crack on with</strong>: (하던 일을) 서둘러 계속하다
+* <strong style="color:blue;">Running low</strong>: (배터리 등이) 거의 다 된
+
+---
+### 돌발 : 새로운 취미 활동 시 겪은 어려움
+
+**[Question]**
+Have you ever started learning a new hobby or sport? What were some of the challenges you faced when you first started, and how did you overcome them?
+새로운 취미나 스포츠를 배워본 적이 있나요? 시작할 때 어떤 어려움을 겪었으며 어떻게 극복했나요?
+
+**[Model Answer]**
+A couple of years ago, I decided to take up rock climbing because I wanted to challenge myself physically and mentally. However, the first few weeks were an absolute nightmare. The biggest challenge was definitely the lack of grip strength in my hands and the overwhelming fear of heights. Every time I climbed even halfway up the wall, my heart would start pounding, and I would just freeze up. I felt like I was <strong style="color:blue;">in way over my head</strong> because I couldn’t even complete the beginner-level routes.
+
+To overcome this, I didn't give up. I realized that I needed a more systematic approach. I started to focus on strength training outside of the gym to improve my endurance. Also, I asked a professional instructor for some tips on how to properly manage my fear. She taught me how to trust the safety ropes, which really helped me <strong style="color:blue;">get the hang of</strong> the rhythm of climbing. It took a lot of patience, but eventually, I was able to <strong style="color:blue;">pull through</strong> the difficult phase. Looking back, those challenges were actually the best part of the process because they taught me that consistency is key to mastering anything new.
+
+**[Vocabulary & Expressions]**
+* Endurance: 인내력/지구력
+* Systematic: 체계적인
+* Consistency: 일관성
+* <strong style="color:blue;">In way over my head</strong>: 자신의 능력을 넘어서는 과제를 맡다
+* <strong style="color:blue;">Get the hang of</strong>: 요령을 터득하다
+* <strong style="color:blue;">Pull through</strong>: (어려움을) 극복하다/이겨내다
