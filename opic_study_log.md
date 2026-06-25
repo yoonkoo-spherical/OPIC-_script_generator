@@ -9169,3 +9169,68 @@ To overcome this, I didn't give up. I realized that I needed a more systematic a
 * <strong style="color:blue;">In way over my head</strong>: 자신의 능력을 넘어서는 과제를 맡다
 * <strong style="color:blue;">Get the hang of</strong>: 요령을 터득하다
 * <strong style="color:blue;">Pull through</strong>: (어려움을) 극복하다/이겨내다
+
+## 2026-06-25 06:38:43 OPIc Study
+
+### 묘사 : 경복궁의 아름다움과 역사적 가치
+
+**[Question]**
+Tell me about one of the most famous tourist attractions in Korea. Describe it in detail and explain why it is so special to you.
+한국을 대표하는 관광 명소 중 한 곳을 소개해 주세요. 상세히 묘사하고, 왜 그곳이 당신에게 특별한지 설명해 주세요.
+
+**[Model Answer]**
+If you ask me to pick a representative tourist spot in Korea, I would definitely choose Gyeongbokgung Palace, which is the heart of Seoul. It’s a magnificent place where tradition meets modernity. The architecture is simply breathtaking, with its intricate patterns and vibrant colors that <strong style="color:blue;">stand out</strong> against the backdrop of skyscrapers. When you walk through the main gate, you feel as if you’ve traveled back in time to the Joseon Dynasty.
+
+I vividly remember the first time I visited there with my parents as a child. It was during autumn, and the maple trees around the lake were changing colors, which really <strong style="color:blue;">added to</strong> the beauty of the palace. Recently, I went there again, and I saw many people wearing Hanbok, our traditional clothing, which was wonderful. It is so special to me because it is a place that allows me to <strong style="color:blue;">look back on</strong> our history while taking a break from the busy city life. If you happen to visit Seoul, you should definitely <strong style="color:blue;">make it a point to</strong> visit Gyeongbokgung, especially in the evening when it’s lit up. It’s truly a magical experience that is hard to <strong style="color:blue;">put into words</strong>.
+
+**[Vocabulary & Expressions]**
+* Magnificent: 웅장한
+* Intricate: 복잡한, 정교한
+* <strong style="color:blue;">stand out</strong>: 두드러지다, 눈에 띄다
+* <strong style="color:blue;">added to</strong>: ~에 더해지다, 가중시키다
+* <strong style="color:blue;">look back on</strong>: ~을 회상하다, 되돌아보다
+* <strong style="color:blue;">make it a point to</strong>: 꼭 ~하다
+* <strong style="color:blue;">put into words</strong>: 말로 표현하다
+
+---
+### 롤플레이 : 은행 계좌 개설 절차 문의
+
+**[Question]**
+I’d like you to call your bank and ask about the procedures and required documents for opening a new bank account.
+은행에 전화하여 새로운 계좌를 개설하기 위한 절차와 필요한 서류에 대해 문의해 보세요.
+
+**[Model Answer]**
+Hello, I’m calling because I’m interested in opening a new savings account at your bank. Could you please explain what the procedures are? Do I need to <strong style="color:blue;">fill out</strong> any online forms beforehand, or should I just <strong style="color:blue;">drop by</strong> a local branch in person?
+
+Also, I want to make sure I don’t forget anything important. Could you tell me exactly what kind of documents I need to prepare? For instance, do I need to bring my passport, a utility bill for proof of address, or perhaps a resident registration card? I’m currently very busy with work, so I really want to avoid having to <strong style="color:blue;">come back</strong> multiple times. Oh, and are there any specific hours I should visit to avoid the long queues? I’d appreciate it if you could give me a detailed breakdown so I can <strong style="color:blue;">sort out</strong> everything before I visit. Thank you for your assistance.
+
+**[Vocabulary & Expressions]**
+* Procedure: 절차
+* Utility bill: 공과금 고지서
+* <strong style="color:blue;">fill out</strong>: (서류를) 작성하다
+* <strong style="color:blue;">drop by</strong>: 잠깐 들르다
+* <strong style="color:blue;">come back</strong>: 돌아오다
+* <strong style="color:blue;">sort out</strong>: 해결하다, 정리하다
+
+---
+### 돌발 : 존경하는 인물과의 만남 경험
+
+**[Question]**
+Tell me about a time you met a person you respect or participated in an event related to them. What was the situation, and how did it influence you?
+존경하는 인물을 직접 만나거나 그와 관련된 행사에 참여했던 경험을 말해 주세요. 어떤 상황이었고, 그것이 당신에게 어떤 영향을 주었나요?
+
+**[Model Answer]**
+A few years ago, I had the incredible opportunity to attend a lecture by a renowned environmental activist whom I have deeply respected since I was a teenager. The event was held in a large auditorium, and it was packed with hundreds of people who were just as passionate as I was. It wasn't just a simple speech; it was an interactive session where we could <strong style="color:blue;">bring up</strong> our concerns about the current climate crisis.
+
+When I finally got a chance to talk to them after the lecture, I was quite nervous, but they were very down-to-earth and encouraged me to <strong style="color:blue;">keep up</strong> the good work in my local community. That brief encounter really <strong style="color:blue;">had an impact on</strong> my perspective on life. It made me realize that even a small effort can <strong style="color:blue;">add up to</strong> significant change. Since then, I’ve been trying to <strong style="color:blue;">cut down on</strong> plastic waste and participate in local clean-up events. It was truly a life-changing experience that helped me <strong style="color:blue;">get through</strong> my cynical phase about environmental issues.
+
+**[Vocabulary & Expressions]**
+* Renowned: 유명한
+* Auditorium: 강당
+* Down-to-earth: 현실적인, 진솔한
+* <strong style="color:blue;">bring up</strong>: (이야기를) 꺼내다
+* <strong style="color:blue;">keep up</strong>: 계속하다
+* <strong style="color:blue;">had an impact on</strong>: ~에 영향을 미치다
+* <strong style="color:blue;">add up to</strong>: 합계가 ~이 되다, (결과적으로) ~가 되다
+* <strong style="color:blue;">cut down on</strong>: ~을 줄이다
+* <strong style="color:blue;">get through</strong>: ~을 이겨내다, 완수하다
