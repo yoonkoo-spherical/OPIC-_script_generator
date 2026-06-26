@@ -9234,3 +9234,69 @@ When I finally got a chance to talk to them after the lecture, I was quite nervo
 * <strong style="color:blue;">add up to</strong>: 합계가 ~이 되다, (결과적으로) ~가 되다
 * <strong style="color:blue;">cut down on</strong>: ~을 줄이다
 * <strong style="color:blue;">get through</strong>: ~을 이겨내다, 완수하다
+
+## 2026-06-26 06:41:17 OPIc Study
+
+### 묘사 : 이웃의 인상과 관계 묘사
+
+**[Question]**
+Tell me about your neighbors. What do they look like, and what kind of relationship do you have with them?
+당신의 이웃에 대해 이야기해주세요. 그들은 어떻게 생겼으며, 그들과 어떤 관계를 맺고 있나요?
+
+**[Model Answer]**
+Well, honestly speaking, I’m quite fortunate to have such wonderful neighbors. I live in a fairly quiet apartment complex, and my next-door neighbor, Mr. Kim, is a middle-aged gentleman who always wears a warm smile. He has a very approachable demeanor, and we often <strong style="color:blue;">run into each other</strong> in the hallway. Even though we lead busy lives, we make sure to exchange friendly greetings every single day. 
+
+To be honest, it took some time for us to <strong style="color:blue;">break the ice</strong>, but now we’ve built a solid rapport. He’s the kind of person who is always ready to <strong style="color:blue;">lend a hand</strong> whenever I’m in a pinch. For instance, last month, I was out of town, and he kindly took in my packages so they wouldn't be stolen. It’s such a relief knowing that I have someone reliable right next door. We don't necessarily hang out every weekend, but we definitely <strong style="color:blue;">look out for</strong> one another. Having a good relationship with neighbors really makes a huge difference in my daily life, and I truly value the mutual respect and privacy we maintain. It’s not just about proximity; it’s about that sense of community that makes a place feel like home.
+
+**[Vocabulary & Expressions]**
+* Approachable: 접근하기 쉬운
+* Demeanor: 태도, 품행
+* Proximity: 근접성
+* <strong style="color:blue;">run into each other</strong>: 우연히 마주치다
+* <strong style="color:blue;">break the ice</strong>: 어색함을 깨다
+* <strong style="color:blue;">lend a hand</strong>: 돕다
+* <strong style="color:blue;">look out for</strong>: ~를 돌보다, 신경 쓰다
+
+---
+### 롤플레이 : 은행 계좌 개설 문의
+
+**[Question]**
+I’d like you to call your bank and ask about opening a new bank account. Ask three or four questions to get the information you need.
+은행에 전화해서 새 계좌 개설에 대해 물어보세요. 필요한 정보를 얻기 위해 3~4가지 질문을 하세요.
+
+**[Model Answer]**
+Hi there! I’m calling because I’m interested in opening a new savings account at your branch, and I wanted to get some clarification on the process. First of all, could you tell me what specific documents I need to prepare? Do I just need my ID, or is there any additional proof of residence required? 
+
+Also, I’m a bit busy during the weekdays, so I was wondering if I could <strong style="color:blue;">fill out</strong> the application online beforehand to save time. It would be great if I could <strong style="color:blue;">get through</strong> the process quickly once I arrive at the bank. Oh, and one more thing—are there any minimum balance requirements I should be aware of? I’m trying to <strong style="color:blue;">figure out</strong> the best option for my budget, so any details regarding interest rates or monthly fees would be really helpful. Could you also let me know your office hours? I want to make sure I don't <strong style="color:blue;">show up</strong> when the branch is closed. Thanks a lot for your help!
+
+**[Vocabulary & Expressions]**
+* Clarification: 명확한 설명
+* Residence: 거주지
+* Minimum balance: 최소 잔액
+* <strong style="color:blue;">fill out</strong>: (서류를) 작성하다
+* <strong style="color:blue;">get through</strong>: ~를 끝내다, 처리하다
+* <strong style="color:blue;">figure out</strong>: 알아내다, 이해하다
+* <strong style="color:blue;">show up</strong>: 나타나다, 도착하다
+
+---
+### 돌발 : 감명 깊었던 라이브 공연
+
+**[Question]**
+Tell me about a live concert or a performance that left a lasting impression on you. What made it so special?
+당신에게 깊은 인상을 남긴 라이브 콘서트나 공연에 대해 이야기해주세요. 무엇이 그렇게 특별했나요?
+
+**[Model Answer]**
+Actually, the most unforgettable experience I’ve had was attending a jazz concert in a small, cozy club downtown about two years ago. I’m not a huge jazz enthusiast, but a friend of mine insisted that I <strong style="color:blue;">tag along</strong>, so I decided to go. From the moment the band started playing, I was absolutely blown away. The atmosphere was incredibly intimate; you could really feel the energy <strong style="color:blue;">radiating from</strong> the musicians.
+
+The saxophonist played with so much passion that it felt like he was telling a story through his instrument. It was a complete <strong style="color:blue;">turnaround</strong> from the stressful week I had been having. I just sat there, sipped my drink, and let the music <strong style="color:blue;">wash over</strong> me. It was truly a cathartic experience. What made it so special wasn't just the technical skill of the performers, but the raw, unscripted connection they established with the audience. I left the club feeling so rejuvenated. It’s a memory that I <strong style="color:blue;">look back on</strong> whenever I feel overwhelmed by daily routines. That night taught me how powerful live music can be in helping you <strong style="color:blue;">get away from</strong> the pressures of life, even if only for a few hours.
+
+**[Vocabulary & Expressions]**
+* Enthusiast: 애호가
+* Intimate: 친밀한, 아늑한
+* Cathartic: 카타르시스를 느끼게 하는
+* Rejuvenated: 활력을 되찾은
+* <strong style="color:blue;">tag along</strong>: 따라가다
+* <strong style="color:blue;">radiate from</strong>: ~에서 뿜어져 나오다
+* <strong style="color:blue;">wash over</strong>: (감정 등이) 밀려오다
+* <strong style="color:blue;">look back on</strong>: ~를 회상하다
+* <strong style="color:blue;">get away from</strong>: ~에서 벗어나다
