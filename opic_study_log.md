@@ -9300,3 +9300,71 @@ The saxophonist played with so much passion that it felt like he was telling a s
 * <strong style="color:blue;">wash over</strong>: (감정 등이) 밀려오다
 * <strong style="color:blue;">look back on</strong>: ~를 회상하다
 * <strong style="color:blue;">get away from</strong>: ~에서 벗어나다
+
+## 2026-06-27 06:19:25 OPIc Study
+
+### 묘사 : 병원 대기실과 접수처의 분위기 묘사
+
+**[Question]**
+Please describe the atmosphere of a hospital waiting room and the reception area in as much detail as possible. What do you see there?
+병원 대기실과 접수처의 분위기를 가능한 한 상세하게 묘사해 주세요. 그곳에서 무엇을 보시나요?
+
+**[Model Answer]**
+Honestly, walking into a hospital waiting room is never a pleasant experience, but it’s always quite interesting to observe. When I first step into the lobby, I am immediately struck by the sterilized, somewhat clinical atmosphere. The walls are usually painted in soft, neutral tones like beige or light blue, which are intended to <strong style="color:blue;">put patients at ease</strong>, but there’s still an unmistakable sense of anxiety hanging in the air. People are sitting in rows of chairs, either staring at their phones or flipping through old magazines to <strong style="color:blue;">take their minds off</strong> their impending appointments.
+
+The reception area is the busiest part of the floor. It’s a high-counter setup where staff members are constantly juggling phone calls and paperwork. You can hear the rhythmic clacking of keyboards and the hushed voices of people checking in. What really stands out is how efficient the staff is. They <strong style="color:blue;">keep track of</strong> every patient’s details with such precision. Behind the counter, there are usually stacks of charts, glowing computer monitors, and a small area where they <strong style="color:blue;">hand out</strong> medical forms. It’s a place of constant motion. Despite the sterile environment, the soft background music often playing helps <strong style="color:blue;">drown out</strong> the noise of the bustling hospital corridors. It’s a space where technology and human care somehow <strong style="color:blue;">come together</strong> to manage the hectic flow of patients throughout the day.
+
+**[Vocabulary & Expressions]**
+* Sterilized: 살균된
+* Clinical: 병원 같은
+* Impending: 곧 닥칠
+* <strong style="color:blue;">put someone at ease</strong>: ~을 안심시키다
+* <strong style="color:blue;">take one's mind off</strong>: ~의 생각을 잊게 하다
+* <strong style="color:blue;">keep track of</strong>: ~의 기록을 유지하다/파악하다
+* <strong style="color:blue;">hand out</strong>: 배포하다
+* <strong style="color:blue;">drown out</strong>: (소리를) 안 들리게 덮어버리다
+* <strong style="color:blue;">come together</strong>: 합쳐지다, 어우러지다
+
+---
+### 롤플레이 : 박람회 안내 데스크 문의
+
+**[Question]**
+I'd like you to imagine that you are at an exhibition. You have some questions about the event. Go to the information desk and ask three or four questions about the pamphlet and the location of major booths.
+전시회장에 있다고 가정해 보세요. 이벤트에 대해 궁금한 점이 있습니다. 안내 데스크로 가서 팸플릿과 주요 부스 위치에 대해 서너 가지 질문을 해보세요.
+
+**[Model Answer]**
+Hi there! Excuse me, I’m a little lost here. This exhibition is much larger than I expected, and I was wondering if you could help me out. First off, do you happen to have any extra copies of the event pamphlet? I seem to have <strong style="color:blue;">run out of</strong> mine, and I really need the schedule for the afternoon sessions. Also, could you <strong style="color:blue;">point me in the right direction</strong> regarding the tech innovation zone? I’ve been looking for it for twenty minutes, but I think I’m just going in circles. 
+
+Oh, and one more thing—are there any interactive booths that I should definitely not miss? I’m particularly interested in the robotics section, but I’m not sure if it’s on this floor or the next. Could you please check that for me? I don’t want to <strong style="color:blue;">miss out on</strong> any of the main demonstrations. Actually, if you could just mark the key locations on the map, that would be a huge help. I really don’t want to <strong style="color:blue;">end up</strong> wasting time wandering around the wrong area. Thanks so much for your help, I really appreciate it! I’ll go <strong style="color:blue;">look into</strong> those booths right away.
+
+**[Vocabulary & Expressions]**
+* Interactive: 상호작용하는
+* Demonstration: 시연
+* <strong style="color:blue;">run out of</strong>: ~을 다 써버리다
+* <strong style="color:blue;">point someone in the right direction</strong>: ~에게 올바른 방향을 알려주다
+* <strong style="color:blue;">miss out on</strong>: ~을 놓치다
+* <strong style="color:blue;">end up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">look into</strong>: ~을 알아보다/조사하다
+
+---
+### 돌발 : 어릴 적 TV와 요즘 영상 매체 비교
+
+**[Question]**
+Think about the TV programs you watched when you were a child and compare them with the video media that are popular these days. What are the major differences and similarities?
+어릴 적 즐겨 보던 TV 프로그램과 요즘 유행하는 영상 매체를 비교해 보세요. 주요 차이점과 공통점은 무엇인가요?
+
+**[Model Answer]**
+When I look back on my childhood, TV was the absolute center of my entertainment. We used to <strong style="color:blue;">gather around</strong> the television at a specific time just to watch our favorite cartoons. It was a shared experience; my friends and I would talk about the episodes the next day at school without fail. Back then, we had to <strong style="color:blue;">put up with</strong> commercials and wait a whole week to see the next part of the story. It required patience, but that anticipation was part of the fun. 
+
+Nowadays, the landscape has completely shifted due to streaming platforms like YouTube or Netflix. We no longer have to <strong style="color:blue;">stick to</strong> a fixed broadcast schedule. Everything is on-demand, and people can <strong style="color:blue;">binge-watch</strong> an entire series in one sitting. The biggest difference is the level of interactivity. Today’s media is not just about watching; it’s about commenting, sharing, and creating. While the old TV shows were passive, modern media allows users to <strong style="color:blue;">catch up on</strong> trends instantly via social media snippets. However, one similarity remains: the core desire for storytelling. Whether it’s a 30-minute sitcom or a 10-minute vlog, people still just want to feel connected and entertained. We’ve just <strong style="color:blue;">moved on to</strong> more convenient ways of consuming that content.
+
+**[Vocabulary & Expressions]**
+* Anticipation: 기대
+* On-demand: 수요자 요구에 맞춘
+* Sitcom: 시트콤
+* <strong style="color:blue;">gather around</strong>: ~주위에 모이다
+* <strong style="color:blue;">put up with</strong>: ~을 참다/견디다
+* <strong style="color:blue;">stick to</strong>: ~을 고수하다/따르다
+* <strong style="color:blue;">binge-watch</strong>: 몰아보다
+* <strong style="color:blue;">catch up on</strong>: ~의 최신 정보를 파악하다
+* <strong style="color:blue;">move on to</strong>: ~로 넘어가다/옮겨가다
