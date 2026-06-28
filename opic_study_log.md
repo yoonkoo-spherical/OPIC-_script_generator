@@ -9368,3 +9368,66 @@ Nowadays, the landscape has completely shifted due to streaming platforms like Y
 * <strong style="color:blue;">binge-watch</strong>: 몰아보다
 * <strong style="color:blue;">catch up on</strong>: ~의 최신 정보를 파악하다
 * <strong style="color:blue;">move on to</strong>: ~로 넘어가다/옮겨가다
+
+## 2026-06-28 06:52:30 OPIc Study
+
+### 묘사 : 가장 좋아하는 색깔과 물건
+
+**[Question]**
+What is your favorite color? Also, describe an item you own that features this color and explain why it is special to you.
+가장 좋아하는 색깔은 무엇인가요? 그리고 그 색깔이 들어간 당신의 물건을 묘사하고, 왜 그 물건이 당신에게 특별한지 설명해 주세요.
+
+**[Model Answer]**
+Honestly, if I have to pick one, I would definitely go with navy blue. It’s such a sophisticated and calming color. Speaking of which, I have this vintage-style leather satchel that is a deep navy blue, and it is my absolute favorite accessory. I <strong style="color:blue;">came across</strong> this bag at a small boutique in Paris a few years ago. The color is so unique because it’s not too dark to look black, but it has that subtle, rich tone that really <strong style="color:blue;">stands out</strong>. 
+
+What makes it so special is the emotional connection I have with it. Whenever I carry this bag, it <strong style="color:blue;">brings back memories of</strong> my trip to Europe. Even though I use it almost every day, it still looks brand new. I’m quite attached to it, and I make sure to <strong style="color:blue;">take good care of</strong> it by polishing the leather regularly. It’s not just a bag to me; it’s like a companion that has been with me through many life events. Whenever I feel stressed or overwhelmed, just looking at the deep navy shade helps me <strong style="color:blue;">cool down</strong> and find my inner peace. It truly is a piece that defines my personal style.
+
+**[Vocabulary & Expressions]**
+* Sophisticated: 세련된
+* Companion: 동반자
+* <strong style="color:blue;">come across</strong>: 우연히 발견하다
+* <strong style="color:blue;">stand out</strong>: 눈에 띄다
+* <strong style="color:blue;">bring back memories of</strong>: ~의 추억을 불러일으키다
+* <strong style="color:blue;">take good care of</strong>: ~을 잘 관리하다
+* <strong style="color:blue;">cool down</strong>: 진정하다/차분해지다
+
+---
+### 롤플레이 : 콘서트장 좌석 문제 해결
+
+**[Question]**
+You have arrived at a concert venue, but you find someone else sitting in your reserved seat. Call a staff member and explain the situation to resolve it.
+콘서트장에 도착했는데 예약한 좌석에 다른 사람이 앉아 있습니다. 직원에게 전화를 걸어 상황을 설명하고 해결을 요청하세요.
+
+**[Model Answer]**
+Excuse me, are you a staff member? Hi, I’m sorry to bother you, but I have a bit of a problem. I’m here for the concert tonight, and I just arrived at my seat, but there’s someone already sitting there. I double-checked my ticket, and it clearly says Row F, seat 12. Could you please help me <strong style="color:blue;">sort this out</strong>? 
+
+I’ve been waiting for this concert for months, and I really don’t want to <strong style="color:blue;">miss out on</strong> the opening act. I tried to talk to the person in my seat politely, but they insisted they were in the right place. Maybe there was a mistake in the booking system or they got the seat numbers mixed up. Could you check their ticket for me? If my seat is unavailable, I would appreciate it if you could find me an alternative as soon as possible. I don’t want to make a scene, but I really need to <strong style="color:blue;">get this settled</strong> before the show starts. Thank you for your assistance.
+
+**[Vocabulary & Expressions]**
+* Venue: 장소/공연장
+* Alternative: 대안
+* <strong style="color:blue;">sort out</strong>: 문제를 해결하다
+* <strong style="color:blue;">miss out on</strong>: ~을 놓치다
+* <strong style="color:blue;">get settled</strong>: 문제를 매듭짓다/정리하다
+* <strong style="color:blue;">make a scene</strong>: 소란을 피우다
+
+---
+### 돌발 : 자동차 운전면허 취득과 도로 연수
+
+**[Question]**
+Tell me about when you first learned how to drive. How did you feel during your first driving lesson on the road, and what was the experience like?
+처음 운전을 배웠을 때에 대해 말해 주세요. 첫 도로 연수 당시 기분은 어땠으며, 그 경험은 어땠나요?
+
+**[Model Answer]**
+Oh, I remember that day as if it were yesterday. Getting my driver’s license was a huge milestone, but the first time I actually got on the road for a lesson, I was absolutely terrified. My heart was pounding so hard that I thought it would <strong style="color:blue;">burst out of</strong> my chest. I had an instructor sitting next to me, and every time another car passed by, I would <strong style="color:blue;">freak out</strong>. 
+
+The steering wheel felt so heavy, and I had to <strong style="color:blue;">keep track of</strong> everything at once—the signals, the pedestrians, and the speed limit. It was an overwhelming experience. There was a moment when I almost hit the curb because I was too focused on the rearview mirror. My instructor told me to <strong style="color:blue;">calm down</strong> and breathe, which actually helped me <strong style="color:blue;">pull myself together</strong>. After an hour, I started to get the hang of it, and the initial fear began to <strong style="color:blue;">wear off</strong>. By the end of the lesson, I felt a sense of accomplishment. Looking back, that was the day I realized that driving is not just about moving the car, but about being responsible and staying focused at all times.
+
+**[Vocabulary & Expressions]**
+* Milestone: 중요한 단계/계기
+* Overwhelming: 압도적인
+* <strong style="color:blue;">burst out of</strong>: ~에서 튀어나오다
+* <strong style="color:blue;">freak out</strong>: 겁에 질리다/당황하다
+* <strong style="color:blue;">keep track of</strong>: ~을 파악하다/놓치지 않다
+* <strong style="color:blue;">pull oneself together</strong>: 마음을 추스르다
+* <strong style="color:blue;">wear off</strong>: 점차 사라지다
