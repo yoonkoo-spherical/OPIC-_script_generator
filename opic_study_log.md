@@ -9431,3 +9431,65 @@ The steering wheel felt so heavy, and I had to <strong style="color:blue;">keep 
 * <strong style="color:blue;">keep track of</strong>: ~을 파악하다/놓치지 않다
 * <strong style="color:blue;">pull oneself together</strong>: 마음을 추스르다
 * <strong style="color:blue;">wear off</strong>: 점차 사라지다
+
+## 2026-06-29 07:20:16 OPIc Study
+
+### 묘사 : 최근 다녀온 국내 여행지의 자연경관
+
+**[Question]**
+Tell me about a domestic travel destination you visited recently. Describe the natural scenery of the place in as much detail as possible.
+최근 다녀온 국내 여행지에 대해 말해주세요. 그곳의 자연경관을 가능한 한 자세히 묘사해 주세요.
+
+**[Model Answer]**
+Honestly, I haven’t been traveling much lately, but last month, I managed to <strong style="color:blue;">get away from</strong> the hustle and bustle of city life and visited Jeju Island. The moment I arrived, I was completely <strong style="color:blue;">blown away by</strong> the breathtaking natural scenery there. The contrast between the emerald-colored ocean and the dark volcanic rocks along the coastline was truly a sight to behold. What impressed me the most was the hike up to the summit of Hallasan Mountain. As I made my way up, the landscape gradually shifted from dense, lush green forests to a vast, open field of silver grass that seemed to <strong style="color:blue;">stretch on forever</strong>. The air was incredibly crisp, and you could smell the earthy scent of nature, which helped me <strong style="color:blue;">clear my head</strong>. Standing at the peak, I looked down at the clouds drifting below, and it felt like I was on top of the world. I really wanted to <strong style="color:blue;">take it all in</strong>, so I sat there for a while, just soaking in the peaceful atmosphere. It was such a refreshing experience that helped me <strong style="color:blue;">recharge my batteries</strong> before heading back to my hectic daily routine. If you ever have the chance, you should definitely check out that place; it is a total paradise for nature lovers.
+
+**[Vocabulary & Expressions]**
+* Emerald: 에메랄드빛의
+* Volcanic: 화산의
+* Crisp: 상쾌한
+* <strong style="color:blue;">get away from</strong>: ~에서 벗어나다
+* <strong style="color:blue;">blown away by</strong>: ~에 크게 감명받다
+* <strong style="color:blue;">stretch on forever</strong>: 끝없이 펼쳐지다
+* <strong style="color:blue;">clear my head</strong>: 머리를 식히다
+* <strong style="color:blue;">take it all in</strong>: 충분히 즐기다/감상하다
+* <strong style="color:blue;">recharge my batteries</strong>: 재충전하다
+
+---
+### 롤플레이 : 과다 수리비에 대한 내역 요구
+
+**[Question]**
+You have brought your car to a mechanic shop for a repair, but the final bill is much higher than you expected. Call the mechanic and explain the situation. Ask for a detailed explanation of the repair costs.
+자동차 수리를 위해 정비소에 차를 맡겼는데, 최종 수리비가 예상보다 너무 많이 나왔습니다. 정비소에 전화하여 상황을 설명하고 수리 비용 내역에 대해 자세히 설명해 달라고 요청하세요.
+
+**[Model Answer]**
+Hi there, I’m calling regarding the repair bill for my car that I picked up earlier today. To be honest, I was quite shocked when I saw the final invoice. It’s significantly higher than what we had discussed over the phone initially. I was under the impression that the repair would be around 300 dollars, but the bill says 600 dollars. Could you please <strong style="color:blue;">break down</strong> these costs for me? I’m just trying to <strong style="color:blue;">make sense of</strong> why it ended up costing double the estimate. Did you have to replace any additional parts without informing me? I really need you to <strong style="color:blue;">run through</strong> the specific items on the invoice because I feel like there might have been a misunderstanding. I’m not saying the work wasn’t necessary, but I should have been notified before you proceeded with such expensive repairs. I hope you can <strong style="color:blue;">clear up</strong> this confusion for me. Could you please double-check the billing records and get back to me as soon as possible? I’d appreciate it if we could <strong style="color:blue;">iron out</strong> this issue today so I don’t have to worry about it any further. Thank you.
+
+**[Vocabulary & Expressions]**
+* Invoice: 청구서
+* Estimate: 견적
+* Proceed: 진행하다
+* <strong style="color:blue;">break down</strong>: 세부 항목으로 나누어 설명하다
+* <strong style="color:blue;">make sense of</strong>: 이해하다
+* <strong style="color:blue;">run through</strong>: 빠르게 훑어보다/검토하다
+* <strong style="color:blue;">clear up</strong>: 해결하다/오해를 풀다
+* <strong style="color:blue;">iron out</strong>: 문제를 해결하다
+
+---
+### 돌발 : 건강에 대한 인식의 변화
+
+**[Question]**
+How has your perception of health changed since you were a child? Describe the differences in how you managed your health back then and now.
+어릴 때와 비교하여 건강에 대한 당신의 인식은 어떻게 변했나요? 과거와 현재의 건강 관리 방식의 차이점에 대해 설명해 주세요.
+
+**[Model Answer]**
+That’s a thought-provoking question. When I was a child, I never really thought about my health. I suppose I just took it for granted, assuming that my body would always be strong. I would <strong style="color:blue;">load up on</strong> junk food and stay up late playing video games without any second thoughts. Back then, being "healthy" simply meant not getting a cold. However, as I’ve gotten older, my perspective has completely shifted. I’ve realized that health isn’t just about the absence of illness; it’s about maintaining a sustainable lifestyle. Now, I try to <strong style="color:blue;">keep up with</strong> a consistent exercise routine, like jogging every morning, and I’m much more conscious about what I eat. I’ve had to <strong style="color:blue;">cut down on</strong> processed foods because I noticed they really <strong style="color:blue;">wear me out</strong> during the day. Also, I’ve learned that stress management is just as important as physical fitness. So, I make it a point to <strong style="color:blue;">wind down</strong> with some meditation or reading before I go to bed. I think the biggest change is that I’m no longer just reacting to health problems when they arise, but I’m being proactive. I’ve come to realize that health is something you have to actively <strong style="color:blue;">look after</strong> if you want to enjoy a high quality of life in the long run.
+
+**[Vocabulary & Expressions]**
+* Perception: 인식
+* Proactive: 주도적인
+* <strong style="color:blue;">load up on</strong>: ~을 잔뜩 먹다/가져오다
+* <strong style="color:blue;">keep up with</strong>: ~을 꾸준히 유지하다
+* <strong style="color:blue;">cut down on</strong>: ~을 줄이다
+* <strong style="color:blue;">wear out</strong>: 기진맥진하게 만들다
+* <strong style="color:blue;">wind down</strong>: 긴장을 풀다/쉬다
+* <strong style="color:blue;">look after</strong>: 돌보다/관리하다
