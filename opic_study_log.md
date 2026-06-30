@@ -9493,3 +9493,64 @@ That’s a thought-provoking question. When I was a child, I never really though
 * <strong style="color:blue;">wear out</strong>: 기진맥진하게 만들다
 * <strong style="color:blue;">wind down</strong>: 긴장을 풀다/쉬다
 * <strong style="color:blue;">look after</strong>: 돌보다/관리하다
+
+## 2026-06-30 06:44:05 OPIc Study
+
+### 묘사 : 쇼핑몰의 층별 구성과 분위기
+
+**[Question]**
+Tell me about a shopping mall or a department store that you frequently visit. Describe its layout, what each floor offers, and why you enjoy going there.
+당신이 자주 방문하는 쇼핑몰이나 백화점에 대해 이야기해주세요. 층별 구성과 각 층에서 무엇을 파는지, 그리고 왜 그곳을 즐겨 찾는지 묘사해주세요.
+
+**[Model Answer]**
+The shopping mall I visit most often is a massive complex located in the heart of my city. It has five floors, and each level has a distinct theme. On the ground floor, you’ll find a high-end supermarket and various bakeries that always <strong style="color:blue;">whip up</strong> delicious treats. This area is usually crowded, but it’s the perfect place to grab a quick bite. As you move up to the second and third floors, you hit the fashion zone. These levels are packed with trendy boutiques and global brands. I often <strong style="color:blue;">browse through</strong> the racks for hours, trying to find a good deal. The fourth floor is my personal favorite because it houses a huge bookstore and a cozy cafe. Whenever I feel stressed, I just head there to <strong style="color:blue;">wind down</strong> with a good book. Finally, the top floor is the entertainment hub, featuring a cinema and an arcade. The reason I love this place is that it’s so convenient; everything I need is under one roof. I never have to <strong style="color:blue;">run around</strong> looking for different services because this mall has it all. It’s truly a one-stop destination where I can spend my entire weekend without feeling bored at all.
+
+**[Vocabulary & Expressions]**
+* Massive: 거대한
+* Distinct: 뚜렷한
+* <strong style="color:blue;">whip up</strong>: 빠르게 만들어내다
+* <strong style="color:blue;">browse through</strong>: ~을 둘러보다
+* <strong style="color:blue;">wind down</strong>: 긴장을 풀다
+* <strong style="color:blue;">run around</strong>: 이곳저곳 돌아다니다
+
+---
+
+### 롤플레이 : 스트리밍 서비스 해지 요청
+
+**[Question]**
+I’d like to give you a situation and ask you to act it out. You want to cancel your online streaming service subscription, but there is a problem. Call the customer service center and explain why you want to cancel, and ask for a solution.
+상황극을 하나 해보겠습니다. 온라인 스트리밍 서비스 구독을 해지하고 싶지만 문제가 있습니다. 고객센터에 전화해서 해지 이유를 설명하고 해결책을 요청하세요.
+
+**[Model Answer]**
+Hello, I’m calling because I’d like to cancel my premium subscription for your streaming platform. Honestly, I haven’t been using it lately because I’ve been so busy with work. I feel like I’m just throwing money away every month, so I decided it’s time to <strong style="color:blue;">call it a day</strong> regarding this service. Wait, you’re saying there’s a penalty for early termination? That’s quite frustrating. I wasn't informed about this when I signed up. Can you <strong style="color:blue;">look into</strong> my account details and see if there’s any way to waive this fee? I really don't want to <strong style="color:blue;">go through</strong> the hassle of a formal complaint, but I feel like this policy is a bit unfair. Is there any way you can <strong style="color:blue;">make up for</strong> this inconvenience, perhaps by offering a partial refund or a discounted rate for a few months instead of just cancelling? I’d really appreciate it if you could <strong style="color:blue;">sort this out</strong> for me as soon as possible. Please let me know what my options are.
+
+**[Vocabulary & Expressions]**
+* Penalty: 위약금
+* Termination: 종료
+* <strong style="color:blue;">call it a day</strong>: (하던 일을) 그만두다
+* <strong style="color:blue;">look into</strong>: 조사하다
+* <strong style="color:blue;">go through</strong>: 겪다
+* <strong style="color:blue;">make up for</strong>: 보상하다
+* <strong style="color:blue;">sort out</strong>: 해결하다
+
+---
+
+### 돌발 : 새로운 언어/기술 습득의 장벽
+
+**[Question]**
+Think about a time when you learned a new language or a complex technology. What was the biggest barrier you faced when you started, and how did you overcome it?
+새로운 언어나 복잡한 기술을 배웠던 경험에 대해 생각해보세요. 시작할 때 직면했던 가장 큰 장벽은 무엇이었고, 어떻게 극복했나요?
+
+**[Model Answer]**
+A few years ago, I decided to learn Python for my data analysis project. The biggest barrier was definitely the steep learning curve. At first, I couldn't understand the complex logic, and every time I tried to run a code, I would <strong style="color:blue;">run into</strong> errors. It was incredibly frustrating because I felt like I was hitting a wall. I almost decided to <strong style="color:blue;">give up on</strong> the whole thing. However, I realized that I couldn't just <strong style="color:blue;">get by</strong> with basic knowledge. I decided to change my approach. Instead of reading textbooks, I started joining online coding communities where I could <strong style="color:blue;">pick up</strong> tips from experts. I also committed to practicing for just 30 minutes every single day to <strong style="color:blue;">keep up with</strong> the rapid changes in the field. Slowly but surely, the concepts started to <strong style="color:blue;">sink in</strong>. Eventually, I was able to build my own project successfully. This experience taught me that when you face a challenge, you shouldn't just <strong style="color:blue;">back out</strong>; you need to find a new way to tackle it. Consistent effort is the key to mastering anything new.
+
+**[Vocabulary & Expressions]**
+* Steep: 가파른
+* Logic: 논리
+* <strong style="color:blue;">run into</strong>: 부딪히다(문제 등)
+* <strong style="color:blue;">give up on</strong>: ~을 포기하다
+* <strong style="color:blue;">get by</strong>: 그럭저럭 해나가다
+* <strong style="color:blue;">pick up</strong>: (정보/기술 등을) 익히다
+* <strong style="color:blue;">keep up with</strong>: ~을 따라잡다
+* <strong style="color:blue;">sink in</strong>: 이해되다
+* <strong style="color:blue;">back out</strong>: 손을 떼다/발을 빼다
