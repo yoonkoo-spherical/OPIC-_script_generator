@@ -9554,3 +9554,63 @@ A few years ago, I decided to learn Python for my data analysis project. The big
 * <strong style="color:blue;">keep up with</strong>: ~을 따라잡다
 * <strong style="color:blue;">sink in</strong>: 이해되다
 * <strong style="color:blue;">back out</strong>: 손을 떼다/발을 빼다
+
+## 2026-07-01 07:02:10 OPIc Study
+
+### 묘사 : 필통 속의 필기구 묘사
+
+**[Question]**
+Please describe your pencil case and the various stationery items inside it in detail. What do you usually keep in there and why?
+당신의 필통과 그 안에 있는 다양한 필기구들을 자세히 묘사해 주세요. 평소에 무엇을 가지고 다니며, 그 이유는 무엇인가요?
+
+**[Model Answer]**
+My pencil case is actually more of a small, canvas-material pouch that I’ve been using for years. It’s quite compact, but I’ve managed to <strong style="color:blue;">pack a lot into</strong> it. When you open it up, the first thing you’ll notice is a variety of pens. I’m a bit of a stationery enthusiast, so I always keep a high-quality fountain pen for important signatures and a set of multi-colored gel pens for color-coding my planner. I love how these pens <strong style="color:blue;">bring out</strong> the structure in my notes. Besides pens, there’s a mechanical pencil that has been with me since college; I prefer it for sketching out rough ideas. I also have some essential items like a correction tape, a small eraser, and a pair of foldable scissors, which I find incredibly useful whenever I need to <strong style="color:blue;">tidy up</strong> a loose paper or document. I always make sure to <strong style="color:blue;">stock up on</strong> refills for the gel pens because I hate running out of ink in the middle of a meeting. Honestly, this pouch is my go-to kit. Without these tools, I would feel completely lost and unable to <strong style="color:blue;">keep track of</strong> my daily tasks. It’s not just a storage space; it’s an extension of my professional life.
+
+**[Vocabulary & Expressions]**
+* Stationery: 문구류
+* Compact: 소형의, 간결한
+* <strong style="color:blue;">pack a lot into</strong>: 많은 것을 집어넣다
+* <strong style="color:blue;">bring out</strong>: 돋보이게 하다, 끌어내다
+* <strong style="color:blue;">tidy up</strong>: 정리하다
+* <strong style="color:blue;">stock up on</strong>: ~을 많이 사두다, 비축하다
+* <strong style="color:blue;">keep track of</strong>: ~을 계속 파악하고 있다
+
+---
+### 롤플레이 : 박람회 안내 데스크 문의
+
+**[Question]**
+You are at the information desk of a large trade fair. Ask the staff for a brochure and inquire about the location of some major booths.
+당신은 대규모 박람회의 안내 데스크에 있습니다. 직원에게 팸플릿을 요청하고 주요 부스들의 위치에 대해 문의하세요.
+
+**[Model Answer]**
+Hi there! I just arrived at the fair and I’m feeling a bit overwhelmed by the size of this venue. Could you please give me a brochure? I really need to <strong style="color:blue;">get a feel for</strong> the layout before I start walking around. Also, I’m particularly interested in the technology exhibition area. Could you tell me where the main booths are located? I don’t want to <strong style="color:blue;">miss out on</strong> any of the keynote presentations happening today. Since I have a tight schedule, it would be great if you could point out the fastest route to the AI innovation hall. Oh, and by the way, are there any guided tours I could <strong style="color:blue;">sign up for</strong>? I’m here to network and gather information, so I really want to <strong style="color:blue;">make the most of</strong> my time here. I’m a bit worried that I might <strong style="color:blue;">end up</strong> wandering aimlessly, so any specific recommendations or tips you have would be greatly appreciated. Thank you so much for your help!
+
+**[Vocabulary & Expressions]**
+* Overwhelmed: 압도된
+* Venue: 행사장
+* <strong style="color:blue;">get a feel for</strong>: ~의 감을 잡다
+* <strong style="color:blue;">miss out on</strong>: ~을 놓치다
+* <strong style="color:blue;">sign up for</strong>: ~을 신청하다
+* <strong style="color:blue;">make the most of</strong>: ~을 최대한 활용하다
+* <strong style="color:blue;">end up</strong>: 결국 ~하게 되다
+
+---
+### 돌발 : 호텔 예약 착오와 대처 경험
+
+**[Question]**
+Tell me about a time when you made a mistake with your hotel booking and had to find a place to stay on the spot while abroad. What happened and how did you handle the situation?
+해외여행 중 호텔 예약 날짜를 착각하여 현지에서 급하게 숙소를 구해야 했던 경험에 대해 이야기해 주세요. 무슨 일이 있었고 어떻게 해결했나요?
+
+**[Model Answer]**
+A few years ago, I traveled to Paris and made a huge mistake. I had completely mixed up my arrival dates, and when I arrived at the hotel, the receptionist told me my reservation wasn’t for that night. It was a total nightmare. I was exhausted, the city was fully booked due to a festival, and I had nowhere to go. I had to <strong style="color:blue;">act fast</strong>. I stepped outside and sat on a bench to <strong style="color:blue;">look into</strong> some nearby hostels using my phone. I was panicking, but I tried to <strong style="color:blue;">calm down</strong> and focus on finding a viable option. After about an hour of searching, I found a small boutique hotel that had a last-minute cancellation. I immediately rushed over there to <strong style="color:blue;">check in</strong>. Although it was much more expensive than my original booking, I was just happy to have a roof over my head. I learned a valuable lesson to always <strong style="color:blue;">double-check</strong> my itinerary before leaving. It was a stressful experience, but looking back, I’m proud that I managed to <strong style="color:blue;">pull through</strong> such a difficult situation on my own.
+
+**[Vocabulary & Expressions]**
+* Itinerary: 여행 일정
+* Nightmare: 악몽(매우 힘든 상황)
+* Viable: 실행 가능한
+* <strong style="color:blue;">act fast</strong>: 빠르게 행동하다
+* <strong style="color:blue;">look into</strong>: ~을 조사하다
+* <strong style="color:blue;">calm down</strong>: 진정하다
+* <strong style="color:blue;">check in</strong>: 체크인하다
+* <strong style="color:blue;">double-check</strong>: 재확인하다
+* <strong style="color:blue;">pull through</strong>: 위기를 헤쳐 나가다
