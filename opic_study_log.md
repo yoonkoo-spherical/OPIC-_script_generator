@@ -9614,3 +9614,63 @@ A few years ago, I traveled to Paris and made a huge mistake. I had completely m
 * <strong style="color:blue;">check in</strong>: 체크인하다
 * <strong style="color:blue;">double-check</strong>: 재확인하다
 * <strong style="color:blue;">pull through</strong>: 위기를 헤쳐 나가다
+
+## 2026-07-02 06:28:17 OPIc Study
+
+### 묘사 : 취미 생활을 위한 자전거 장비 묘사
+
+**[Question]**
+You indicated that you enjoy cycling. Please describe the gear or equipment you use for your cycling hobby in detail. What does it look like, and why is it important to you?
+당신은 자전거 타기를 즐긴다고 했습니다. 당신이 취미로 자전거를 탈 때 사용하는 장비나 도구에 대해 자세히 묘사해 주세요. 그것은 어떻게 생겼으며, 왜 당신에게 중요한가요?
+
+**[Model Answer]**
+To be honest, cycling has been my primary hobby for years, and my road bike is my most prized possession. It’s a sleek, lightweight carbon-fiber bike in a matte black finish, which I think looks incredibly sophisticated. Aside from the bike itself, I never <strong style="color:blue;">head out</strong> without my essential safety gear. First, there’s my aerodynamic helmet. It’s not just for looks; it’s crucial for my safety. I also have a pair of specialized cycling shoes that clip into the pedals, which really helps me <strong style="color:blue;">get the most out of</strong> my pedaling power. Furthermore, I always carry a portable repair kit. Whenever I <strong style="color:blue;">run into</strong> a flat tire, this kit is a lifesaver. It contains a mini pump, tire levers, and some spare tubes. Without these tools, I would definitely feel uneasy. Having high-quality equipment doesn't just make the ride more comfortable; it allows me to <strong style="color:blue;">push the envelope</strong> and challenge myself on longer routes. It’s safe to say that my gear is an extension of my personality and my passion for cycling. Every time I prepare my gear before a ride, I feel a sense of excitement <strong style="color:blue;">kick in</strong>, ready to explore new paths. I really can't imagine my life without these tools because they truly <strong style="color:blue;">add up to</strong> a much better riding experience.
+
+**[Vocabulary & Expressions]**
+* Sophisticated: 세련된
+* Prized possession: 소중한 소유물
+* <strong style="color:blue;">head out</strong>: 외출하다, 출발하다
+* <strong style="color:blue;">get the most out of</strong>: ~을 최대한 활용하다
+* <strong style="color:blue;">run into</strong>: (문제 등에) 부딪히다, 마주치다
+* <strong style="color:blue;">push the envelope</strong>: 한계를 넘어서다
+* <strong style="color:blue;">kick in</strong>: 효과가 나타나기 시작하다, 시작되다
+* <strong style="color:blue;">add up to</strong>: 결과적으로 ~이 되다
+
+---
+### 롤플레이 : 부동산에 매물 문의하기
+
+**[Question]**
+I’d like to give you a situation to act out. You are looking for a new apartment to move into. Call a local real estate agency and ask three or four questions about a studio or apartment you are interested in.
+상황극을 하나 해보겠습니다. 당신은 이사 갈 새로운 아파트를 찾고 있습니다. 지역 부동산 중개소에 전화해서 관심 있는 원룸이나 아파트에 대해 서너 가지 질문을 해보세요.
+
+**[Model Answer]**
+Hi there, I’m calling because I saw your listing online for a studio apartment near the city center, and I’m very interested in it. Before I <strong style="color:blue;">drop by</strong> your office, I have a few questions. First, could you tell me more about the monthly maintenance fee? I want to make sure it’s within my budget. Also, is the apartment <strong style="color:blue;">fully furnished</strong>, or would I need to bring my own furniture? That would be a major factor for me. Another thing, is it possible to have a parking spot assigned to the unit? I commute by car, so that’s a must. Finally, how old is the building? I’d like to know if I might <strong style="color:blue;">run into</strong> any issues with the heating or plumbing systems, as I really want to <strong style="color:blue;">steer clear of</strong> any maintenance headaches after I move in. Oh, and one more thing, how is the neighborhood in terms of noise levels at night? I’m a bit sensitive to that, so I’d love to hear your honest opinion. I’m hoping to <strong style="color:blue;">sort out</strong> these details soon so I can make a decision. Could you please check these details and get back to me when you have a moment? I’m looking forward to <strong style="color:blue;">touching base</strong> with you later today. Thanks for your help!
+
+**[Vocabulary & Expressions]**
+* Maintenance fee: 관리비
+* Commute: 통근하다
+* <strong style="color:blue;">drop by</strong>: 잠시 들르다
+* <strong style="color:blue;">fully furnished</strong>: 가구가 완비된
+* <strong style="color:blue;">steer clear of</strong>: ~을 피하다, 멀리하다
+* <strong style="color:blue;">sort out</strong>: 해결하다, 정리하다
+* <strong style="color:blue;">touch base</strong>: 연락을 취하다, 접촉하다
+
+---
+### 돌발 : 어릴 적 취미와 현재 취미 비교
+
+**[Question]**
+How has your hobby changed since you were a child? Compare your childhood hobby with the hobby you enjoy as an adult. What are the differences and similarities?
+어릴 때와 비교해서 당신의 취미는 어떻게 변했나요? 어린 시절의 취미와 성인이 된 지금 즐기는 취미를 비교해 보세요. 차이점과 공통점은 무엇인가요?
+
+**[Model Answer]**
+Looking back, my hobbies have certainly evolved as I’ve transitioned from childhood to adulthood. When I was a kid, I was absolutely obsessed with collecting comic books. I used to <strong style="color:blue;">geek out</strong> over new releases every week and spend hours organizing them in my room. It was all about the simple joy of discovery and imagination. However, my current hobby is hiking, which is physically demanding and more about connecting with nature. The biggest difference is the shift from a sedentary hobby to an active one. When I was young, I didn't care much about health, but now, I believe it's important to <strong style="color:blue;">look after</strong> my physical well-being. Despite these differences, there is a clear similarity: both hobbies allow me to <strong style="color:blue;">blow off some steam</strong> after a stressful period. Whether it was diving into a comic book or reaching the peak of a mountain, both activities provide a necessary escape from reality. I’ve realized that while my interests have changed, the fundamental reason I pursue these hobbies remains the same—to find a sense of balance. Sometimes I do <strong style="color:blue;">look back on</strong> my comic collection with nostalgia, but I’m really happy with my active lifestyle now. I think as we grow older, we tend to <strong style="color:blue;">grow out of</strong> certain habits, but the need to find joy in our free time is something that never fades away.
+
+**[Vocabulary & Expressions]**
+* Sedentary: 앉아서 하는, 활동량이 적은
+* Well-being: 행복, 건강
+* Nostalgia: 향수
+* <strong style="color:blue;">geek out</strong>: 어떤 것에 열광하다
+* <strong style="color:blue;">look after</strong>: ~을 돌보다
+* <strong style="color:blue;">blow off some steam</strong>: (스트레스를) 발산하다
+* <strong style="color:blue;">look back on</strong>: ~을 되돌아보다
+* <strong style="color:blue;">grow out of</strong>: (나이가 들면서 습관 등을) 그만두다, 벗어나다
