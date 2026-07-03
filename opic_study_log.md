@@ -9674,3 +9674,65 @@ Looking back, my hobbies have certainly evolved as I’ve transitioned from chil
 * <strong style="color:blue;">blow off some steam</strong>: (스트레스를) 발산하다
 * <strong style="color:blue;">look back on</strong>: ~을 되돌아보다
 * <strong style="color:blue;">grow out of</strong>: (나이가 들면서 습관 등을) 그만두다, 벗어나다
+
+## 2026-07-03 06:19:56 OPIc Study
+
+### 묘사 : 편의점 상품 진열 상태 묘사
+
+**[Question]**
+Tell me about a convenience store you frequently visit. How are the products displayed in the store, and what is the overall atmosphere of the place?
+당신이 자주 가는 편의점에 대해 말해주세요. 그곳의 상품들은 어떻게 진열되어 있으며, 전체적인 분위기는 어떤가요?
+
+**[Model Answer]**
+There is a local convenience store right around the corner from my apartment, and I find myself dropping by almost every single day. The first thing you notice when you walk in is how impeccably organized everything is. The shelves are <strong style="color:blue;">stocked up</strong> with various snacks and beverages, and it seems like the staff makes a constant effort to keep everything neat and tidy. Specifically, the beverage section is really impressive. All the drinks are perfectly aligned, facing forward, which makes it super easy to <strong style="color:blue;">pick out</strong> what I want. 
+
+Beyond just the organization, the atmosphere is quite inviting. It’s brightly lit, clean, and always smells like fresh coffee, which is a nice touch. Whenever I’m there, I often <strong style="color:blue;">run into</strong> my neighbors, which gives the place a warm, community-like vibe. It’s not just a place to buy things; it’s a convenient hub that adds comfort to my daily routine. Honestly, I don't know what I would do if this store were to suddenly <strong style="color:blue;">go out of business</strong>. The way they manage their inventory and maintain the space really shows how much they care about customer convenience, and that’s why I keep coming back.
+
+**[Vocabulary & Expressions]**
+* Impeccably: 흠잡을 데 없이
+* Inventory: 재고
+* <strong style="color:blue;">Stocked up</strong>: 가득 채워진
+* <strong style="color:blue;">Pick out</strong>: 고르다
+* <strong style="color:blue;">Run into</strong>: 우연히 마주치다
+* <strong style="color:blue;">Go out of business</strong>: 폐업하다
+
+---
+### 롤플레이 : 주민센터 전입신고 문의
+
+**[Question]**
+I’d like you to call the local community center and ask about the necessary documents and operating hours for registering your change of address.
+주민센터에 전화하여 전입신고에 필요한 서류와 운영 시간에 대해 문의해보세요.
+
+**[Model Answer]**
+Hello, is this the local community center? Yes, I’m calling because I recently moved to a new apartment in this neighborhood, and I need to register my change of address as soon as possible. Could you please let me know what documents I need to bring with me? I want to make sure I have everything prepared so I don’t have to <strong style="color:blue;">make a second trip</strong>. Also, what are your operating hours during the weekdays? 
+
+Oh, I see. So I just need my ID card and the housing contract? That sounds straightforward. And you’re open until 6 PM, but the lunch break is from 12 to 1 PM, right? Got it. Actually, I was wondering if it’s possible to <strong style="color:blue;">get things done</strong> online instead of visiting in person, given my busy work schedule? You say it’s better to visit for the first-time registration? Okay, I’ll be sure to <strong style="color:blue;">clear my schedule</strong> and drop by tomorrow morning then. Thank you so much for the information, you’ve been a huge help! I’ll make sure to <strong style="color:blue;">look over</strong> all the documents tonight before I head out.
+
+**[Vocabulary & Expressions]**
+* Straightforward: 간단한, 수월한
+* Register: 등록하다
+* <strong style="color:blue;">Make a second trip</strong>: 다시 방문하다
+* <strong style="color:blue;">Get things done</strong>: 일을 처리하다
+* <strong style="color:blue;">Clear my schedule</strong>: 일정을 비우다
+* <strong style="color:blue;">Look over</strong>: 검토하다/살펴보다
+
+---
+### 돌발 : 신용카드 분실 경험과 조치
+
+**[Question]**
+Have you ever lost your wallet or credit card? Tell me about the situation, how you felt at that moment, and what specific steps you took to resolve the problem.
+지갑이나 신용카드를 잃어버린 적이 있나요? 당시 상황과 기분, 그리고 문제를 해결하기 위해 어떤 조치를 취했는지 자세히 말해주세요.
+
+**[Model Answer]**
+Actually, a few months ago, I had a pretty stressful experience. I lost my wallet while I was commuting home on the subway. I didn’t realize it until I reached the ticket gate and couldn't find it in my bag. My heart just <strong style="color:blue;">sank</strong> because my credit card and ID were all in there. I was in a total panic, thinking about all the trouble I would have to go through to cancel everything.
+
+I immediately tried to <strong style="color:blue;">calm myself down</strong> and took action. First, I used my phone to access my banking app to <strong style="color:blue;">block the card</strong> right away so that no one could make any unauthorized purchases. After that, I called the subway station’s lost and found office to report the incident. It felt like I was in a nightmare, but I just kept telling myself to stay focused. Thankfully, someone had turned it in to the station office a few hours later. I was so relieved that I could finally <strong style="color:blue;">breathe a sigh of relief</strong>. Since then, I’ve been much more careful. It was a wake-up call to keep better track of my personal belongings, and now I always make sure my bag is <strong style="color:blue;">zipped up</strong> tightly before I leave the house.
+
+**[Vocabulary & Expressions]**
+* Commuting: 통근/통학하는
+* Unauthorized: 승인되지 않은
+* <strong style="color:blue;">Sank (my heart sank)</strong>: 철렁했다
+* <strong style="color:blue;">Calm down</strong>: 진정하다
+* <strong style="color:blue;">Block the card</strong>: 카드를 정지시키다
+* <strong style="color:blue;">Breathe a sigh of relief</strong>: 안도의 한숨을 내쉬다
+* <strong style="color:blue;">Zipped up</strong>: 지퍼가 잠긴
