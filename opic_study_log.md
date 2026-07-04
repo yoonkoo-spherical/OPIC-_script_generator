@@ -9736,3 +9736,64 @@ I immediately tried to <strong style="color:blue;">calm myself down</strong> and
 * <strong style="color:blue;">Block the card</strong>: 카드를 정지시키다
 * <strong style="color:blue;">Breathe a sigh of relief</strong>: 안도의 한숨을 내쉬다
 * <strong style="color:blue;">Zipped up</strong>: 지퍼가 잠긴
+
+## 2026-07-04 06:08:24 OPIc Study
+
+### 묘사 : 한국의 길거리 음식과 향기
+
+**[Question]**
+Could you describe some popular street foods in Korea? Please talk about what they are and describe the unique aromas associated with them.
+(한국에서 인기 있는 길거리 음식을 묘사해 줄 수 있나요? 어떤 음식인지, 그리고 그것들과 관련된 독특한 향기에 대해 이야기해 주세요.)
+
+**[Model Answer]**
+If you ever walk through the streets of Seoul, especially in areas like Myeong-dong or Gwangjang Market, your senses will be immediately overwhelmed by a symphony of incredible scents. Korea has a vibrant street food culture, and it’s something I’m truly proud of. First, you have to talk about 'Tteokbokki', which is spicy rice cakes. The moment you approach a stall, the sweet and spicy aroma of the gochujang-based sauce hits you. It’s a mouth-watering scent that really <strong style="color:blue;">kicks in</strong> your appetite. Another classic is 'Bungeo-ppang', a fish-shaped pastry filled with sweet red bean paste. During the winter, the smell of the batter grilling on hot iron molds creates a warm, buttery, and toasted fragrance that makes you <strong style="color:blue;">snap up</strong> a bag without hesitation. Also, you can't miss 'Hotteok', a sweet pancake filled with brown sugar and nuts. When the sugar starts to melt and caramelize on the griddle, it gives off this rich, sugary aroma that just <strong style="color:blue;">draws people in</strong> from blocks away. Honestly, the smell of these foods is a huge part of the experience. It evokes a sense of nostalgia for many Koreans. I often <strong style="color:blue;">look forward to</strong> grabbing a quick bite after work. The sensory experience of the sizzling sounds, the bold colors, and the savory smells all blend together to make Korean street food an unforgettable adventure. It’s not just about the taste; it’s the whole atmosphere that really <strong style="color:blue;">sets it apart</strong> from any other place.
+
+**[Vocabulary & Expressions]**
+* Symphony: 교향곡(조화)
+* Caramelize: 캐러멜화하다
+* <strong style="color:blue;">kick in</strong>: (효과, 기분 등이) 시작되다
+* <strong style="color:blue;">snap up</strong>: 덥석 사다/잡다
+* <strong style="color:blue;">draw in</strong>: 끌어들이다
+* <strong style="color:blue;">look forward to</strong>: 기대하다
+* <strong style="color:blue;">set apart</strong>: 차별화하다
+
+---
+### 롤플레이 : 분실물 센터에 지갑 찾기
+
+**[Question]**
+You lost your wallet on the subway today. Call the lost and found center to report the loss and describe the features of your wallet in detail.
+(오늘 지하철에 지갑을 두고 내렸습니다. 분실물 센터에 전화해서 분실 사실을 알리고 지갑의 특징을 상세히 묘사하세요.)
+
+**[Model Answer]**
+Hello, I’m calling because I think I left my wallet on the subway earlier today. I’m quite distressed because all my ID cards and credit cards are in there. I was on Line 2 heading toward Gangnam, and I got off around 3 PM. Could you please check if it has been turned in? If not, I’d like to give you a detailed description so you can keep an eye out for it. The wallet is a bi-fold, dark navy leather wallet from a local brand. It’s not particularly fancy, but it has a very distinct feature: there’s a small, gold-colored metal charm shaped like a star attached to the zipper of the coin pocket. It’s quite easy to <strong style="color:blue;">pick out</strong> because the charm is slightly scratched from daily use. Inside, there’s a photograph of my family tucked into the inner slot, and I believe I have about 50,000 won in cash. I really hope someone <strong style="color:blue;">turns it in</strong>. Could you let me know the procedure to <strong style="color:blue;">follow up</strong> on this? I’m worried that I might have to <strong style="color:blue;">call off</strong> my plans for tomorrow since I have no cards to use. Please, if you find anything that matches this description, could you <strong style="color:blue;">get back to</strong> me as soon as possible? I would really appreciate your help. Thank you so much for <strong style="color:blue;">looking into</strong> this matter for me.
+
+**[Vocabulary & Expressions]**
+* Distressed: 괴로운
+* Bi-fold: 이단으로 접는
+* <strong style="color:blue;">pick out</strong>: 구별해내다/알아보다
+* <strong style="color:blue;">turn in</strong>: 제출하다/내다
+* <strong style="color:blue;">follow up</strong>: 후속 조치를 취하다
+* <strong style="color:blue;">call off</strong>: 취소하다
+* <strong style="color:blue;">get back to</strong>: 다시 연락하다
+* <strong style="color:blue;">look into</strong>: 조사하다
+
+---
+### 돌발 : 비밀번호 분실로 인한 고충
+
+**[Question]**
+Have you ever had trouble accessing your account because you forgot your password? Tell me about what happened and how you dealt with the situation.
+(비밀번호를 잊어버려 계정에 접속하지 못해 애먹은 적이 있나요? 무슨 일이 있었고 어떻게 해결했는지 이야기해 주세요.)
+
+**[Model Answer]**
+Oh, you have no idea. I had a nightmare of a day last month because of a forgotten password. I was working on a very urgent presentation for my company, and I needed to log into my main cloud account to access the files. I tried typing in my usual password, but it kept saying 'incorrect.' I tried a few more times, and eventually, the account got locked. I felt like I was going to <strong style="color:blue;">crack under pressure</strong> because the deadline was just two hours away. I tried to <strong style="color:blue;">figure out</strong> the password, but my mind went completely blank. I had to go through the identity verification process, which usually involves an email link or a text code. However, the phone number associated with that account was an old one I no longer use. I was totally <strong style="color:blue;">cut off</strong> from my own data. I had to contact the customer service center, which was a real hassle. I spent an hour trying to <strong style="color:blue;">get through</strong> to an agent. When I finally reached someone, I had to provide so much personal information to prove my identity. It took forever to <strong style="color:blue;">sort out</strong> the issue. By the time I regained access, I was completely drained. After that day, I decided to <strong style="color:blue;">sign up for</strong> a reliable password manager app so I never have to <strong style="color:blue;">go through</strong> that again. It was a stressful lesson, but it forced me to be more organized with my security.
+
+**[Vocabulary & Expressions]**
+* Verification: 인증
+* Drained: 기진맥진한
+* <strong style="color:blue;">crack under pressure</strong>: 압박감을 이기지 못하다
+* <strong style="color:blue;">figure out</strong>: 알아내다/해결책을 찾다
+* <strong style="color:blue;">cut off</strong>: 단절된
+* <strong style="color:blue;">get through</strong>: (전화가) 연결되다
+* <strong style="color:blue;">sort out</strong>: 해결하다
+* <strong style="color:blue;">sign up for</strong>: 가입하다
+* <strong style="color:blue;">go through</strong>: 겪다
