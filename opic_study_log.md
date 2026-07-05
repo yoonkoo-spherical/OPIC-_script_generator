@@ -9797,3 +9797,67 @@ Oh, you have no idea. I had a nightmare of a day last month because of a forgott
 * <strong style="color:blue;">sort out</strong>: 해결하다
 * <strong style="color:blue;">sign up for</strong>: 가입하다
 * <strong style="color:blue;">go through</strong>: 겪다
+
+## 2026-07-05 06:28:06 OPIc Study
+
+### 묘사 : 공원에서의 사람들의 활동
+
+**[Question]**
+Tell me about the people you usually see at the park. What are they doing and how do they look?
+평소 공원에서 보는 사람들에 대해 말해주세요. 그들은 무엇을 하고 있고 어떤 모습인가요?
+
+**[Model Answer]**
+Well, I frequent a local park near my house quite often, and honestly, it is always <strong style="color:blue;">teeming with</strong> activity. When I go there, the first thing I notice is how diverse the crowd is. I see families with young children running around, trying to <strong style="color:blue;">burn off</strong> their endless energy, while their parents are usually sitting on the benches, <strong style="color:blue;">catching up with</strong> each other or scrolling through their phones. On the jogging track, there are always these dedicated fitness enthusiasts who look like they are training for a marathon, constantly <strong style="color:blue;">pushing themselves</strong> to the limit. They are typically dressed in high-tech athletic gear, looking very professional. Then, there are the elderly couples. They prefer a more laid-back approach, taking leisurely strolls and just soaking in the fresh air. Sometimes, I see groups of teenagers gathering near the fountain, laughing and just having a good time. It’s truly fascinating to see how people from all walks of life <strong style="color:blue;">wind down</strong> after a long day in such a vibrant space. Seeing everyone so engaged in their own little worlds, whether it's exercising, socializing, or simply relaxing, really <strong style="color:blue;">lifts my spirits</strong> every single time I visit.
+
+**[Vocabulary & Expressions]**
+* Diverse: 다양한
+* Enthusiasts: 열광적인 애호가
+* Vibrant: 활기찬
+* <strong style="color:blue;">Teeming with</strong>: ~로 가득 차다
+* <strong style="color:blue;">Burn off</strong>: (에너지를) 발산하다/소모하다
+* <strong style="color:blue;">Catch up with</strong>: 근황을 나누다
+* <strong style="color:blue;">Push oneself</strong>: 스스로를 밀어붙이다
+* <strong style="color:blue;">Wind down</strong>: 긴장을 풀다
+* <strong style="color:blue;">Lift one’s spirits</strong>: 기분을 북돋우다
+
+---
+### 롤플레이 : 주민센터 전입신고 문의
+
+**[Question]**
+I’d like to give you a situation to act out. You are moving to a new apartment and need to register your new address. Call your local community center to ask about the required documents and their operating hours.
+상황극을 해보겠습니다. 새 아파트에 이사하게 되어 전입신고를 하려고 합니다. 주민센터에 전화해 필요한 서류와 운영 시간을 문의하세요.
+
+**[Model Answer]**
+Hi, I’m calling because I’m moving to a new apartment in your neighborhood next week and I need to <strong style="color:blue;">get my registration sorted out</strong> as soon as possible. Could you please let me know what documents I need to bring to the community center for the move-in registration? Also, I’m quite busy with work these days, so I was wondering about your office hours. Are you open during the lunch hour, or do you have any late-night services? I really want to <strong style="color:blue;">make sure</strong> I have everything ready so I don’t have to <strong style="color:blue;">make a second trip</strong>. Oh, and by the way, is it possible to fill out the forms online beforehand to <strong style="color:blue;">save some time</strong>? I’d really appreciate it if you could <strong style="color:blue;">clear things up</strong> for me. I’m a bit worried about the paperwork, so any advice you could give would be a huge help. Thanks so much for your assistance!
+
+**[Vocabulary & Expressions]**
+* Registration: 등록
+* Paperwork: 서류 작업
+* Assistance: 도움
+* <strong style="color:blue;">Get ~ sorted out</strong>: ~를 해결하다/정리하다
+* <strong style="color:blue;">Make sure</strong>: 확실히 하다
+* <strong style="color:blue;">Make a second trip</strong>: 두 번 걸음 하다
+* <strong style="color:blue;">Save time</strong>: 시간을 절약하다
+* <strong style="color:blue;">Clear things up</strong>: 명확하게 설명해주다
+
+---
+### 돌발 : 어린 시절과 현재의 명절 풍경 차이
+
+**[Question]**
+How did you celebrate holidays when you were a child, and how is it different from the way you spend them now?
+어린 시절 명절을 어떻게 보냈나요? 현재 명절을 보내는 방식과는 어떻게 다른가요?
+
+**[Model Answer]**
+Thinking back to my childhood, holidays were such a huge deal. My entire extended family would <strong style="color:blue;">get together</strong> at my grandparents' house. It was chaos, but in a good way. The kitchen was always busy with my aunts and mother preparing tons of traditional food, and all us cousins would play games until we were <strong style="color:blue;">worn out</strong>. We didn't have much technology, so we just created our own fun. Nowadays, things have <strong style="color:blue;">shifted quite a bit</strong>. Because everyone is so busy with their own lives, we don't gather as often or for as long. A lot of families, including mine, now prefer to travel or just take a break during the holidays instead of spending the whole time cooking and cleaning. While I do miss those big, rowdy family gatherings, I think this modern approach is a way to <strong style="color:blue;">cope with</strong> the stress of our fast-paced lives. We still keep the core traditions, but we’ve definitely <strong style="color:blue;">cut back on</strong> the heavy labor. It’s a bit bittersweet, as I think we’ve lost some of that deep communal feeling, but it’s just the natural way things have <strong style="color:blue;">panned out</strong> as we’ve all grown up.
+
+**[Vocabulary & Expressions]**
+* Extended family: 대가족
+* Rowdy: 떠들썩한
+* Communal: 공동체의
+* Bittersweet: 달콤하면서도 씁쓸한
+* <strong style="color:blue;">Get together</strong>: 모이다
+* <strong style="color:blue;">Worn out</strong>: 기진맥진한
+* <strong style="color:blue;">Shift quite a bit</strong>: 상당히 변하다
+* <strong style="color:blue;">Cope with</strong>: ~에 대처하다
+* <strong style="color:blue;">Cut back on</strong>: ~을 줄이다
+* <strong style="color:blue;">Pan out</strong>: (일이) 전개되다/결과가 나오다
