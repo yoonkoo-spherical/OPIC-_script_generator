@@ -9861,3 +9861,73 @@ Thinking back to my childhood, holidays were such a huge deal. My entire extende
 * <strong style="color:blue;">Cope with</strong>: ~에 대처하다
 * <strong style="color:blue;">Cut back on</strong>: ~을 줄이다
 * <strong style="color:blue;">Pan out</strong>: (일이) 전개되다/결과가 나오다
+
+## 2026-07-06 06:58:45 OPIc Study
+
+### 묘사 : 비행기 탑승구 앞 풍경 묘사
+
+**[Question]**
+I’d like to know what the boarding area at an airport looks like. Describe the scene in detail, including the people waiting there and the overall atmosphere.
+공항의 탑승구 앞 공간이 어떻게 생겼는지 알고 싶습니다. 그곳에서 대기하는 사람들의 모습과 전반적인 분위기를 포함하여 상세히 묘사해 주세요.
+
+**[Model Answer]**
+Well, honestly, the boarding area is one of the most intriguing places to observe human behavior. It’s always buzzing with energy. When you first walk into the gate area, the most striking thing is the diversity of travelers. You see people <strong style="color:blue;">kicked back</strong> in those uncomfortable airport seats, trying to catch a nap before their long flight. Others are constantly <strong style="color:blue;">checking in on</strong> their emails or scrolling through social media on their phones to <strong style="color:blue;">pass the time</strong>. You’ll also notice business travelers in sharp suits who are glued to their laptops, trying to <strong style="color:blue;">wrap up</strong> their work before they lose internet connection. 
+
+The atmosphere is a mix of anticipation and slight chaos. You see families with children who are a bit restless, running around, and parents desperately trying to <strong style="color:blue;">keep them under control</strong>. Some people are huddled around the charging stations, almost like they are <strong style="color:blue;">fighting over</strong> the limited outlets. As the boarding time <strong style="color:blue;">draws near</strong>, the whole vibe shifts. Everyone suddenly <strong style="color:blue;">perks up</strong> and forms a line, even if their boarding group hasn't been called yet. It’s funny how everyone just naturally <strong style="color:blue;">falls into line</strong> out of fear of missing their spot. All in all, it’s a chaotic but fascinating snapshot of people getting ready to start a new journey.
+
+**[Vocabulary & Expressions]**
+* Intriguing: 호기심을 자극하는
+* Diversity: 다양성
+* <strong style="color:blue;">kicked back</strong>: 편안히 쉬는
+* <strong style="color:blue;">checking in on</strong>: ~를 확인하다
+* <strong style="color:blue;">pass the time</strong>: 시간을 보내다
+* <strong style="color:blue;">wrap up</strong>: 마무리하다
+* <strong style="color:blue;">keep under control</strong>: 통제하다
+* <strong style="color:blue;">fighting over</strong>: ~를 두고 다투다
+* <strong style="color:blue;">draws near</strong>: 가까워지다
+* <strong style="color:blue;">perks up</strong>: 활기를 되찾다/정신이 들다
+* <strong style="color:blue;">falls into line</strong>: 줄을 서다
+
+---
+### 롤플레이 : 마트 장보기 부탁하기
+
+**[Question]**
+You need some items from the grocery store for dinner. Call your family member and leave a message or talk to them, asking them to stop by the store on their way home.
+저녁 식사를 위해 식료품점에서 사야 할 물건들이 있습니다. 가족에게 전화하여 퇴근길에 마트에 들러 물건을 사 오라고 부탁해 보세요.
+
+**[Model Answer]**
+Hey, are you still at work? I’m calling because I’m about to start cooking dinner, but I just realized we are completely out of a few essential ingredients. Could you possibly <strong style="color:blue;">swing by</strong> the grocery store on your way home tonight? It would be a huge help. We’re out of milk, and I also need some fresh vegetables for the salad. If you could <strong style="color:blue;">pick up</strong> a couple of onions and some tomatoes, that would be perfect. 
+
+Oh, and if you’re already there, could you also check if they have that pasta sauce we like? If they don't have our usual brand, don't worry about it; just <strong style="color:blue;">make do with</strong> something similar. I know you’re probably exhausted and just want to <strong style="color:blue;">get home</strong> as soon as possible, but I really appreciate you doing this. I’ll make sure to have everything ready by the time you walk through the door. If you encounter any trouble or can’t find the items, just <strong style="color:blue;">give me a ring</strong>, and I’ll figure something else out. Thanks a million! I'll see you in a bit.
+
+**[Vocabulary & Expressions]**
+* Essential: 필수적인
+* <strong style="color:blue;">swing by</strong>: 잠시 들르다
+* <strong style="color:blue;">pick up</strong>: 사 오다
+* <strong style="color:blue;">make do with</strong>: ~로 때우다/임시변통하다
+* <strong style="color:blue;">get home</strong>: 집에 도착하다
+* <strong style="color:blue;">give me a ring</strong>: 전화하다
+
+---
+### 돌발 : 독립 초기 느낀 외로움과 현실
+
+**[Question]**
+Tell me about the time when you first moved out and started living alone. What kind of loneliness or realistic challenges did you face, and how did you overcome them?
+처음 독립해서 혼자 살기 시작했을 때에 대해 말해 주세요. 어떤 외로움이나 현실적인 문제들을 겪었으며, 어떻게 극복했나요?
+
+**[Model Answer]**
+Moving out for the first time was a major turning point in my life. I was excited about having my own space, but the reality hit me pretty hard. The first few weeks were definitely the toughest. The biggest challenge was the silence. Coming home to an empty apartment after a long day was jarring. It was easy to <strong style="color:blue;">feel down</strong> in the dumps because I was so used to having my family around. I had to learn how to <strong style="color:blue;">look after</strong> myself, not just with cooking and cleaning, but also emotionally.
+
+Then there were the mundane but stressful chores. I had to <strong style="color:blue;">figure out</strong> how to manage utility bills and fix minor household issues on my own. Once, my sink got clogged, and I had to watch countless tutorials to <strong style="color:blue;">sort it out</strong>. To <strong style="color:blue;">cope with</strong> the loneliness, I started inviting friends over for dinner and filled my place with music or podcasts to make the environment feel less vacant. Over time, I started to <strong style="color:blue;">grow into</strong> the lifestyle. I realized that solitude isn't the same as being lonely. It actually allowed me to <strong style="color:blue;">get to know</strong> myself better and become more independent. Now, I cherish my time alone, but I’ve also learned that it’s important to <strong style="color:blue;">reach out to</strong> friends when things get overwhelming.
+
+**[Vocabulary & Expressions]**
+* Jarring: 충격적인/거슬리는
+* Mundane: 일상적인/재미없는
+* <strong style="color:blue;">feel down</strong>: 우울하다
+* <strong style="color:blue;">look after</strong>: 돌보다
+* <strong style="color:blue;">figure out</strong>: 해결책을 찾다/이해하다
+* <strong style="color:blue;">sort it out</strong>: 해결하다
+* <strong style="color:blue;">cope with</strong>: 대처하다
+* <strong style="color:blue;">grow into</strong>: ~에 적응하다
+* <strong style="color:blue;">get to know</strong>: ~를 알게 되다
+* <strong style="color:blue;">reach out to</strong>: ~에게 도움을 청하다/연락하다
