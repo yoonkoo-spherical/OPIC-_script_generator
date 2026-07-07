@@ -9931,3 +9931,61 @@ Then there were the mundane but stressful chores. I had to <strong style="color:
 * <strong style="color:blue;">grow into</strong>: ~에 적응하다
 * <strong style="color:blue;">get to know</strong>: ~를 알게 되다
 * <strong style="color:blue;">reach out to</strong>: ~에게 도움을 청하다/연락하다
+
+## 2026-07-07 06:34:48 OPIc Study
+
+### 묘사 : 자주 쓰는 앱의 인터페이스 묘사
+
+**[Question]**
+Tell me about a smartphone application you use frequently. What does its interface look like, and why do you find it easy to use?
+당신이 자주 사용하는 스마트폰 애플리케이션에 대해 이야기해 주세요. 그 인터페이스는 어떻게 생겼으며, 왜 사용하기 쉽다고 생각하나요?
+
+**[Model Answer]**
+Honestly, the app I <strong style="color:blue;">rely on</strong> the most these days is definitely YouTube. When you first <strong style="color:blue;">pull up</strong> the home screen, the interface is incredibly intuitive. At the very top, there’s a search bar that <strong style="color:blue;">stands out</strong>, and right below that, the algorithm-curated videos are neatly organized in a grid format. What I really love about it is how <strong style="color:blue;">clutter-free</strong> the design is; it doesn’t <strong style="color:blue;">overwhelm</strong> the user with unnecessary buttons. The navigation bar at the bottom lets me <strong style="color:blue;">switch back and forth</strong> between my subscriptions, library, and shorts effortlessly. Even when I’m in a rush, I can <strong style="color:blue;">get the hang of</strong> any new feature they update because the layout remains consistent. It’s so user-friendly that I can <strong style="color:blue;">dip into</strong> my favorite content without any hassle. Everything is just one or two taps away, which is why I <strong style="color:blue;">stick with</strong> this app despite the competition. The visual hierarchy is so well-structured that I rarely feel <strong style="color:blue;">lost in</strong> the menus. It truly <strong style="color:blue;">strikes a balance</strong> between aesthetic appeal and practical functionality, making my screen time much more enjoyable.
+
+**[Vocabulary & Expressions]**
+* Intuitive: 직관적인
+* Curated: 엄선된
+* <strong style="color:blue;">rely on</strong>: ~에 의존하다
+* <strong style="color:blue;">pull up</strong>: (화면 등을) 띄우다
+* <strong style="color:blue;">stands out</strong>: 눈에 띄다
+* <strong style="color:blue;">get the hang of</strong>: 요령을 터득하다
+* <strong style="color:blue;">stick with</strong>: ~을 계속 사용하다
+
+---
+### 롤플레이 : 모임 장소 길 찾기 문의
+
+**[Question]**
+You are on your way to a club meeting, but you are lost. Call the club president and explain the situation. Ask for detailed directions to the meeting place.
+동호회 모임에 가는 길인데 길을 잃었습니다. 동호회 총무에게 전화해서 상황을 설명하고, 모임 장소까지 가는 자세한 길을 물어보세요.
+
+**[Model Answer]**
+Hi, is this Min-ji? This is [Name]. I’m so sorry to bother you, but I’m currently <strong style="color:blue;">running around in circles</strong> trying to find the cafe for our meeting. I’m standing near the subway station, but I think I <strong style="color:blue;">took a wrong turn</strong> somewhere. Could you please give me a hand? I’ve been <strong style="color:blue;">staring at</strong> the map on my phone for ten minutes, but the GPS signal is acting up, and I’m completely <strong style="color:blue;">turned around</strong>. Can you describe any landmarks near the entrance? Oh, I see a convenience store to my left and a large bookstore across the street. Should I <strong style="color:blue;">head towards</strong> that direction? Okay, let me write this down so I don't <strong style="color:blue;">mess up</strong> again. So, turn right at the corner, walk past the post office, and it’s the building with the blue sign, right? Got it. I’ll <strong style="color:blue;">make my way</strong> there as fast as I can. Sorry for the delay, and I hope I don't <strong style="color:blue;">hold up</strong> the meeting too much. I’ll be there in five minutes, so please don't start without me! Thanks for your help.
+
+**[Vocabulary & Expressions]**
+* Landmark: 주요 지형지물
+* Act up: 오작동하다
+* <strong style="color:blue;">running around in circles</strong>: 제자리걸음을 하다/헤매다
+* <strong style="color:blue;">took a wrong turn</strong>: 잘못 들어섰다
+* <strong style="color:blue;">turned around</strong>: 방향 감각을 잃은
+* <strong style="color:blue;">head towards</strong>: ~쪽으로 향하다
+* <strong style="color:blue;">hold up</strong>: 지연시키다
+
+---
+### 돌발 : 지갑 분실 경험과 대처
+
+**[Question]**
+Tell me about a time when you lost your credit card or wallet. How did you handle the situation, and what steps did you take to resolve it?
+신용카드나 지갑을 분실했던 경험에 대해 이야기해 주세요. 그 상황에 어떻게 대처했으며, 문제를 해결하기 위해 어떤 조치를 취했나요?
+
+**[Model Answer]**
+Oh, this brings back a stressful memory! A few years ago, I accidentally <strong style="color:blue;">left my wallet behind</strong> at a crowded coffee shop. I didn’t realize it until I got to the subway station and tried to <strong style="color:blue;">pay my fare</strong>. My heart just <strong style="color:blue;">sank</strong>. I immediately started <strong style="color:blue;">going over</strong> everywhere I had been that day. I was so panicked that I almost <strong style="color:blue;">freaked out</strong> in the middle of the station. First, I <strong style="color:blue;">called up</strong> the coffee shop right away to see if anyone had turned it in. Luckily, a kind staff member had kept it safe. However, just to be on the safe side, I <strong style="color:blue;">logged into</strong> my banking app and temporarily locked my cards to prevent any unauthorized charges. Even though I <strong style="color:blue;">ended up</strong> getting it back, the whole experience taught me a valuable lesson. I’ve started to <strong style="color:blue;">keep a close eye on</strong> my belongings whenever I’m in public. It was a wake-up call that I shouldn't be so <strong style="color:blue;">careless with</strong> my personal items. Now, I always double-check my pockets before I <strong style="color:blue;">head out</strong>. It was a nerve-wracking day, but I’m glad it didn't <strong style="color:blue;">turn into</strong> a bigger disaster.
+
+**[Vocabulary & Expressions]**
+* Unauthorized: 승인되지 않은
+* Nerve-wracking: 피를 말리는/조마조마한
+* <strong style="color:blue;">left ~ behind</strong>: ~을 두고 오다
+* <strong style="color:blue;">going over</strong>: 되짚어 보다
+* <strong style="color:blue;">freaked out</strong>: 자지러지게 놀라다/당황하다
+* <strong style="color:blue;">ended up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">keep a close eye on</strong>: ~을 주의 깊게 살피다
