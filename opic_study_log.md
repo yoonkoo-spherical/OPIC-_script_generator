@@ -9989,3 +9989,75 @@ Oh, this brings back a stressful memory! A few years ago, I accidentally <strong
 * <strong style="color:blue;">freaked out</strong>: 자지러지게 놀라다/당황하다
 * <strong style="color:blue;">ended up</strong>: 결국 ~하게 되다
 * <strong style="color:blue;">keep a close eye on</strong>: ~을 주의 깊게 살피다
+
+## 2026-07-08 05:40:23 OPIc Study
+
+### 묘사 : 어릴 적 애착 장난감 묘사
+
+**[Question]**
+Tell me about a toy you used to play with when you were a child. What did it look like, and why was it so special to you?
+어릴 적 자주 가지고 놀던 장난감에 대해 말해주세요. 그것은 어떻게 생겼었나요? 그리고 왜 당신에게 그렇게 특별했나요?
+
+**[Model Answer]**
+Oh, thinking back to my childhood, one specific toy really stands out in my memory. It was a vintage robot action figure that I received as a birthday gift from my grandfather when I was about seven. This robot was quite unique; it was made of heavy-duty metal with a rusted, antique silver finish, and it had these bright red LED lights for eyes that would flicker whenever I pressed a small button on its back.
+
+To be honest, it wasn’t the most sophisticated toy, but for a kid like me, it was like a treasure. It had a clunky, mechanical walk, and I would spend hours just watching it <strong style="color:blue;">go around</strong> the living room, bumping into furniture. The edges were a bit sharp, so I had to be careful, but I absolutely adored it. I used to <strong style="color:blue;">carry it around</strong> everywhere, even to school, until my teacher eventually asked me to keep it at home.
+
+The reason it holds such a special place in my heart is that it reminds me of the bond I shared with my grandfather. He always knew what would excite me. Whenever I feel a bit nostalgic or stressed, I sometimes <strong style="color:blue;">look back on</strong> those simpler times, and just picturing that clunky, silver robot brings a massive smile to my face. It really was my best friend back then. I still keep it on my shelf today, although it’s quite dusty now, it’s a precious piece of my history that I simply can’t <strong style="color:blue;">part with</strong>.
+
+**[Vocabulary & Expressions]**
+* Vintage: 오래된, 빈티지한
+* Sophisticated: 정교한, 복잡한
+* Nostalgic: 향수를 불러일으키는
+* <strong style="color:blue;">go around</strong>: 돌아다니다
+* <strong style="color:blue;">carry around</strong>: 들고 다니다
+* <strong style="color:blue;">look back on</strong>: ~을 회상하다
+* <strong style="color:blue;">part with</strong>: ~을 떠나보내다(버리다)
+
+---
+### 롤플레이 : 음료 교환 요청하기
+
+**[Question]**
+You ordered a cold iced vanilla latte at a cafe, but the barista gave you a hot caramel macchiato instead. Call the staff and explain the situation to get it exchanged.
+카페에서 아이스 바닐라 라떼를 주문했는데, 직원이 실수로 따뜻한 카라멜 마키아또를 주었습니다. 직원에게 상황을 설명하고 교환을 요청하세요.
+
+**[Model Answer]**
+Hi there, excuse me? Sorry to bother you, but I think there’s been a bit of a mix-up with my order. I ordered an iced vanilla latte a few minutes ago, but what I received is a hot caramel macchiato. I didn't realize until I took a sip, but it’s definitely the wrong drink.
+
+I know you guys must be <strong style="color:blue;">swamped with</strong> customers right now, but would it be possible to get this exchanged? I’m quite sensitive to hot drinks, and I was really looking forward to the iced version to cool down. I’m not asking for a refund or anything, I just really need the right beverage.
+
+Also, I’m in a bit of a rush, so if you could prioritize this, I would truly appreciate it. I’m happy to <strong style="color:blue;">bring it back</strong> to the counter if that helps. I’m sorry if this is a hassle, but I just can't <strong style="color:blue;">make do with</strong> this current drink. Could you let me know how long it will take to get the correct one? I really don't want to <strong style="color:blue;">miss out on</strong> my coffee break today. Thanks a lot for your help!
+
+**[Vocabulary & Expressions]**
+* Mix-up: 혼동, 실수
+* Prioritize: 우선순위를 두다
+* Hassle: 번거로움
+* <strong style="color:blue;">swamped with</strong>: ~로 눈코 뜰 새 없이 바쁜
+* <strong style="color:blue;">bring back</strong>: 되돌려 주다
+* <strong style="color:blue;">make do with</strong>: ~로 때우다
+* <strong style="color:blue;">miss out on</strong>: ~을 놓치다
+
+---
+### 돌발 : 투자 실패 혹은 예상외의 수익 경험
+
+**[Question]**
+Have you ever tried investing in stocks or cryptocurrencies? Tell me about a time when you experienced a significant loss or an unexpected profit. What did you learn from that experience?
+주식이나 코인 등에 투자해 본 적이 있나요? 큰 손실을 보았거나 예상치 못한 수익을 낸 경험에 대해 말해주세요. 그 경험을 통해 무엇을 배웠나요?
+
+**[Model Answer]**
+Well, that’s a tough question because my investment journey has been quite a rollercoaster. A few years ago, when the crypto market was booming, I decided to <strong style="color:blue;">jump on the bandwagon</strong> because all my friends were making huge profits. Without doing much research, I invested a significant amount of my savings into a trending coin. At first, it looked like I was going to make a fortune as the price kept <strong style="color:blue;">shooting up</strong>. I was feeling so confident that I even considered quitting my part-time job.
+
+However, things took a turn for the worse very quickly. The market suddenly crashed overnight, and I woke up to find that my investment had <strong style="color:blue;">dropped off</strong> significantly. I panicked and sold everything at a huge loss just to <strong style="color:blue;">cut my losses</strong>. It was a painful lesson to learn, but it really opened my eyes.
+
+The biggest thing I learned is that there is no such thing as "easy money." I realized that I should never invest in something I don't fully understand just because everyone else is doing it. Now, I’m much more cautious. I focus on long-term, stable investments and make sure to <strong style="color:blue;">do my homework</strong> before putting my money anywhere. Even though I lost a chunk of my savings, I think it was a valuable lesson that helped me grow up financially. It taught me how to <strong style="color:blue;">steer clear of</strong> speculative gambles and build a more disciplined approach to my finances.
+
+**[Vocabulary & Expressions]**
+* Rollercoaster: 파란만장한
+* Booming: 호황인
+* Speculative: 투기적인
+* <strong style="color:blue;">jump on the bandwagon</strong>: 대세를 따르다
+* <strong style="color:blue;">shooting up</strong>: 급등하다
+* <strong style="color:blue;">dropped off</strong>: 감소하다/떨어지다
+* <strong style="color:blue;">cut one's losses</strong>: 손절하다
+* <strong style="color:blue;">do one's homework</strong>: 철저히 조사하다
+* <strong style="color:blue;">steer clear of</strong>: ~을 피하다
