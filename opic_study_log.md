@@ -10061,3 +10061,65 @@ The biggest thing I learned is that there is no such thing as "easy money." I re
 * <strong style="color:blue;">cut one's losses</strong>: 손절하다
 * <strong style="color:blue;">do one's homework</strong>: 철저히 조사하다
 * <strong style="color:blue;">steer clear of</strong>: ~을 피하다
+
+## 2026-07-10 06:31:35 OPIc Study
+
+### 묘사 : 캠핑장 및 텐트 내부 모습 묘사
+
+**[Question]**
+Tell me about the campsite you usually visit. What does it look like, and what can you see inside your tent? Describe it in detail.
+평소 자주 가는 캠핑장에 대해 말해주세요. 어떤 모습인가요? 그리고 텐트 내부에는 무엇이 보이나요? 자세히 묘사해 주세요.
+
+**[Model Answer]**
+Honestly, I am a huge camping enthusiast, so I have a favorite spot nestled deep in the mountains. When you first arrive at the campsite, the first thing that <strong style="color:blue;">catches your eye</strong> is the breathtaking panoramic view of the lake, which is perfectly still like a mirror. The site is quite spacious, with tall pine trees surrounding the area, creating a cozy and private atmosphere.
+
+Let me walk you through my tent. Once you step inside, you’ll see that I’ve really tried to <strong style="color:blue;">deck it out</strong> to make it feel like a home away from home. I have a thick, insulated air mattress that makes it incredibly comfortable to sleep on, even when the ground is cold. In one corner, I have a small foldable table where I keep my portable coffee maker. You know, there’s nothing better than waking up and brewing a fresh cup of coffee while watching the sunrise. I also have string lights hanging across the ceiling of the tent, which <strong style="color:blue;">set the mood</strong> perfectly at night. It’s warm, inviting, and honestly, it’s my sanctuary. Whenever I’m stressed out, I just want to <strong style="color:blue;">get away from it all</strong> and hide in that tent for a few days. It really helps me <strong style="color:blue;">recharge my batteries</strong> after a hectic week at work.
+
+**[Vocabulary & Expressions]**
+* Enthusiast: 열광적인 애호가
+* Sanctuary: 안식처
+* <strong style="color:blue;">catch one's eye</strong>: 눈길을 사로잡다
+* <strong style="color:blue;">deck out</strong>: 화려하게 꾸미다
+* <strong style="color:blue;">set the mood</strong>: 분위기를 조성하다
+* <strong style="color:blue;">get away from it all</strong>: 일상에서 벗어나 휴식을 취하다
+* <strong style="color:blue;">recharge one's batteries</strong>: 재충전하다
+
+---
+### 롤플레이 : 식당 창가 자리 예약 문의
+
+**[Question]**
+I'd like you to call a restaurant and make a reservation for a window seat for this coming Saturday evening. Ask three or four questions to ensure everything is perfect.
+식당에 전화해서 다가오는 토요일 저녁 창가 자리를 예약하세요. 모든 것이 완벽하도록 3~4가지 질문을 하세요.
+
+**[Model Answer]**
+Hi there! I’m calling to make a reservation for this coming Saturday evening. It’s going to be a very special anniversary dinner for my partner and me, so I was wondering if it would be possible to book a window seat with a nice view?
+
+Also, could you let me know if there are any specific menu recommendations or a set course for anniversaries? We are looking for something a bit special. Oh, and one more thing—my partner has a slight nut allergy. Could you ensure that the kitchen is aware of this when preparing our meal? I really want to <strong style="color:blue;">make sure that</strong> everything goes smoothly without any issues. Lastly, is there a valet parking service available on-site, or should I look for a nearby parking lot? I just want to <strong style="color:blue;">iron out</strong> all the details beforehand so we can just focus on enjoying the night. Please let me know if there is anything else I should know, and I’m really looking forward to visiting your place.
+
+**[Vocabulary & Expressions]**
+* Anniversary: 기념일
+* Allergy: 알레르기
+* Valet parking: 대리 주차
+* <strong style="color:blue;">make sure that</strong>: ~을 확실히 하다
+* <strong style="color:blue;">iron out</strong>: 문제를 해결하다, 세부 사항을 조정하다
+* <strong style="color:blue;">look forward to</strong>: ~을 기대하다
+
+---
+### 돌발 : 아르바이트비로 의미 있게 쓴 경험
+
+**[Question]**
+Tell me about a time when you earned your own money for the first time, like from a part-time job. What did you spend it on, and why was that experience so meaningful to you?
+처음으로 스스로 돈을 벌었던 경험(아르바이트 등)에 대해 말해주세요. 그 돈을 어디에 썼으며, 왜 그 경험이 당신에게 의미가 있었나요?
+
+**[Model Answer]**
+The first time I earned my own money was back in college when I worked as a private tutor for high school students. It wasn’t a huge amount, but to me, it felt like a small fortune because I had worked so hard to <strong style="color:blue;">bring home the bacon</strong>. 
+
+When I finally got my first paycheck, I didn't want to just <strong style="color:blue;">blow it on</strong> unnecessary things like clothes or games. Instead, I decided to do something special for my parents. I saved up every penny and treated them to a fancy dinner at a nice restaurant. Seeing my parents’ faces when I told them, "This is on me," was an experience I will never forget. They were so proud of me, and it made me realize that working hard to provide for the people I love is truly rewarding. That experience really helped me <strong style="color:blue;">grow up</strong> and understand the value of money. It wasn't just about the cash; it was about the sense of independence and the joy of sharing my success with my family. It honestly <strong style="color:blue;">gave me a sense of accomplishment</strong> that I hadn't felt before, and it pushed me to work even harder in my future career.
+
+**[Vocabulary & Expressions]**
+* Paycheck: 급료
+* Independence: 자립심
+* <strong style="color:blue;">bring home the bacon</strong>: 돈을 벌어 오다, 생계를 꾸리다
+* <strong style="color:blue;">blow on</strong>: ~에 (돈을) 탕진하다
+* <strong style="color:blue;">grow up</strong>: 철이 들다, 성장하다
+* <strong style="color:blue;">give a sense of accomplishment</strong>: 성취감을 주다
