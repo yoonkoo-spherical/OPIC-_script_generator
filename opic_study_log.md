@@ -10123,3 +10123,82 @@ When I finally got my first paycheck, I didn't want to just <strong style="color
 * <strong style="color:blue;">blow on</strong>: ~에 (돈을) 탕진하다
 * <strong style="color:blue;">grow up</strong>: 철이 들다, 성장하다
 * <strong style="color:blue;">give a sense of accomplishment</strong>: 성취감을 주다
+
+## 2026-07-11 05:30:49 OPIc Study
+
+### 묘사 : 어릴 적 가장 아꼈던 장난감 묘사
+
+**[Question]**
+Tell me about a toy you played with often when you were a child. What did it look like, and why were you so attached to it?
+당신이 어릴 때 자주 가지고 놀았던 장난감에 대해 말해주세요. 그것은 어떻게 생겼었나요? 그리고 왜 그렇게 그 장난감에 애착을 가졌었나요?
+
+**[Model Answer]**
+When I look back on my childhood, the first thing that <strong style="color:blue;">comes to mind</strong> is a well-worn, mechanical robot toy that I received as a birthday gift from my grandfather when I was about seven. To be honest, it wasn't a fancy high-tech toy by today's standards, but back then, it was my absolute treasure.
+
+Physically, it was about 20 centimeters tall and painted in a dull metallic blue. It had these clunky, rectangular feet, and its head was slightly asymmetrical, which gave it a quirky charm. What made it special was its unique mechanism. If I <strong style="color:blue;">wound up</strong> the key on its back, it would stomp forward while swinging its arms rhythmically. However, it was quite prone to breaking down. Whenever its gears would <strong style="color:blue;">act up</strong>, I had to be super careful while fixing it with a tiny screwdriver. 
+
+I think I was so attached to it because it was a tangible connection to my grandfather, who passed away shortly after giving it to me. Spending hours just watching that little robot walk across the floor helped me <strong style="color:blue;">get over</strong> my loneliness when I had no one to play with. Even though it is now <strong style="color:blue;">tucked away</strong> in a dusty box in my attic, whenever I stumble upon it, it immediately <strong style="color:blue;">takes me back</strong> to those innocent, carefree days. It's more than just a piece of plastic; it’s a time capsule of my childhood.
+
+**[Vocabulary & Expressions]**
+* Asymmetrical: 비대칭의
+* Tangible: 만질 수 있는, 실재하는
+* Quirky: 엉뚱한, 별난
+* <strong style="color:blue;">come to mind</strong>: 갑자기 생각나다
+* <strong style="color:blue;">wind up</strong>: 태엽을 감다
+* <strong style="color:blue;">act up</strong>: (기계 등이) 오작동하다
+* <strong style="color:blue;">get over</strong>: 극복하다
+* <strong style="color:blue;">tuck away</strong>: 구석에 넣어두다
+* <strong style="color:blue;">take someone back to ~</strong>: ~하던 때를 회상하게 하다
+
+---
+### 롤플레이 : 길에서 다친 사람을 발견하고 119 신고
+
+**[Question]**
+You are walking down the street and suddenly see someone lying on the ground, clearly injured. Call 119, explain the situation, describe the location, and ask for help immediately.
+길을 걷다가 갑자기 누군가 바닥에 쓰러져 있고, 다친 것이 분명해 보이는 상황을 발견했습니다. 119에 전화하여 상황을 설명하고, 위치를 묘사한 뒤 즉시 도움을 요청하세요.
+
+**[Model Answer]**
+Hello, is this emergency services? I need to report an accident right away! I’m currently walking near the entrance of Central Park, right in front of the main library building. I just <strong style="color:blue;">came across</strong> a middle-aged man lying on the sidewalk, and it looks like he fell quite hard. He seems to be in a lot of pain and isn’t able to move his leg.
+
+Please, you need to <strong style="color:blue;">send someone over</strong> as soon as possible. I think he might have broken his ankle, or worse. I’m currently kneeling beside him to keep him calm. I tried to <strong style="color:blue;">reach out to</strong> his family, but he is currently in too much shock to remember their contact info. 
+
+Could you tell me what I should do while waiting for the ambulance? Should I try to move him, or should I just let him stay still? I don’t want to <strong style="color:blue;">make matters worse</strong> by moving him improperly. Please hurry, he’s starting to lose consciousness, and I’m really worried. I will <strong style="color:blue;">stay on the line</strong> with you until the paramedics arrive. Please, just let me know how much longer it will take!
+
+**[Vocabulary & Expressions]**
+* Emergency services: 구급대, 응급 구조대
+* Sidewalk: 보도
+* Paramedics: 구급대원
+* Consciousness: 의식
+* <strong style="color:blue;">come across</strong>: 우연히 발견하다
+* <strong style="color:blue;">send someone over</strong>: 사람을 보내다
+* <strong style="color:blue;">reach out to</strong>: 연락을 취하다
+* <strong style="color:blue;">make matters worse</strong>: 상황을 악화시키다
+* <strong style="color:blue;">stay on the line</strong>: 전화를 끊지 않고 기다리다
+
+---
+### 돌발 : 과거와 현재의 대중교통 비교
+
+**[Question]**
+How has the public transportation system in your country changed compared to the past? What makes the current system more convenient than it used to be?
+당신이 사는 나라의 대중교통 시스템은 과거와 비교했을 때 어떻게 변했나요? 무엇이 현재의 시스템을 예전보다 더 편리하게 만들어주나요?
+
+**[Model Answer]**
+The transformation of our public transportation system over the last two decades has been nothing short of revolutionary. If I look back to my childhood, catching a bus was a complete guessing game. We didn't have real-time tracking, so we would just <strong style="color:blue;">show up</strong> at the bus stop and hope for the best, often waiting for ages in the freezing cold or sweltering heat.
+
+Today, everything is so much more streamlined. The biggest game-changer is the integration of technology. With the use of smartphone apps, I can check exactly where my bus is and how many minutes until it arrives. This helps me <strong style="color:blue;">plan ahead</strong> and avoids the frustration of waiting aimlessly. 
+
+Moreover, the payment system has become incredibly efficient. In the past, you had to have exact cash ready, which was a real hassle. Now, we use integrated smart cards that work across buses, subways, and even taxis. It’s so convenient because you just <strong style="color:blue;">tap in and tap out</strong> without worrying about change. 
+
+Furthermore, the expansion of the subway network has made it much easier to <strong style="color:blue;">get around</strong> the city without needing a car. Even though the system can get quite crowded during rush hour, the consistency and the digital connectivity really <strong style="color:blue;">make up for</strong> the inconvenience. Overall, I think the current system has <strong style="color:blue;">caught up with</strong> the rapid pace of modern life, making urban living much more manageable.
+
+**[Vocabulary & Expressions]**
+* Revolutionary: 혁명적인
+* Streamlined: 효율적인, 간소화된
+* Hassle: 번거로움
+* Consistency: 일관성
+* <strong style="color:blue;">show up</strong>: 나타나다
+* <strong style="color:blue;">plan ahead</strong>: 미리 계획하다
+* <strong style="color:blue;">tap in and tap out</strong>: (교통카드 등을) 찍고 타고 내리다
+* <strong style="color:blue;">get around</strong>: 돌아다니다
+* <strong style="color:blue;">make up for</strong>: 보상하다, 벌충하다
+* <strong style="color:blue;">catch up with</strong>: ~의 수준을 따라잡다
