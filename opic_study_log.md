@@ -10202,3 +10202,71 @@ Furthermore, the expansion of the subway network has made it much easier to <str
 * <strong style="color:blue;">get around</strong>: 돌아다니다
 * <strong style="color:blue;">make up for</strong>: 보상하다, 벌충하다
 * <strong style="color:blue;">catch up with</strong>: ~의 수준을 따라잡다
+
+## 2026-07-12 05:46:33 OPIc Study
+
+### 묘사 : 나의 공부 책상 환경 묘사
+
+**[Question]**
+Please describe your study desk in detail. What does it look like, and how do you keep it organized?
+당신의 공부 책상을 자세히 묘사해 주세요. 어떤 모습이며, 어떻게 정리된 상태를 유지하나요?
+
+**[Model Answer]**
+To be honest, my study desk is my sanctuary where I spend most of my time. It’s a spacious, L-shaped wooden desk located right next to the window. If you take a look at it, you’ll notice that I’m quite a perfectionist when it comes to my workspace. I always try to <strong style="color:blue;">keep everything in order</strong> because a cluttered space leads to a cluttered mind. On the left side, I have a sleek lamp that provides warm lighting, and a small plant that helps me <strong style="color:blue;">de-stress</strong>. My laptop sits right in the center, and I keep my stationery neatly stored in a drawer to make sure the surface stays clean. Whenever things start to <strong style="color:blue;">pile up</strong>, I immediately <strong style="color:blue;">clear away</strong> all the unnecessary papers. I also have a custom-made shelf above the desk where I keep my reference books. I try my best to <strong style="color:blue;">tidy up</strong> the area every night before I go to bed so that I can start fresh the next day. Sometimes, it’s hard to <strong style="color:blue;">keep up with</strong> my busy schedule, but organizing my desk is the one habit I never <strong style="color:blue;">give up on</strong>. It’s not just a piece of furniture; it’s a place that motivates me to achieve my goals.
+
+**[Vocabulary & Expressions]**
+* Sanctuary: 안식처
+* Perfectionist: 완벽주의자
+* <strong style="color:blue;">keep everything in order</strong>: 모든 것을 정돈된 상태로 유지하다
+* <strong style="color:blue;">de-stress</strong>: 스트레스를 풀다
+* <strong style="color:blue;">pile up</strong>: 쌓이다
+* <strong style="color:blue;">clear away</strong>: 치우다
+* <strong style="color:blue;">tidy up</strong>: 정리하다
+* <strong style="color:blue;">keep up with</strong>: ~을 따라가다/유지하다
+* <strong style="color:blue;">give up on</strong>: ~을 포기하다
+
+---
+### 롤플레이 : 결혼식 축가 부탁 및 일정 논의
+
+**[Question]**
+You have been asked to sing at your friend's wedding. Call your friend and discuss what song you will sing and set up a rehearsal schedule.
+친구의 결혼식에서 축가를 불러달라는 부탁을 받았습니다. 친구에게 전화해서 어떤 노래를 부를지 상의하고 리허설 일정을 잡으세요.
+
+**[Model Answer]**
+Hey, Minho! I’m so honored that you asked me to sing at your wedding. I’ve been thinking about what song would be perfect for your big day. Since you and your fiancée love old-school romantic ballads, I was thinking of singing "Everlasting Love." It’s a bit challenging, so I really need to <strong style="color:blue;">brush up on</strong> my vocal techniques. Do you think that song fits the vibe of your ceremony? If you’re happy with it, we should definitely <strong style="color:blue;">set up</strong> some rehearsals. Maybe we could meet next Saturday afternoon at a local studio? I want to make sure I don’t <strong style="color:blue;">mess up</strong> the bridge, as it's quite tricky. If that doesn't work for you, let me know when you can <strong style="color:blue;">fit me in</strong>. I’m willing to <strong style="color:blue;">go over</strong> the melody with you whenever you have time. I really want to <strong style="color:blue;">carry out</strong> this performance perfectly to make your wedding truly memorable. Let’s <strong style="color:blue;">sort out</strong> the logistics soon, and please don't hesitate to tell me if you have any other song requests. I’m truly excited to be part of your special day!
+
+**[Vocabulary & Expressions]**
+* Fiancée: 약혼녀
+* Ballad: 발라드
+* Logistics: 실행 계획/절차
+* <strong style="color:blue;">brush up on</strong>: ~을 다시 익히다/복습하다
+* <strong style="color:blue;">set up</strong>: 마련하다/일정을 잡다
+* <strong style="color:blue;">mess up</strong>: 망치다
+* <strong style="color:blue;">fit me in</strong>: (일정상) 시간을 내주다
+* <strong style="color:blue;">go over</strong>: 검토하다/연습하다
+* <strong style="color:blue;">carry out</strong>: 수행하다
+* <strong style="color:blue;">sort out</strong>: 해결하다/정리하다
+
+---
+### 돌발 : 이웃과의 오해와 기억에 남는 사건
+
+**[Question]**
+Tell me about a memorable incident or a misunderstanding you had with one of your neighbors. What happened, and how did you resolve it?
+동네 이웃과 겪었던 기억에 남는 사건이나 오해에 대해 이야기해 주세요. 어떤 일이 있었고 어떻게 해결했나요?
+
+**[Model Answer]**
+A couple of years ago, I had quite an awkward misunderstanding with my next-door neighbor. I lived in an apartment building, and one night, I received a very stern letter under my door complaining about loud music late at night. I was totally shocked because I’m usually very careful to <strong style="color:blue;">keep it down</strong>, especially after 10 PM. I felt like the accusation was completely unfair, so I decided to <strong style="color:blue;">look into</strong> the source of the noise myself. It turned out that the sound was actually coming from the apartment upstairs, not mine! The floorboards were old, and the sound was vibrating downwards. I realized I shouldn't just <strong style="color:blue;">jump to conclusions</strong>, so I went upstairs to talk to the neighbor in a polite manner. Instead of being defensive, I decided to <strong style="color:blue;">reach out</strong> to the person who left the note and explained the situation. I went over to her place with a small gift to <strong style="color:blue;">smooth things over</strong>. She felt terrible and apologized for the misunderstanding. We ended up having a long talk over coffee, and since then, we’ve <strong style="color:blue;">gotten along</strong> so well. It was a great lesson for me; communication really <strong style="color:blue;">clears the air</strong> when things get tense. Now, we always look out for each other.
+
+**[Vocabulary & Expressions]**
+* Stern: 엄격한/단호한
+* Accusation: 비난/고발
+* Floorboard: 마루판
+* Defensive: 방어적인
+* Tense: 긴장된
+* <strong style="color:blue;">keep it down</strong>: 조용히 하다
+* <strong style="color:blue;">look into</strong>: 조사하다
+* <strong style="color:blue;">jump to conclusions</strong>: 성급하게 결론을 내리다
+* <strong style="color:blue;">reach out</strong>: 연락을 취하다
+* <strong style="color:blue;">smooth things over</strong>: 갈등을 원만히 해결하다
+* <strong style="color:blue;">get along</strong>: 잘 지내다
+* <strong style="color:blue;">clear the air</strong>: (오해를 풀고) 분위기를 가라앉히다
