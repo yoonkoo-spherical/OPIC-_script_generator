@@ -10270,3 +10270,61 @@ A couple of years ago, I had quite an awkward misunderstanding with my next-door
 * <strong style="color:blue;">smooth things over</strong>: 갈등을 원만히 해결하다
 * <strong style="color:blue;">get along</strong>: 잘 지내다
 * <strong style="color:blue;">clear the air</strong>: (오해를 풀고) 분위기를 가라앉히다
+
+## 2026-07-13 05:56:56 OPIc Study
+
+### 묘사 : 야경이 아름다운 장소 묘사
+
+**[Question]**
+Tell me about a place where you enjoyed a beautiful night view. Describe the place, what the lights look like, and the overall atmosphere there.
+당신이 아름다운 야경을 즐겼던 장소에 대해 말해주세요. 그 장소, 불빛의 모습, 그리고 전반적인 분위기를 묘사해 주세요.
+
+**[Model Answer]**
+To be honest, whenever I feel overwhelmed by my daily routine, I often head to the Han River Park in Seoul. It’s absolutely breathtaking, especially at night. When you arrive there, the first thing that catches your eye is the shimmering reflection of the city lights on the water. It’s like a galaxy of gold and neon blue lights scattered across the dark surface. The N Seoul Tower standing tall in the distance adds a touch of elegance to the skyline. As for the atmosphere, it’s quite unique. You can feel a sense of tranquility mixed with a vibrant, youthful energy. People are busy <strong style="color:blue;">hanging out with</strong> their friends, couples are taking romantic walks, and there’s always a gentle breeze that just <strong style="color:blue;">clears up</strong> your mind. I really <strong style="color:blue;">get carried away by</strong> the moment whenever I sit there with a cold drink. It’s the perfect place to <strong style="color:blue;">wind down</strong> after a long, exhausting week. The way the city lights <strong style="color:blue;">light up</strong> the dark horizon never fails to impress me, making it my favorite spot in the entire city.
+
+**[Vocabulary & Expressions]**
+* Breathtaking: 숨 막히게 아름다운
+* Tranquility: 평온함
+* <strong style="color:blue;">hanging out with</strong>: ~와 시간을 보내다
+* <strong style="color:blue;">clears up</strong>: (머릿속 등을) 맑게 하다/정리하다
+* <strong style="color:blue;">get carried away by</strong>: ~에 넋을 잃다/심취하다
+* <strong style="color:blue;">wind down</strong>: 긴장을 풀다/쉬다
+* <strong style="color:blue;">light up</strong>: 환하게 비추다
+
+---
+### 롤플레이 : 은행 계좌 개설 문의
+
+**[Question]**
+I’d like to give you a situation to act out. You want to open a new savings account at a bank. Call the bank and ask the representative about the opening process and the required documents.
+상황극을 해보겠습니다. 은행에서 새로운 저축 계좌를 만들려고 합니다. 은행에 전화해서 계좌 개설 절차와 필요한 서류에 대해 문의하세요.
+
+**[Model Answer]**
+Hi there, I’m calling because I’m interested in opening a new savings account at your branch. Could you please walk me through the entire process? Do I need to visit in person, or can I <strong style="color:blue;">get it done</strong> online? Also, I’m a bit confused about the paperwork. What kind of documents should I <strong style="color:blue;">come prepared with</strong>? For instance, do I need to bring my passport or an alien registration card? And are there any specific conditions, like a minimum deposit amount, that I need to <strong style="color:blue;">look into</strong> beforehand? I’m planning to visit tomorrow afternoon, so I want to make sure I don't <strong style="color:blue;">miss out on</strong> anything important. I really don't want to make multiple trips to the bank, so if there’s anything else I should know, please let me know. I really appreciate you <strong style="color:blue;">clearing things up</strong> for me. I’ll be waiting for your answer, so please get back to me as soon as you can. Thanks a lot!
+
+**[Vocabulary & Expressions]**
+* Representative: 담당자/직원
+* Paperwork: 서류 작업
+* <strong style="color:blue;">get it done</strong>: 일을 처리하다
+* <strong style="color:blue;">come prepared with</strong>: ~를 준비해서 오다
+* <strong style="color:blue;">look into</strong>: 알아보다/조사하다
+* <strong style="color:blue;">miss out on</strong>: ~를 놓치다
+* <strong style="color:blue;">clearing things up</strong>: 상황을 명확하게 설명해주다
+
+---
+### 돌발 : 물건 하자로 인한 환불 경험
+
+**[Question]**
+Tell me about a time when you bought a product and found a serious defect in it. How did you handle the situation, and how did you resolve the issue with the store or the company?
+물건을 구매했다가 심각한 하자를 발견했던 경험에 대해 말해주세요. 그 상황을 어떻게 대처했고, 상점이나 회사와 어떻게 문제를 해결했나요?
+
+**[Model Answer]**
+A few months ago, I bought a high-end coffee machine as a gift for my parents. It looked perfect in the store, but when I tried to use it at home, it started leaking water everywhere. I was so embarrassed and frustrated. I immediately decided to <strong style="color:blue;">deal with</strong> the problem before it got worse. I called the customer service center, but they kept putting me on hold. I finally decided to just <strong style="color:blue;">show up at</strong> the store where I bought it. When I arrived, I explained the situation calmly but firmly to the manager. I told him that I couldn’t <strong style="color:blue;">put up with</strong> such poor quality for a premium product. After some back-and-forth, they agreed to <strong style="color:blue;">look into</strong> it and realized it was a factory defect. They offered me a full refund or a replacement. I chose the replacement, but I made sure they tested it in front of me first to ensure it wouldn't <strong style="color:blue;">fall apart</strong> again. It was quite a stressful experience, but I’m glad I <strong style="color:blue;">stood my ground</strong> and got the issue resolved properly.
+
+**[Vocabulary & Expressions]**
+* Defect: 결함/하자
+* Premium: 고급의
+* <strong style="color:blue;">deal with</strong>: ~를 처리하다/대처하다
+* <strong style="color:blue;">show up at</strong>: ~에 나타나다/방문하다
+* <strong style="color:blue;">put up with</strong>: ~를 참다/견디다
+* <strong style="color:blue;">fall apart</strong>: 망가지다/분해되다
+* <strong style="color:blue;">stood my ground</strong>: 내 입장을 고수하다/물러서지 않다
