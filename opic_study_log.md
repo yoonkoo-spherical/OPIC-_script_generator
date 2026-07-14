@@ -10328,3 +10328,67 @@ A few months ago, I bought a high-end coffee machine as a gift for my parents. I
 * <strong style="color:blue;">put up with</strong>: ~를 참다/견디다
 * <strong style="color:blue;">fall apart</strong>: 망가지다/분해되다
 * <strong style="color:blue;">stood my ground</strong>: 내 입장을 고수하다/물러서지 않다
+
+## 2026-07-14 05:19:34 OPIc Study
+
+### 묘사 : 공항 내부의 모습 묘사
+
+**[Question]**
+Please describe the airport you visited for your overseas trip in detail. What did it look like, and what kind of atmosphere did it have?
+해외 여행을 위해 방문했던 공항을 자세히 묘사해 주세요. 어떤 모습이었고, 어떤 분위기였나요?
+
+**[Model Answer]**
+When I think about the last time I went on an overseas trip, the first thing that comes to mind is the bustling airport. As soon as I walked into the departure hall, I was struck by its massive scale and high ceilings. The place was absolutely packed with travelers from all walks of life, and the atmosphere was a mix of excitement and chaos. The sunlight streaming through the floor-to-ceiling glass windows really <strong style="color:blue;">brightened up</strong> the whole space, making it feel airy and modern.
+
+I remember watching people scurrying around to <strong style="color:blue;">check in</strong> their luggage, while others were busy grabbing a quick bite or sipping coffee at the various cafes scattered throughout the terminal. The signage was very clear, which helped me <strong style="color:blue;">find my way around</strong> without any trouble. Every corner of the airport felt alive; you could hear the constant announcements echoing, mixed with the faint chatter of passengers. Honestly, the airport wasn’t just a transit point; it felt like a vibrant hub of anticipation. Despite the long lines, I actually enjoyed the vibe because it <strong style="color:blue;">got me pumped up</strong> for the upcoming vacation. It was a perfect blend of high-tech efficiency and the restless energy of people waiting to set off on their adventures.
+
+**[Vocabulary & Expressions]**
+* Massive: 거대한
+* Bustling: 붐비는
+* <strong style="color:blue;">brighten up</strong>: 환하게 밝히다
+* <strong style="color:blue;">check in</strong>: 수속하다
+* <strong style="color:blue;">find one's way around</strong>: 길을 찾다
+* <strong style="color:blue;">get someone pumped up</strong>: ~를 들뜨게 하다
+
+---
+### 롤플레이 : 호텔 객실 예약 문의
+
+**[Question]**
+I'd like you to call a hotel to make a reservation. Call the front desk, ask about room availability, and inquire about the room rates.
+호텔에 전화해서 예약을 하려고 합니다. 프론트 데스크에 전화해서 객실 상황과 요금을 문의해 보세요.
+
+**[Model Answer]**
+Hello, I’m calling to make a reservation for a stay next month. I’d like to check if you have any rooms available for the weekend of the 15th. My plan is to stay for two nights. Also, could you please let me know what kind of room rates you have for that period? I’m looking for something with a decent view, so I was wondering if you could <strong style="color:blue;">fill me in on</strong> the different room categories you offer.
+
+Are there any special packages or discounts that I should <strong style="color:blue;">look into</strong>? I really want to make sure I’m getting the best deal before I <strong style="color:blue;">go ahead with</strong> the booking. Could you also clarify if breakfast is included in the price? I’d like to <strong style="color:blue;">take care of</strong> all the arrangements now so I don’t have to worry about it later. I’m hoping to <strong style="color:blue;">lock in</strong> a rate that’s within my budget. Please let me know what the total cost would come to, including taxes. I appreciate your help with this!
+
+**[Vocabulary & Expressions]**
+* Availability: 가용성, 빈 객실 여부
+* Category: 분류, 종류
+* <strong style="color:blue;">fill someone in on</strong>: ~에게 ~에 대해 자세히 알려주다
+* <strong style="color:blue;">look into</strong>: ~을 조사하다
+* <strong style="color:blue;">go ahead with</strong>: ~을 추진하다
+* <strong style="color:blue;">take care of</strong>: ~을 처리하다
+* <strong style="color:blue;">lock in</strong>: (가격을) 고정하다
+
+---
+### 돌발 : 옷을 잘못 세탁하여 망친 경험
+
+**[Question]**
+Have you ever accidentally ruined your clothes while doing laundry? Or perhaps you’ve worn something inappropriate for a special occasion? Tell me about that experience in detail.
+빨래를 하다가 옷을 망친 적이 있나요? 아니면 중요한 자리에 어울리지 않는 옷을 입고 간 적이 있나요? 그 경험에 대해 자세히 이야기해 주세요.
+
+**[Model Answer]**
+Oh, this is a classic disaster story. A few years ago, I had this brand-new, expensive wool sweater that I absolutely loved. One weekend, I was doing a bunch of laundry and I was in such a rush that I didn’t even <strong style="color:blue;">pay attention to</strong> the labels. I just threw everything into the machine and set it to a regular cycle with hot water. When I took the clothes out, my heart just sank. My beautiful sweater had shrunk so much that it could only fit a doll! I was completely devastated because it was a birthday gift from my sister.
+
+I tried to stretch it out, but it was beyond repair, so I finally had to <strong style="color:blue;">give up on</strong> it. It was such a frustrating moment, but looking back, I learned a hard lesson. Now, I always make sure to <strong style="color:blue;">sort out</strong> my laundry properly and double-check the care instructions. It’s funny how a simple mistake can <strong style="color:blue;">mess things up</strong> so quickly. Since then, I’ve never been reckless with my laundry again. I guess you could say that experience really <strong style="color:blue;">woke me up</strong> to the importance of following laundry protocols carefully.
+
+**[Vocabulary & Expressions]**
+* Ruined: 망친
+* Devastated: 망연자실한
+* Protocol: 절차, 규정
+* <strong style="color:blue;">pay attention to</strong>: ~에 주의를 기울이다
+* <strong style="color:blue;">give up on</strong>: ~을 포기하다
+* <strong style="color:blue;">sort out</strong>: 분류하다
+* <strong style="color:blue;">mess things up</strong>: 일을 망치다
+* <strong style="color:blue;">wake someone up to</strong>: ~의 중요성을 깨닫게 하다
