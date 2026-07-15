@@ -10392,3 +10392,64 @@ I tried to stretch it out, but it was beyond repair, so I finally had to <strong
 * <strong style="color:blue;">sort out</strong>: 분류하다
 * <strong style="color:blue;">mess things up</strong>: 일을 망치다
 * <strong style="color:blue;">wake someone up to</strong>: ~의 중요성을 깨닫게 하다
+
+## 2026-07-15 05:21:00 OPIc Study
+
+### 묘사 : 회사 식당과 주변 풍경 묘사
+
+**[Question]**
+Please describe the cafeteria at your workplace or the scenery of the streets around your office. What does it look like, and what kind of atmosphere does it have?
+직장 내 식당이나 회사 주변의 거리 풍경을 묘사해 주세요. 어떤 모습이며 어떤 분위기인가요?
+
+**[Model Answer]**
+To be honest, the cafeteria at my workplace is the highlight of my day. It is located on the top floor of our office building, and it features floor-to-ceiling windows that offer a stunning panoramic view of the city skyline. During lunchtime, the place is always bustling with activity. You can see colleagues from different departments sitting together, chatting away, and trying to <strong style="color:blue;">unwind from</strong> their hectic morning tasks. The interior design is quite modern, with a minimalist aesthetic and plenty of natural light, which creates a really refreshing vibe.
+
+If you step out of the building, the streets around the office are even more vibrant. There’s a beautiful park right across the street, and it’s usually packed with people taking a stroll or just grabbing a coffee. The sidewalks are lined with small, cozy cafes and hidden gem restaurants. I personally love walking around there because it helps me <strong style="color:blue;">clear my head</strong> before heading back to the office for the afternoon session. Even though the area can get quite crowded during the rush hour, there is a unique energy that you can't find anywhere else. It’s the perfect place to <strong style="color:blue;">soak up</strong> the city atmosphere while taking a short break from the grind.
+
+**[Vocabulary & Expressions]**
+* Panoramic: 탁 트인, 파노라마식의
+* Minimalist: 미니멀리스트의, 간결한
+* Bustling: 붐비는
+* <strong style="color:blue;">Unwind from</strong>: ~로부터 긴장을 풀다
+* <strong style="color:blue;">Clear my head</strong>: 머리를 식히다
+* <strong style="color:blue;">Soak up</strong>: (분위기 등을) 마음껏 즐기다/흡수하다
+
+---
+### 롤플레이 : 공원 내 자전거 출입 문의
+
+**[Question]**
+I'd like to give you a situation to act out. You want to ride your bike in the local park, but you are not sure if it's allowed. Call the park management office and ask three or four questions to find out about their policy.
+상황극을 해보겠습니다. 지역 공원에서 자전거를 타고 싶은데 허용되는지 확실하지 않습니다. 공원 관리 사무소에 전화해서 정책에 대해 3~4가지 질문을 해보세요.
+
+**[Model Answer]**
+Hi there, I’m calling because I’m planning to visit the park this coming weekend with my bike, and I wanted to <strong style="color:blue;">check in with</strong> you regarding your policy on cycling. I’ve been looking forward to a long ride, but I want to make sure I’m following the rules. First of all, is it permitted to ride bicycles on the walking trails inside the park? I wouldn't want to cause any trouble for the pedestrians. 
+
+Also, are there any designated areas specifically for cyclists? It would be great if I could find a safe path where I don't have to worry about running into anyone. Another thing is, what are the operating hours for the bike paths if they exist? I’m hoping to get an early start to avoid the crowds. Lastly, is there a place where I can park my bike if I decide to grab a bite to eat at the cafe inside the park? I really want to <strong style="color:blue;">make the most of</strong> my day out, so any information you could provide would be greatly appreciated. Thanks for your help!
+
+**[Vocabulary & Expressions]**
+* Pedestrian: 보행자
+* Designated: 지정된
+* <strong style="color:blue;">Check in with</strong>: ~에게 확인하다/문의하다
+* <strong style="color:blue;">Run into</strong>: ~와 우연히 마주치다/부딪히다
+* <strong style="color:blue;">Make the most of</strong>: ~을 최대한 활용하다
+* <strong style="color:blue;">Grab a bite</strong>: 간단히 식사하다
+
+---
+### 돌발 : 여행 예약 문제 경험
+
+**[Question]**
+Tell me about a time when you experienced a problem while booking a hotel or a flight for your trip. What was the problem exactly, and how did you deal with it?
+여행을 위해 호텔이나 항공권을 예약할 때 문제가 생겼던 경험을 이야기해 주세요. 정확히 어떤 문제였고 어떻게 해결했나요?
+
+**[Model Answer]**
+Oh, this is a classic travel nightmare. A few years ago, I was planning a trip to Europe, and I booked what I thought was a fantastic hotel through a third-party website. Everything seemed fine until I arrived at the hotel in the middle of the night after a very long, exhausting flight. When I reached the front desk, the receptionist informed me that my reservation couldn't be found in their system. I was absolutely shocked. I tried to <strong style="color:blue;">figure out</strong> what went wrong, but the website had failed to send the confirmation to the hotel, and they were completely booked.
+
+I was honestly starting to <strong style="color:blue;">freak out</strong> because it was already past midnight. However, I decided to stay calm and pulled up my booking confirmation email to show them the proof of payment. After some back-and-forth, the manager eventually intervened. They didn't have any rooms left, but they managed to <strong style="color:blue;">set me up</strong> with a room at a sister property nearby. They even covered the taxi fare to get me there. It was definitely a stressful situation, but I learned a valuable lesson to always contact the hotel directly to confirm my booking beforehand. It taught me not to <strong style="color:blue;">count on</strong> automated systems too blindly.
+
+**[Vocabulary & Expressions]**
+* Receptionist: 접수원
+* Intervene: 개입하다/조정하다
+* <strong style="color:blue;">Figure out</strong>: 해결책을 찾다/알아내다
+* <strong style="color:blue;">Freak out</strong>: 당황해서 어쩔 줄 모르다
+* <strong style="color:blue;">Set up</strong>: (장소 등을) 마련해주다
+* <strong style="color:blue;">Count on</strong>: ~을 의지하다/믿다
