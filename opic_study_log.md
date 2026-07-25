@@ -10453,3 +10453,106 @@ I was honestly starting to <strong style="color:blue;">freak out</strong> becaus
 * <strong style="color:blue;">Freak out</strong>: 당황해서 어쩔 줄 모르다
 * <strong style="color:blue;">Set up</strong>: (장소 등을) 마련해주다
 * <strong style="color:blue;">Count on</strong>: ~을 의지하다/믿다
+
+## 2026-07-25 05:33:17 OPIc Study
+
+### 묘사 : 집안일과 청소 도구 묘사
+
+**[Question]**
+Could you describe your routine when you do housework, especially focusing on the cleaning tools you use and how you use them?
+(당신이 집안일을 할 때의 일과를 묘사해 주실 수 있나요? 특히 당신이 사용하는 청소 도구와 그것들을 어떻게 사용하는지에 초점을 맞춰서 말해 주세요.)
+
+**[Model Answer]**
+To be honest, doing chores is not my favorite thing in the world, but keeping my place neat and tidy is an absolute must for me to stay sane and <strong style="color:blue;">keep on top of</strong> things. When it comes to my cleaning routine, I usually <strong style="color:blue;">set aside</strong> a couple of hours every Saturday morning to give my apartment a thorough cleaning. 
+
+First things first, I always <strong style="color:blue;">start off by</strong> tackling the dust. For this, I rely heavily on my trusty cordless vacuum cleaner. It’s an absolute game-changer because it allows me to <strong style="color:blue;">get into</strong> all those awkward, hard-to-reach corners under the sofa and bed without getting tangled up in wires. I also use a microfiber damp cloth to <strong style="color:blue;">wipe down</strong> all the surfaces, like my desk, bookshelves, and kitchen counters. Microfibers are amazing because they <strong style="color:blue;">pick up</strong> even the tiniest particles of dust effortlessly.
+
+After vacuuming, I move on to the floors. Instead of traditional mopping, which used to <strong style="color:blue;">wear me out</strong> completely, I use a steam mop these days. It utilizes high-temperature steam to <strong style="color:blue;">get rid of</strong> stubborn stains and bacteria at the same time, which gives me immense peace of mind. 
+
+Finally, I always <strong style="color:blue;">wrap up</strong> my cleaning session by spraying a nice, subtle lavender air freshener in every room. By the time I <strong style="color:blue;">wind down</strong> and look around the sparkling clean living room, all the physical exhaustion just <strong style="color:blue;">melts away</strong>, and I feel a tremendous sense of accomplishment. That’s pretty much how I handle my weekend chores.
+
+**[Vocabulary & Expressions]**
+* Thorough: 철저한
+* Microfiber: 극세사
+* Exhaustion: 피로
+* <strong style="color:blue;">keep on top of</strong>: ~을 잘 관리하다, 뒤처지지 않다
+* <strong style="color:blue;">set aside</strong>: 시간을 따로 할애하다
+* <strong style="color:blue;">start off by</strong>: ~로 시작하다
+* <strong style="color:blue;">get into</strong>: ~에 들어가다, 파고들다
+* <strong style="color:blue;">wipe down</strong>: ~를 닦아내다
+* <strong style="color:blue;">pick up</strong>: (먼지 등을) 집어 올리다, 흡수하다
+* <strong style="color:blue;">wear out</strong>: 지치게 하다
+* <strong style="color:blue;">get rid of</strong>: ~를 없애다, 제거하다
+* <strong style="color:blue;">wrap up</strong>: 마무리하다
+* <strong style="color:blue;">wind down</strong>: 긴장을 풀고 쉬다
+* <strong style="color:blue;">melt away</strong>: 사르르 녹아 없어지다
+
+---
+### 롤플레이 : 마감일 연기 요청
+
+**[Question]**
+You are working on a major project with your colleague, but you are falling behind schedule and need more time. Call your colleague, explain the situation, and ask to push back the deadline by one day. Give two or three alternative solutions.
+(당신은 동료와 함께 주요 프로젝트를 진행하고 있지만, 일정이 늦어져서 더 많은 시간이 필요합니다. 동료에게 전화해서 상황을 설명하고, 마감일을 하루 늦춰달라고 양해를 구하세요. 2~3가지 대안을 제시하세요.)
+
+**[Model Answer]**
+Hey, Mark. Do you have a quick second? I’m calling you because I need to <strong style="color:blue;">talk over</strong> something a bit urgent regarding our upcoming project report. To be completely honest with you, I’ve <strong style="color:blue;">run into</strong> an unexpected roadblock while analyzing the final market data, and I’m afraid I might <strong style="color:blue;">fall behind</strong> schedule. 
+
+I know we promised to submit the final draft by tomorrow afternoon, but I really want to <strong style="color:blue;">make sure</strong> the quality is top-notch. So, I was wondering if it would be at all possible to <strong style="color:blue;">push back</strong> the deadline by just one day to Friday? 
+
+Of course, I don’t want to <strong style="color:blue;">put you out</strong> or disrupt your plans, so I’ve come up with a couple of alternatives. First, I can <strong style="color:blue;">take on</strong> the entire formatting and proofreading section myself tonight so you don’t have to worry about it. Second, if you prefer, we could <strong style="color:blue;">meet up</strong> early tomorrow morning at 7 AM to <strong style="color:blue;">go over</strong> the remaining slides together before we finalize everything. 
+
+I’m truly sorry to <strong style="color:blue;">throw this at you</strong> at the last minute, but I really appreciate your understanding and cooperation on this. Let me know what you think works best. Thanks, Mark!
+
+**[Vocabulary & Expressions]**
+* Urgent: 긴급한
+* Roadblock: 장애물
+* Top-notch: 최고의
+* Alternative: 대안
+* Proofreading: 교정, 교열
+* <strong style="color:blue;">talk over</strong>: ~에 대해 의논하다
+* <strong style="color:blue;">run into</strong>: (문제 등에) 부딪히다
+* <strong style="color:blue;">fall behind</strong>: 뒤처지다
+* <strong style="color:blue;">make sure</strong>: 확실히 하다
+* <strong style="color:blue;">push back</strong>: (일정을) 미루다, 연기하다
+* <strong style="color:blue;">put out</strong>: ~에게 불편을 주다
+* <strong style="color:blue;">take on</strong>: (책임 등을) 떠맡다
+* <strong style="color:blue;">meet up</strong>: 만나다
+* <strong style="color:blue;">go over</strong>: 검토하다, 훑어보다
+* <strong style="color:blue;">throw at</strong>: ~에게 들이닥치게 하다, 불쑥 던지다
+
+---
+### 돌발 : 과거와 현재의 명절 풍경 비교
+
+**[Question]**
+Compare how holidays were celebrated when you were a child with how you spend them nowadays. What are the major differences, and why do you think these changes have occurred?
+(당신이 어렸을 때 명절을 보냈던 방식과 요즘 명절을 보내는 방식을 비교해 주세요. 주요 차이점은 무엇이며, 이러한 변화가 왜 일어났다고 생각하시나요?)
+
+**[Model Answer]**
+When I <strong style="color:blue;">look back on</strong> my childhood, holidays like Chuseok or Lunar New Year were absolute highlights of the year, but the way we celebrate them now is completely different. 
+
+Back in the day, holiday preparations used to <strong style="color:blue;">take up</strong> almost the entire week. My extended family would all <strong style="color:blue;">gather together</strong> at my grandparents' house, and the women would <strong style="color:blue;">spend hours on end</strong> <strong style="color:blue;">slaving away</strong> in the kitchen, cooking massive amounts of traditional food from scratch. The atmosphere was always bustling, chaotic, and loud, with cousins running around everywhere. It was exhausting, but it definitely had a warm, tight-knit community vibe.
+
+Fast forward to today, and things have <strong style="color:blue;">shifted dramatically</strong>. Nowadays, my family tends to <strong style="color:blue;">keep things low-key</strong>. Instead of spending days cooking, we usually order catered holiday food or even <strong style="color:blue;">opt for</strong> eating out at a nice restaurant. Furthermore, rather than traditional family gatherings, many people now <strong style="color:blue;">take advantage of</strong> the long holiday break to travel abroad or simply <strong style="color:blue;">catch up on</strong> much-needed rest at home. 
+
+I think these changes <strong style="color:blue;">stem from</strong> the fast-paced nature of modern society and the shift toward nuclear families and individualism. People nowadays value personal time and convenience much more than strict adherence to old traditions, which naturally <strong style="color:blue;">brings about</strong> a whole new holiday culture.
+
+**[Vocabulary & Expressions]**
+* Extended family: 대가족, 친척들
+* Chaotic: 혼란스러운
+* Tight-knit: 긴밀한, 결속력이 강한
+* Catered: (음식이) 준비되어 나오는, 출장 요리의
+* Nuclear family: 핵가족
+* Individualism: 개인주의
+* Adherence: 고수, 집착
+* <strong style="color:blue;">look back on</strong>: ~을 회상하다, 돌아보다
+* <strong style="color:blue;">take up</strong>: (시간·공간을) 차지하다
+* <strong style="color:blue;">gather together</strong>: 함께 모이다
+* <strong style="color:blue;">spend hours on end</strong>: 몇 시간 동안 계속해서 ~하다
+* <strong style="color:blue;">slave away</strong>: 쉴 새 없이 열심히 일하다
+* <strong style="color:blue;">shift dramatically</strong>: 극적으로 바뀌다
+* <strong style="color:blue;">keep things low-key</strong>: 차분하게 유지하다, 요란하지 않게 하다
+* <strong style="color:blue;">opt for</strong>: ~를 선택하다
+* <strong style="color:blue;">take advantage of</strong>: ~을 이용하다
+* <strong style="color:blue;">catch up on</strong>: (못 했던 일을) 만회하다, 보충하다
+* <strong style="color:blue;">stem from</strong>: ~에서 비롯되다, 유래하다
+* <strong style="color:blue;">bring about</strong>: 야기하다, 불러일으키다
