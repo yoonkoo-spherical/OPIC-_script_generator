@@ -10556,3 +10556,104 @@ I think these changes <strong style="color:blue;">stem from</strong> the fast-pa
 * <strong style="color:blue;">catch up on</strong>: (못 했던 일을) 만회하다, 보충하다
 * <strong style="color:blue;">stem from</strong>: ~에서 비롯되다, 유래하다
 * <strong style="color:blue;">bring about</strong>: 야기하다, 불러일으키다
+
+## 2026-07-26 05:49:32 OPIc Study
+
+### 묘사 : 과일 가게 제철 과일 묘사
+
+**[Question]**
+Please describe a fruit shop or market you frequently visit, especially focusing on the seasonal fruits displayed there. What do they look like and how are they arranged?
+(당신이 자주 찾는 과일 가게나 시장을 묘사해 주세요. 특히 거기에 진열된 제철 과일에 초점을 맞춰주세요. 그것들의 생김새는 어떠하며 어떻게 진열되어 있나요?)
+
+**[Model Answer]**
+You know, I visit this local neighborhood market almost every weekend, and the fruit section never fails to amaze me. When you first <strong style="color:blue;">step into</strong> the market, the very first thing that <strong style="color:blue;">catches your eye</strong> is the vibrant array of seasonal fruits, <strong style="color:blue;">neatly stacked</strong> in wooden crates and gleaming under warm yellow lights. It is an absolute feast for the eyes. 
+
+Let me <strong style="color:blue;">paint a picture</strong> for you. Since it is currently mid-summer, the market is <strong style="color:blue;">overflowing with</strong> a magnificent selection of summer fruits. Right at the front, there are massive piles of watermelons. They are deep green with dark stripes, and the vendors usually <strong style="color:blue;">set aside</strong> a few sliced ones so customers can actually see how juicy and red the inside is. Right next to them, you can find mounds of peaches. They have this gorgeous blush of pink and yellow, and honestly, they <strong style="color:blue;">give off</strong> this incredibly sweet, fruity fragrance that <strong style="color:blue;">fills the air</strong>. You can smell them from a few meters away. 
+
+Furthermore, there are boxes of plump purple grapes and glistening cherries <strong style="color:blue;">laid out</strong> systematically by size and price. The shop owners really <strong style="color:blue;">take pride in</strong> presentation; they make sure that no bruised fruits are visible and everything looks pristine. Sometimes, they even <strong style="color:blue;">hand out</strong> small samples of chilled melon on toothpicks for shoppers to try, which always makes me <strong style="color:blue;">end up</strong> buying way more than I originally <strong style="color:blue;">set out to</strong> buy. Overall, the colorful and lively display makes grocery shopping a truly delightful sensory experience.
+
+**[Vocabulary & Expressions]**
+* vibrant: 활기찬, 생생한
+* pristine: 싱싱한, 오염되지 않은
+* <strong style="color:blue;">step into</strong>: ~에 들어서다
+* <strong style="color:blue;">catches your eye</strong>: 눈길을 사로잡다
+* <strong style="color:blue;">neatly stacked</strong>: 깔끔하게 쌓여 있는
+* <strong style="color:blue;">paint a picture</strong>: 생생하게 묘사하다
+* <strong style="color:blue;">overflowing with</strong>: ~로 넘쳐나는
+* <strong style="color:blue;">set aside</strong>: 따로 떼어두다, 준비해 두다
+* <strong style="color:blue;">give off</strong>: (냄새·빛 등을) 내뿜다
+* <strong style="color:blue;">fills the air</strong>: 공기 중에 가득 차다
+* <strong style="color:blue;">laid out</strong>: 진열된, 펼쳐진
+* <strong style="color:blue;">take pride in</strong>: ~에 자부심을 느끼다
+* <strong style="color:blue;">hand out</strong>: 나눠주다
+* <strong style="color:blue;">end up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">set out to</strong>: (~하려고) 마음을 먹다[착수하다]
+
+---
+### 롤플레이 : 영화관 학생 할인 절차 묻기
+
+**[Question]**
+You are at a movie theater ticket box office. You want to get a student discount for your ticket. Ask the ticket seller three or four questions to find out the procedure, required documents, and applicable conditions.
+(영화관 매표소에 있습니다. 표에 대한 학생 할인을 받고 싶어 합니다. 판매원에게 절차, 필요 서류, 적용 조건을 알기 위해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hi there! I'd like to get a ticket for the 7 PM screening of the new action movie, please. Actually, before I pay, I was wondering if you guys <strong style="color:blue;">offer any</strong> student discounts? I'm currently enrolled in university, so I was hoping I could <strong style="color:blue;">take advantage of</strong> that. 
+
+Could you please <strong style="color:blue;">walk me through</strong> the procedure for getting the student discount? Do I need to <strong style="color:blue;">fill out</strong> a special form or <strong style="color:blue;">sign up for</strong> your theater's membership program beforehand, or can I just <strong style="color:blue;">apply it</strong> right here at the counter? 
+
+Also, what kind of identification or required documents do I need to <strong style="color:blue;">bring out</strong>? I have my physical student ID card with me, but is there any chance I also need an enrollment certificate, or will my digital student ID on my smartphone <strong style="color:blue;">suffice</strong>? 
+
+Lastly, are there any specific conditions I should <strong style="color:blue;">keep in mind</strong>? For instance, does the discount <strong style="color:blue;">apply to</strong> weekend screenings, or is it strictly limited to weekdays? And does it <strong style="color:blue;">work with</strong> special formats like IMAX or 4DX, or is it only for standard seats? <strong style="color:blue;">Let me know</strong> all the details so I can <strong style="color:blue;">sort things out</strong>. Thank you!
+
+**[Vocabulary & Expressions]**
+* screening: 상영
+* enrollment: 등록, 재학
+* suffice: 충분하다
+* <strong style="color:blue;">offer any</strong>: 제공하다
+* <strong style="color:blue;">take advantage of</strong>: ~을 활용하다[이용하다]
+* <strong style="color:blue;">walk me through</strong>: 자세히 설명해주다
+* <strong style="color:blue;">fill out</strong>: 작성하다
+* <strong style="color:blue;">sign up for</strong>: 가입하다
+* <strong style="color:blue;">apply it</strong>: 적용하다
+* <strong style="color:blue;">bring out</strong>: 꺼내다, 지참하다
+* <strong style="color:blue;">keep in mind</strong>: 명심하다, 기억하다
+* <strong style="color:blue;">apply to</strong>: ~에 적용되다
+* <strong style="color:blue;">work with</strong>: ~와 호환되다, 적용되다
+* <strong style="color:blue;">Let me know</strong>: 알려주다
+* <strong style="color:blue;">sort things out</strong>: 상황을 정리하다, 해결하다
+
+---
+### 돌발 : 영화관 관람 중 불쾌했던 경험
+
+**[Question]**
+Tell me about a time when you had a really unpleasant experience at a movie theater because of another moviegoer. What happened, how did you react, and how was the situation resolved?
+(영화관에서 다른 관객 때문에 정말 불쾌했던 경험에 대해 이야기해 주세요. 어떤 일이 일어났고, 어떻게 반응했으며, 상황은 어떻게 해결되었나요?)
+
+**[Model Answer]**
+Oh man, even thinking about this <strong style="color:blue;">brings back</strong> some really annoying memories. A few months ago, I went to see a much-anticipated blockbuster movie on a Friday night. The theater was completely packed, and I was just <strong style="color:blue;">settling into</strong> my seat, eager to enjoy the film. 
+
+However, right when the movie started, the person sitting directly behind me <strong style="color:blue;">turned out to be</strong> a complete nightmare. Throughout the first half hour, he kept talking loudly on his phone. Not only that, but he was also <strong style="color:blue;">kicking the back of</strong> my seat repeatedly. Every time there was a quiet scene, his phone would <strong style="color:blue;">go off</strong> with a blaring ringtone, and he didn't even bother to <strong style="color:blue;">turn it to</strong> silent mode. It completely <strong style="color:blue;">ruined the atmosphere</strong> and made it impossible to <strong style="color:blue;">focus on</strong> the dialogue. 
+
+At first, I tried to <strong style="color:blue;">brush it off</strong>, hoping he would <strong style="color:blue;">catch on</strong> and quiet down. But when he started checking social media with full screen brightness, which was literally <strong style="color:blue;">blinding my eyes</strong>, I just couldn't <strong style="color:blue;">put up with</strong> it anymore. I turned around and politely asked him to please put his phone away and stop kicking my chair. 
+
+To my absolute shock, he didn't apologize at all; instead, he <strong style="color:blue;">snapped back</strong> at me with an attitude. Things got a bit tense, so I decided not to <strong style="color:blue;">argue back</strong> and instead <strong style="color:blue;">flagged down</strong> a theater staff member who was patrolling the aisle. The staff member immediately intervened and gave him a final warning. Eventually, the guy got so embarrassed that he decided to <strong style="color:blue;">walk out of</strong> the theater. It was a stressful ordeal, but I was at least able to enjoy the rest of the movie in peace.
+
+**[Vocabulary & Expressions]**
+* blockbuster: 블록버스터 (대형 흥행 영화)
+* ordeal: 시련, 겪은 일
+* <strong style="color:blue;">brings back</strong>: 떠올리게 하다, 상기시키다
+* <strong style="color:blue;">settling into</strong>: 자리를 잡다
+* <strong style="color:blue;">turned out to be</strong>: ~로 판명되다, 알고 보니 ~였다
+* <strong style="color:blue;">kicking the back of</strong>: ~의 뒷자리를 발로 차다
+* <strong style="color:blue;">go off</strong>: (알람·벨 등이) 울리다
+* <strong style="color:blue;">turn it to</strong>: ~로 설정하다
+* <strong style="color:blue;">ruined the atmosphere</strong>: 분위기를 망치다
+* <strong style="color:blue;">focus on</strong>: 집중하다
+* <strong style="color:blue;">brush it off</strong>: 대수롭지 않게 넘기다
+* <strong style="color:blue;">catch on</strong>: 눈치채다
+* <strong style="color:blue;">blinding my eyes</strong>: 눈이 부시게 하다
+* <strong style="color:blue;">put up with</strong>: 참다, 견디다
+* <strong style="color:blue;">snapped back</strong>: 쌀쌀맞게 대답하다, 쏘아붙이다
+* <strong style="color:blue;">argue back</strong>: 말대답하다, 따지다
+* <strong style="color:blue;">flagged down</strong>: (손을 들어) 불러 세우다
+* <strong style="color:blue;">walk out of</strong>: 걸어나오다, 퇴장하다
