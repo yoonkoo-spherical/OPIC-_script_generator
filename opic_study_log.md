@@ -10657,3 +10657,135 @@ To my absolute shock, he didn't apologize at all; instead, he <strong style="col
 * <strong style="color:blue;">argue back</strong>: 말대답하다, 따지다
 * <strong style="color:blue;">flagged down</strong>: (손을 들어) 불러 세우다
 * <strong style="color:blue;">walk out of</strong>: 걸어나오다, 퇴장하다
+
+## 2026-07-27 06:16:39 OPIc Study
+
+### 묘사 : 한국의 대표 명절 풍경과 전통 음식 묘사
+
+**[Question]**
+Could you describe the typical scenery and traditional food in Korea during major holidays like Seollal or Chuseok? How do people spend these days?
+(설날이나 추석 같은 주요 명절 동안 한국의 전형적인 풍경과 전통 음식에 대해 묘사해 주시겠습니까? 사람들은 이 날들을 어떻게 보내나요?)
+
+**[Model Answer]**
+When it comes to major holidays in Korea, such as Seollal, which is Lunar New Year, or Chuseok, our Harvest Moon Festival, the atmosphere is truly something special. To <strong style="color:blue;">set the scene</strong>, you have to imagine bustling train stations and highways <strong style="color:blue;">jam-packed with</strong> cars as millions of people <strong style="color:blue;">hit the road</strong> to visit their hometowns. This massive migration is called 'Minjok Dae-移動', and it completely transforms the usually frantic pace of cities like Seoul into a peaceful ghost town for a few days. 
+
+Once families finally <strong style="color:blue;">get together</strong>, the real highlight of the holiday begins, which is undoubtedly the food. The centerpiece of Seollal is 'Tteokguk', a sliced rice cake soup. According to tradition, eating a bowl of Tteokguk means you <strong style="color:blue;">add a year to</strong> your age. The clear, savory broth combined with chewy rice cakes and various garnishes is just <strong style="color:blue;">out of this world</strong>. On the other hand, for Chuseok, the absolute must-have is 'Songpyeon', which are half-moon-shaped rice cakes stuffed with sweet fillings like sesame seeds, chestnut paste, or red beans. Families <strong style="color:blue;">gather around</strong> the kitchen table the night before to make these by hand, because there is an old saying that if you shape Songpyeon beautifully, you will <strong style="color:blue;">wind up with</strong> a beautiful daughter or have a prosperous future. 
+
+Beyond the food, the holiday landscape is deeply rooted in ancestral rituals called 'Charye'. In the early morning, family members <strong style="color:blue;">dress up in</strong> traditional Korean attire, known as Hanbok, and <strong style="color:blue;">pay respect to</strong> their ancestors by offering food and bowing. Following this solemn ceremony, younger generations perform 'Sebae', a deep traditional bow, to their elders, and in return, they <strong style="color:blue;">receive words of</strong> wisdom along with New Year's money, or 'Sebauton'. In the afternoons, people <strong style="color:blue;">unwind by</strong> playing traditional folk games like Yutnori or simply taking leisurely walks in the crisp autumn or winter air. 
+
+Overall, Korean holidays are not just about eating delicious food or <strong style="color:blue;">taking a break from</strong> our hectic daily routines. They serve as a vital anchor that <strong style="color:blue;">brings people closer</strong>, <strong style="color:blue;">strengthens family bonds</strong>, and <strong style="color:blue;">keeps centuries-old traditions alive</strong> in our rapidly modernizing society. Whenever I experience these holidays, I am reminded of how important it is to <strong style="color:blue;">cherish these moments</strong> with my loved ones.
+
+**[Vocabulary & Expressions]**
+* migration: 대이동
+* savory: 맛있는, 풍미 있는
+* garnish: 고명
+* ancestral: 조상의
+* solemn: 엄숙한
+* leisurely: 여유로운
+* <strong style="color:blue;">set the scene</strong>: 상황을 조성하다, 배경을 설명하다
+* <strong style="color:blue;">jam-packed with</strong>: ~로 꽉 찬
+* <strong style="color:blue;">hit the road</strong>: 길을 떠나다, 여행을 시작하다
+* <strong style="color:blue;">get together</strong>: 모이다
+* <strong style="color:blue;">add a year to</strong>: 나이를 한 살 더 먹다
+* <strong style="color:blue;">out of this world</strong>: 엄청나게 맛있는, 세상에 없는 듯한
+* <strong style="color:blue;">gather around</strong>: ~ 주변에 모이다
+* <strong style="color:blue;">wind up with</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">dress up in</strong>: 옷을 차려입다
+* <strong style="color:blue;">pay respect to</strong>: 경의를 표하다
+* <strong style="color:blue;">receive words of</strong>: ~한 말을 듣다, 조언을 얻다
+* <strong style="color:blue;">unwind by</strong>: ~함으로 긴장을 풀다
+* <strong style="color:blue;">taking a break from</strong>: ~로부터 휴식을 취하다
+* <strong style="color:blue;">brings people closer</strong>: 사람들을 더 가깝게 만들다
+* <strong style="color:blue;">strengthens family bonds</strong>: 가족 유대를 강화하다
+* <strong style="color:blue;">keeps centuries-old traditions alive</strong>: 수백 년 된 전통을 유지하다
+* <strong style="color:blue;">cherish these moments</strong>: 이 순간들을 소중히 여기다
+
+---
+### 롤플레이 : 외국인 친구에게 한국 명절 풍습과 음식 소개하기
+
+**[Question]**
+You have a foreign friend who is curious about Korean holidays. Ask your friend three or four questions about what they know or want to experience, and then explain one of Korea's major holidays, including its food and customs.
+(한국 명절에 대해 궁금해하는 외국인 친구가 있습니다. 친구가 알고 있는 것들이나 경험하고 싶은 것에 대해 3~4가지 질문을 하고, 한국의 주요 명절 중 하나를 음식과 풍습을 포함하여 설명하세요.)
+
+**[Model Answer]**
+Hey Alex! I heard you were asking about Korean holidays the other day, and I'm so glad you're interested! Before I <strong style="color:blue;">dive into</strong> all the details about Chuseok, which is our biggest autumn harvest festival, I've got a few questions for you. First of all, have you ever experienced a traditional holiday celebration in another country before? Second, are you the kind of person who <strong style="color:blue;">is into trying out</strong> exotic, traditional foods, or do you prefer to <strong style="color:blue;">stick to</strong> things you're familiar with? And lastly, if you ever <strong style="color:blue;">end up visiting</strong> Korea during Chuseok, what part of the celebration do you think you would <strong style="color:blue;">look forward to</strong> the most—the bustling travel vibe, the family gatherings, or the food? 
+
+Anyway, let me <strong style="color:blue;">walk you through</strong> what Chuseok is all about. It's basically our version of Thanksgiving, usually falling in September or October. The whole purpose of Chuseok is to <strong style="color:blue;">express gratitude</strong> for a bountiful harvest and to <strong style="color:blue;">pay tribute to</strong> our ancestors. 
+
+When it comes to the food, the absolute star of the show is 'Songpyeon'. These are small, half-moon-shaped rice cakes that we <strong style="color:blue;">stuffed with</strong> sweet fillings like sesame seeds, red beans, and honey. The night before Chuseok, families <strong style="color:blue;">get together around</strong> the table to make these by hand. There's a famous Korean legend that says if you make the prettiest Songpyeon, you will <strong style="color:blue;">meet your match</strong> or <strong style="color:blue;">achieve great things</strong> in life. We also eat various seasonal fruits like crisp apples and sweet Asian pears, as well as drinking traditional liquor. 
+
+As for the customs, it's a three-day national holiday where people <strong style="color:blue;">head back to</strong> their hometowns. On the morning of Chuseok, everyone <strong style="color:blue;">puts on</strong> their best clothes—sometimes traditional Hanbok—and performs a memorial service for their ancestors called 'Charye' by <strong style="color:blue;">laying out</strong> an elaborate table of food. After that, we <strong style="color:blue;">bow down to</strong> our elders to show respect, and they <strong style="color:blue;">hand out</strong> words of wisdom. In the evening, people <strong style="color:blue;">go out for</strong> a walk under the full harvest moon to <strong style="color:blue;">make a wish</strong>. I honestly think you would <strong style="color:blue;">fall in love with</strong> the warm, communal atmosphere. Let me know what you think, and if you're ever free this fall, you should totally <strong style="color:blue;">tag along with</strong> me to my hometown!
+
+**[Vocabulary & Expressions]**
+* harvest: 수확
+* bountiful: 풍부한
+* tribute: 경의, 조공
+* legend: 전설
+* communal: 공동의
+* <strong style="color:blue;">dive into</strong>: ~로 깊이 들어가다, 몰두하다
+* <strong style="color:blue;">is into trying out</strong>: 시도해 보는 것에 빠져 있다
+* <strong style="color:blue;">stick to</strong>: ~를 고수하다, 유지하다
+* <strong style="color:blue;">end up visiting</strong>: 결국 방문하게 되다
+* <strong style="color:blue;">look forward to</strong>: ~을 학수고대하다
+* <strong style="color:blue;">walk you through</strong>: ~를 차근차근 설명해주다
+* <strong style="color:blue;">express gratitude</strong>: 감사를 표하다
+* <strong style="color:blue;">pay tribute to</strong>: ~에 경의를 표하다
+* <strong style="color:blue;">stuffed with</strong>: ~로 채워진
+* <strong style="color:blue;">get together around</strong>: ~ 주위에 모이다
+* <strong style="color:blue;">meet your match</strong>: 천생연분을 만나다
+* <strong style="color:blue;">achieve great things</strong>: 큰 성공을 거두다
+* <strong style="color:blue;">head back to</strong>: ~로 향해 돌아가다
+* <strong style="color:blue;">puts on</strong>: ~을 입다
+* <strong style="color:blue;">laying out</strong>: 펼쳐 놓다, 차려놓다
+* <strong style="color:blue;">bow down to</strong>: ~에게 절하다, 고개 숙이다
+* <strong style="color:blue;">hand out</strong>: 나누어주다, 건네주다
+* <strong style="color:blue;">go out for</strong>: ~하러 나가다
+* <strong style="color:blue;">make a wish</strong>: 소원을 빌다
+* <strong style="color:blue;">fall in love with</strong>: ~와 사랑에 빠지다, 푹 빠지다
+* <strong style="color:blue;">tag along with</strong>: ~를 따라가다
+
+---
+### 돌발 : 과거에 찍은 흑역사 사진이나 우연히 잘 나온 사진의 사연
+
+**[Question]**
+Tell me about a memorable photo from your past. Was it an embarrassing 'black history' picture you want to hide, or a surprisingly amazing photo that turned out by pure luck? Describe the situation in detail.
+(과거의 기억에 남는 사진에 대해 말씀해 주세요. 숨기고 싶은 당혹스러운 '흑역사' 사진이었나요, 아니면 순전한 행운으로 아주 잘 나온 놀라운 사진이었나요? 상황을 자세히 묘사해 주세요.)
+
+**[Model Answer]**
+Oh man, if we are talking about memorable photos, I have this one picture from my middle school graduation that I would <strong style="color:blue;">give anything to</strong> <strong style="color:blue;">wipe from</strong> the face of the Earth. It is the ultimate, textbook definition of a 'black history' photo. To <strong style="color:blue;">paint a picture for you</strong>, I was going through this absolute rebellious phase where I thought I knew everything about fashion. I had <strong style="color:blue;">decided to</strong> <strong style="color:blue;">grow my hair out</strong> like a rock star, but instead of looking cool, I just <strong style="color:blue;">ended up looking like</strong> I had just <strong style="color:blue;">survived a mild electric shock</strong>. 
+
+On top of that, my fashion sense was <strong style="color:blue;">all over the place</strong>. I insisted on wearing a neon green hoodie underneath my graduation gown, which <strong style="color:blue;">clashed horribly with</strong> the dark blue uniform. The absolute worst part was that the school photographer caught me <strong style="color:blue;">completely off guard</strong> right when I was blinking and making this weird, half-smirk, half-sneer facial expression. It literally looks like I <strong style="color:blue;">belonged in</strong> a low-budget horror movie rather than a middle school yearbook. 
+
+Whenever my family <strong style="color:blue;">happens to stumble upon</strong> that photo album during the holidays, all hell <strong style="color:blue;">breaks loose</strong>. My younger sister loves to <strong style="color:blue;">bring it up</strong> just to <strong style="color:blue;">make fun of me</strong>, and my mom <strong style="color:blue;">bursts into laughter</strong> every single time, saying, "Look at your hair back then!" I always <strong style="color:blue;">beg them to</strong> <strong style="color:blue;">throw it away</strong> or <strong style="color:blue;">burn it down</strong>, but they treat it like a family treasure. 
+
+Looking back now, though, I can't help but <strong style="color:blue;">laugh at myself</strong>. It’s funny how things that felt so humiliating back then now just <strong style="color:blue;">turn into</strong> hilarious memories that <strong style="color:blue;">bring a smile to my face</strong>. It taught me a valuable lesson about not taking myself too seriously and realizing that everyone goes through an awkward phase. Still, I make sure that photo <strong style="color:blue;">stays far away from</strong> my social media accounts!
+
+**[Vocabulary & Expressions]**
+* rebellious: 반항적인
+* gown: (학위 수여식 등의) 가운, 예복
+* yearbook: 졸업 앨범
+* humiliating: 굴욕적인
+* awkward: 어색한, 쑥스러운
+* <strong style="color:blue;">give anything to</strong>: 무엇이든 주다 (간절히 원하다)
+* <strong style="color:blue;">wipe from</strong>: ~에서 지워버리다
+* <strong style="color:blue;">paint a picture for you</strong>: 상황을 생생하게 그려주다
+* <strong style="color:blue;">decided to</strong>: ~하기로 결심하다
+* <strong style="color:blue;">grow my hair out</strong>: 머리를 기르다
+* <strong style="color:blue;">ended up looking like</strong>: 결국 ~처럼 보이게 되다
+* <strong style="color:blue;">survived a mild electric shock</strong>: 약한 전기 충격을 견뎌낸 것 같은
+* <strong style="color:blue;">all over the place</strong>: 엉망진창인, 두서없는
+* <strong style="color:blue;">clashed horribly with</strong>: 지독하게 어울리지 않다, 충돌하다
+* <strong style="color:blue;">completely off guard</strong>: 완전히 방심한 상태의
+* <strong style="color:blue;">belonged in</strong>: ~에 어울리다, 속하다
+* <strong style="color:blue;">happens to stumble upon</strong>: 우연히 마주치다
+* <strong style="color:blue;">breaks loose</strong>: 난리가 나다, 소동이 일어나다
+* <strong style="color:blue;">bring it up</strong>: (이야기를) 꺼내다
+* <strong style="color:blue;">make fun of me</strong>: 나를 놀리다
+* <strong style="color:blue;">bursts into laughter</strong>: 웃음이 터지다
+* <strong style="color:blue;">beg them to</strong>: ~에게 간곡히 부탁하다
+* <strong style="color:blue;">throw it away</strong>: 내다 버리다
+* <strong style="color:blue;">burn it down</strong>: 태워버리다
+* <strong style="color:blue;">laugh at myself</strong>: 나 자신을 보고 웃다 (자조하다)
+* <strong style="color:blue;">turn into</strong>: ~로 변하다
+* <strong style="color:blue;">bring a smile to my face</strong>: 미소를 짓게 만들다
+* <strong style="color:blue;">stays far away from</strong>: ~로부터 멀리 떨어져 있다
