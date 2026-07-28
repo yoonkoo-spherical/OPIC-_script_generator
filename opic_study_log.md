@@ -10789,3 +10789,103 @@ Looking back now, though, I can't help but <strong style="color:blue;">laugh at 
 * <strong style="color:blue;">turn into</strong>: ~로 변하다
 * <strong style="color:blue;">bring a smile to my face</strong>: 미소를 짓게 만들다
 * <strong style="color:blue;">stays far away from</strong>: ~로부터 멀리 떨어져 있다
+
+## 2026-07-28 05:36:12 OPIc Study
+
+### 묘사 : 단골 미용실의 내부 인테리어와 분위기 묘사
+
+**[Question]**
+Please describe the hair salon that you frequently visit. What does it look like inside, and what is the overall vibe of the place?
+(당신이 자주 가는 미용실을 묘사해 주세요. 내부 모습은 어떠하며, 그곳의 전반적인 분위기는 어떠합니까?)
+
+**[Model Answer]**
+Well, whenever people ask me about my favorite places in my neighborhood, the very first place that <strong style="color:blue;">pops into my head</strong> is this cozy little hair salon called 'Studio Bloom', which is located just a couple of blocks away from my apartment. I've been <strong style="color:blue;">going to</strong> this place for over three years now, and I just <strong style="color:blue;">can't get enough of</strong> it, mainly because of its unique interior and soothing atmosphere. 
+
+First off, as soon as you <strong style="color:blue;">step foot in</strong> the salon, you are immediately greeted by this warm, earthy scent of lavender and natural wood. The overall interior concept is heavily influenced by modern minimalism combined with rustic elements. The walls are painted in soft, neutral tones like beige and light gray, which instantly <strong style="color:blue;">put me at ease</strong> after a long, exhausting day at work. 
+
+One of the most striking features of the salon is the lighting. Instead of those harsh, fluorescent lights you usually see in traditional barber shops, Studio Bloom utilizes warm, pendant lights hanging gracefully over each styling station. This creates a very intimate and relaxing ambiance. The styling stations themselves are equipped with huge, floor-to-ceiling mirrors framed in reclaimed oak wood, which actually makes the space look much larger and brighter than it actually is. 
+
+Opposite the mirrors, there is a comfortable waiting area featuring plush velvet sofas, a low coffee table <strong style="color:blue;">stacked with</strong> the latest fashion and lifestyle magazines, and a self-serve coffee bar where customers can freely <strong style="color:blue;">help themselves to</strong> espresso or herbal tea. What's more, the shampoo area is cleverly tucked away in a quiet corner behind a wooden partition. The lighting there is dimmed, and they play soft, ambient instrumental music, which sometimes makes me <strong style="color:blue;">drift off to</strong> sleep while my hair is being washed. 
+
+All in all, the hair salon is not just a place where I get a haircut. It's a sanctuary where I can <strong style="color:blue;">kick back and unwind</strong> while enjoying top-notch service. The thoughtful interior design truly <strong style="color:blue;">sets it apart from</strong> other run-of-the-mill salons in the neighborhood.
+
+**[Vocabulary & Expressions]**
+* minimalist: 미니멀리스트의
+* ambiance: 분위기
+* sanctuary: 안식처, 도피처
+* <strong style="color:blue;">pops into my head</strong>: 문득 머릿속에 떠오르다
+* <strong style="color:blue;">going to</strong>: ~에 다니다
+* <strong style="color:blue;">can't get enough of</strong>: ~을 너무 좋아해서 질리지 않다
+* <strong style="color:blue;">step foot in</strong>: 발을 들놓다
+* <strong style="color:blue;">put me at ease</strong>: 마음을 편안하게 하다
+* <strong style="color:blue;">stacked with</strong>: ~로 가득 쌓여 있는
+* <strong style="color:blue;">help themselves to</strong>: ~를 마음껏 이용하다[먹다]
+* <strong style="color:blue;">drift off to</strong>: (스르륵) 잠에 빠져들다
+* <strong style="color:blue;">kick back and unwind</strong>: 편히 쉬며 긴장을 풀다
+* <strong style="color:blue;">sets it apart from</strong>: ~와 차별화하다
+
+---
+### 롤플레이 : 미용실에서 원하는 헤어스타일 사진 설명하기
+
+**[Question]**
+You are at the hair salon you just described. Call your stylist, show them a picture of the hairstyle you want on your smartphone, and explain the details of the cut and styling you are looking for.
+(방금 묘사한 미용실에 와 있습니다. 담당 헤어디자이너를 불러 스마트폰으로 원하는 헤어스타일 사진을 보여주며, 커트와 스타일링에 대해 상세히 설명하세요.)
+
+**[Model Answer]**
+Hey, Minho! It's so good to see you again. Thanks for squeezing me into your busy schedule today. As you know, my best friend's wedding is coming up this weekend, so I really need to <strong style="color:blue;">clean up</strong> my look a bit. Actually, I brought a reference photo on my phone of the exact hairstyle I'm aiming for. Let me <strong style="color:blue;">pull it up</strong> for you. Here, take a look at this screen. 
+
+As you can see, this model has a sort of modern, textured crop cut. What I really like about this style is how the sides and the back are neatly tapered, but not shaved completely bare. Could you keep a bit of length there so it <strong style="color:blue;">blends in</strong> naturally? And looking at the top, the hair has plenty of volume and texture, but it doesn't look too heavy or stiff. I want you to <strong style="color:blue;">layer it up</strong> a bit so that it has some natural movement when I <strong style="color:blue;">run my fingers through</strong> it. 
+
+Also, regarding the fringe, the guy in the picture has it styled slightly to the side, exposing just a bit of his forehead. I usually prefer to <strong style="color:blue;">wear my hair up</strong>, but for this wedding, I want to <strong style="color:blue;">switch things up</strong> and try this softer, down-ward fringe look. Do you think this style would <strong style="color:blue;">suit face shape</strong> well? 
+
+One more thing—when you blow-dry and style it at the end, could you please avoid using too much heavy pomade? It always <strong style="color:blue;">weighs my hair down</strong>. Instead, I'd appreciate it if you could use a matte clay and some texturizing spray to <strong style="color:blue;">lock the style in place</strong> while keeping it looking natural. How does that sound? Do you think we can <strong style="color:blue;">pull this off</strong> today?
+
+**[Vocabulary & Expressions]**
+* reference photo: 참고 사진
+* textured crop cut: 텍스처드 크롭 컷
+* tapered: 점차 가늘어지는[짧아지는]
+* fringe: 앞머리
+* matte clay: 매트 클레이 (왁스 종류)
+* <strong style="color:blue;">clean up</strong>: 말끔하게 정리하다, 단장하다
+* <strong style="color:blue;">pull it up</strong>: (화면 등을) 띄우다, 불러오다
+* <strong style="color:blue;">blends in</strong>: 자연스럽게 어우러지다
+* <strong style="color:blue;">layer it up</strong>: 층을 내다
+* <strong style="color:blue;">run my fingers through</strong>: 손가락으로 머리를 쓸어넘기다
+* <strong style="color:blue;">wear my hair up</strong>: 머리를 위로 올려 묶거나 세우다
+* <strong style="color:blue;">switch things up</strong>: 변화를 주다, 분위기를 바꾸다
+* <strong style="color:blue;">weighs my hair down</strong>: 머리를 처지게 만들다[무겁게 하다]
+* <strong style="color:blue;">lock the style in place</strong>: 스타일을 고정하다
+* <strong style="color:blue;">pull this off</strong>: (어려운 것을) 해내다, 소화해내다
+
+---
+### 돌발 : 택시를 탔다가 길을 돌아가서 기사와 언쟁을 벌인 경험
+
+**[Question]**
+Tell me about a time when you took a taxi or an Uber, but the driver took a much longer route than necessary, leading to an argument. What happened, and how was the situation resolved?
+(택시나 우버를 탔다가 기사가 불필요하게 길을 너무 돌아가서 언쟁을 벌였던 경험에 대해 말씀해 주세요. 무슨 일이 있었고, 상황은 어떻게 해결되었나요?)
+
+**[Model Answer]**
+Oh man, just thinking about this makes my blood boil. It happened a few months ago on a rainy Friday evening. I had just <strong style="color:blue;">wrapped up</strong> an important business dinner downtown and was in a huge rush to get home because I had an early morning flight the next day. So, I hailed a taxi right outside the restaurant. 
+
+From the very beginning, something felt <strong style="color:blue;">off</strong>. I explicitly told the driver my destination and even suggested the fastest route using the riverside expressway. However, the driver just nodded vaguely and <strong style="color:blue;">set off</strong>. About twenty minutes into the ride, I happened to <glance at></glance> glance at the GPS navigation map on my phone out of sheer boredom. To my absolute shock, I realized that the driver was heading completely in the opposite direction and was stuck deep in heavy downtown traffic! 
+
+I immediately <strong style="color:blue;">spoke up</strong> and asked him why he wasn't taking the highway. Instead of apologizing or explaining himself, he got all defensive and <strong style="color:blue;">snapped at</strong> me, saying that he knew the city better than any GPS app and that there was an accident on the expressway. But I knew for a fact that traffic report apps update in real-time, and there were no reports of accidents. It was glaringly obvious that he was intentionally taking a detour to <strong style="color:blue;">rip me off</strong> and increase the fare. 
+
+Things quickly <strong style="color:blue;">escalated</strong> into a heated argument. I raised my voice, telling him to <strong style="color:blue;">pull over</strong> immediately and that I refused to pay for his dishonest behavior. The driver pulled over to the side of the road, visibly annoyed, and threatened to call the police if I didn't pay the meter fare as it stood. 
+
+At that point, I realized that <strong style="color:blue;">arguing with</strong> him was going nowhere, so I decided to take matters into my own hands. I calmly took a photo of his driver license displayed on the dashboard, told him I was reporting him to the taxi transport authority for illegal detours, and opened my app to trace the exact route. Seeing that I wasn't backing down and was taking legal action, the driver completely <strong style="color:blue;">backed down</strong>, lowered the meter drastically, and apologized. I paid only the estimated fair amount, got out of the car, and vowed never to hail a random street taxi again.
+
+**[Vocabulary & Expressions]**
+* expressway: 고속도로
+* dashboard: 계기판, 대시보드
+* transport authority: 교통 당국
+* <strong style="color:blue;">wrapped up</strong>: 끝마치다
+* <strong style="color:blue;">off</strong>: 이상한, 정상적이 아닌
+* <strong style="color:blue;">set off</strong>: 출발하다
+* <strong style="color:blue;">spoke up</strong>: 목소리를 높이다, 의견을 말하다
+* <strong style="color:blue;">snapped at</strong>: 퉁명스럽게 쏘아붙이다
+* <strong style="color:blue;">rip me off</strong>: 바가지를 씌우다, 등쳐먹다
+* <strong style="color:blue;">escalated</strong>: 악화되다, 격화되다
+* <strong style="color:blue;">pull over</strong>: (차를) 길 옆에 대다
+* <strong style="color:blue;">arguing with</strong>: ~와 말다툼하다
+* <strong style="color:blue;">backed down</strong>: 꼬리를 내리다, 물러서다
