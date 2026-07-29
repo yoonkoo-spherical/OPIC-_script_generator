@@ -10889,3 +10889,73 @@ At that point, I realized that <strong style="color:blue;">arguing with</strong>
 * <strong style="color:blue;">pull over</strong>: (차를) 길 옆에 대다
 * <strong style="color:blue;">arguing with</strong>: ~와 말다툼하다
 * <strong style="color:blue;">backed down</strong>: 꼬리를 내리다, 물러서다
+
+## 2026-07-29 05:41:10 OPIc Study
+
+### 묘사 : 한국의 대표 명절 풍경과 전통 음식
+
+**[Question]**
+Could you describe what the scenery looks like in Korea during major traditional holidays like Chuseok or Lunar New Year? Also, please tell me about some of the traditional foods that people enjoy during these times and what they mean to us.
+(한국의 추석이나 설날 같은 주요 명절 때의 풍경은 어떤 모습인가요? 또한, 이러한 시기에 사람들이 즐겨 먹는 전통 음식과 그것이 우리에게 어떤 의미를 갖는지 말씀해 주세요.)
+
+**[Model Answer]**
+Well, when it comes to major traditional holidays in Korea, <strong style="color:blue;">such as</strong> Chuseok, which is our Thanksgiving, or Seollal, which is Lunar New Year, the entire country literally <strong style="color:blue;">comes alive</strong> with vibrant energy, despite the massive traffic jams on highways. You know, millions of people <strong style="color:blue;">set off</strong> for their hometowns to <strong style="color:blue;">reunite with</strong> their extended families, which is called 'Gwaseong' in Korean. The streets in major cities like Seoul become surprisingly quiet, but inside homes, it's a completely different story. The air is always <strong style="color:blue;">filled with</strong> the mouth-watering aroma of traditional food being prepared from scratch. Speaking of food, the most iconic dish for Lunar New Year is 'Tteokguk,' which is a sliced rice cake soup. Eating a bowl of Tteokguk symbolizes <strong style="color:blue;">growing</strong> a year older and <strong style="color:blue;">bringing</strong> good luck and longevity for the coming year. On top of that, during Chuseok, we make 'Songpyeon,' which are half-moon-shaped rice cakes stuffed with sweet fillings like sesame seeds, chestnut paste, or red beans. Families usually <strong style="color:blue;">gather around</strong> the kitchen table, shaping these rice cakes together while sharing stories and laughter. Legend has it that if you shape a pretty Songpyeon, you will meet a great spouse or <strong style="color:blue;">give birth to</strong> a wonderful child. These holiday customs and foods are not just about eating; they are deeply <strong style="color:blue;">rooted in</strong> our culture as a way of <strong style="color:blue;">paying tribute to</strong> our ancestors and <strong style="color:blue;">strengthening</strong> family bonds. Whenever I experience these traditions, I truly <strong style="color:blue;">appreciate</strong> the rich cultural heritage we have.
+
+**[Vocabulary & Expressions]**
+* vibrant: 활기찬
+* longevity: 장수
+* heritage: 유산
+* <strong style="color:blue;">come alive</strong>: 생기가 돌다
+* <strong style="color:blue;">set off</strong>: 출발하다
+* <strong style="color:blue;">reunite with</strong>: ~와 재회하다
+* <strong style="color:blue;">be filled with</strong>: ~로 가득 차다
+* <strong style="color:blue;">gather around</strong>: ~의 주위에 모이다
+* <strong style="color:blue;">give birth to</strong>: 낳다
+* <strong style="color:blue;">be rooted in</strong>: ~에 뿌리를 두다
+* <strong style="color:blue;">pay tribute to</strong>: ~에게 경의를 표하다
+
+---
+### 롤플레이 : KTX 기차표 예매하기
+
+**[Question]**
+You are planning to take a trip to another city and need to buy a train ticket. Go to the ticket counter at the train station and ask three or four questions to the ticket agent to book the fastest KTX train to your destination. 
+(다른 도시로 여행을 계획 중이며 기차표를 사야 합니다. 기차역 매표소에 가서 매표원에게 목적지로 가는 가장 빠른 KTX 표를 예매하기 위해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hi, good morning! I'm planning to <strong style="color:blue;">head down</strong> to Busan today, and I really need to <strong style="color:blue;">make it there</strong> as quickly as possible. Could you tell me when the next available KTX train <strong style="color:blue;">departs for</strong> Busan? Oh, I see. Is that the absolute fastest train currently available, or is there an express option that skips intermediate stations? Actually, I'm kind of running late and need to grab a quick bite before boarding. How much time will I have <strong style="color:blue;">to spare</strong> before departure if I buy the ticket for that train right now? Also, could you please let me know if there are any remaining seats in first class, or are they completely <strong style="color:blue;">sold out</strong>? If first class is full, an ordinary seat with a window view will do. One more thing—can I <strong style="color:blue;">pay by</strong> credit card, or do you only accept cash? Perfect. I'll take one ticket for that train, please. Here is my credit card. Thank you so much for your help!
+
+**[Vocabulary & Expressions]**
+* intermediate: 중간의
+* departure: 출발
+* available: 이용 가능한
+* <strong style="color:blue;">head down</strong>: (남쪽 등으로) 내려가다
+* <strong style="color:blue;">make it</strong>: 제시간에 도착하다, 해내다
+* <strong style="color:blue;">depart for</strong>: ~로 출발하다
+* <strong style="color:blue;">to spare</strong>: 여유분의
+* <strong style="color:blue;">sold out</strong>: 매진된
+* <strong style="color:blue;">pay by</strong>: ~로 지불하다
+
+---
+### 돌발 : 결혼식장이나 장례식장에서의 예절 실수 경험
+
+**[Question]**
+People often face embarrassing situations when they don't know the proper etiquette or customs at formal events like weddings or funerals. Could you describe a time when you made a mistake or felt embarrassed because you were unfamiliar with the proper etiquette at a wedding or a funeral? What happened, and how did you <strong style="color:blue;">deal with</strong> the situation?
+(사람들은 결혼식이나 장례식 같은 격식 있는 자리에서 적절한 예절이나 관습을 몰라 당황스러운 상황에 직면하곤 합니다. 결혼식이나 장례식에서 적절한 예절을 잘 몰라 실수했거나 당황했던 경험을 말씀해 주세요. 어떤 일이 일어났으며, 그 상황을 어떻게 대처하셨나요?)
+
+**[Model Answer]**
+To be honest, I've had a pretty embarrassing experience a few years ago when I attended a traditional Korean funeral for the first time on my own. Back then, I was quite young and didn't <strong style="color:blue;">brush up on</strong> the proper customs beforehand. I knew I had to wear dark colors, so I dressed in a black suit, which was fine. However, the real trouble <strong style="color:blue;">started when</strong> I entered the main mourning room to <strong style="color:blue;">pay my respects</strong> to the deceased. In Korea, there are very strict rules about how to bow and how to offer white chrysanthemum flowers. Instead of following the proper sequence, I completely <strong style="color:blue;">panicked</strong> and performed the deep traditional bows in the wrong direction, and to make matters worse, I placed my flower the wrong way around. I immediately noticed that the family members and other guests were <strong style="color:blue;">glancing at</strong> me with bewildered expressions. I could feel my face <strong style="color:blue;">turning red</strong> with embarrassment, and I just wanted to <strong style="color:blue;">run away</strong> from the spot. Fortunately, an elderly gentleman standing next to me noticed my confusion. He gently tapped me on the shoulder and <strong style="color:blue;">pulled me aside</strong> to quietly explain the correct procedure. He told me not to worry because it was my first time and my intentions were sincere. I felt so relieved and immediately corrected my posture to do it the right way. Looking back, it was quite a nerve-wracking moment, but it taught me a valuable lesson to always <strong style="color:blue;">look into</strong> cultural etiquette before attending formal events.
+
+**[Vocabulary & Expressions]**
+* etiquette: 예절
+* deceased: 고인, 사망한
+* bewildered: 당황한
+* nerve-wracking: 조마조마하게 만드는
+* <strong style="color:blue;">deal with</strong>: 대처하다, 다루다
+* <strong style="color:blue;">brush up on</strong>: ~을 다시 익히다, 복습하다
+* <strong style="color:blue;">start when</strong>: ~할 때 시작되다
+* <strong style="color:blue;">pay my respects</strong>: 조문하다, 경의를 표하다
+* <strong style="color:blue;">glance at</strong>: 힐끗 보다
+* <strong style="color:blue;">turn red</strong>: (얼굴이) 붉어지다
+* <strong style="color:blue;">run away</strong>: 달아나다, 도망치다
+* <strong style="color:blue;">pull aside</strong>: 따로 불러내다, 옆으로 끌어당기다
+* <strong style="color:blue;">look into</strong>: 조사하다, 알아보다
