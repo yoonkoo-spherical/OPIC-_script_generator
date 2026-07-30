@@ -10959,3 +10959,96 @@ To be honest, I've had a pretty embarrassing experience a few years ago when I a
 * <strong style="color:blue;">run away</strong>: 달아나다, 도망치다
 * <strong style="color:blue;">pull aside</strong>: 따로 불러내다, 옆으로 끌어당기다
 * <strong style="color:blue;">look into</strong>: 조사하다, 알아보다
+
+## 2026-07-30 05:29:41 OPIc Study
+
+### 묘사 : 동네 코인 세탁방 내부 묘사
+
+**[Question]**
+Please describe the coin laundry room near your house in detail. What does it look like, and what kind of facilities are there?
+(집 근처에 있는 코인 세탁방을 자세히 묘사해 주세요. 어떻게 생겼으며, 어떤 시설들이 있나요?)
+
+**[Model Answer]**
+Well, to be honest, I'm a regular visitor to the coin laundry located just a five-minute walk from my apartment, because my washing machine at home is quite small and doesn't handle bulky items like comforters very well. 
+
+As soon as you <strong style="color:blue;">step inside</strong>, the very first thing that <strong style="color:blue;">catches your eye</strong> is the sheer size of the place. It's surprisingly spacious, brightly lit, and meticulously clean, which really <strong style="color:blue;">sets it apart</strong> from older, dingy laundromats. Along the right-hand wall, there is a whole row of heavy-duty commercial washers and dryers stacked neatly on top of each other. They range in size from medium to extra-large, so you can <strong style="color:blue;">load up</strong> multiple baskets of laundry at once without any hassle. 
+
+Opposite the washing machines, there is a long, wooden folding table where people can neatly stack their clothes once they are done. Above the table, there are various vending machines selling detergent, fabric softener sheets, and even snacks and drinks, which is super convenient if you <strong style="color:blue;">happen to run out of</strong> supplies. 
+
+What I love most about this place, though, is the customer lounge area in the corner. It <strong style="color:blue;">is equipped with</strong> a couple of comfortable sofas, a large-screen TV, free Wi-Fi, and even a small study desk with charging outlets. So, while waiting for my laundry to <strong style="color:blue;">spin dry</strong>, I usually <strong style="color:blue;">catch up on</strong> my reading or watch YouTube videos. 
+
+All in all, the coin laundry near my house is not just a practical chore spot, but it's a remarkably cozy and well-maintained facility that always makes doing laundry a pleasant experience.
+
+**[Vocabulary & Expressions]**
+* bulky: 부피가 큰
+* meticulously: 꼼꼼하게, 세심하게
+* dingy: 우중충한, 칙칙한
+* <strong style="color:blue;">step inside</strong>: 안으로 들어가다
+* <strong style="color:blue;">catches your eye</strong>: 눈길을 사로잡다
+* <strong style="color:blue;">sets it apart</strong>: 차별화하다
+* <strong style="color:blue;">load up</strong>: 잔뜩 채우다
+* <strong style="color:blue;">happen to run out of</strong>: 우연히 떨어지다
+* <strong style="color:blue;">is equipped with</strong>: ~가 구비되어 있다
+* <strong style="color:blue;">spin dry</strong>: 탈수하다
+* <strong style="color:blue;">catch up on</strong>: 밀린 일을 하다
+
+---
+### 롤플레이 : 길에서 지하철역 가는 길 묻기
+
+**[Question]**
+You are walking down the street and realize you are lost. You need to get to the nearest subway station. Approach a stranger on the street, explain your situation, and ask for directions. Also, ask how long it takes to walk there.
+(길을 걷다 길을 잃었다는 것을 깨달았습니다. 가장 가까운 지하철역으로 가야 합니다. 길거리의 모르는 사람에게 다가가 상황을 설명하고 길을 물어보세요. 또한 걸어서 얼마나 걸리는지도 물어보세요.)
+
+**[Model Answer]**
+Excuse me, sorry to bother you, but I was wondering if you could help me out for a second? I’m completely <strong style="color:blue;">turned around</strong> right now. I’m trying to get to the nearest subway station to <strong style="color:blue;">head downtown</strong>, but honestly, my navigation app <strong style="color:blue;">acted up</strong> and stopped working, and I’m terrible with directions. Could you tell me how to get there from here?
+
+... Oh, I see! So I need to go straight down this street until I <strong style="color:blue;">come across</strong> a big coffee shop on the corner, and then <strong style="color:blue;">make a left</strong> at the traffic lights? And after that, the station entrance should be right there on the right-hand side, right next to the convenience store. 
+
+By the way, roughly how long does it take to walk there from here? I have an appointment and I'm running a bit tight on time, so I want to <strong style="color:blue;">gauge whether</strong> I should walk or perhaps grab a taxi if it's too far. 
+
+Ah, about ten minutes? That’s totally manageable. Thank you so much for your help and kindness. I really appreciate it. Have a wonderful day!
+
+**[Vocabulary & Expressions]**
+* bother: 괴롭히다, 방해하다
+* navigation app: 길찾기 앱
+* manageable: 감당할 만한, 처리하기 쉬운
+* <strong style="color:blue;">turned around</strong>: 길을 잃은, 혼란스러운
+* <strong style="color:blue;">head downtown</strong>: 시내로 향하다
+* <strong style="color:blue;">acted up</strong>: 오작동하다, 말을 안 듣다
+* <strong style="color:blue;">come across</strong>: 우연히 마주치다
+* <strong style="color:blue;">make a left</strong>: 좌회전하다
+* <strong style="color:blue;">gauge whether</strong>: ~인지 가늠하다, 파악하다
+
+---
+### 돌발 : 이사 중 겪었던 예상치 못한 문제
+
+**[Question]**
+Moving to a new place can sometimes be stressful. Tell me about an unexpected problem you experienced while moving, and how you managed to resolve it.
+(새로운 곳으로 이사하는 것은 때로 스트레스가 될 수 있습니다. 이사 중에 겪었던 예상치 못한 문제와 그것을 어떻게 해결했는지 이야기해 주세요.)
+
+**[Model Answer]**
+You know, looking back, moving into my current apartment was absolute chaos because of one major, unexpected crisis. Everything <strong style="color:blue;">was going according to plan</strong> until late in the afternoon on moving day. 
+
+The moving crew had already unloaded almost all of my boxes into the new place, and I was just about to <strong style="color:blue;">catch my breath</strong>. That was when I realized that my large refrigerator was physically too big to <strong style="color:blue;">fit through</strong> the kitchen entranceway. The builders had designed a slightly narrower doorframe than my previous place, and no matter how much the movers tried to <strong style="color:blue;">maneuver it</strong>, it just wouldn't go through. I panicked because all my perishable food was sitting in coolers outside, and I had no idea what to do. 
+
+Instead of <strong style="color:blue;">losing my cool</strong>, I quickly <strong style="color:blue;">pulled myself together</strong> and started searching online for emergency moving solutions. I managed to <strong style="color:blue;">get in touch with</strong> a specialized appliance installation company that offered same-day service. I explained my urgent situation over the phone, and incredibly, they agreed to send a technician right away. 
+
+Within an hour, the technician arrived with specialized tools. He quickly assessed the situation, expertly removed the refrigerator doors and handles, and successfully <strong style="color:blue;">carried out</strong> the installation by squeezing it through the narrow doorway. Then he reassembled everything in a matter of minutes. 
+
+It cost me an extra penny, of course, but it was a total lifesaver. That incident taught me that no matter how well you prepare for a move, unexpected things can always <strong style="color:blue;">pop up</strong>, and the key is to stay calm and find a quick workaround.
+
+**[Vocabulary & Expressions]**
+* chaos: 대혼란
+* crisis: 위기
+* perishable: 부패하기 쉬운
+* technician: 기술자
+* workaround: 대체 방법, 우회책
+* <strong style="color:blue;">was going according to plan</strong>: 계획대로 진행되다
+* <strong style="color:blue;">catch my breath</strong>: 숨을 돌리다
+* <strong style="color:blue;">fit through</strong>: ~을 통과하여 들어가다
+* <strong style="color:blue;">maneuver it</strong>: 그것을 조종하다[움직이다]
+* <strong style="color:blue;">losing my cool</strong>: 이성을 잃다, 화를 내다
+* <strong style="color:blue;">pulled myself together</strong>: 마음을 가라앉히다, 정신을 차리다
+* <strong style="color:blue;">get in touch with</strong>: ~와 연락하다
+* <strong style="color:blue;">carried out</strong>: 수행하다, 실행하다
+* <strong style="color:blue;">pop up</strong>: 불쑥 나타나다, 생기다
