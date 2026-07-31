@@ -11052,3 +11052,106 @@ It cost me an extra penny, of course, but it was a total lifesaver. That inciden
 * <strong style="color:blue;">get in touch with</strong>: ~와 연락하다
 * <strong style="color:blue;">carried out</strong>: 수행하다, 실행하다
 * <strong style="color:blue;">pop up</strong>: 불쑥 나타나다, 생기다
+
+## 2026-07-31 05:54:56 OPIc Study
+
+### 묘사 : 편의점 상품 진열 상태 묘사
+
+**[Question]**
+I would like to know about the convenience store you frequently visit. Please describe the overall layout and how the products are displayed inside the store.
+당신이 자주 가는 편의점에 대해 알고 싶습니다. 가게 내부의 전체적인 레이아웃과 상품들이 어떻게 진열되어 있는지 묘사해 주세요.
+
+**[Model Answer]**
+You know, I visit the convenience store right down my block almost every single day, so I know the place like the back of my hand. To give you a general idea, it's not a huge store, but the owner is a genius when it comes to maximizing space and organizing inventory. 
+
+When you first <strong style="color:blue;">walk into</strong> the store, the absolute first thing that <strong style="color:blue;">catches your eye</strong> is the beverage section <strong style="color:blue;">stretching all along</strong> the right-hand wall. It features massive glass-door refrigerators packed with everything from iced coffees to energy drinks. The best part is that they are meticulously <strong style="color:blue;">sorted out</strong> by category and brand, and whenever an item is sold, the staff immediately <strong style="color:blue;">re-stocks</strong> the shelves from behind, so nothing ever looks empty or messy. 
+
+If you <strong style="color:blue;">look straight ahead</strong> toward the back, that's where the magic happens—the instant food and snack area. The cup ramen shelves are <strong style="color:blue;">stacked up</strong> vertically, reaching almost to the ceiling, which somehow makes even choosing ramen feel kind of grand. Right next to them, the snack racks are <strong style="color:blue;">laid out</strong> in a way that puts the most popular potato chips and chocolates right at eye level. It's totally a marketing trick, and honestly, it <strong style="color:blue;">works on</strong> me every single time because I always end up <strong style="color:blue;">picking up</strong> a bag of chips I didn't plan to buy.
+
+On the left side, as you <strong style="color:blue;">make your way</strong> toward the counter, you'll see the fresh food section with triangle gimbap, sandwiches, and lunchboxes. They are always neatly <strong style="color:blue;">lined up</strong> with the labels facing forward, which <strong style="color:blue;">gives off</strong> a really clean and reliable vibe. Finally, right by the checkout counter, there are small rotating displays for gums, mints, and lollipops, which are <strong style="color:blue;">aimed at</strong> impulse buyers like me. Overall, the display system is so well-maintained that <strong style="color:blue;">browsing through</strong> the aisles is always a surprisingly pleasant experience.
+
+**[Vocabulary & Expressions]**
+* inventory: 재고
+* meticulously: 꼼꼼하게
+* impulse buyer: 충동구매자
+* <strong style="color:blue;">walk into</strong>: ~에 들어가다
+* <strong style="color:blue;">catches your eye</strong>: 눈길을 사로잡다
+* <strong style="color:blue;">stretching all along</strong>: 쭉 늘어선
+* <strong style="color:blue;">sorted out</strong>: 분류된
+* <strong style="color:blue;">look straight ahead</strong>: 정면을 바라보다
+* <strong style="color:blue;">stacked up</strong>: 쌓여 있는
+* <strong style="color:blue;">laid out</strong>: 배치된
+* <strong style="color:blue;">works on</strong>: ~에게 효과가 있다
+* <strong style="color:blue;">picking up</strong>: 집어 들다
+* <strong style="color:blue;">make your way</strong>: 나아 가다
+* <strong style="color:blue;">lined up</strong>: 줄지어 서 있는
+* <strong style="color:blue;">gives off</strong>: 풍기다, 내뿜다
+* <strong style="color:blue;">aimed at</strong>: ~를 겨냥한
+* <strong style="color:blue;">browsing through</strong>: 훑어보다
+
+---
+### 롤플레이 : 지하철 분실물 센터에 지갑 찾기
+
+**[Question]**
+You lost your wallet on the subway. Call the lost and found center, explain the situation, and describe the detailed characteristics of your wallet to the representative.
+지하철에서 지갑을 잃어버렸습니다. 분실물 센터에 전화하여 상황을 설명하고, 지갑의 상세한 특징을 직원에게 설명하세요.
+
+**[Model Answer]**
+Hi, good afternoon. I’m calling because I <strong style="color:blue;">am in a bit of a panic</strong>. I think I left my wallet on the subway earlier today, and I was hoping you might be able to help me <strong style="color:blue;">track it down</strong>. 
+
+To give you the details, I was riding Line number 2, heading toward Gangnam station. I <strong style="color:blue;">got on</strong> at City Hall around 2 PM and <strong style="color:blue;">got off</strong> at Gangnam at about 2:40 PM. I was sitting near the middle of the third carriage, and I think I might have <strong style="color:blue;">left it behind</strong> on the seat when I <strong style="color:blue;">hurried out</strong> because the doors were closing. 
+
+Let me <strong style="color:blue;">give you a description</strong> of what the wallet looks like so you can check your inventory. First of all, it's a bi-fold leather wallet, and the brand is Paul Smith. The color is dark navy blue, almost black in dim lighting, but you can see a subtle multi-colored stripe pattern running along the bottom edge. 
+
+Inside, it has a few very specific things that will help you <strong style="color:blue;">identify it</strong> immediately. In the main cash compartment, I have a few fifty-thousand won bills, but more importantly, in the transparent ID slot, there is my driver's license with my photo on it. Also, tucked away in one of the card slots on the left side, there is a silver-colored metal transit card from Japan, and a photo booth strip picture of me and my best friend. 
+
+I am really <strong style="color:blue;">stressed out</strong> about this because it has all my IDs and credit cards in it. Could you please <strong style="color:blue;">look into</strong> your system or contact the terminal station to see if it has been <strong style="color:blue;">turned in</strong> yet? I would genuinely appreciate anything you can do to <strong style="color:blue;">help me out</strong>. Thank you so much.
+
+**[Vocabulary & Expressions]**
+* representative: 직원, 담당자
+* compartment: 칸, 공간
+* transparent: 투명한
+* <strong style="color:blue;">am in a bit of a panic</strong>: 당황하다, 정신이 없다
+* <strong style="color:blue;">track it down</strong>: 찾아내다
+* <strong style="color:blue;">got on</strong>: 타다
+* <strong style="color:blue;">got off</strong>: 내리다
+* <strong style="color:blue;">left it behind</strong>: 두고 내리다
+* <strong style="color:blue;">hurried out</strong>: 서둘러 나가다
+* <strong style="color:blue;">give you a description</strong>: 묘사해 주다
+* <strong style="color:blue;">identify it</strong>: 확인하다, 알아보다
+* <strong style="color:blue;">stressed out</strong>: 스트레스받는
+* <strong style="color:blue;">look into</strong>: 조사하다, 알아보다
+* <strong style="color:blue;">turned in</strong>: 제출된, 습득물로 들어온
+* <strong style="color:blue;">help me out</strong>: 도와주다
+
+---
+### 돌발 : 술자리에서 너무 취해 기억을 잃은 경험
+
+**[Question]**
+Tell me about a time when you drank too much at a gathering or company dinner and completely blacked out or made a funny mistake. What happened?
+모임이나 회식에서 술을 너무 많이 마셔서 완전히 필름이 끊겼거나 재미있는 실수를 했던 경험에 대해 이야기해 주세요. 무슨 일이 있었나요?
+
+**[Model Answer]**
+Oh gosh, thinking about this still <strong style="color:blue;">makes me cringe</strong>, but I have this one unforgettable memory from a company dinner a couple of years ago. It was right after a major project was successfully completed, so everyone was in a celebratory mood, and the drinks were <strong style="color:blue;">flowing endlessly</strong>. 
+
+We started with some grilled pork belly and soju, then moved on to beer, and finally ended up at a cocktail bar. To be honest with you, I <strong style="color:blue;">lost track of</strong> how many glasses I had. The last thing I clearly remember was <strong style="color:blue;">raising a toast</strong> to our team leader around 10 PM. After that, my memory just <strong style="color:blue;">went completely blank</strong>. 
+
+According to my coworkers the next morning, apparently I didn't cause any serious trouble, but I did some <strong style="color:blue;">pretty embarrassing</strong> things. First, when it was time to go home, instead of calling a taxi, I supposedly <strong style="color:blue;">insisted on</strong> walking all the way home, which was a two-hour walk from the venue. Even worse, my colleagues told me that I <strong style="color:blue;">ran into</strong> a stray cat on the street and spent a good twenty minutes trying to have a deep conversation with it, talking about how hard office life is. 
+
+When I <strong style="color:blue;">woke up</strong> the next day, I found myself lying fully clothed on my living room floor with a splitting headache, and my phone was <strong style="color:blue;">clutching in</strong> my hand with the call history showing that I had tried to call my ex-boyfriend at 3 AM. Thank goodness I didn't actually <strong style="color:blue;">go through with</strong> the call! That entire episode was such a wake-up call for me, and ever since that day, I always <strong style="color:blue;">set a strict limit</strong> on how much alcohol I consume.
+
+**[Vocabulary & Expressions]**
+* celebratory: 축하하는
+* splitting headache: 지끈거리는 두통
+* episode: 에피소드, 사건
+* <strong style="color:blue;">makes me cringe</strong>: 오글거리게 하다, 민망하게 하다
+* <strong style="color:blue;">flowing endlessly</strong>: 끝없이 흘러나오는
+* <strong style="color:blue;">lost track of</strong>: ~을 잊어버리다, 파악하지 못하다
+* <strong style="color:blue;">raising a toast</strong>: 건배를 하다
+* <strong style="color:blue;">went completely blank</strong>: 하얗게 비어버리다, 기억이 안 나다
+* <strong style="color:blue;">insisted on</strong>: ~를 고집하다
+* <strong style="color:blue;">ran into</strong>: 우연히 마주치다
+* <strong style="color:blue;">woke up</strong>: 잠에서 깨다
+* <strong style="color:blue;">clutching in</strong>: 꽉 쥐고 있는
+* <strong style="color:blue;">go through with</strong>: 끝까지 실행하다
+* <strong style="color:blue;">set a strict limit</strong>: 엄격한 한계를 설정하다
