@@ -11155,3 +11155,98 @@ When I <strong style="color:blue;">woke up</strong> the next day, I found myself
 * <strong style="color:blue;">clutching in</strong>: 꽉 쥐고 있는
 * <strong style="color:blue;">go through with</strong>: 끝까지 실행하다
 * <strong style="color:blue;">set a strict limit</strong>: 엄격한 한계를 설정하다
+
+## 2026-08-01 05:44:56 OPIc Study
+
+### 묘사 : 길을 잃었을 때 사용했던 지도 앱 화면 묘사
+
+**[Question]**
+You mentioned in the survey that you use map applications on your smartphone. Could you describe what the screen of the map app looks like when you use it, especially when you got lost in an unfamiliar neighborhood? What are the main features and visual layouts you see on the screen?
+(당신은 설문조사에서 스마트폰의 지도 애플리케이션을 사용한다고 했습니다. 낯선 동네에서 길을 잃었을 때 사용했던 지도 앱의 화면이 어떻게 생겼는지 묘사해 주시겠습니까? 화면에서 볼 수 있는 주요 기능과 시각적 레이아웃은 무엇인가요?)
+
+**[Model Answer]**
+Oh, let me tell you about this one time when I got completely turned around in a residential area, and how the map app literally saved my life. I heavily relied on this specific navigation app on my smartphone, and the moment you open it, the interface is remarkably intuitive yet packed with information. 
+
+First off, right in the center of the screen, there is a detailed vector map of my current location, represented by a pulsing blue dot. This blue dot <strong style="color:blue;">points out</strong> my exact GPS coordinates in real-time. Around this dot, the screen displays a top-down 2D or 3D view of the neighborhood, showing every single alleyway, building outline, and local landmark. 
+
+When I was lost, I remember the route guidance bar <strong style="color:blue;">pop up</strong> at the very top of the screen, telling me how many meters were left until my next turn. Below that, there was a prominent directional arrow that <strong style="color:blue;">pointed toward</strong> the right direction I needed to walk. Also, at the bottom of the screen, there was a slide-up menu where I could see my estimated arrival time, the remaining distance, and alternative routes <strong style="color:blue;">laid out</strong> clearly. 
+
+What I really love about the app's visual layout is how it uses color coding. Major roads are highlighted in yellow, highways in orange, and walking paths or pedestrian zones are marked with dotted lines. When I was <strong style="color:blue;">wandering around</strong> trying to find my way, <strong style="color:blue;">zooming in and out</strong> of the map allowed me to <strong style="color:blue;">figure out</strong> the surrounding topography. Even though I was flustered at that time, the clean design and the real-time traffic updates <strong style="color:blue;">calmed me down</strong> and helped me <strong style="color:blue;">get back on track</strong> without panicking. It's truly a masterpiece of UX design.
+
+**[Vocabulary & Expressions]**
+* interface: 인터페이스
+* topography: 지형
+* flustered: 당황한
+* <strong style="color:blue;">points out</strong>: 가리키다, 지적하다
+* <strong style="color:blue;">pop up</strong>: 팝업되다, 불쑥 나타나다
+* <strong style="color:blue;">pointed toward</strong>: ~을 향하다
+* <strong style="color:blue;">laid out</strong>: 펼쳐져 있는, 배치된
+* <strong style="color:blue;">wandering around</strong>: 돌아다니다
+* <strong style="color:blue;">zooming in and out</strong>: 확대하고 축소하다
+* <strong style="color:blue;">figure out</strong>: 알아내다, 이해하다
+* <strong style="color:blue;">calmed me down</strong>: 나를 진정시키다
+* <strong style="color:blue;">get back on track</strong>: 다시 제자리를 찾다, 궤도에 오르다
+
+---
+### 롤플레이 : 신도시 재활용 쓰레기 배출 요일과 장소 문의
+
+**[Question]**
+You have just moved into a new neighborhood. You need to throw away your recycling, but you aren't sure about the schedule and designated area. Go up to the apartment security guard and ask three to four questions to get the information you need.
+(새로운 동네로 이사 왔습니다. 재활용 쓰레기를 버려야 하는데, 배출 요일과 지정된 장소를 잘 모르겠습니다. 아파트 경비원에게 가서 필요한 정보를 얻기 위해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hello, excuse me! I'm the new resident who just moved into apartment 302 yesterday. I'm still trying to <strong style="color:blue;">settle in</strong>, and I have a quick question regarding the recycling system here. Could you help me out? 
+
+First of all, I've got a bunch of cardboard boxes and plastic containers piling up in my hallway, and I really need to <strong style="color:blue;">get rid of</strong> them. Could you tell me exactly which days of the week we are allowed to take out our recyclables? Is it every day, or are there specific days designated for paper and plastic? 
+
+Also, I'm not entirely sure where the recycling bins are located. Could you <strong style="color:blue;">point me in the direction of</strong> the designated disposal area? Is it right behind building 3, or is there a centralized underground facility for the whole complex? 
+
+Oh, one more thing—are there any special rules I need to <strong style="color:blue;">keep in mind</strong>? For instance, do I need to flatten the cardboard boxes, or do I have to remove the labels from plastic bottles before throwing them away? I want to make sure I don't <strong style="color:blue;">mess up</strong> and violate any apartment rules. Thank you so much for your help, and I hope you have a great day!
+
+**[Vocabulary & Expressions]**
+* resident: 주민
+* complex: 단지
+* container: 용기
+* <strong style="color:blue;">settle in</strong>: 정착하다, 자리를 잡다
+* <strong style="color:blue;">get rid of</strong>: ~을 처분하다, 버리다
+* <strong style="color:blue;">point me in the direction of</strong>: ~의 방향을 알려주다
+* <strong style="color:blue;">keep in mind</strong>: 명심하다
+* <strong style="color:blue;">mess up</strong>: 망치다, 실수하다
+
+---
+### 돌발 : 길거리 버스킹이나 예기치 않은 이벤트를 보고 감동한 경험
+
+**[Question]**
+Talk about a memorable street busking performance or an unexpected wonderful event you witnessed on the street. Where were you, what happened, and why did it leave such a deep impression on you?
+(길거리에서 목격했던 기억에 남는 버스킹 공연이나 예기치 않은 멋진 이벤트에 대해 이야기해 주세요. 어디에 있었고, 무슨 일이 일어났으며, 왜 그것이 당신에게 그토록 깊은 인상을 남겼나요?)
+
+**[Model Answer]**
+You know, looking back, one of the most unforgettable moments in my life happened on a chilly autumn evening about two years ago. I was <strong style="color:blue;">strolling down</strong> a crowded street in Hongdae, feeling quite exhausted after a long, grueling week at work. My mind was completely <strong style="color:blue;">tied up with</strong> stress and personal worries, and I was just <strong style="color:blue;">dragging my feet</strong>, heading toward the subway station. 
+
+Suddenly, I heard this incredibly soulful acoustic guitar chord <strong style="color:blue;">ringing out</strong> from a small open plaza. Curiosity <strong style="color:blue;">got the better of me</strong>, so I <strong style="color:blue;">slowed down</strong> and decided to <strong style="color:blue;">check out</strong> what was going on. There was a young street musician, probably in his early twenties, singing a melancholic indie ballad. There weren't many people watching at first, just a small handful of pedestrians <strong style="color:blue;">gathering around</strong>. 
+
+As I stood there listening, the lyrics of the song somehow <strong style="color:blue;">resonated with</strong> my exact emotional state at that very moment. It was as if he was singing directly to my tired soul. The raw emotion in his voice, combined with the crisp autumn breeze and the warm streetlights, <strong style="color:blue;">created an atmosphere</strong> that was nothing short of magical. 
+
+For about twenty minutes, I completely <strong style="color:blue;">lost track of time</strong>. All my daily anxieties and pressures just <strong style="color:blue;">melted away</strong>. When he finished the song, I found myself <strong style="color:blue;">clapping along</strong> enthusiastically and even tossed a generous tip into his guitar case. That unexpected busking performance taught me how art can unexpectedly <strong style="color:blue;">reach out to</strong> people in need of comfort. It <strong style="color:blue;">left a lasting impression on</strong> me, and whenever I feel stressed nowadays, I <strong style="color:blue;">look back on</strong> that evening to <strong style="color:blue;">pick myself up</strong>.
+
+**[Vocabulary & Expressions]**
+* grueling: 몹시 힘든, 녹초가 지치게 하는
+* melancholic: 구슬픈, 우울한
+* crisp: (날씨가) 쌀쌀하며 상쾌한
+* <strong style="color:blue;">strolling down</strong>: 거닐다
+* <strong style="color:blue;">tied up with</strong>: ~로 바쁜, 묶여 있는
+* <strong style="color:blue;">dragging my feet</strong>: 터덜터덜 걷다
+* <strong style="color:blue;">ringing out</strong>: 울려 퍼지다
+* <strong style="color:blue;">got the better of me</strong>: ~가 이기다, 호기심이 생기다
+* <strong style="color:blue;">slowed down</strong>: 속도를 줄이다
+* <strong style="color:blue;">check out</strong>: 확인하다, 구경하다
+* <strong style="color:blue;">gathering around</strong>: 모여들다
+* <strong style="color:blue;">resonated with</strong>: 공감되다, 울림을 주다
+* <strong style="color:blue;">created an atmosphere</strong>: 분위기를 만들다
+* <strong style="color:blue;">lost track of time</strong>: 시간 가는 줄 모르다
+* <strong style="color:blue;">melted away</strong>: 눈 녹듯 사라지다
+* <strong style="color:blue;">clapping along</strong>: 박수 치며 동참하다
+* <strong style="color:blue;">reach out to</strong>: ~에게 다가가다, 손을 내밀다
+* <strong style="color:blue;">left a lasting impression on</strong>: 깊은 인상을 남기다
+* <strong style="color:blue;">look back on</strong>: 되돌아보다
+* <strong style="color:blue;">pick myself up</strong>: 기운을 차리다
