@@ -11250,3 +11250,98 @@ For about twenty minutes, I completely <strong style="color:blue;">lost track of
 * <strong style="color:blue;">left a lasting impression on</strong>: 깊은 인상을 남기다
 * <strong style="color:blue;">look back on</strong>: 되돌아보다
 * <strong style="color:blue;">pick myself up</strong>: 기운을 차리다
+
+## 2026-08-02 05:45:37 OPIc Study
+
+### 묘사 : 집 근처 코인 세탁방 내부 묘사
+
+**[Question]**
+Could you describe the laundromat near your house in detail? What does it look like, and what kind of facilities are available there?
+(당신 집 근처에 있는 세탁소를 자세히 묘사해 줄 수 있나요? 어떻게 생겼으며, 그곳에는 어떤 종류의 시설이 있나요?)
+
+**[Model Answer]**
+Well, let me tell you about the coin laundry located just a two-minute walk from my apartment. Since I live in a studio apartment without a washing machine, I <strong style="color:blue;">drop by</strong> this place at least once a week. 
+
+First of all, when you <strong style="color:blue;">step into</strong> the laundromat, the very first thing you will notice is how exceptionally clean and well-lit it is. Unlike old-fashioned laundry shops, this place has a very modern and cozy vibe. Along the left wall, there is a long row of heavy-duty industrial washing machines of various sizes, ranging from medium to extra-large. Right across from them, stacked neatly, are huge tumble dryers that can <strong style="color:blue;">take care of</strong> massive loads of laundry in no time. 
+
+One of my favorite things about this place is the seating area. The owner has <strong style="color:blue;">set up</strong> a wonderful little lounge corner with comfortable armchairs, a small wooden table, and even a bookshelf filled with magazines and novels. There is also a high-speed Wi-Fi network available, so customers can <strong style="color:blue;">pass the time</strong> while waiting for their clothes. In the corner, there is a convenient vending machine where you can buy laundry detergent, fabric softener, and cold drinks. 
+
+Additionally, the whole place is <strong style="color:blue;">equipped with</strong> security cameras, which makes me feel very safe even when I go there late at night to <strong style="color:blue;">knock out</strong> my weekly chores. All in all, it is not just a functional space for washing clothes, but a surprisingly pleasant environment where people can relax.
+
+**[Vocabulary & Expressions]**
+* Studio apartment: 원룸 오피스텔
+* Heavy-duty: 대용량의, 튼튼한
+* Tumble dryer: 회전식 건조기
+* Vending machine: 자판기
+* Fabric softener: 섬유 유연제
+* <strong style="color:blue;">Drop by</strong>: 잠깐 들르다
+* <strong style="color:blue;">Step into</strong>: ~에 들어서다
+* <strong style="color:blue;">Take care of</strong>: 처리하다, 해결하다
+* <strong style="color:blue;">Set up</strong>: 설치하다, 마련하다
+* <strong style="color:blue;">Pass the time</strong>: 시간을 보내다
+* <strong style="color:blue;">Equipped with</strong>: ~가 갖춰진
+* <strong style="color:blue;">Knock out</strong>: (일 등을) 빨리 끝내다
+
+---
+### 롤플레이 : 친구에게 자전거 타러 가자고 제안하기
+
+**[Question]**
+You want to go bicycling this weekend with your friend. Call your friend, and ask three or four questions to make plans to ride a bicycle together.
+(당신은 이번 주말에 친구와 함께 자전거를 타러 가고 싶습니다. 친구에게 전화해서 함께 자전거 타기 위한 계획을 세우기 위해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hey, Mike! It's me. Are you <strong style="color:blue;">free this weekend</strong>? I was just <strong style="color:blue;">thinking about</strong> doing something active, and I <strong style="color:blue;">came up with</strong> a great idea. How about going bicycling together? The weather forecast says this weekend is going to be absolutely gorgeous, so I thought it would be the perfect time to <strong style="color:blue;">head out</strong> and enjoy the fresh air. 
+
+Actually, I have a few things to ask you to plan this out. First of all, which day works better for you, Saturday or Sunday? And what time should we <strong style="color:blue;">meet up</strong>? I was thinking early morning around 9 AM would be great to avoid the crowd, but let me know what you think. 
+
+Also, do you have your own bike, or do you need to rent one? If you don't have one, we can easily <strong style="color:blue;">pick up</strong> a rental bike near the Han River Park. There is a fantastic bike path along the river, and we can even <strong style="color:blue;">stop by</strong> a nice café for some coffee <strong style="color:blue;">along the way</strong>. 
+
+Oh, and one more thing—what kind of clothes should we wear? I guess comfortable sportswear and sneakers would be best, right? Anyway, <strong style="color:blue;">give me a call back</strong> whenever you get a chance so we can <strong style="color:blue;">finalize</strong> the details. Talk to you soon!
+
+**[Vocabulary & Expressions]**
+* Forecast: 예보
+* Gorgeous: 아주 멋진, 화창한
+* Path: 길, 산책로
+* Sportswear: 운동복
+* Sneaker: 운동화
+* <strong style="color:blue;">Free this weekend</strong>: 이번 주말에 시간이 나는
+* <strong style="color:blue;">Think about</strong>: ~에 대해 생각하다
+* <strong style="color:blue;">Come up with</strong>: (~을) 생각해내다
+* <strong style="color:blue;">Head out</strong>: 향해 가다, 출발하다
+* <strong style="color:blue;">Meet up</strong>: 만나다
+* <strong style="color:blue;">Pick up</strong>: (~을) 수거하다, 대여하다
+* <strong style="color:blue;">Stop by</strong>: 들르다
+* <strong style="color:blue;">Along the way</strong>: 도중에
+* <strong style="color:blue;">Give me a call back</strong>: 다시 전화하다
+* <strong style="color:blue;">Finalize</strong>: 최종 확정하다
+
+---
+### 돌발 : 호텔 예약 날짜 착각으로 급하게 숙소 구한 경험
+
+**[Question]**
+Tell me about a time when you made a mistake with your hotel reservation dates and had to find a place to stay urgently on-site. What happened, and how did you handle the situation?
+(호텔 예약 날짜를 착각하여 현지에서 급하게 숙소를 구해야 했던 경험에 대해 이야기해 주세요. 어떤 일이 있었고, 그 상황을 어떻게 대처했나요?)
+
+**[Model Answer]**
+Oh, man. Thinking about this experience still <strong style="color:blue;">gives me chills</strong>. A couple of years ago, I traveled to Busan for a summer vacation. I had planned a three-day trip and was extremely excited. However, when I <strong style="color:blue;">arrived at</strong> the hotel front desk around 3 PM and proudly gave my name, the receptionist gave me a confused look and said my reservation was actually for the following week! I had completely <strong style="color:blue;">mixed up</strong> the dates due to a typo when booking online. 
+
+To make matters worse, it was the peak summer season, which meant that finding a vacant room anywhere in the city was like <strong style="color:blue;">looking for a needle in a haystack</strong>. For a moment, my mind <strong style="color:blue;">went blank</strong>, and I had no idea what to do. I was standing in the lobby with a heavy suitcase, completely exhausted from the trip. 
+
+However, I knew I couldn't just <strong style="color:blue;">give up</strong>. I sat down on a lobby sofa, connected to the hotel Wi-Fi, and <strong style="color:blue;">pulled out</strong> my smartphone. I opened every single hotel booking app I had and started calling local motels and guesthouses nearby one by one. After about an hour of intense searching and getting rejected multiple times, I finally managed to <strong style="color:blue;">score</strong> a small room in a guesthouse located a bit further away from the beach. It wasn't as luxurious as the hotel I originally booked, but it was clean and had a bed. 
+
+Looking back, it was a total disaster at the moment, but now it has become one of those unforgettable travel anecdotes that I can laugh about. It taught me to always <strong style="color:blue;">double-check</strong> my booking confirmations before traveling.
+
+**[Vocabulary & Expressions]**
+* Receptionist: 호텔 프론트 직원
+* Typo: 오타
+* Vacant: 빈, 비어 있는
+* Anecdote: 일화
+* <strong style="color:blue;">Gives me chills</strong>: 소름이 돋는다, 아찔하다
+* <strong style="color:blue;">Arrive at</strong>: ~에 도착하다
+* <strong style="color:blue;">Mixed up</strong>: 혼동하다, 헷갈리다
+* <strong style="color:blue;">Looking for a needle in a haystack</strong>: 사막에서 바늘 찾기 (매우 어려운 일)
+* <strong style="color:blue;">Went blank</strong>: 하얗게 질리다, 생각이 안 나다
+* <strong style="color:blue;">Give up</strong>: 포기하다
+* <strong style="color:blue;">Pull out</strong>: 꺼내다
+* <strong style="color:blue;">Score</strong>: (기회를) 쟁취하다, 얻다
+* <strong style="color:blue;">Double-check</strong>: 재확인하다
