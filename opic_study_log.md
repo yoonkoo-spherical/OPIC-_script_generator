@@ -11345,3 +11345,100 @@ Looking back, it was a total disaster at the moment, but now it has become one o
 * <strong style="color:blue;">Pull out</strong>: 꺼내다
 * <strong style="color:blue;">Score</strong>: (기회를) 쟁취하다, 얻다
 * <strong style="color:blue;">Double-check</strong>: 재확인하다
+
+## 2026-08-03 06:08:30 OPIc Study
+
+### 묘사 : 즐겨 하는 축구의 기본 규칙과 경기 방식
+
+**[Question]**
+What sport or physical activity do you enjoy playing the most? Please describe the basic rules and how the game is played in detail.
+(당신이 가장 즐겨 하는 스포츠나 신체 활동은 무엇인가요? 기본 규칙과 게임이 어떻게 진행되는지 자세히 묘사해 주세요.)
+
+**[Model Answer]**
+Well, when it comes to sports that I am really into these days, I would have to say soccer is definitely my absolute favorite. I try to <strong style="color:blue;">work out</strong> and play a match with my friends every single weekend. Let me give you a thorough breakdown of how the game is played and what the basic rules are. 
+
+First of all, a standard soccer match is played between two teams, with each team having eleven players on the field, including a goalkeeper. The primary objective of the game is quite simple: to <strong style="color:blue;">end up</strong> scoring more goals than the opposing team within the allotted time. A regular match <strong style="color:blue;">consists of</strong> two halves, each lasting 45 minutes, with a 15-minute half-time break in the middle. 
+
+When it comes to the rules, the most fundamental and famous rule is that outfield players are strictly prohibited from using their hands or arms to touch or <strong style="color:blue;">carry out</strong> ball control during active play. Only the designated goalkeeper is allowed to use their hands, but strictly within their own penalty area. If any outfield player deliberately handles the ball, the referee will <strong style="color:blue;">hand over</strong> a free kick or a penalty kick to the opposing team, depending on where the foul occurred. 
+
+Another crucial rule to mention is the offside rule, which can sometimes be a bit tricky to understand for beginners. Basically, an attacking player is in an offside position if they are nearer to the opponent's goal line than both the ball and the second-to-last opponent when the ball is <strong style="color:blue;">passed on</strong> to them. If a player is <strong style="color:blue;">caught in</strong> an offside position, the referee blows the whistle, and possession is <strong style="color:blue;">turned over</strong> to the other team. 
+
+In addition to these, players can receive yellow cards for reckless tackles or unsportsmanlike behavior, and two yellow cards <strong style="color:blue;">add up to</strong> a red card, which means the player is sent off the field immediately. All in all, soccer is an incredibly dynamic and fast-paced game that requires intense teamwork, and that is precisely why I <strong style="color:blue;">am crazy about</strong> playing it whenever I get a chance.
+
+**[Vocabulary & Expressions]**
+* opponent: 상대팀
+* deliberately: 고의로
+* referee: 심판
+* penalty: 페널티
+* <strong style="color:blue;">work out</strong>: 운동하다
+* <strong style="color:blue;">end up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">consists of</strong>: ~로 구성되다
+* <strong style="color:blue;">carry out</strong>: 수행하다
+* <strong style="color:blue;">hand over</strong>: 넘겨주다
+* <strong style="color:blue;">passed on</strong>: 전달된
+* <strong style="color:blue;">caught in</strong>: ~에 걸린
+* <strong style="color:blue;">turned over</strong>: 넘어가다
+* <strong style="color:blue;">add up to</strong>: 결국 ~가 되다
+* <strong style="color:blue;">am crazy about</strong>: ~에 열광하다
+
+---
+### 롤플레이 : 식당 알레르기 재료 포함에 따른 재조리 요청
+
+**[Question]**
+You are at a restaurant and you just ordered and received your food. However, you notice that the dish contains an ingredient that you are severely allergic to. Call the waiter, explain the situation, and ask them to remake the dish. Also, ask how long it will take to get the new food.
+(식당에서 음식을 주문하고 받았는데, 심각한 알레르기가 있는 재료가 포함되어 있다는 것을 발견했습니다. 웨이터를 불러 상황을 설명하고 음식을 다시 만들어 달라고 요청하세요. 또한 새로운 음식을 받는 데 얼마나 걸릴지 물어보세요.)
+
+**[Model Answer]**
+Excuse me! Sir, could you please <strong style="color:blue;">come over</strong> here for a second? I am so sorry to bother you, but I have a serious issue with the dish I was just served. When I <strong style="color:blue;">looked into</strong> the pasta I ordered, I noticed that it contains walnuts, and I have a severe, life-threatening nut allergy. 
+
+When I ordered earlier, I explicitly asked the server to <strong style="color:blue;">leave out</strong> any nuts because I can easily <strong style="color:blue;">run into</strong> a medical emergency if I consume even a tiny amount. I'm really surprised and disappointed because I <strong style="color:blue;">pointed out</strong> my allergy clearly when placing the order. 
+
+Could you please have the kitchen <strong style="color:blue;">do over</strong> this dish from scratch without any walnuts? I really want to enjoy my meal here, but obviously, I cannot eat this plate at all. Also, I was wondering how long it will <strong style="color:blue;">take up</strong> to get the new, safe dish prepared. I have another appointment scheduled right after lunch, so I need to <strong style="color:blue;">figure out</strong> my timeline. Please make sure the chef prepares a fresh one as soon as possible. Thank you for your understanding.
+
+**[Vocabulary & Expressions]**
+* severely: 심각하게
+* allergy: 알레르기
+* explicitly: 명백하게
+* appointment: 약속
+* <strong style="color:blue;">come over</strong>: 이쪽으로 오다
+* <strong style="color:blue;">looked into</strong>: 자세히 보다
+* <strong style="color:blue;">leave out</strong>: 제외하다
+* <strong style="color:blue;">run into</strong>: (곤경에) 처하다
+* <strong style="color:blue;">pointed out</strong>: 지적하다
+* <strong style="color:blue;">do over</strong>: 다시 하다
+* <strong style="color:blue;">take up</strong>: (시간이) 걸리다
+* <strong style="color:blue;">figure out</strong>: 알아내다
+
+---
+### 돌발 : 친구에게 빌려준 돈이나 물건을 돌려받지 못해 곤란했던 경험
+
+**[Question]**
+Tell me about a time when you lent money or an item to a friend and had a hard time getting it back. What happened, how did you handle the situation, and what was the final outcome?
+(친구에게 돈이나 물건을 빌려주었다가 돌려받는 데 어려움을 겪었던 경험에 대해 이야기해 주세요. 어떤 일이 있었고, 어떻게 대처했으며, 최종 결과는 어땠나요?)
+
+**[Model Answer]**
+You know, looking back, I’ve had a few awkward moments in my life, but one particular incident really <strong style="color:blue;">stands out</strong> in my memory. It happened about two years ago when a very close college friend of mine asked if he could borrow a large sum of money from me. He said he was going through a temporary financial crunch and desperately needed to <strong style="color:blue;">pay off</strong> some urgent bills. Because we had been best friends for years, I didn't hesitate to <strong style="color:blue;">help out</strong> and wired the money to him right away, expecting him to <strong style="color:blue;">pay back</strong> within a month.
+
+However, weeks went by, and the promised repayment date came and went without a single word from him. Whenever I tried to <strong style="color:blue;">bring up</strong> the topic or text him about the money, he would suddenly <strong style="color:blue;">put off</strong> replying or make up all sorts of lame excuses. I felt extremely uncomfortable and anxious because the amount was quite significant for me at the time, and his attitude was really starting to <strong style="color:blue;">get on my nerves</strong>. I couldn't just <strong style="color:blue;">let it go</strong>, but I also didn't want to completely ruin our long-term friendship.
+
+Finally, I decided that I had to <strong style="color:blue;">face up to</strong> the situation directly instead of avoiding it. I asked him to meet me in person for a cup of coffee so we could <strong style="color:blue;">talk things over</strong> honestly. When we met, I gently explained how stressed and disappointed I had been because of his broken promises and silence. <strong style="color:blue;">Turned out</strong>, he had been too embarrassed to face me because of his ongoing financial struggles. 
+
+We managed to <strong style="color:blue;">work out</strong> a realistic installment plan where he would return the money in small monthly amounts. It definitely took a while, but he eventually managed to <strong style="color:blue;">pay off</strong> the entire debt. Through that tough experience, I truly learned my lesson about mixing money with close friendships.
+
+**[Vocabulary & Expressions]**
+* crunch: (재정적) 위기, 부족
+* significant: 상당한, 중요한
+* installment: 할부
+* debt: 부채, 빚
+* <strong style="color:blue;">stands out</strong>: 두드러지다
+* <strong style="color:blue;">pay off</strong>: (빚을) 모두 갚다
+* <strong style="color:blue;">help out</strong>: 돕다
+* <strong style="color:blue;">pay back</strong>: 갚다
+* <strong style="color:blue;">bring up</strong>: 꺼내다, 언급하다
+* <strong style="color:blue;">put off</strong>: 미루다
+* <strong style="color:blue;">get on my nerves</strong>: 신경을 건드리다
+* <strong style="color:blue;">let it go</strong>: 그냥 넘어가다
+* <strong style="color:blue;">face up to</strong>: 직시하다
+* <strong style="color:blue;">talk things over</strong>: 사리를 따져 의논하다
+* <strong style="color:blue;">Turned out</strong>: 알고 보니 ~로 드러나다
+* <strong style="color:blue;">work out</strong>: 해결하다
