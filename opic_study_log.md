@@ -11442,3 +11442,85 @@ We managed to <strong style="color:blue;">work out</strong> a realistic installm
 * <strong style="color:blue;">talk things over</strong>: 사리를 따져 의논하다
 * <strong style="color:blue;">Turned out</strong>: 알고 보니 ~로 드러나다
 * <strong style="color:blue;">work out</strong>: 해결하다
+
+## 2026-08-04 05:36:59 OPIc Study
+
+### 묘사 : 동네 공원의 조경과 시설물 묘사
+
+**[Question]**
+Please describe your favorite neighborhood park in detail. What does it look like, and what kind of facilities are there? Tell me everything about it.
+가장 좋아하는 동네 공원을 자세히 묘사해 주세요. 어떤 모습이며, 어떤 시설들이 있나요? 그곳에 대해 모든 것을 이야기해 주세요.
+
+**[Model Answer]**
+You know, I visit my neighborhood park almost every single day, so I know every single corner of it like the back of my hand. To begin with, as soon as you <strong style="color:blue;">step into</strong> the park, you are instantly greeted by this breathtaking landscape. There are rows and rows of majestic old trees, mostly weeping willows and cherry blossoms, which provide massive shades during scorching summer days. The city council actually <strong style="color:blue;">goes out of their way</strong> to keep the flowerbeds impeccably well-maintained, so you can always spot colorful seasonal flowers blooming all year round, <strong style="color:blue;">not to mention</strong> the meticulously trimmed hedges that line the walking paths.
+
+Now, moving on to the facilities, this place is literally a haven for fitness enthusiasts and families alike. There is a state-of-the-art jogging track <strong style="color:blue;">paved with</strong> special rubber material, which is incredibly gentle on your knees, so you see tons of people running or power-walking even late at night. Right in the center, there is a picturesque artificial pond <strong style="color:blue;">complete with</strong> a wooden bridge and a magnificent fountain. Whenever I feel a bit overwhelmed by my busy schedule, I just love to <strong style="color:blue;">drop by</strong> this pond, sit on a wooden bench, and just <strong style="color:blue;">wind down</strong> while listening to the soothing sound of flowing water. Adjacent to the pond, there is also an open-air fitness station equipped with various modern exercise machines, as well as a cozy playground where local kids can <strong style="color:blue;">let off steam</strong>. All in all, this park is not just a mere green space, but an absolute sanctuary that <strong style="color:blue;">brings life to</strong> our neighborhood.
+
+**[Vocabulary & Expressions]**
+* breathtaking: 숨막히게 아름다운
+* impeccably: 흠잡을 데 없이
+* meticulously: 꼼꼼하게
+* sanctuary: 안식처
+* <strong style="color:blue;">step into</strong>: ~에 들어서다
+* <strong style="color:blue;">go out of one's way</strong>: 특별히 애를 쓰다
+* <strong style="color:blue;">not to mention</strong>: ~은 말할 것도 없고
+* <strong style="color:blue;">paved with</strong>: ~로 포장된
+* <strong style="color:blue;">complete with</strong>: ~를 갖추고 있는
+* <strong style="color:blue;">drop by</strong>: 잠깐 들르다
+* <strong style="color:blue;">wind down</strong>: 긴장을 풀고 쉬다
+* <strong style="color:blue;">let off steam</strong>: 스트레스를 발산하다
+* <strong style="color:blue;">bring life to</strong>: 활기를 불어넣다
+
+---
+### 롤플레이 : 미용실에서 원하는 헤어스타일 설명하기
+
+**[Question]**
+You are at a hair salon. You brought a photo of the hairstyle you want. Explain the style in detail to the hairstylist, and ask three or four questions about the procedure and maintenance.
+미용실에 와 있습니다. 원하시는 헤어스타일 사진을 가져왔습니다. 헤어디자이너에게 해당 스타일에 대해 자세히 설명하고, 시술 과정 및 관리에 대해 3~4가지 질문을 하세요.
+
+**[Model Answer]**
+Hi there! Thanks for taking me. I am actually planning to get a total makeover today, and I've brought a reference photo on my phone. Let me <strong style="color:blue;">pull up</strong> the picture right now. See this? I'd love to <strong style="color:blue;">go for</strong> this layered medium-length cut with soft, natural-looking digital perm curls at the bottom. As you can see, the layers start right around my chin line, which will beautifully <strong style="color:blue;">frame</strong> my face, and the overall volume looks super bouncy yet effortless. I really want to <strong style="color:blue;">pull off</strong> this chic yet sophisticated vibe, so I hope we can achieve something very similar. 
+
+Before we officially <strong style="color:blue;">get the ball rolling</strong>, I have a couple of quick questions for you. First of all, do you think my hair texture is suitable for this kind of digital perm, or would it <strong style="color:blue;">call for</strong> any additional treatments like protein care beforehand to minimize damage? Also, considering the length and the layers, how much time should I <strong style="color:blue;">set aside</strong> for the entire procedure today? Lastly, once I wash my hair at home, what is the best way to <strong style="color:blue;">maintain</strong> these curls? Do I need to <strong style="color:blue;">blow-dry</strong> them inward using a special brush, or can I just <strong style="color:blue;">let them dry</strong> naturally after applying some curl cream? I'd really appreciate your professional advice on this!
+
+**[Vocabulary & Expressions]**
+* makeover: 대변신, 이미지 변신
+* texture: 모질, 머릿결
+* sophisticated: 세련된
+* <strong style="color:blue;">pull up</strong>: (화면 등을) 띄우다, 보여주다
+* <strong style="color:blue;">go for</strong>: ~를 선택하다
+* <strong style="color:blue;">frame</strong>: (얼굴 등을) 감싸다, 돋보이게 하다
+* <strong style="color:blue;">pull off</strong>: (어려운 스타일 등을) 소화해내다
+* <strong style="color:blue;">get the ball rolling</strong>: 일을 시작하다
+* <strong style="color:blue;">call for</strong>: ~을 필요로 하다
+* <strong style="color:blue;">set aside</strong>: (시간 등을) 따로 할애하다
+* <strong style="color:blue;">blow-dry</strong>: 드라이어로 말리다
+
+---
+### 돌발 : 상사나 선생님과의 오해로 힘들었던 경험
+
+**[Question]**
+Tell me about a time when you experienced a misunderstanding with your boss at work or a teacher at school. What caused the misunderstanding, and how did you resolve it in the end?
+직장 상사나 학교 선생님과 오해가 생겨 힘들었던 경험에 대해 이야기해 주세요. 오해의 원인은 무엇이었으며, 결국 어떻게 해결하셨나요?
+
+**[Model Answer]**
+You know, looking back, I've had my share of ups and downs, but there is one particular incident that really <strong style="color:blue;">stands out</strong> in my mind. A couple of years ago, when I was relatively new at my previous company, I had a huge misunderstanding with my direct supervisor. It all <strong style="color:blue;">stemmed from</strong> a critical miscommunication regarding a quarterly report project. I was assigned to handle the data analysis part, and my manager explicitly told me to <strong style="color:blue;">keep her in the loop</strong>. However, due to my heavy workload and absolute inexperience, I failed to send her a mid-term progress update. 
+
+Well, she ended up assuming that I was hopelessly falling behind and deliberately ignoring her instructions. The next morning, she publicly <strong style="color:blue;">called me out</strong> during a team meeting, which totally <strong style="color:blue;">caught me off guard</strong> and left me feeling completely humiliated and frustrated. I honestly wanted to just <strong style="color:blue;">give up</strong> and <strong style="color:blue;">bottle up</strong> my anger, but I knew I couldn't just <strong style="color:blue;">let it go</strong> like that. So, right after the meeting, I plucked up the courage to <strong style="color:blue;">reach out to</strong> her and requested a private one-on-one chat. 
+
+During our conversation, I didn't make any lame excuses; instead, I calmly explained the exact timeline of my work and sincerely apologized for my poor communication skills. As we <strong style="color:blue;">talked things through</strong>, she finally realized that it was merely a regrettable misunderstanding rather than negligence on my part. She actually <strong style="color:blue;">patted me on the back</strong> for taking responsibility like an adult. That whole ordeal taught me a profound lesson about how vital clear and proactive communication is in the workplace.
+
+**[Vocabulary & Expressions]**
+* negligence: 태만, 부주의
+* ordeal: 시련, 겪고 나기 힘든 일
+* profound: 깊은, 심오한
+* vital: 매우 중요한
+* <strong style="color:blue;">stand out</strong>: 눈에 띄다, 두드러지다
+* <strong style="color:blue;">stem from</strong>: ~에서 비롯되다
+* <strong style="color:blue;">keep someone in the loop</strong>: ~에게 진행 상황을 계속 알려주다
+* <strong style="color:blue;">call out</strong>: 공개적으로 비판하다
+* <strong style="color:blue;">catch off guard</strong>: 허를 찌르다, 당황하게 하다
+* <strong style="color:blue;">bottle up</strong>: (감정 등을) 억누르다, 숨기다
+* <strong style="color:blue;">reach out to</strong>: ~에게 다가가다, 연락하다
+* <strong style="color:blue;">talk things through</strong>: 대화를 통해 문제를 해결하다
+* <strong style="color:blue;">pat on the back</strong>: 칭찬하다, 격려하다
