@@ -11524,3 +11524,91 @@ During our conversation, I didn't make any lame excuses; instead, I calmly expla
 * <strong style="color:blue;">reach out to</strong>: ~에게 다가가다, 연락하다
 * <strong style="color:blue;">talk things through</strong>: 대화를 통해 문제를 해결하다
 * <strong style="color:blue;">pat on the back</strong>: 칭찬하다, 격려하다
+
+## 2026-08-05 05:35:36 OPIc Study
+
+### 묘사 : 거실에 있는 반려식물 몬스테라 묘사
+
+**[Question]**
+I would like to know about plants or flowers you have at home. Please describe one of your plants in detail. What does it look like, and where did it come into your possession?
+(집에 두고 키우는 식이나 꽃에 대해 알고 싶습니다. 키우는 식물 중 하나를 자세히 묘사해 주세요. 어떻게 생겼고, 어떻게 키우게 되었나요?)
+
+**[Model Answer]**
+Well, Eva, to be honest, I've recently developed a huge interest in gardening, and my absolute favorite plant at home is a Monstera deliciosa, which sits right next to my living room window. When it <strong style="color:blue;">comes to</strong> its appearance, it's quite a stunner. It has these large, glossy, dark green leaves with natural holes and splits, which gives it a very tropical and exotic vibe. It <strong style="color:blue;">stands out</strong> immediately when you walk into the room because of its vibrant color and unique leaf pattern. I actually got this plant as a housewarming gift from one of my close friends when I moved into my current apartment about a year ago. Back then, it was just a tiny sprout with only two small leaves, but as time <strong style="color:blue;">went by</strong>, it has <strong style="color:blue;">grown into</strong> a massive, healthy plant. Taking care of it has become my favorite daily routine. Whenever I <strong style="color:blue;">wake up</strong> in the morning, the very first thing I do is check the soil moisture and wipe down the leaves. I <strong style="color:blue;">make sure to</strong> water it <strong style="color:blue;">on a regular basis</strong> and give it enough indirect sunlight. Honestly, watching new leaves <strong style="color:blue;">sprout up</strong> brings me an incredible sense of accomplishment and peace of mind. It’s not just a decoration; it really feels like a living companion that <strong style="color:blue;">brings life to</strong> my entire living space.
+
+**[Vocabulary & Expressions]**
+* gardening: 원예
+* exotic: 이국적인
+* sprout: 새싹
+* moisture: 습기, 수분
+* accomplishment: 성취감
+* <strong style="color:blue;">comes to</strong>: ~에 관해서라면
+* <strong style="color:blue;">stands out</strong>: 눈에 띄다, 두드러지다
+* <strong style="color:blue;">went by</strong>: (시간이) 지나다
+* <strong style="color:blue;">grown into</strong>: ~로 성장하다
+* <strong style="color:blue;">wake up</strong>: 잠에서 깨다
+* <strong style="color:blue;">make sure to</strong>: 반드시 ~하다
+* <strong style="color:blue;">on a regular basis</strong>: 정기적으로
+* <strong style="color:blue;">sprout up</strong>: 싹이 트다, 생겨나다
+* <strong style="color:blue;">brings life to</strong>: 활기를 불어넣다
+
+---
+### 롤플레이 : 렌터카 반납 시 미세한 스크래치 보험 처리 문의
+
+**[Question]**
+Imagine you are returning a rental car, and the agent notices a minor scratch on the vehicle. Ask three or four questions to the rental company representative about how to handle this with your insurance.
+(렌터카를 반납하는 상황을 가정해 보세요. 직원이 차량의 미세한 스크래치를 발견합니다. 이 문제를 보험으로 어떻게 처리할 수 있는지 렌터카 회사 직원에게 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Oh, excuse me. Are you talking about this tiny scratch right here near the rear bumper? I honestly had no idea that was even there. It must have happened while it was parked somewhere. Since I purchased the full coverage insurance when I <strong style="color:blue;">picked up</strong> the car, could you explain how this process works? First of all, does my insurance policy <strong style="color:blue;">cover</strong> minor scratches like this, or is there a certain deductible I need to pay? I want to <strong style="color:blue;">figure out</strong> if it's actually worth <strong style="color:blue;">going through</strong> the insurance claim process. Second, what kind of paperwork do I need to <strong style="color:blue;">fill out</strong> right now before I leave? Do I need to <strong style="color:blue;">write down</strong> an incident report or take any additional photos for the insurance company? Lastly, if I <strong style="color:blue;">rely on</strong> my insurance for this, will it cause my future rental rates to <strong style="color:blue;">go up</strong>, or is it fully protected under the zero-deductible plan I chose? I really need to <strong style="color:blue;">sort this out</strong> quickly because I have a flight to catch in a couple of hours, so I'd appreciate it if you could <strong style="color:blue;">walk me through</strong> the exact steps I need to take.
+
+**[Vocabulary & Expressions]**
+* bumper: 범퍼
+* coverage: (보험의) 보장 범위
+* deductible: 자기부담금
+* paperwork: 서류 작업
+* incident: 사고, 사건
+* <strong style="color:blue;">picked up</strong>: (물건이나 사람을) 찾다, 태우다
+* <strong style="color:blue;">cover</strong>: (보험이) 보장하다
+* <strong style="color:blue;">figure out</strong>: 알아내다, 이해하다
+* <strong style="color:blue;">going through</strong>: 겪다, 거치다
+* <strong style="color:blue;">fill out</strong>: (서류를) 작성하다
+* <strong style="color:blue;">write down</strong>: 적어두다
+* <strong style="color:blue;">rely on</strong>: ~에 의존하다
+* <strong style="color:blue;">go up</strong>: 오르다
+* <strong style="color:blue;">sort this out</strong>: 이 문제를 해결하다
+* <strong style="color:blue;">walk me through</strong>: ~을 차근차근 설명해 주다
+
+---
+### 돌발 : 호텔 예약 날짜 착각으로 현지에서 숙소를 구했던 경험
+
+**[Question]**
+Talk about a time when you made a mistake with your hotel reservation dates and had to find a place to stay urgently in a foreign place. What happened, and how did you <strong style="color:blue;">deal with</strong> the situation?
+(호텔 예약 날짜를 착각하여 낯선 곳에서 급하게 숙소를 구해야 했던 경험에 대해 이야기해 주세요. 어떤 일이 있었고, 그 상황을 어떻게 대처했나요?)
+
+**[Model Answer]**
+You know, looking back, it's a bit funny now, but at that moment, it was an absolute nightmare. A couple of years ago, I traveled to Sydney for a vacation. I arrived at the hotel all excited, but when I <strong style="color:blue;">handed over</strong> my passport, the receptionist gave me a confused look and said my reservation was actually for the following month. I had completely <strong style="color:blue;">mess up</strong> the dates due to the time difference and jet lag. I was standing in the lobby with heavy luggage, completely exhausted, and didn't know what to do. I had to <strong style="color:blue;">calm down</strong> first and <strong style="color:blue;">take a deep breath</strong>. Then, I immediately <strong style="color:blue;">sat down</strong> on a lobby sofa and <strong style="color:blue;">pulled out</strong> my smartphone. I opened several hotel booking apps to <strong style="color:blue;">search for</strong> available rooms nearby, but most places were either fully booked or way out of my budget. I started to <strong style="color:blue;">freak out</strong>, thinking I might have to spend the night at the airport. Fortunately, after <strong style="color:blue;">filtering through</strong> dozens of options, I managed to <strong style="color:blue;">come across</strong> a small, cozy boutique hotel just a ten-minute walk away that had a last-minute cancellation. I <strong style="color:blue;">booked it</strong> right on the spot, grabbed my bags, and <strong style="color:blue;">headed over</strong> there. That unexpected mishap taught me a valuable lesson to always <strong style="color:blue;">double-check</strong> my travel itineraries <strong style="color:blue;">ahead of time</strong>.
+
+**[Vocabulary & Expressions]**
+* nightmare: 악몽
+* receptionist: 접수 담당자
+* luggage: 수하물, 짐
+* exhausted: 지친
+* cancellation: 취소
+* mishap: 작은 사고, 불운
+* itinerary: 여행 일정표
+* <strong style="color:blue;">deal with</strong>: 대처하다, 다루다
+* <strong style="color:blue;">handed over</strong>: 건네주다
+* <strong style="color:blue;">mess up</strong>: 망치다, 실수하다
+* <strong style="color:blue;">calm down</strong>: 진정하다
+* <strong style="color:blue;">take a deep breath</strong>: 심호흡하다
+* <strong style="color:blue;">sat down</strong>: 앉다
+* <strong style="color:blue;">pulled out</strong>: 꺼내다
+* <strong style="color:blue;">search for</strong>: ~을 찾다
+* <strong style="color:blue;">freak out</strong>: 겁을 먹다, 당황하다
+* <strong style="color:blue;">filtering through</strong>: 거르다, 선별하다
+* <strong style="color:blue;">come across</strong>: 우연히 발견하다
+* <strong style="color:blue;">booked it</strong>: 예약하다
+* <strong style="color:blue;">headed over</strong>: 향하여 가다
+* <strong style="color:blue;">double-check</strong>: 재확인하다
+* <strong style="color:blue;">ahead of time</strong>: 미리, 사전에
