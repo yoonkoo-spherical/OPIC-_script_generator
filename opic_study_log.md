@@ -11612,3 +11612,104 @@ You know, looking back, it's a bit funny now, but at that moment, it was an abso
 * <strong style="color:blue;">headed over</strong>: 향하여 가다
 * <strong style="color:blue;">double-check</strong>: 재확인하다
 * <strong style="color:blue;">ahead of time</strong>: 미리, 사전에
+
+## 2026-08-06 05:38:00 OPIc Study
+
+### 묘사 : 아파트 단지 내 재활용 분리수거 구역 묘사
+
+**[Question]**
+Could you describe the recycling area in your apartment complex or neighborhood? What does it look like, and how is it organized?
+(당신의 아파트 단지나 동네에 있는 재활용 구역을 묘사해 주시겠습니까? 어떻게 생겼고, 어떻게 정돈되어 있나요?)
+
+**[Model Answer]**
+You know, I live in a fairly large apartment complex, and to be honest, I <strong style="color:blue;">am impressed by</strong> how well-organized our recycling area is. If I were to paint a picture of it, it's located right behind building 103, housed under a clean, modern-looking canopy to protect everything from rain or snow. As you <strong style="color:blue;">walk up to</strong> the area, the first thing you'll notice is how meticulously it is sectioned off. There are several large, heavy-duty bins, each clearly labeled for different materials like transparent PET bottles, colored plastics, paper, cans, and glass bottles. 
+
+What really <strong style="color:blue;">stands out</strong> is that residents here are quite conscientious. You won't usually find a messy pile of trash because people generally follow the rules. For instance, cardboard boxes are always flattened before being <strong style="color:blue;">stacked up</strong>, and plastic caps are <strong style="color:blue;">taken off</strong> bottles. There is also a small separate section designated for hazardous waste like old batteries and fluorescent lightbulbs, which I think is very thoughtful. 
+
+Moreover, the management office <strong style="color:blue;">keeps track of</strong> the cleanliness by stationing a dedicated staff member there during peak hours, especially on weekends when the <strong style="color:blue;">volume of</strong> waste <strong style="color:blue;">builds up</strong>. This person <strong style="color:blue;">makes sure that</strong> everything is sorted properly and helps elderly residents if they are struggling. In addition, there are closed-circuit cameras <strong style="color:blue;">set up</strong> to prevent illegal dumping, which <strong style="color:blue;">tends to</strong> keep everyone on their best behavior. All in all, our recycling zone isn't just a utilitarian space; it reflects the community's strong commitment to sustainability and eco-friendly living. Whenever I go down there to <strong style="color:blue;">dispose of</strong> my recyclables, I actually feel a small sense of pride being part of such a well-managed neighborhood.
+
+**[Vocabulary & Expressions]**
+* canopy: 캐노피, 지붕 모양의 구조물
+* meticulously: 꼼꼼하게, 세심하게
+* hazardous: 위험한, 유해한
+* conscientious: 양심적인, 성실한
+* utilitarian: 실용적인, 공리주의의
+* <strong style="color:blue;">am impressed by</strong>: ~에 깊은 인상을 받다
+* <strong style="color:blue;">walk up to</strong>: ~에게 다가가다
+* <strong style="color:blue;">stands out</strong>: 두드러지다, 눈에 띄다
+* <strong style="color:blue;">stacked up</strong>: 쌓아 올려진
+* <strong style="color:blue;">taken off</strong>: 떼어낸, 제거된
+* <strong style="color:blue;">keeps track of</strong>: ~을 기록하다, 파악하다
+* <strong style="color:blue;">volume of</strong>: ~의 양
+* <strong style="color:blue;">builds up</strong>: 쌓이다, 늘어나다
+* <strong style="color:blue;">makes sure that</strong>: 확실히 ~하다
+* <strong style="color:blue;">set up</strong>: 설치하다, 세우다
+* <strong style="color:blue;">tends to</strong>: ~하는 경향이 있다
+* <strong style="color:blue;">dispose of</strong>: ~을 처분하다, 버리다
+
+---
+### 롤플레이 : 동료에게 업무 일부를 정중히 부탁하기
+
+**[Question]**
+You are suddenly overwhelmed with an urgent project at work and need to leave the office early today. Ask your coworker to help you handle some of your tasks while you are gone. Ask three to four specific questions.
+(당신은 직장에서 갑자기 긴급한 프로젝트로 업무가 과중되어 오늘 조퇴를 해야 합니다. 동료에게 당신이 없는 동안 업무 일부를 대신 처리해 달라고 정중히 부탁하세요. 3~4가지 구체적인 질문을 하세요.)
+
+**[Model Answer]**
+Hey David, do you have a quick second? I'm really sorry to <strong style="color:blue;">bring this up</strong> out of the blue, but I'm in a bit of a bind today. A critical client issue just <strong style="color:blue;">popped up</strong>, and I need to <strong style="color:blue;">take care of</strong> it off-site, which means I'll have to <strong style="color:blue;">head out early</strong> this afternoon. Since my schedule is completely packed, I was wondering if I could <strong style="color:blue;">ask a huge favor of</strong> you. 
+
+First off, would you mind terribly <strong style="color:blue;">taking over</strong> the quarterly sales report preparation for me? I've already <strong style="color:blue;">put together</strong> the raw data in the shared folder, but it still needs to be formatted and summarized. Do you think you could <strong style="color:blue;">look over</strong> it and finalize the slides by 4 PM? 
+
+Also, I'm expecting an urgent call from Mr. Henderson regarding the marketing proposal. If he <strong style="color:blue;">reaches out</strong> while I'm away, would you mind <strong style="color:blue;">passing along</strong> a message that I'll personally call him first thing tomorrow morning? I don't want him to feel neglected. 
+
+Lastly, if any other unexpected emergencies <strong style="color:blue;">come up</strong> while I'm gone, do you think you could <strong style="color:blue;">cover for</strong> me just for today? I know you're also busy with your own workload, so I would <strong style="color:blue;">truly appreciate</strong> your help. To <strong style="color:blue;">make it up to</strong> you, I'd love to treat you to lunch or dinner sometime this week. Let me know if this is <strong style="color:blue;">doable</strong> for you!
+
+**[Vocabulary & Expressions]**
+* overwhelmed: 압도된, 어쩔 줄 몰르는
+* off-site: 사무실 외부에서
+* neglected: 방치된, 소홀히 여겨진
+* workload: 업무량
+* doable: 할 수 있는, 실행 가능한
+* <strong style="color:blue;">bring this up</strong>: 이 이야기를 꺼내다
+* <strong style="color:blue;">popped up</strong>: 불쑥 나타났다, 생겼다
+* <strong style="color:blue;">take care of</strong>: 처리하다, 돌보다
+* <strong style="color:blue;">head out early</strong>: 일찍 퇴근하다, 자리를 뜨다
+* <strong style="color:blue;">ask a huge favor of</strong>: ~에게 큰 부탁을 하다
+* <strong style="color:blue;">taking over</strong>: 인수하다, 이어받다
+* <strong style="color:blue;">put together</strong>: 모으다, 작성하다
+* <strong style="color:blue;">look over</strong>: 검토하다, 훑어보다
+* <strong style="color:blue;">reaches out</strong>: 연락하다, 손을 내밀다
+* <strong style="color:blue;">passing along</strong>: 전달하다
+* <strong style="color:blue;">come up</strong>: 발생하다, 생기다
+* <strong style="color:blue;">cover for</strong>: ~을 대신하다, 커버해주다
+* <strong style="color:blue;">truly appreciate</strong>: 진심으로 감사하다
+* <strong style="color:blue;">make it up to</strong>: (잘못이나 신세를) 만회하다, 갚다
+
+---
+### 돌발 : 기억에 남는 어린 시절의 특별한 기념일 에피소드
+
+**[Question]**
+Tell me about a memorable childhood birthday party or a special celebration you had when you were young. What made it so special, and why do you still remember it vividly?
+(어린 시절에 있었던 기억에 남는 생일 파티나 특별한 기념일에 대해 이야기해 주세요. 무엇이 그것을 그나 특별하게 만들었으며, 왜 아직도 생생하게 기억하고 계시나요?)
+
+**[Model Answer]**
+You know, thinking back, one of the most unforgettable memories from my childhood was my tenth birthday. Up until that point, my parents had always thrown me standard, at-home birthday parties with just a few neighborhood friends and a simple cake. But for my tenth birthday, my parents <strong style="color:blue;">pulled off</strong> an absolute surprise that <strong style="color:blue;">blew my mind</strong>. 
+
+On the morning of my birthday, my mom told me we were just going to a regular amusement park, which I was already excited about. However, when we <strong style="color:blue;">showed up</strong> at the entrance, I saw my entire elementary school class—yes, all my close friends—waiting for me with balloons and banners. My parents had secretly <strong style="color:blue;">reached out to</strong> all their parents weeks in advance to <strong style="color:blue;">coordinate</strong> the whole thing without me having the slightest clue. 
+
+We spent the entire day riding roller coasters, eating cotton candy, and playing arcade games together. It felt like I was the star of the movie. What made it even more special was that my dad had <strong style="color:blue;">set up</strong> a special picnic area near the lake inside the park, where my mom had prepared my absolute favorite homemade foods, including bulgogi and seaweed soup. 
+
+Even though many years have <strong style="color:blue;">gone by</strong> since then, I still <strong style="color:blue;">look back on</strong> that day with a huge smile. It wasn't just because of the fun rides or the gifts, but because I truly felt so loved and cherished by my family and friends. It really <strong style="color:blue;">left a lasting impression on</strong> me, teaching me how much effort my parents put into making me happy, and it remains my absolute favorite childhood memory to this day.
+
+**[Vocabulary & Expressions]**
+* vivid: 생생한, 선명한
+* banner: 현수막, 플래카드
+* coordinate: 조정하다, 조직하다
+* cherish: 소중히 여기다, 아끼다
+* <strong style="color:blue;">pulled off</strong>: (어려운 일을) 해내다, 성사시키다
+* <strong style="color:blue;">blew my mind</strong>: 깜짝 놀라게 하다, 감탄시키다
+* <strong style="color:blue;">showed up</strong>: 나타났다, 도착했다
+* <strong style="color:blue;">reached out to</strong>: ~에게 연락을 취하다
+* <strong style="color:blue;">set up</strong>: 마련하다, 설치하다
+* <strong style="color:blue;">gone by</strong>: 지나가다 (시간이)
+* <strong style="color:blue;">look back on</strong>: ~을 회상하다, 되돌아보다
+* <strong style="color:blue;">left a lasting impression on</strong>: ~에게 오래 남는 인상을 남기다
