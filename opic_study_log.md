@@ -11713,3 +11713,71 @@ Even though many years have <strong style="color:blue;">gone by</strong> since t
 * <strong style="color:blue;">gone by</strong>: 지나가다 (시간이)
 * <strong style="color:blue;">look back on</strong>: ~을 회상하다, 되돌아보다
 * <strong style="color:blue;">left a lasting impression on</strong>: ~에게 오래 남는 인상을 남기다
+
+## 2026-08-07 04:45:48 OPIc Study
+
+### 묘사 : 즐겨 마시는 아이스 아메리카노 묘사
+
+**[Question]**
+What kind of beverage or coffee do you usually drink? Please describe its types and characteristics in detail.
+(당신은 평소 어떤 종류의 음료나 커피를 마시나요? 그 종류와 특징을 자세히 묘사해 주세요.)
+
+**[Model Answer]**
+You know, I am a huge coffee enthusiast, and if I have to pick my absolute go-to beverage, it has to be an iced Americano. I <strong style="color:blue;">rely on</strong> it almost every single day to <strong style="color:blue;">get through</strong> my hectic work schedule. As for the characteristics, well, it is remarkably simple yet deeply satisfying. It typically consists of a double shot of espresso poured over cold water and ice cubes. What I love most about it is its refreshing crispness and the bold, robust flavor profile. Unlike sweet, creamy lattes or sugary flavored drinks, an iced Americano has this clean, bitter-yet-sweet aftertaste that really <strong style="color:blue;">wakes me up</strong> in the morning. Whenever I <strong style="color:blue;">grab a cup of</strong> coffee on my way to the office, the strong aroma instantly <strong style="color:blue;">puts me in a good mood</strong>. Also, it is extremely low in calories, which is a huge plus for me because I try to watch my weight. Another thing worth mentioning is its versatility. Depending on my mood, I sometimes <strong style="color:blue;">switch to</strong> decaf or try different coffee bean origins with fruity or nutty notes. All in all, my daily iced Americano is not just a caffeinated drink; it is an essential part of my daily routine that helps me <strong style="color:blue;">stay focused</strong> and energized throughout the day.
+
+**[Vocabulary & Expressions]**
+* Enthusiast: 애호가
+* Robust: 진한, 굵직한
+* Versatility: 다용도성, 다양성
+* <strong style="color:blue;">rely on</strong>: ~에 의존하다
+* <strong style="color:blue;">get through</strong>: ~을 헤쳐 나가다, 견뎌내다
+* <strong style="color:blue;">wakes me up</strong>: 잠을 깨우다
+* <strong style="color:blue;">grab a cup of</strong>: 커피 한 잔을 사다
+* <strong style="color:blue;">puts me in a good mood</strong>: 기분을 좋게 만들다
+* <strong style="color:blue;">switch to</strong>: ~로 전환하다
+* <strong style="color:blue;">stay focused</strong>: 집중을 유지하다
+
+---
+### 롤플레이 : 주차 문제로 이웃에게 차 이동 요청하기
+
+**[Question]**
+You are having trouble with a neighbor's car parked incorrectly, blocking your way. Call your neighbor and explain the situation, and then suggest two or three alternatives or solutions.
+(이웃의 잘못된 주차로 인해 길이 막혀 불편을 겪고 있습니다. 이웃에게 전화하여 상황을 설명하고, 대안이나 해결책을 두세 가지 제안하세요.)
+
+**[Model Answer]**
+Hi there, is this Mr. Johnson from apartment 302? Hello, Mr. Johnson. My name is Alex, and I live right next door in apartment 301. I am so sorry to <strong style="color:blue;">reach out</strong> to you out of the blue, but I am currently facing a bit of an urgent situation regarding the parking lot. It <strong style="color:blue;">turns out that</strong> your vehicle is parked slightly over the line, and unfortunately, it is completely blocking my designated parking space. Because of this, I am currently unable to <strong style="color:blue;">pull out</strong> my car, and I really need to leave for an important business meeting in about twenty minutes. I was wondering if you could possibly come down to the garage and <strong style="color:blue;">move your car</strong> for me right now? I know you must be busy, but I would really appreciate it if you could <strong style="color:blue;">help me out</strong> with this. If you are currently not at home or unable to come down right away, would it be okay if I asked the management office to contact a towing service, or perhaps you could share your spare key with me so I can <strong style="color:blue;">take care of</strong> it myself? I am terribly sorry for the inconvenience, and thank you so much for your understanding and cooperation. Please give me a call back as soon as you <strong style="color:blue;">listen to</strong> this message. Bye!
+
+**[Vocabulary & Expressions]**
+* Designated: 지정된
+* Inconvenience: 불편
+* Cooperation: 협조
+* <strong style="color:blue;">reach out</strong>: 연락하다
+* <strong style="color:blue;">turns out that</strong>: ~임이 드러나다
+* <strong style="color:blue;">pull out</strong>: (차를) 빼내다
+* <strong style="color:blue;">move your car</strong>: 차를 이동시키다
+* <strong style="color:blue;">help me out</strong>: 도와주다
+* <strong style="color:blue;">take care of</strong>: 처리하다
+* <strong style="color:blue;">listen to</strong>: ~을 듣다
+
+---
+### 돌발 : 어릴 적 TV 프로그램과 요즘 유행하는 영상 매체 비교
+
+**[Question]**
+Compare the TV programs you used to watch when you were a child with the video platforms or media trends that are popular nowadays. How have they changed?
+(어릴 적 즐겨 보던 TV 프로그램과 요즘 유행하는 영상 매체를 비교해 주세요. 어떻게 달라졌나요?)
+
+**[Model Answer]**
+When I look back at my childhood, the media landscape was completely different from what it is today. Back then, my generation used to <strong style="color:blue;">rely heavily on</strong> traditional television broadcasting. I vividly remember rushing home from school just to <strong style="color:blue;">catch my favorite</strong> cartoon shows at a specific scheduled broadcast time. We had very limited choices, and watching TV was a passive, fixed experience. However, if we <strong style="color:blue;">look at</strong> today's media trends, the transformation is truly astonishing. Nowadays, young people rarely watch traditional TV. Instead, they overwhelmingly <strong style="color:blue;">tend to</strong> use streaming platforms like YouTube, Netflix, and various short-form video apps. The biggest difference is the concept of control and interactivity. In the past, we had to <strong style="color:blue;">wait for</strong> scheduled programs, but today, viewers can <strong style="color:blue;">access</strong> whatever content they want, whenever and wherever they want, with just a simple tap on their smartphones. Furthermore, content creation has become democratized; virtually anyone can <strong style="color:blue;">turn into</strong> a creator and upload their own videos. While our childhood TV shows provided a shared cultural experience for all kids in the neighborhood, today's video media offers highly personalized, tailored content based on individual algorithms. Ultimately, while old-school TV had a cozy, nostalgic charm, contemporary media platforms <strong style="color:blue;">stand out</strong> for their incredible convenience and endless variety.
+
+**[Vocabulary & Expressions]**
+* Landscape: (사회적·문화적) 상황, 풍경
+* Democratized: 민주화된
+* Personalized: 개인화된
+* <strong style="color:blue;">rely heavily on</strong>: ~에 크게 의존하다
+* <strong style="color:blue;">catch my favorite</strong>: 좋아하는 것을 시청하다
+* <strong style="color:blue;">look at</strong>: ~을 보다
+* <strong style="color:blue;">tend to</strong>: ~하는 경향이 있다
+* <strong style="color:blue;">wait for</strong>: ~을 기다리다
+* <strong style="color:blue;">access</strong>: 접속하다, 이용하다
+* <strong style="color:blue;">turn into</strong>: ~로 변하다
+* <strong style="color:blue;">stand out</strong>: 눈에 띄다, 두드러지다
