@@ -11781,3 +11781,86 @@ When I look back at my childhood, the media landscape was completely different f
 * <strong style="color:blue;">access</strong>: 접속하다, 이용하다
 * <strong style="color:blue;">turn into</strong>: ~로 변하다
 * <strong style="color:blue;">stand out</strong>: 눈에 띄다, 두드러지다
+
+## 2026-08-08 04:02:26 OPIc Study
+
+### 묘사 : 자주 사용하는 스마트폰 앱 인터페이스
+
+**[Question]**
+What is your favorite smartphone application that you use frequently? Please describe its user interface in detail. What does the main screen look like, and how do you navigate through it?
+(당신이 자주 사용하는 가장 좋아하는 스마트폰 애플리케이션은 무엇인가요? 사용자 인터페이스를 자세히 묘사해 주세요. 메인 화면은 어떻게 생겼으며, 어떻게 탐색하나요?)
+
+**[Model Answer]**
+You know, if I have to pick one app that I am totally obsessed with and use almost every single day, it would definitely be Instagram. I mean, I am a huge fan of photography and keeping up with my friends, so I spend hours on it. 
+
+When you <strong style="color:blue;">fire up</strong> the app, the very first thing that <strong style="color:blue;">catches your eye</strong> is the clean and minimalist interface. At the top of the screen, you've got the iconic Instagram logo written in a stylish font, and right next to it, there are icons for direct messaging and your notifications. Below that is the Stories section, which is basically a horizontal scroll of circular profile pictures wrapped in colorful rings. If you tap on any of them, you can instantly <strong style="color:blue;">dive into</strong> your friends' daily updates.
+
+Now, the main feed takes up the <strong style="color:blue;">lion's share</strong> of the screen space. As you <strong style="color:blue;">scroll down</strong>, you see high-resolution photos and reels posted by the accounts you follow. Right beneath each post, there is a neatly arranged toolbar with a heart icon for liking, a speech bubble for commenting, a paper airplane icon for sharing, and a bookmark icon on the far right if you want to <strong style="color:blue;">save for later</strong>. 
+
+Finally, at the very bottom of the screen, there is a fixed navigation bar with five core tabs. The home icon takes you back to the top of your feed, the magnifying glass lets you <strong style="color:blue;">search for</strong> new content and creators, the plus icon allows you to upload your own media, the reels icon is for short-form videos, and the last one leads straight to your personal profile page. Overall, I think the UI is extremely intuitive and user-friendly, which is probably why it keeps me <strong style="color:blue;">hooked on</strong> it for hours.
+
+**[Vocabulary & Expressions]**
+* minimalist: 미니멀한, 단순한
+* intuitive: 직관적인
+* <strong style="color:blue;">fire up</strong>: (기기나 앱을) 켜다, 실행하다
+* <strong style="color:blue;">catch your eye</strong>: 눈길을 사로잡다
+* <strong style="color:blue;">dive into</strong>: ~에 몰두하다, 빠져들다
+* <strong style="color:blue;">lion's share</strong>: 가장 큰 부분
+* <strong style="color:blue;">scroll down</strong>: 아래로 스크롤하다
+* <strong style="color:blue;">save for later</strong>: 나중에 보려고 저장하다
+* <strong style="color:blue;">search for</strong>: ~을 검색하다
+* <strong style="color:blue;">hooked on</strong>: ~에 푹 빠진
+
+---
+### 롤플레이 : 친구에게 다이어트 운동 설득하기
+
+**[Question]**
+You want to lose some weight and get in shape, and you think it would be much more fun and effective if you work out with a friend. Call your friend, and ask three or four questions to suggest working out together.
+(당신은 살을 빼고 몸을 가꾸고 싶어 하며, 친구와 함께 운동하는 것이 훨씬 더 재미있고 효과적일 것이라고 생각합니다. 친구에게 전화해서 같이 운동하자고 제안하기 위해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hey Mark, it’s me! Listen, I’m calling you because I really need to <strong style="color:blue;">get my act together</strong> and start losing some weight. You know how much I've been struggling with my stamina lately. Anyway, I was thinking it would be awesome if we could work out together. It’s always so hard to stay motivated when you do it alone, right? 
+
+So, I was wondering, what kind of exercise do you think would be best for us? Are you more into hitting the gym for weight training, or would you prefer something like running outdoors or joining a CrossFit class? Let me know what you think. 
+
+Oh, and by the way, how does your weekly schedule look these days? I’m usually free on weekday evenings after 7 PM, but I can also <strong style="color:blue;">make time for</strong> the weekends if that suits you better. What days work best for you? 
+
+Lastly, do you happen to know any good fitness centers or gyms around our neighborhood? I heard there’s a new one opening up near the station with a great discount for members. Maybe we should <strong style="color:blue;">check it out</strong> together this weekend. Call me back whenever you <strong style="color:blue;">get a chance</strong> so we can <strong style="color:blue;">work out</strong> the details!
+
+**[Vocabulary & Expressions]**
+* stamina: 체력
+* motivated: 동기부여가 된
+* <strong style="color:blue;">get my act together</strong>: 정신 차리다, 제대로 하다
+* <strong style="color:blue;">make time for</strong>: ~을 위해 시간을 내다
+* <strong style="color:blue;">check it out</strong>: 확인해 보다, 구경하다
+* <strong style="color:blue;">get a chance</strong>: 기회가 되다
+* <strong style="color:blue;">work out</strong>: (문제를) 해결하다, 세부 사항을 정하다
+
+---
+### 돌발 : 중고 거래 사기 미수 또는 이상한 사람 경험
+
+**[Question]**
+Tell me about a time when you almost got scammed while using a second-hand online marketplace, or when you met a very weird person through a transaction. What happened, and how did you handle the situation?
+(온라인 중고 거래를 하다가 사기를 당할 뻔했거나, 거래를 통해 매우 이상한 사람을 만났던 경험에 대해 이야기해 주세요. 어떤 일이 있었고, 그 상황을 어떻게 대처했나요?)
+
+**[Model Answer]**
+You know, I’ve used second-hand trading apps quite often, but I had this one really bizarre experience last year that I will never forget. I was trying to buy a limited-edition wireless headphone, and I found a listing that was priced surprisingly lower than the market rate. I <strong style="color:blue;">jumped at the chance</strong> because I thought I had found a real bargain.
+
+I immediately sent a message to the seller, and he replied very quickly. But things started to <strong style="color:blue;">smell fishy</strong> when I suggested meeting up in person at a public place. He kept making excuses, saying that he was too busy with work and lived in a remote area, so we had to <strong style="color:blue;">deal through</strong> delivery. He even sent me a link to a fake escrow website that looked almost identical to the official payment platform, asking me to <strong style="color:blue;">transfer the money</strong> there.
+
+That was when <strong style="color:blue;">alarm bells went off</strong> in my head. I decided to <strong style="color:blue;">look into</strong> his account history, and I realized that his profile had been created just a few hours ago, and his phone number was already <strong style="color:blue;">flagged as</strong> a potential scammer on a public fraud-checking database. 
+
+Instead of arguing with him, I decided to <strong style="color:blue;">cut off</strong> all communication and <strong style="color:blue;">block him</strong> right away. Furthermore, I reported his account to the customer service team of the app so that other innocent people wouldn't <strong style="color:blue;">fall victim to</strong> his scam. It was a close call, but it taught me a valuable lesson: if a deal sounds too good to be true, it probably is.
+
+**[Vocabulary & Expressions]**
+* bizarre: 기괴한, 이상한
+* remote: 원격의, 먼
+* identical: 동일한
+* <strong style="color:blue;">jump at the chance</strong>: 기회를 덥석 잡다
+* <strong style="color:blue;">smell fishy</strong>: 수상하다, 냄새가 나다
+* <strong style="color:blue;">deal through</strong>: ~를 통해 거래하다
+* <strong style="color:blue;">alarm bells go off</strong>: 경각심이 울리다, 위험을 감지하다
+* <strong style="color:blue;">look into</strong>: 조사하다, 살펴보다
+* <strong style="color:blue;">flag as</strong>: ~로 표시하다, 신고하다
+* <strong style="color:blue;">cut off</strong>: 끊다, 차단하다
+* <strong style="color:blue;">fall victim to</strong>: ~의 희생양이 되다
