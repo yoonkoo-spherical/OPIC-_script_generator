@@ -11864,3 +11864,108 @@ Instead of arguing with him, I decided to <strong style="color:blue;">cut off</s
 * <strong style="color:blue;">flag as</strong>: ~로 표시하다, 신고하다
 * <strong style="color:blue;">cut off</strong>: 끊다, 차단하다
 * <strong style="color:blue;">fall victim to</strong>: ~의 희생양이 되다
+
+## 2026-08-09 04:08:53 OPIc Study
+
+### 묘사 : 드림카의 외관과 실내 인테리어 묘사
+
+**[Question]**
+Please describe the car you are currently driving or the dream car you would love to own. What does it look like on the outside, and what are the interior features like? Please give me a detailed description.
+현재 운전하고 계신 차나 소유하고 싶은 드림카에 대해 묘사해 주세요. 외관은 어떻게 생겼고 실내 특징은 어떤가요? 자세히 설명해 주세요.
+
+**[Model Answer]**
+You know, if I have to pick the absolute car of my dreams, I would definitely go for a modern, sleek fully-electric SUV, specifically in a matte dark gray finish. 
+To <strong style="color:blue;">kick things off</strong> with the exterior, it has this incredibly futuristic and aerodynamic look. The body lines are super sharp and clean, which really minimizes wind resistance. Instead of a traditional bulky grill, it features a seamless, minimalist front panel flanked by razor-sharp LED matrix headlights that practically <strong style="color:blue;">stand out</strong> at night. It also rolls on massive 21-inch alloy wheels, giving it a very commanding yet sophisticated presence on the road. The panoramic glass roof <strong style="color:blue;">stretches from</strong> the front windshield all the way to the back, making the whole silhouette look dynamic and fluid.
+
+Now, moving on to the interior, it is <strong style="color:blue;">nothing short of</strong> a spaceship. As soon as you <strong style="color:blue;">step inside</strong>, you are <strong style="color:blue;">met with</strong> this minimalist yet ultra-luxurious cabin. The seats are wrapped in premium, eco-friendly vegan leather that is both heated and ventilated. They are ergonomically designed, so whenever I <strong style="color:blue;">settle into</strong> the driver's seat for a long trip, it feels like sitting in an expensive living room recliner. 
+The dashboard is completely uncluttered. It is dominated by a massive, floating touchscreen infotainment system that <strong style="color:blue;">takes care of</strong> almost everything from climate control to navigation. There is also a state-of-the-art ambient lighting system with over sixty customizable colors, allowing me to <strong style="color:blue;">set the mood</strong> depending on my driving vibe. 
+Honestly, every time I <strong style="color:blue;">picture myself</strong> behind the wheel of this machine, I just <strong style="color:blue;">long for</strong> the day I can finally <strong style="color:blue;">pull out of</strong> the dealership driveway in one. It is truly a masterpiece of modern engineering.
+
+**[Vocabulary & Expressions]**
+* aerodynamic: 공기역학적인
+* silhouette: 실루엣, 윤곽
+* ergonomically: 인체공학적으로
+* minimalist: 미니멀리스트의, 단순한
+* <strong style="color:blue;">kick things off</strong>: 시작하다
+* <strong style="color:blue;">stand out</strong>: 눈에 띄다
+* <strong style="color:blue;">stretches from</strong>: ~로부터 뻗어 있다
+* <strong style="color:blue;">nothing short of</strong>: ~와 다름없는, 완전히 ~인
+* <strong style="color:blue;">step inside</strong>: 안으로 들어가다
+* <strong style="color:blue;">met with</strong>: ~와 마주하다
+* <strong style="color:blue;">settle into</strong>: 편안히 자리잡다
+* <strong style="color:blue;">takes care of</strong>: 처리하다, 담당하다
+* <strong style="color:blue;">set the mood</strong>: 분위기를 조성하다
+* <strong style="color:blue;">picture myself</strong>: 내 모습을 그리다
+* <strong style="color:blue;">long for</strong>: 갈망하다
+* <strong style="color:blue;">pull out of</strong>: ~에서 빠져나오다
+
+---
+### 롤플레이 : 어버이날 꽃바구니 예산 및 종류 상담
+
+**[Question]**
+You want to order a special flower basket for Parents' Day. Call a local flower shop, ask about the available flower types and prices, and discuss your budget with the florist to place an order.
+어버이날을 위해 특별한 꽃바구니를 주문하려고 합니다. 동네 꽃집에 전화하여 가능한 꽃 종류와 가격을 물어보고, 플로리스트와 예산을 논의한 뒤 주문을 완료하세요.
+
+**[Model Answer]**
+Hi there! Is this Blossom Florist? Yes, hello. I am calling because I need to order a very special flower basket for Parents' Day coming up next week, and I was hoping to <strong style="color:blue;">go over</strong> some options and prices with you. 
+
+First of all, what kind of flowers do you currently have in stock that <strong style="color:blue;">work well for</strong> Parents' Day? I definitely want something bright and elegant, maybe featuring carnations, but I would love to <strong style="color:blue;">mix and match</strong> them with other seasonal blooms like roses or peonies to make it look richer. 
+Ah, I see. So you have premium pink carnations paired with white hydrangeas? That sounds lovely! 
+
+Now, regarding the budget, I am looking to spend around 80,000 to 100,000 Korean won. Would that be enough to get a <strong style="color:blue;">decent-sized</strong>, rich-looking basket? 
+Great. Perfect. Within that budget, could you make sure the overall color tone is warm and vibrant, something that can instantly <strong style="color:blue;">bring a smile to</strong> my parents' faces? 
+Also, I need it delivered or ready for pickup by next Friday afternoon. Will I need to <strong style="color:blue;">drop by</strong> the shop to <strong style="color:blue;">pay in advance</strong>, or can I transfer the money online? 
+Awesome. I will <strong style="color:blue;">count on you</strong> to make it look breathtaking. I will send over a short message to be written on the card <strong style="color:blue;">in a minute</strong>. Thank you so much for your help!
+
+**[Vocabulary & Expressions]**
+* florist: 플로리스트, 화원 주인
+* hydrangea: 수국
+* peony: 작약
+* vibrant: 활기찬, 선명한
+* <strong style="color:blue;">go over</strong>: 검토하다, 살펴보다
+* <strong style="color:blue;">work well for</strong>: ~에 안성맞춤이다, 잘 어울리다
+* <strong style="color:blue;">mix and match</strong>: 조합하다, 섞다
+* <strong style="color:blue;">decent-sized</strong>: 적당한 크기의
+* <strong style="color:blue;">bring a smile to</strong>: 미소를 짓게 하다
+* <strong style="color:blue;">drop by</strong>: 들르다
+* <strong style="color:blue;">pay in advance</strong>: 선결제하다
+* <strong style="color:blue;">count on you</strong>: 믿다, 의지하다
+* <strong style="color:blue;">in a minute</strong>: 곧, 잠시 후에
+
+---
+### 돌발 : 인공지능(AI)과 기술 발전이 내 삶에 미친 영향
+
+**[Question]**
+How has recent artificial intelligence (AI) or technological advancement directly impacted your daily life? Please give me specific examples of how things have changed for you compared to the past.
+최근의 인공지능(AI)이나 기술 발전이 당신의 일상생활에 어떤 직접적인 영향을 미쳤나요? 과거와 비교하여 어떤 점들이 변했는지 구체적인 예를 들어 설명해 주세요.
+
+**[Model Answer]**
+You know, looking back at how much things have changed over the past few years, the impact of AI and modern technology on my daily routine is honestly <strong style="color:blue;">mind-blowing</strong>. It is no longer just a futuristic concept we see in movies; it has deeply <strong style="color:blue;">integrated into</strong> every single aspect of my life. 
+
+To <strong style="color:blue;">give you a concrete example</strong>, AI-powered personal assistants and smart home ecosystems have totally <strong style="color:blue;">transformed the way</strong> I manage my day. In the past, I had to manually set multiple alarms, check weather forecasts, and write down to-do lists on paper. But nowadays, I just wake up and <strong style="color:blue;">talk to</strong> my smart speaker. It instantly reads out my schedule, briefs me on the morning news, and even adjusts the room temperature before I <strong style="color:blue;">get out of bed</strong>. 
+
+Another massive area where I feel the direct impact is at work and in my studies. Whenever I <strong style="color:blue;">run into</strong> a complex problem or need to <strong style="color:blue;">brainstorm ideas</strong> for a project, I use advanced AI language models. Back in the day, I had to <strong style="color:blue;">spend hours</strong> searching through countless academic papers or web pages to <strong style="color:blue;">gather information</strong>. Now, AI helps me <strong style="color:blue;">break down</strong> massive chunks of data and <strong style="color:blue;">come up with</strong> creative outlines in a matter of seconds. It has essentially <strong style="color:blue;">freed up</strong> so much of my time, allowing me to <strong style="color:blue;">focus on</strong> more strategic and creative tasks. 
+
+Of course, sometimes I <strong style="color:blue;">worry about</strong> becoming too reliant on technology, but overall, it has undeniably <strong style="color:blue;">made my life</strong> infinitely more efficient and convenient. I truly <strong style="color:blue;">wonder what</strong> the future holds for us with the next wave of tech advancements.
+
+**[Vocabulary & Expressions]**
+* forecast: 예보
+* ecosystem: 생태계
+* undeniably: 부인할 수 없이, 명백히
+* <strong style="color:blue;">mind-blowing</strong>: 놀라운, 충격적인
+* <strong style="color:blue;">integrated into</strong>: ~에 통합된
+* <strong style="color:blue;">give you a concrete example</strong>: 구체적인 예를 들다
+* <strong style="color:blue;">transformed the way</strong>: 방식을 변화시키다
+* <strong style="color:blue;">talk to</strong>: ~에게 말하다
+* <strong style="color:blue;">get out of bed</strong>: 침대에서 일어나다
+* <strong style="color:blue;">run into</strong>: 우연히 만나다, 부딪히다 (여기서는 문제에 직면하다)
+* <strong style="color:blue;">brainstorm ideas</strong>: 아이디어를 구상하다
+* <strong style="color:blue;">spend hours</strong>: 몇 시간을 보내다
+* <strong style="color:blue;">gather information</strong>: 정보를 수집하다
+* <strong style="color:blue;">break down</strong>: 분석하다, 쪼개다
+* <strong style="color:blue;">come up with</strong>: 생각해내다
+* <strong style="color:blue;">freed up</strong>: (시간 등을) 확보하다, 나게 하다
+* <strong style="color:blue;">focus on</strong>: 집중하다
+* <strong style="color:blue;">worry about</strong>: ~에 대해 걱정하다
+* <strong style="color:blue;">made my life</strong>: 내 삶을 만들다 (편하게 만들다)
+* <strong style="color:blue;">wonder what</strong>: ~가 어떨지 궁금해하다
