@@ -11969,3 +11969,85 @@ Of course, sometimes I <strong style="color:blue;">worry about</strong> becoming
 * <strong style="color:blue;">worry about</strong>: ~에 대해 걱정하다
 * <strong style="color:blue;">made my life</strong>: 내 삶을 만들다 (편하게 만들다)
 * <strong style="color:blue;">wonder what</strong>: ~가 어떨지 궁금해하다
+
+## 2026-08-10 04:20:30 OPIc Study
+
+### 묘사 : 가장 좋아하는 옷 가게 묘사
+
+**[Question]**
+Please describe your favorite clothing store in detail. What does the interior look like, and how is the merchandise displayed? Also, tell me about the overall atmosphere of the place.
+(가장 좋아하는 옷 가게를 자세히 묘사해 주세요. 인테리어는 어떻게 생겼고 상품은 어떻게 진열되어 있나요? 또한, 그곳의 전반적인 분위기에 대해서도 이야기해 주세요.)
+
+**[Model Answer]**
+You know, I’m a huge fan of fashion, so I visit clothing stores quite often. Among them, my absolute go-to place is a boutique called 'Urban Minimal' located right in the heart of downtown. 
+
+First of all, as soon as you <strong style="color:blue;">step foot in</strong> the store, you are immediately struck by its sophisticated interior. The walls are painted in calming, neutral tones like soft beige and matte gray, which instantly <strong style="color:blue;">sets the mood</strong> for a relaxed shopping experience. The lighting is meticulously planned; rather than having harsh fluorescent lights, they use warm, recessed spotlights that <strong style="color:blue;">highlight</strong> the textures of the fabrics beautifully. 
+
+When it comes to how the merchandise is displayed, it’s completely different from typical crowded retail shops. Instead of piling clothes up on shelves, they give everything plenty of breathing room. Outfits are carefully <strong style="color:blue;">put together</strong> on minimalist wooden racks, showing customers how to style items from head to toe. Accessories like bags, shoes, and scarves are neatly arranged on sleek brass shelves, making it feel more like an art gallery than a commercial store. Every single item <strong style="color:blue;">stands out</strong> on its own, which makes browsing such a visual treat.
+
+The overall atmosphere can be described as serene, chic, and incredibly welcoming. They always play soft, ambient indie-pop music at just the right volume, so you never feel rushed or overwhelmed. The sales associates are also wonderfully attentive; they <strong style="color:blue;">go out of their way</strong> to help you <strong style="color:blue;">try on</strong> different pieces, but they never <strong style="color:blue;">pressure</strong> you into buying anything. Whenever I visit this place, I completely <strong style="color:blue;">lose track of time</strong> just soaking in the aesthetic and exploring new fashion trends. It is genuinely my favorite spot to unwind and refresh my wardrobe.
+
+**[Vocabulary & Expressions]**
+* boutique: 부티크, 작은 상점
+* meticulously: 꼼꼼하게, 세심하게
+* ambient: 주위의, 은은한
+* <strong style="color:blue;">step foot in</strong>: 발을 디디다, 들어가다
+* <strong style="color:blue;">sets the mood</strong>: 분위기를 조성하다
+* <strong style="color:blue;">put together</strong>: 조합하다, 구성하다
+* <strong style="color:blue;">stands out</strong>: 눈에 띄다, 두드지다
+* <strong style="color:blue;">go out of their way</strong>: 특별히 애를 쓰다
+* <strong style="color:blue;">try on</strong>: 입어보다
+* <strong style="color:blue;">lose track of time</strong>: 시간 가는 줄 모르다
+
+---
+### 롤플레이 : 영화관 학생 할인 절차 묻기
+
+**[Question]**
+You are at a movie theater ticket box office and you want to get a student discount. However, you don't know the exact procedure. Ask the ticket clerk three or four questions to find out how to apply the student discount.
+(당신은 영화관 매표소에 있으며 학생 할인을 받고 싶어 합니다. 하지만 정확한 절차를 모릅니다. 매표원에게 학생 할인 적용 방법을 알아내기 위해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hi there! I’d like to get two tickets for the latest sci-fi movie playing at 7 PM tonight, please. Actually, before we <strong style="color:blue;">wrap up</strong> the payment, I was wondering about the student discount. I'm currently enrolled in university, and I was hoping I could <strong style="color:blue;">take advantage of</strong> the student rate. 
+
+Could you please tell me what kind of verification process is required for this? Do I just need to show my physical student ID card, or do I also need a certificate of enrollment from my portal? Also, I have a digital copy of my student ID on my smartphone app—would that <strong style="color:blue;">suffice</strong>, or do they strictly require the physical card? 
+
+One more thing—is this student discount applicable to all seating zones, or is it restricted to certain areas like the regular zones only? Lastly, does this discount <strong style="color:blue;">carry over</strong> to weekends and holidays, or is it only valid on weekdays? 
+
+Oh, and just to be sure, does applying this discount <strong style="color:blue;">rule out</strong> earning points on my membership card? I want to make sure I don't miss out on any perks. Could you please <strong style="color:blue;">walk me through</strong> the whole process step by step? Thanks so much for your help!
+
+**[Vocabulary & Expressions]**
+* verification: 확인, 증명
+* applicable: 적용되는
+* restricted: 제한된
+* <strong style="color:blue;">wrap up</strong>: 마무리하다
+* <strong style="color:blue;">take advantage of</strong>: 이용하다, 혜택을 받다
+* <strong style="color:blue;">carry over</strong>: 이월되다, 적용되다
+* <strong style="color:blue;">rule out</strong>: 배제하다, 제외하다
+* <strong style="color:blue;">walk me through</strong>: ~을 차근차근 설명해주다
+
+---
+### 돌발 : 어릴 적 TV 프로그램과 요즘 유행하는 영상 매체 비교
+
+**[Question]**
+Think about the TV programs you used to watch when you were a child. How do they compare to the video media and streaming platforms that young people enjoy these days? Discuss the differences in terms of content, viewing habits, and overall experience.
+(어릴 적 즐겨 보던 TV 프로그램을 떠올려 보세요. 요즘 젊은이들이 즐기는 영상 매체 및 스트리밍 플랫폼과 비교했을 때 어떤 차이가 있나요? 콘텐츠, 시청 습관, 전반적인 경험 측면에서 차이점을 논해 보세요.)
+
+**[Model Answer]**
+When I look back on my childhood, television played a massive role in my daily routine. Back then, media consumption was entirely linear and scheduled. I vividly remember rushing home after school just to <strong style="color:blue;">catch</strong> my favorite afternoon cartoons or family sitcoms. We had to <strong style="color:blue;">adhere to</strong> strict broadcasting schedules, and if you missed an episode, you simply had to wait for a rerun, which <strong style="color:blue;">added a sense of</strong> anticipation and excitement. The content was mostly wholesome, educational, and universally accessible for the whole family to enjoy together in the living room.
+
+In stark contrast, the video media landscape of today is completely revolutionized by on-demand streaming platforms like Netflix, YouTube, and TikTok. Unlike the appointment viewing of the past, contemporary viewers, especially the younger generation, completely <strong style="color:blue;">dominate</strong> their own viewing schedules. They don't have to wait for anything; they can <strong style="color:blue;">binge-watch</strong> an entire season of a drama in one single weekend. Furthermore, the content itself has diversified exponentially. Algorithms <strong style="color:blue;">tailor</strong> recommendations specifically to individual tastes, resulting in highly personalized media consumption. 
+
+Another huge difference lies in the format and interaction. While old-school TV was a passive, one-way medium, today's digital platforms encourage active participation. Users can leave comments, <strong style="color:blue;">engage in</strong> live chats, and even create their own content. In summary, while traditional TV fostered a shared cultural experience within families, modern streaming media offers unprecedented freedom, personalization, and interactive connectivity. Both have their own unique charms, but the shift is undeniably monumental.
+
+**[Vocabulary & Expressions]**
+* linear: 선형의, 순차적인
+* wholesome: 건전한
+* exponentially: 기하급수적으로
+* monumental: 엄청난, 기념비적인
+* <strong style="color:blue;">catch</strong>: (방송을) 보다, 시청하다
+* <strong style="color:blue;">adhere to</strong>: 준수하다, 따르다
+* <strong style="color:blue;">added a sense of</strong>: ~라는 느낌을 더해주다
+* <strong style="color:blue;">dominate</strong>: 지배하다, 통제하다
+* <strong style="color:blue;">binge-watch</strong>: 정주행하다 (몰아보다)
+* <strong style="color:blue;">tailor</strong>: 맞추다, 조정하다
+* <strong style="color:blue;">engage in</strong>: 참여하다, 관여하다
