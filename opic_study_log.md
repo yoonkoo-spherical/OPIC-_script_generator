@@ -12051,3 +12051,89 @@ Another huge difference lies in the format and interaction. While old-school TV 
 * <strong style="color:blue;">binge-watch</strong>: 정주행하다 (몰아보다)
 * <strong style="color:blue;">tailor</strong>: 맞추다, 조정하다
 * <strong style="color:blue;">engage in</strong>: 참여하다, 관여하다
+
+## 2026-08-11 04:10:26 OPIc Study
+
+### 묘사 : 자전거 안전장비 묘사
+
+**[Question]**
+Please describe the safety equipment you use when riding a bicycle. What do they look like and why are they important?
+(자전거를 탈 때 사용하는 안전장비를 묘사해 주세요. 어떻게 생겼으며 왜 그것들이 중요합니까?)
+
+**[Model Answer]**
+You know, safety is my absolute top priority whenever I go cycling. So, I always <strong style="color:blue;">suit up</strong> with a full set of protective gear before hitting the road. First and foremost, a well-fitted helmet is an absolute must-have. It usually has a sleek, aerodynamic design with multiple ventilation holes to <strong style="color:blue;">keep</strong> my head <strong style="color:blue;">cool</strong> during long rides. It's lightweight yet sturdy enough to <strong style="color:blue;">fend off</strong> any severe head injuries in case of an accidental fall. 
+
+In addition to the helmet, I never forget to wear durable cycling gloves. They are typically made of breathable fabric on the back and have padded palms to <strong style="color:blue;">absorb</strong> shock and prevent blisters. These gloves really help me <strong style="color:blue;">maintain a firm grip</strong> on the handlebars, especially when my hands get sweaty. 
+
+Lastly, visibility is just as important as physical protection, so I always <strong style="color:blue;">equip</strong> my bike and myself <strong style="color:blue;">with</strong> reflective straps and LED lights. When evening <strong style="color:blue;">rolls around</strong>, these flashing lights make me easily noticeable to passing cars. All in all, investing in reliable safety gear gives me peace of mind and allows me to <strong style="color:blue;">make the most of</strong> my riding experience without constantly worrying about potential accidents.
+
+**[Vocabulary & Expressions]**
+* aerodynamic: 공기역학적인
+* ventilation: 통풍, 환기
+* blister: 물집
+* <strong style="color:blue;">suit up</strong>: 장비를 갖추다, 옷을 차려입다
+* <strong style="color:blue;">keep ~ cool</strong>: ~를 시원하게 유지하다
+* <strong style="color:blue;">fend off</strong>: (위험·공격 등을) 방어하다, 피하다
+* <strong style="color:blue;">absorb</strong>: 흡수하다
+* <strong style="color:blue;">maintain a firm grip</strong>: 단단한 그립을 유지하다
+* <strong style="color:blue;">equip ~ with ...</strong>: ~에 …을 갖추다
+* <strong style="color:blue;">roll around</strong>: (시간 등이) 돌아오다
+* <strong style="color:blue;">make the most of</strong>: ~을 최대한 활용하다
+
+---
+### 롤플레이 : 접촉 사고 경찰 신고
+
+**[Question]**
+You got into a minor traffic accident while driving. Call the police station, explain the situation, and ask them to dispatch officers to the scene.
+(운전 중 가벼운 접촉 사고가 났습니다. 경찰서에 전화하여 상황을 설명하고 현장에 경찰관 출동을 요청하세요.)
+
+**[Model Answer]**
+Hi, I'm calling to report a minor car accident that just happened. Can you please send some officers <strong style="color:blue;">to the scene</strong>? Let me <strong style="color:blue;">run you through</strong> what happened. I was driving down Main Street near the central station, moving at a very slow speed because of heavy traffic. Suddenly, the car right in front of me <strong style="color:blue;">backed up</strong> unexpectedly without any warning signals, and I couldn't <strong style="color:blue;">avoid colliding with</strong> his rear bumper. 
+
+Fortunately, nobody is hurt, and traffic isn't completely blocked, but the other driver and I are having a bit of a disagreement about who should <strong style="color:blue;">take responsibility</strong> for the incident. I tried to <strong style="color:blue;">talk things through</strong> calmly, but he keeps raising his voice and demanding immediate compensation. 
+
+Since we can't <strong style="color:blue;">come to an agreement</strong> on our own, I think it's best to have an official report filed. Could you please <strong style="color:blue;">dispatch</strong> a patrol car as soon as possible? We are currently parked right by the intersection of Main Street and 5th Avenue. I'll <strong style="color:blue;">stay on the line</strong> until help arrives. Thank you so much.
+
+**[Vocabulary & Expressions]**
+* dispatch: 파견하다, 출동시키다
+* intersection: 사거리, 교차로
+* <strong style="color:blue;">to the scene</strong>: 현장으로
+* <strong style="color:blue;">run someone through</strong>: ~에게 (상황 등을) 자세히 설명하다
+* <strong style="color:blue;">back up</strong>: 후진하다
+* <strong style="color:blue;">avoid colliding with</strong>: ~와의 충돌을 피하다
+* <strong style="color:blue;">take responsibility</strong>: 책임을 지다
+* <strong style="color:blue;">talk things through</strong>: 대화를 통해 문제를 해결하다
+* <strong style="color:blue;">come to an agreement</strong>: 합의에 이르다
+* <strong style="color:blue;">stay on the line</strong>: 전화를 끊지 않고 기다리다
+
+---
+### 돌발 : 컴퓨터 다운으로 데이터 유실
+
+**[Question]**
+Tell me about a time when your computer crashed while you were working on a task or project, and you lost your data. What happened and how did you handle the situation?
+(업무나 과제를 처리하다가 컴퓨터가 다운되어 데이터를 날린 경험에 대해 이야기해 주세요. 어떤 일이 있었고 그 상황을 어떻게 대처했나요?)
+
+**[Model Answer]**
+Oh, I can still <strong style="color:blue;">vividly</strong> recall this nightmare of an incident that happened about six months ago. I was working frantically on a quarterly report that was due the very next morning. I had been <strong style="color:blue;">pounding away at</strong> the keyboard for hours, completely <strong style="color:blue;">absorbed in</strong> writing and formatting the data tables. Suddenly, the screen went completely black, and the fan noise just stopped. My laptop had <strong style="color:blue;">crashed out of nowhere</strong> due to an unexpected system update failure.
+
+My heart literally <strong style="color:blue;">skipped a beat</strong>. I tried to restart the machine, but it kept getting <strong style="color:blue;">stuck in</strong> a boot loop. Realizing that I hadn't saved the latest version for the past two hours, I felt a wave of panic <strong style="color:blue;">wash over</strong> me. All my hard work had literally <strong style="color:blue;">gone down the drain</strong>. 
+
+However, instead of just sitting there and despairing, I quickly <strong style="color:blue;">pulled myself together</strong>. I knew I had to <strong style="color:blue;">face the music</strong> and finish the job. I borrowed my roommate's laptop, <strong style="color:blue;">reached out to</strong> my colleague to get the rough data notes I had emailed earlier, and started recreating the report from scratch. I ended up <strong style="color:blue;">pulling an all-nighter</strong>, but thankfully, I managed to submit the report just in time. That painful experience taught me the golden rule: always <strong style="color:blue;">back up</strong> your files frequently!
+
+**[Vocabulary & Expressions]**
+* frantically: 미친 듯이, 정신없이
+* quarterly report: 분기별 보고서
+* despair: 절망하다
+* <strong style="color:blue;">vividly</strong>: 생생하게
+* <strong style="color:blue;">pounding away at</strong>: ~을 열심히 두드리다(작업하다)
+* <strong style="color:blue;">absorbed in</strong>: ~에 몰두한
+* <strong style="color:blue;">crash out of nowhere</strong>: 느닷없이 다운되다
+* <strong style="color:blue;">skip a beat</strong>: (심장이)쿵 하고 내려앉다
+* <strong style="color:blue;">stuck in</strong>: ~에 갇힌
+* <strong style="color:blue;">wash over</strong>: (감정 등이) 밀려오다
+* <strong style="color:blue;">gone down the drain</strong>: 수포로 돌아간, 허사가 된
+* <strong style="color:blue;">pull oneself together</strong>: 마음을 가라앉히다, 정신 차리다
+* <strong style="color:blue;">face the music</strong>: (자신의 행동에 대한) 결과를 받아들이다, 난국에 맞서다
+* <strong style="color:blue;">reach out to</strong>: ~에게 연락하다
+* <strong style="color:blue;">pull an all-nighter</strong>: 밤을 새우다
+* <strong style="color:blue;">back up</strong>: 백업하다, 예비하다
