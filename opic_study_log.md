@@ -12137,3 +12137,69 @@ However, instead of just sitting there and despairing, I quickly <strong style="
 * <strong style="color:blue;">reach out to</strong>: ~에게 연락하다
 * <strong style="color:blue;">pull an all-nighter</strong>: 밤을 새우다
 * <strong style="color:blue;">back up</strong>: 백업하다, 예비하다
+
+## 2026-08-12 04:39:37 OPIc Study
+
+### 묘사 : 배달 음식 앱의 화면 묘사
+
+**[Question]**
+Could you describe the food delivery app that you use most frequently? What does the main screen look like, and how is it structured? Please give me a detailed description.
+(당신이 가장 자주 사용하는 배달 음식 앱을 묘사해 주시겠어요? 메인 화면은 어떻게 생겼고, 어떻게 구성되어 있나요? 자세한 묘사를 부탁드립니다.)
+
+**[Model Answer]**
+Well, when it comes to food delivery apps, I <strong style="color:blue;">rely heavily on</strong> a specific application that I use almost every single day. To begin with, as soon as you open the app, the main screen is designed in a remarkably intuitive and user-friendly way. At the very top, there is a prominent search bar where you can easily <strong style="color:blue;">type in</strong> specific cravings or restaurant names. Right beneath the search bar, you'll notice a horizontal scroll of various food categories, ranging from Korean and Chinese cuisine to fast food, pizza, and even healthy salads. This makes it super convenient when you haven't decided what to eat yet and want to <strong style="color:blue;">browse through</strong> different options. Moving down a bit, the app <strong style="color:blue;">displays</strong> personalized recommendations <strong style="color:blue;">based on</strong> your past order history and current location. If you <strong style="color:blue;">scroll down</strong> further, you can see various banners promoting ongoing discounts, limited-time coupons, and popular local restaurants. Furthermore, at the bottom of the screen, there is a fixed navigation bar with icons like 'Home', 'Search', 'Order History', and 'My Page', which allows users to <strong style="color:blue;">switch between</strong> different sections smoothly without any hassle. Overall, the sleek layout and well-organized interface never fail to <strong style="color:blue;">enhance</strong> my ordering experience, making the whole process incredibly fast and seamless.
+
+**[Vocabulary & Expressions]**
+* intuitive: 직관적인
+* prominent: 눈에 띄는, 저명한
+* <strong style="color:blue;">rely heavily on</strong>: ~에 크게 의존하다
+* <strong style="color:blue;">type in</strong>: (정보를) 입력하다
+* <strong style="color:blue;">browse through</strong>: 대충 훑어보다
+* <strong style="color:blue;">display</strong>: 보여주다, 진열하다
+* <strong style="color:blue;">based on</strong>: ~을 바탕으로
+* <strong style="color:blue;">scroll down</strong>: 아래로 스크롤하다
+* <strong style="color:blue;">switch between</strong>: ~ 사이를 전환하다
+* <strong style="color:blue;">enhance</strong>: 향상시키다
+
+---
+### 롤플레이 : 수영장 셔틀버스 및 사물함 문의
+
+**[Question]**
+I'd like to sign up for a local swimming pool. Please ask the customer service representative three or four questions about the shuttle bus routes and locker rental fees.
+(동네 수영장에 등록하고 싶습니다. 고객센터 직원에게 셔틀버스 노선과 사물함 이용료에 대해 3~4가지 질문을 해주세요.)
+
+**[Model Answer]**
+Hi there, I'm actually interested in signing up for a membership at your swimming pool, and I have a few questions before I make a final decision. First of all, could you tell me about your <strong style="color:blue;">shuttle bus service</strong>? I live near the central park area, so I was wondering if there is a shuttle bus that <strong style="color:blue;">runs through</strong> my neighborhood. If so, could you let me know the exact schedule and where the nearest pickup stop is located? I want to make sure I can <strong style="color:blue;">commute to</strong> the pool conveniently every morning. Another thing I'd like to ask about is the locker facilities. How much does it cost to <strong style="color:blue;">rent out</strong> a locker on a monthly basis? Is there a separate fee, or is it included in the regular membership package? Also, are there different sizes available, because I usually carry a pretty large gym bag with my fins and kickboard? Lastly, I was wondering if I need to <strong style="color:blue;">sign up in advance</strong> for the locker, or if I can just <strong style="color:blue;">sort it out</strong> when I visit the center tomorrow. Thanks a lot for your help, and I look forward to hearing from you.
+
+**[Vocabulary & Expressions]**
+* membership: 회원권
+* customer service representative: 고객센터 직원
+* <strong style="color:blue;">shuttle bus service</strong>: 셔틀버스 서비스
+* <strong style="color:blue;">runs through</strong>: ~을 통과하여 운행하다
+* <strong style="color:blue;">commute to</strong>: ~로 통근[통학]하다
+* <strong style="color:blue;">rent out</strong>: 대여하다, 빌려주다
+* <strong style="color:blue;">on a monthly basis</strong>: 월 단위로
+* <strong style="color:blue;">sign up in advance</strong>: 사전에 등록하다
+* <strong style="color:blue;">sort it out</strong>: 문제를 해결하다, 정리하다
+
+---
+### 돌발 : 밤을 새고 크게 후회한 경험
+
+**[Question]**
+Tell me about a time when you stayed up all night doing something like playing games, studying, or partying, and deeply regretted it the next day. What led you to stay up, and what happened?
+(게임, 공부, 파티 등으로 밤을 새우고 다음 날 크게 후회했던 경험에 대해 이야기해 주세요. 무엇 때문에 밤을 새우게 되었으며, 어떤 일이 일어났나요?)
+
+**[Model Answer]**
+To be honest, looking back, I've had a few sleepless nights that I deeply regret, but one specific incident <strong style="color:blue;">stands out in my mind</strong>. A couple of months ago, a newly released video game that I had been anticipating for years finally <strong style="color:blue;">came out</strong>. Since I was extremely busy with work during the week, I decided to <strong style="color:blue;">stay up all night</strong> on a Friday to fully immerse myself in the game without any interruptions. I <strong style="color:blue;">got carried away</strong> and kept telling myself, "Just one more mission," but before I knew it, the sun was <strong style="color:blue;">coming up</strong>, and it was already 6 AM. I had only managed to <strong style="color:blue;">get a couple of hours of</strong> sleep before having to attend an important family gathering later that afternoon. Needless to say, it was an absolute disaster. I felt completely exhausted, my eyes were bloodshot, and I had a severe headache throughout the entire event. I could barely focus on conversations, and I ended up <strong style="color:blue;">nodding off</strong> at the dining table, which was quite embarrassing. That awful experience taught me a hard lesson about the importance of getting enough rest, and ever since then, I have made a strict rule never to pull an all-nighter, no matter how tempting it might be.
+
+**[Vocabulary & Expressions]**
+* anticipate: 기대하다
+* disaster: 재앙, 참사
+* exhausted: 지친
+* bloodshot: 충혈된
+* <strong style="color:blue;">stands out in my mind</strong>: 마음속에 뚜렷이 남다
+* <strong style="color:blue;">came out</strong>: 출시되다, 나오다
+* <strong style="color:blue;">stay up all night</strong>: 밤을 새우다
+* <strong style="color:blue;">get carried away</strong>: 兴분하다, 정신이 팔리다
+* <strong style="color:blue;">get a couple of hours of</strong>: 몇 시간 동안 자다
+* <strong style="color:blue;">nod off</strong>: 꾸벅꾸벅 졸다
