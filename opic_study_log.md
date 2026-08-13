@@ -12203,3 +12203,106 @@ To be honest, looking back, I've had a few sleepless nights that I deeply regret
 * <strong style="color:blue;">get carried away</strong>: 兴분하다, 정신이 팔리다
 * <strong style="color:blue;">get a couple of hours of</strong>: 몇 시간 동안 자다
 * <strong style="color:blue;">nod off</strong>: 꾸벅꾸벅 졸다
+
+## 2026-08-13 04:43:20 OPIc Study
+
+### 묘사 : 오랜만에 만난 친척들과의 가족 모임 묘사
+
+**[Question]**
+Tell me about the last family gathering you attended. What did the venue look like, and how have your relatives changed since the last time you saw them?
+(당신이 참석한 가장 최근의 가족 모임에 대해 이야기해 주세요. 장소는 어땠으며, 친척들은 지난번에 비해 어떻게 변했나요?)
+
+**[Model Answer]**
+To be honest, I am not a big fan of large family gatherings, but last month, we had a massive family reunion that really <strong style="color:blue;">stood out</strong> to me. We haven't seen each other for ages due to the pandemic, so it was a very special occasion. 
+
+First of all, let me describe the venue. We rented out a spacious, traditional-style restaurant nestled right at the foot of a mountain. It had a gorgeous, well-manicured garden with a small pond, and the interior was <strong style="color:blue;">decked out</strong> with warm, cozy lighting and wooden furniture. The floor-to-ceiling glass windows offered a breathtaking panoramic view of nature, which instantly <strong style="color:blue;">put everyone at ease</strong> as soon as they walked in. 
+
+Now, when it comes to my relatives, it was fascinating to observe how much they had changed. My younger cousins, who were just fussy little kids when I last saw them, have completely <strong style="color:blue;">shot up</strong> like beanstalks. They are now towering over me, talking about college applications and career paths, which made me feel quite old. On the other hand, my aunts and uncles have certainly <strong style="color:blue;">slowed down</strong> a bit. You could see some silver hair and a few more wrinkles, but their vibrant energy and warm smiles remained completely unchanged. My uncle, in particular, used to be a strict and quiet person, but he <strong style="color:blue;">opened up</strong> a lot and kept cracking jokes throughout the evening. 
+
+All in all, seeing everyone <strong style="color:blue;">catch up</strong> on lost time in such a serene and picturesque setting was an experience I will cherish for a long time. It really made me realize how important family is, and I promised myself that I would <strong style="color:blue;">make an effort</strong> to stay in touch more often.
+
+**[Vocabulary & Expressions]**
+* Reunion: 재회, 모임
+* Resilient: 회복력 있는, 끈질긴
+* Panoramic: 탁 트인, 전경의
+* Serene: 조용한, 평온한
+* Picturesque: 그림 같은, 생생한
+* <strong style="color:blue;">Stand out</strong>: 두드러지다, 눈에 띄다
+* <strong style="color:blue;">Deck out</strong>: 치장하다, 꾸미다
+* <strong style="color:blue;">Put someone at ease</strong>: ~를 마음 편하게 하다
+* <strong style="color:blue;">Shot up</strong>: 쑥 자라다, 급상승하다
+* <strong style="color:blue;">Slow down</strong>: 속도를 줄이다, 여유를 갖다
+* <strong style="color:blue;">Open up</strong>: 마음을 열다
+* <strong style="color:blue;">Catch up</strong>: 밀린 회포를 풀다, 따라잡다
+* <strong style="color:blue;">Make an effort</strong>: 노력하다
+
+---
+### 롤플레이 : 가벼운 접촉 사고 경찰 신고
+
+**[Question]**
+You are driving a car and you get into a minor fender-bender with another vehicle. Call the police, explain the situation to the officer, and ask what you should do next.
+(당신은 운전 중 다른 차량과 가벼운 접촉 사고가 났습니다. 경찰에 전화하여 상황을 설명하고, 다음 행동에 대해 문의하세요.)
+
+**[Model Answer]**
+Hello, is this the police department? I need to report a minor traffic accident. My car was just <strong style="color:blue;">rear-ended</strong> by another vehicle, and I'm currently stranded on the shoulder of Hannam Bridge. Nobody is injured, thank goodness, but we are causing a bit of a traffic jam, and I'm really not sure how to <strong style="color:blue;">go about</strong> handling this situation. 
+
+To give you a quick rundown, I was driving at a moderate speed, and traffic suddenly <strong style="color:blue;">slowed to a crawl</strong>. I pressed the brakes smoothly, but the car behind me failed to <strong style="color:blue;">stop in time</strong> and bumped into my rear bumper. There doesn't seem to be any major structural damage—just a few scratches and a slightly dented bumper on my car—but the other driver and I have different opinions on who should <strong style="color:blue;">take responsibility</strong> for this. We tried to <strong style="color:blue;">talk things through</strong> calmly, but we can't seem to <strong style="color:blue;">come to an agreement</strong>. 
+
+Could you please send an officer <strong style="color:blue;">over to</strong> the scene to help us sort this out and <strong style="color:blue;">write up</strong> an official accident report? Also, before the police arrive, is there anything specific I should do, like taking more photos or moving the cars out of the way to <strong style="color:blue;">clear the road</strong>? Please let me know what steps I need to <strong style="color:blue;">take next</strong>. Thank you so much for your prompt assistance.
+
+**[Vocabulary & Expressions]**
+* Fender-bender: 가벼운 접촉 사고
+* Stranded: 오도 가도 못 하는, 오지게 걸린
+* Shoulder: (도로의) 갓길
+* Structural: 구조적인
+* Scratch: 긁힌 자국
+* Dent: 찌그러짐
+* Prompt: 신속한, 즉릿한
+* <strong style="color:blue;">Rear-end</strong>: (차가 뒤에서) 추돌하다
+* <strong style="color:blue;">Go about</strong>: (일에) 착수하다, ~을 하다
+* <strong style="color:blue;">Slow to a crawl</strong>: 기어갈 정도로 속도가 줄어들다
+* <strong style="color:blue;">Stop in time</strong>: 제때 멈추다
+* <strong style="color:blue;">Take responsibility</strong>: 책임을 지다
+* <strong style="color:blue;">Talk things through</strong>: 이야기를 통해 문제를 해결하다
+* <strong style="color:blue;">Come to an agreement</strong>: 합의에 이르다
+* <strong style="color:blue;">Over to</strong>: ~쪽으로
+* <strong style="color:blue;">Write up</strong>: 작성하다, 정리하다
+* <strong style="color:blue;">Clear the road</strong>: 길을 치우다/터놓다
+* <strong style="color:blue;">Take next</strong>: 다음 조치를 취하다
+
+---
+### 돌발 : 친구에게 빌려준 물건을 돌려받지 못한 경험
+
+**[Question]**
+Tell me about a time when you lent something valuable or money to a friend and had trouble getting it back. What was the item, why did it happen, and how did you resolve the situation?
+(친구에게 값나가는 물건이나 돈을 빌려주었다가 돌려받는 데 애를 먹었던 경험에 대해 이야기해 주세요. 물건은 무엇이었고, 왜 그런 일이 일어났으며, 어떻게 해결했나요?)
+
+**[Model Answer]**
+Oh, talking about this brings back some stressful memories. A couple of years ago, I had a very frustrating experience dealing with a close friend who borrowed my high-end DSLR camera and completely <strong style="color:blue;">dragged his feet</strong> when it came to returning it. 
+
+At the time, this friend was going on a backpacking trip across Europe and asked if he could <strong style="color:blue;">borrow my camera</strong> to capture his journey. Since we went way back and trusted each other implicitly, I didn't hesitate to <strong style="color:blue;">hand it over</strong> along with an expensive lens. His trip was supposed to last for three weeks, so I expected the camera <strong style="color:blue;">back in my hands</strong> by the end of the month. 
+
+However, weeks turned into months, and every time I brought it up, he would <strong style="color:blue;">brush it off</strong> with excuses like, "Oh, I'm still organizing my photos," or "I left it at my parents' house, I'll <strong style="color:blue;">bring it over</strong> this weekend." I was biting my tongue because I didn't want to <strong style="color:blue;">make a big deal out of</strong> it and <strong style="color:blue;">risk our friendship</strong>, but honestly, I was burning up inside. I needed that camera for my own freelance photography gigs, and his constant procrastination was really <strong style="color:blue;">driving me crazy</strong>. 
+
+Finally, I decided I had to <strong style="color:blue;">put my foot down</strong>. I called him up and firmly told him that I needed the equipment back by Tuesday without fail, no exceptions. I made it clear that my patience had <strong style="color:blue;">run out</strong>. Realizing how serious I was, he finally <strong style="color:blue;">showed up</strong> at my doorstep the very next day, handing over the camera with a sheepish apology. Thankfully, the equipment was still in working order, but that whole ordeal taught me a hard lesson: never lend valuable items, even to your closest friends, unless you are prepared to <strong style="color:blue;">let go of</strong> them forever.
+
+**[Vocabulary & Expressions]**
+* High-end: 최고급의, 하이엔드의
+* Implicitly: 절대적으로, 암묵적으로
+* Freelance: 프리랜서의, 독립적인
+* Procrastination: 미루는 버릇, 늑장
+* Sheepish: (잘못을 하고) 양순한, 쑥스러운
+* Ordeal: 시련, 곤경
+* <strong style="color:blue;">Drag one's feet</strong>: 질질 끌다, 마지못해 하다
+* <strong style="color:blue;">Borrow one's camera</strong>: ~의 카메라를 빌리다
+* <strong style="color:blue;">Hand over</strong>: 넘겨주다, 건네주다
+* <strong style="color:blue;">Back in one's hands</strong>: 다시 내 손으로 돌아오다
+* <strong style="color:blue;">Brush off</strong>: 무시하다, 대수롭지 않게 넘기다
+* <strong style="color:blue;">Bring over</strong>: 가지고 오다
+* <strong style="color:blue;">Make a big deal out of</strong>: ~을 대단한 일로 만들다, 호들갑 떨다
+* <strong style="color:blue;">Risk our friendship</strong>: 우리의 우정을 위태롭게 하다
+* <strong style="color:blue;">Drive someone crazy</strong>: ~를 미치게 하다, 열받게 하다
+* <strong style="color:blue;">Put one's foot down</strong>: 단호한 태도를 취하다
+* <strong style="color:blue;">Run out</strong>: 바닥나다, 다 되다
+* <strong style="color:blue;">Show up</strong>: 나타나다, 오다
+* <strong style="color:blue;">Let go of</strong>: ~을 놓아주다, 포기하다
