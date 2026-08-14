@@ -12306,3 +12306,105 @@ Finally, I decided I had to <strong style="color:blue;">put my foot down</strong
 * <strong style="color:blue;">Run out</strong>: 바닥나다, 다 되다
 * <strong style="color:blue;">Show up</strong>: 나타나다, 오다
 * <strong style="color:blue;">Let go of</strong>: ~을 놓아주다, 포기하다
+
+## 2026-08-14 04:40:27 OPIc Study
+
+### 묘사 : 해외 여행을 앞둔 공항 내부 묘사
+
+**[Question]**
+I would like to know what the inside of an airport looks like when you are about to go on an overseas trip. Please describe an airport in detail, including its layout, atmosphere, and what people are doing there.
+해외 여행을 가기 위해 공항에 갔을 때, 공항 내부의 모습이 어떠한지 알고 싶습니다. 공항의 구조, 분위기, 그리고 사람들이 그곳에서 무엇을 하고 있는지 자세히 묘사해 주세요.
+
+**[Model Answer]**
+Well, whenever I step into the departure hall of an international airport, I immediately get overwhelmed by this incredible sense of excitement and wanderlust. To give you a vivid picture, let's take Incheon International Airport as an example. As soon as you <strong style="color:blue;">walk through</strong> the main sliding doors, you are greeted by this jaw-dropping, massive open space with incredibly high ceilings and sleek, modern glass architecture that lets in an abundance of natural sunlight. The entire area is just bustling with energy. 
+
+If you <strong style="color:blue;">look around</strong>, the layout is generally divided into several key zones. Right in the middle, you'll see a long, curving row of check-in counters belonging to various airlines. There are always winding, zigzagging lines of passengers waiting to drop off their baggage and get their boarding passes. You can hear the low murmur of anticipation mixed with the rustle of luggage and the periodic announcements echoing through the PA system. Overhead, massive electronic flight information display boards are constantly flickering, updating flight statuses—whether it's on time, delayed, or boarding. 
+
+As you <strong style="color:blue;">move on</strong> past the check-in area, you notice people engaging in all sorts of last-minute preparations. Some travelers are frantically repacking their suitcases because they’ve <strong style="color:blue;">run into</strong> an overweight baggage issue, while others are huddled around currency exchange booths to grab some foreign cash. Couples and families are taking farewell selfies, and business people are calmly <strong style="color:blue;">going over</strong> their itineraries on their laptops. 
+
+Once people <strong style="color:blue;">head toward</strong> the security check and immigration gates, the atmosphere shifts slightly into a more fast-paced, organized chaos. People are eagerly <strong style="color:blue;">taking off</strong> their coats and laptops, <strong style="color:blue;">putting them</strong> into plastic bins. Beyond that checkpoint lies the duty-free zone, which looks almost like a luxury shopping mall filled with glittering storefronts, cafes, and restaurants emitting the rich aroma of coffee. All in all, the airport is not just a transit hub; it's a place where countless stories begin, and the sheer vibrancy of the environment never fails to <strong style="color:blue;">blow me away</strong> every single time I travel.
+
+**[Vocabulary & Expressions]**
+* Wanderlust: 여행 열정
+* Jaw-dropping: 입이 벌어질 정도로 놀라운
+* Abundance: 풍부함
+* Anticipation: 기대, 예상
+* Transit hub: 교통 중심지
+* <strong style="color:blue;">walk through</strong>: ~을 걸어서 통과하다
+* <strong style="color:blue;">look around</strong>: 둘러보다
+* <strong style="color:blue;">move on</strong>: 이동하다, 다음으로 넘어가다
+* <strong style="color:blue;">run into</strong>: (문제 등에) 부딪히다
+* <strong style="color:blue;">go over</strong>: 검토하다, 살펴보다
+* <strong style="color:blue;">head toward</strong>: ~를 향해 가다
+* <strong style="color:blue;">taking off</strong>: 벗다
+* <strong style="color:blue;">putting them</strong>: 그것들을 넣다
+* <strong style="color:blue;">blow me away</strong>: 깊은 감명을 주다, 압도하다
+
+---
+### 롤플레이 : 공연장 티켓 부스 예매 번호 분실 상황
+
+**[Question]**
+You are at the box office of a concert hall to pick up your tickets, but you realize you forgot your booking confirmation number. Ask the ticket agent three or four questions or make requests to resolve this situation and verify your identity.
+공연장 티켓 부스에서 티켓을 찾으려고 하는데, 예매 확인 번호를 잊어버렸다는 것을 깨달았습니다. 이 상황을 해결하고 본인 확인을 하기 위해 티켓 직원에게 3~4가지 질문을 하거나 요청을 하세요.
+
+**[Model Answer]**
+Um, hello there. I'm here to pick up the tickets I reserved for tonight's concert, but I have a bit of a problem. Actually, I seem to have completely <strong style="color:blue;">blanked out</strong> on my booking confirmation number, and I can't find the confirmation email in my inbox right now because my phone battery is acting up. I'm really sorry for the inconvenience, but I was wondering if there is any other way we can <strong style="color:blue;">work this out</strong>. 
+
+First of all, since I booked these tickets online using my credit card, would it be possible for you to <strong style="color:blue;">look up</strong> my reservation using the exact credit card I paid with? If you swipe it through your terminal, my transaction details should <strong style="color:blue;">pop up</strong> in your system. 
+
+If that doesn't work, I have my driver's license and passport right here. Can I <strong style="color:blue;">hand over</strong> my ID so you can check my full name, date of birth, and matching contact information? I assure you I'm the rightful owner of these seats. 
+
+Oh, and just in case, would you mind if I <strong style="color:blue;">plugged in</strong> my phone to your charging port for just a minute? If my phone <strong style="color:blue;">powers up</strong> enough to <strong style="color:blue;">log into</strong> my email account, I can easily <strong style="color:blue;">bring up</strong> the booking receipt right on the spot. Please let me know what options I have. I've been waiting for this concert for months, and I really don't want to <strong style="color:blue;">miss out on</strong> it!
+
+**[Vocabulary & Expressions]**
+* Box office: (공연장 등의) 매표소
+* Confirmation email: 예약 확인 이메일
+* Transaction details: 거래 내역
+* Rightful owner: 정당한 소유자
+* <strong style="color:blue;">blanked out</strong>: (기억이) 하얗게 지워지다, 생각이 안 나다
+* <strong style="color:blue;">work this out</strong>: 이 문제를 해결하다
+* <strong style="color:blue;">look up</strong>: (정보를) 찾아보다
+* <strong style="color:blue;">pop up</strong>: 튀어나오다, 나타나다
+* <strong style="color:blue;">hand over</strong>: 건네주다
+* <strong style="color:blue;">plugged in</strong>: 전원에 꽂다
+* <strong style="color:blue;">powers up</strong>: 전원이 켜지다
+* <strong style="color:blue;">log into</strong>: 로그인하다
+* <strong style="color:blue;">bring up</strong>: (화면에) 띄우다, 불러오다
+* <strong style="color:blue;">miss out on</strong>: (~할 기회를) 놓치다
+
+---
+### 돌발 : 어릴 때와 현재의 건강에 대한 인식 변화
+
+**[Question]**
+How has your perception of health changed from when you were a child to now? Explain what you used to think about health in the past and how your views and habits regarding health have evolved over time.
+어릴 때와 비교해서 건강에 대한 당신의 인식이 어떻게 달라졌나요? 과거에 건강에 대해 어떻게 생각했는지, 그리고 시간이 흐름에 따라 건강에 대한 관점과 습관이 어떻게 발전했는지 설명해 주세요.
+
+**[Model Answer]**
+You know, looking back at how my perspective on health has evolved, it’s honestly like night and day. When I was a little kid, health was never really on my radar. I used to <strong style="color:blue;">take it for granted</strong> completely. Back then, my physical well-being was the last thing I worried about because my body seemed invincible. I could <strong style="color:blue;">stay up late</strong> playing video games, <strong style="color:blue;">load up on</strong> junk food like instant noodles and soda, and <strong style="color:blue;">sleep off</strong> any fatigue instantly the next morning. Health, to me, simply meant not being bedridden with a cold. I never bothered to <strong style="color:blue;">look after</strong> my body proactively.
+
+However, as I entered my late twenties and officially <strong style="color:blue;">grew into</strong> adulthood, my entire worldview regarding health completely <strong style="color:blue;">turned around</strong>. I started to <strong style="color:blue;">run into</strong> minor physical issues, like chronic back pain from sitting at a desk all day and a weakened immune system. That was a huge wake-up call. I realized that my body isn't an indestructible machine. 
+
+Nowadays, health is my absolute top priority. I’ve made a conscious effort to <strong style="color:blue;">cut down on</strong> processed foods and <strong style="color:blue;">cut out</strong> sugary beverages entirely. Instead, I try to <strong style="color:blue;">incorporate</strong> fresh vegetables and lean proteins into my daily meals. Moreover, I've <strong style="color:blue;">taken up</strong> regular exercise, hitting the gym three times a week for weight training and doing cardio to <strong style="color:blue;">keep up</strong> my stamina. I've also learned to <strong style="color:blue;">set aside</strong> time to manage stress through meditation because mental health is just as crucial. Ultimately, I’ve learned that staying healthy isn't just about avoiding sickness; it’s a lifelong commitment to <strong style="color:blue;">taking care of</strong> yourself so you can <strong style="color:blue;">live life to the fullest</strong>.
+
+**[Vocabulary & Expressions]**
+* Perspective: 관점, 시각
+* Invincible: 무적의, 천하무적의
+* Bedridden: 병자리에 누워 있는
+* Proactively: 주도적으로
+* Indestructible: 파괴할 수 없는, 튼튼한
+* Commitment: 약속, 전념, 헌신
+* <strong style="color:blue;">take it for granted</strong>: 당연하게 여기다
+* <strong style="color:blue;">stay up late</strong>: 밤늦게 깨어 있다
+* <strong style="color:blue;">load up on</strong>: ~을 잔뜩 먹다
+* <strong style="color:blue;">sleep off</strong>: 잠을 자서 (피로 등을) 해소하다
+* <strong style="color:blue;">look after</strong>: 돌보다
+* <strong style="color:blue;">grew into</strong>: 성장하여 ~가 되다
+* <strong style="color:blue;">turned around</strong>: 완전히 바뀌다, 호전되다
+* <strong style="color:blue;">run into</strong>: (문제에) 직면하다
+* <strong style="color:blue;">cut down on</strong>: ~을 줄이다
+* <strong style="color:blue;">cut out</strong>: 완전히 끊다, 없애다
+* <strong style="color:blue;">taken up</strong>: (취미 등을) 시작하다
+* <strong style="color:blue;">keep up</strong>: 유지하다
+* <strong style="color:blue;">set aside</strong>: (시간 등을) 따로떼어 놓다, 확보하다
+* <strong style="color:blue;">taking care of</strong>: 돌보다
+* <strong style="color:blue;">live life to the fullest</strong>: 인생을 최대로 만끽하다, 충실하게 살다
