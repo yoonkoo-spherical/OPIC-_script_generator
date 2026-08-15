@@ -12408,3 +12408,87 @@ Nowadays, health is my absolute top priority. I’ve made a conscious effort to 
 * <strong style="color:blue;">set aside</strong>: (시간 등을) 따로떼어 놓다, 확보하다
 * <strong style="color:blue;">taking care of</strong>: 돌보다
 * <strong style="color:blue;">live life to the fullest</strong>: 인생을 최대로 만끽하다, 충실하게 살다
+
+## 2026-08-15 03:28:52 OPIc Study
+
+### 묘사 : 새로 산 다이어리의 속지 구성
+
+**[Question]**
+I would like to know about the notebook or planner you recently bought. Could you describe the layout and inner pages of it in detail? What makes its design special?
+최근에 산 노트나 다이어리에 대해 알고 싶습니다. 그것의 레이아웃과 속지 구성을 자세히 묘사해 주시겠어요? 디자인이 특별한 이유는 무엇인가요?
+
+**[Model Answer]**
+You know, I’m actually a huge stationery geek, so I recently <strong style="color:blue;">splurged on</strong> a brand new planner, and I am totally in love with it. Let me walk you through the layout and inner pages because the design is just so thoughtful. First off, when you open the planner, the very first page <strong style="color:blue;">lays out</strong> a macro view of the entire year, which is super helpful for <strong style="color:blue;">mapping out</strong> long-term goals. 
+
+Moving past that, the core part of the planner is divided into monthly and weekly spreads. The monthly section gives you a clean, grid-style calendar where you can easily <strong style="color:blue;">jot down</strong> major events or deadlines. But what really <strong style="color:blue;">sets this planner apart</strong> is the weekly section. On the left page, you have horizontal columns for each day of the week, and on the right page, there is a full blank page for free-form journaling, mind-mapping, or sketching. This hybrid layout <strong style="color:blue;">caters to</strong> both structured planners and creative thinkers like me. 
+
+At the very back of the planner, there are several pockets of dotted and grid pages. I usually <strong style="color:blue;">tear out</strong> some pages when I need to pass a quick note to a coworker, but these pages are mostly reserved for my random thoughts and book lists. To top it all off, the paper quality is top-notch; it doesn't <strong style="color:blue;">bleed through</strong> even when I use my favorite fountain pens. Overall, this planner really <strong style="color:blue;">grew on me</strong> because it keeps me organized while letting me express my creativity freely.
+
+**[Vocabulary & Expressions]**
+* stationery geek: 문구 덕후
+* layout: 레이아웃, 배치
+* <strong style="color:blue;">splurged on</strong>: ~에 (돈을) 펑펑 쓰다, 큰맘 먹고 사다
+* <strong style="color:blue;">lays out</strong>: 펼쳐 보여주다, 제시하다
+* <strong style="color:blue;">mapping out</strong>: 계획하다, 구상하다
+* <strong style="color:blue;">jot down</strong>: 메모하다, 대충 적다
+* <strong style="color:blue;">sets this planner apart</strong>: 이 다이어리를 돋보이게 하다, 차별화하다
+* <strong style="color:blue;">caters to</strong>: ~의 요구를 충족시키다
+* <strong style="color:blue;">tear out</strong>: 찢어내다
+* <strong style="color:blue;">bleed through</strong>: (잉크가 종이에) 배어나오다
+* <strong style="color:blue;">grew on me</strong>: 갈수록 마음에 들다, 정이 가다
+
+---
+### 롤플레이 : 직거래 물건 하자 발견 및 취소
+
+**[Question]**
+You are meeting a person in person to buy a second-hand item that you found online. However, when you check the item at the meeting place, you notice a serious defect that wasn't mentioned in the online post. Tell the seller that you cannot buy the item and explain why.
+온라인에서 찾은 중고 물건을 사기 위해 직거래 장소에 나갔습니다. 하지만 현장에서 물건을 확인해 보니, 온라인 게시글에 언급되지 않은 심각한 하자가 발견되었습니다. 판매자에게 물건을 살 수 없다고 말하고 그 이유를 설명하세요.
+
+**[Model Answer]**
+Hi there! Thanks for meeting me today. Um, to be honest with you, I just inspected the camera you brought, and I’m a bit <strong style="color:blue;">taken aback</strong>. I noticed some significant scratches and a loose lens mount right here, which definitely weren't mentioned in your online description. 
+
+You see, I specifically asked you beforehand if there were any operational issues or physical damages, and you assured me that it was in pristine condition. But when I <strong style="color:blue;">power on</strong> the device right now, the autofocus keeps glitching out, and I can hear a weird rattling noise inside. As a photographer, this kind of internal damage is a <strong style="color:blue;">deal-breaker</strong> for me because fixing it would <strong style="color:blue;">cost an arm and a leg</strong>. 
+
+I was really <strong style="color:blue;">looking forward to</strong> this purchase, but unfortunately, I have to <strong style="color:blue;">call off</strong> the deal. I don't think it's fair for me to <strong style="color:blue;">fork over</strong> my hard-earned money for an item that isn't as advertised. I appreciate you coming all this way, but I simply cannot go through with the transaction. Let's just <strong style="color:blue;">call it a day</strong> and go our separate ways. Thanks for your time anyway.
+
+**[Vocabulary & Expressions]**
+* second-hand item: 중고 물건
+* defect: 하자, 결함
+* <strong style="color:blue;">taken aback</strong>: 깜짝 놀란, 당황한
+* pristine condition: 원래 상태 그대로의, 아주 깨끗한 상태
+* <strong style="color:blue;">power on</strong>: 전원을 켜다
+* glitch out: 오작동하다, 오류가 나다
+* deal-breaker: 거래를 포기하게 만드는 결정적 요인
+* cost an arm and a leg: 터무니없이 비싸다, 비용이 엄청나다
+* <strong style="color:blue;">looking forward to</strong>: ~을 고대하다
+* <strong style="color:blue;">call off</strong>: 취소하다
+* <strong style="color:blue;">fork over</strong>: (마지못해 돈을) 지불하다, 내어주다
+* <strong style="color:blue;">call it a day</strong>: (오늘 일을) 그만 마치다, 끝내다
+
+---
+### 돌발 : 어렸을 때 가족 여행 중 기억에 남는 에피소드
+
+**[Question]**
+Tell me about a memorable trip you took with your family when you were a child. Where did you go, and what happened that made it so unforgettable?
+어렸을 때 가족과 함께 갔던 기억에 남는 여행에 대해 이야기해 주세요. 어디로 갔으며, 무엇 때문에 그토록 잊지 못할 일이 되었나요?
+
+**[Model Answer]**
+Oh, wow, thinking about family trips from my childhood <strong style="color:blue;">brings back</strong> a flood of nostalgic memories. One particular trip that <strong style="color:blue;">stands out</strong> in my mind is a summer camping trip to Jeju Island when I was about ten years old. It was our first major family road trip, and everything that could possibly go wrong, <strong style="color:blue;">went wrong</strong>—in a funny way, though!
+
+On the second day, we decided to hike up a famous trail to watch the sunrise. We were so excited that we <strong style="color:blue;">set off</strong> before dawn. However, halfway up the mountain, a heavy fog <strong style="color:blue;">rolled in</strong> out of nowhere, and to make matters worse, it started to pour. We completely lost our way because we didn't <strong style="color:blue;">factor in</strong> the unpredictable weather on the island. My dad tried to <strong style="color:blue;">pitch a tent</strong> in the middle of a muddy field to <strong style="color:blue;">wait out</strong> the rain, but the wind was blowing so hard that the tent poles snapped instantly. We ended up huddled together inside our rental car, shivering, eating soggy sandwiches, and laughing hysterically at our miserable situation. 
+
+Looking back, it was a total disaster, but it really <strong style="color:blue;">brought us closer together</strong> as a family. We always <strong style="color:blue;">look back on</strong> that trip with a big smile whenever we get together. It taught me that sometimes the best memories are created when things don't go according to plan.
+
+**[Vocabulary & Expressions]**
+* nostalgic: 향수를 불러일으키는
+* <strong style="color:blue;">brings back</strong>: (기억 등을) 되살리다, 떠올리게 하다
+* <strong style="color:blue;">stands out</strong>: 두드러지다, 눈에 띄다
+* road trip: 자동차 여행
+* <strong style="color:blue;">went wrong</strong>: 잘못되다, 엉망이 되다
+* <strong style="color:blue;">set off</strong>: 출발하다
+* <strong style="color:blue;">rolled in</strong>: (안개나 구름 등이) 밀려오다
+* <strong style="color:blue;">factor in</strong>: 고려하다, 감안하다
+* <strong style="color:blue;">pitch a tent</strong>: 텐트를 치다
+* <strong style="color:blue;">wait out</strong>: (좋지 않은 상황이 지나가기를) 기다리다
+* <strong style="color:blue;">brought us closer together</strong>: 우리를 더 가깝게 만들어 주었다, 결속력을 다져주었다
+* <strong style="color:blue;">look back on</strong>: 회상하다, 되돌아보다
