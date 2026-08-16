@@ -12492,3 +12492,87 @@ Looking back, it was a total disaster, but it really <strong style="color:blue;"
 * <strong style="color:blue;">wait out</strong>: (좋지 않은 상황이 지나가기를) 기다리다
 * <strong style="color:blue;">brought us closer together</strong>: 우리를 더 가깝게 만들어 주었다, 결속력을 다져주었다
 * <strong style="color:blue;">look back on</strong>: 회상하다, 되돌아보다
+
+## 2026-08-16 03:38:10 OPIc Study
+
+### 묘사 : 내가 배우고 싶은 클래식 기타 외형 묘사
+
+**[Question]**
+You indicated in the survey that you play musical instruments or want to learn one. Please describe an instrument you want to learn in detail. What does it look like, and what are its physical characteristics?
+(설문 조사에서 악기를 연주하거나 배우고 싶다고 하셨습니다. 배우고 싶은 악기에 대해 자세히 묘사해 주세요. 어떻게 생겼으며, 외형적 특징은 무엇인가요?)
+
+**[Model Answer]**
+You know, if I have to pick one instrument that I've always wanted to learn, it would definitely be the acoustic guitar. Actually, to be more specific, a classical nylon-string guitar. Let me paint a picture for you by <strong style="color:blue;">breaking down</strong> its physical appearance, because its design is just breathtaking. 
+
+First of all, the overall shape of the guitar <strong style="color:blue;">reminds me of</strong> an hourglass, with smooth, graceful curves that <strong style="color:blue;">fit snugly against</strong> the body when you hold it. The body is typically made of fine wood, like mahogany or spruce, and it has a glossy <strong style="color:blue;">finish that catches the light</strong> beautifully. Right in the middle of the upper body, there is a large circular opening called the sound hole, which is often <strong style="color:blue;">surrounded by</strong> intricate rosette patterns. 
+
+Extending from the main body is the long, flat neck, which is embedded with metal frets to guide your fingers. At the very top of the neck is the headstock, featuring several tuning pegs made of metal and plastic. These pegs are used to <strong style="color:blue;">tighten or loosen</strong> the strings. Speaking of strings, a classical guitar has six nylon strings instead of steel ones, which gives it a much warmer and mellower sound. 
+
+Overall, holding a guitar just <strong style="color:blue;">makes me feel</strong> calm and inspired. Every detail of its craftsmanship, from the wood grain to the bridge where the strings are anchored, shows incredible artistry. I’ve been meaning to <strong style="color:blue;">sign up for</strong> a class, and I hope I can actually start playing it <strong style="color:blue;">sooner rather than later</strong>.
+
+**[Vocabulary & Expressions]**
+* breathtaking: 숨막히게 아름다운
+* craftsmanship: 장인정신, 솜씨
+* <strong style="color:blue;">break down</strong>: 분석하다, 세분화하여 설명하다
+* <strong style="color:blue;">remind me of</strong>: ~을 떠올리게 하다
+* <strong style="color:blue;">fit snugly against</strong>: 딱 맞게 밀착되다
+* <strong style="color:blue;">surrounded by</strong>: ~로 둘러싸인
+* <strong style="color:blue;">sign up for</strong>: ~에 등록하다
+* <strong style="color:blue;">sooner rather than later</strong>: 조만간, 가급적 빨리
+
+---
+### 롤플레이 : 여행사에 비행기 티켓 일정 및 가격 문의
+
+**[Question]**
+You want to book a flight ticket for your upcoming vacation. Call a travel agency, and ask three or four questions about the schedule and prices.
+(다가오는 휴가를 위해 비행기 티켓을 예매하고 싶습니다. 여행사에 전화하여 일정과 가격에 관해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hi there, I'm calling because I'm planning a vacation to Sydney next month, and I need to book a round-trip flight ticket. I’ve been <strong style="color:blue;">looking into</strong> a few options online, but I have a few specific questions regarding your schedules and pricing. 
+
+First of all, could you tell me what flights are available during the third week of next month, specifically <strong style="color:blue;">departing on</strong> a Thursday and <strong style="color:blue;">returning on</strong> a Sunday? I’d prefer a morning departure if possible, so I can <strong style="color:blue;">make the most of</strong> my first day there. Also, do you have any direct flights, or do most of them <strong style="color:blue;">involve a layover</strong>? 
+
+Secondly, I'd like to know about the pricing structure. Could you give me a <strong style="color:blue;">breakdown of</strong> the costs, including taxes and fuel surcharges? I'm currently <strong style="color:blue;">on a tight budget</strong>, so I'm wondering if there are any promotional discounts, early-bird specials, or cheaper alternative dates <strong style="color:blue;">close to</strong> my preferred schedule. 
+
+Lastly, what is your <strong style="color:blue;">cancellation policy</strong>? If something <strong style="color:blue;">comes up</strong> and I have to <strong style="color:blue;">call off</strong> the trip, will I be able to get a full refund, or is there a <strong style="color:blue;">heavy penalty fee</strong>? 
+
+Please <strong style="color:blue;">get back to me</strong> with these details as soon as possible. Thank you so much!
+
+**[Vocabulary & Expressions]**
+* surcharge: 추가 요금
+* alternative: 대안의
+* <strong style="color:blue;">look into</strong>: ~을 알아보다, 조사하다
+* <strong style="color:blue;">make the most of</strong>: ~을 최대한 활용하다
+* <strong style="color:blue;">break down of</strong>: ~의 상세 내역
+* <strong style="color:blue;">on a tight budget</strong>: 예산이 빠듯한
+* <strong style="color:blue;">come up</strong>: (일 등이) 생기다, 발생하다
+* <strong style="color:blue;">call off</strong>: 취소하다
+* <strong style="color:blue;">get back to me</strong>: 회신하다, 연락주다
+
+---
+### 돌발 : 대중교통 이용 중 겪었던 돌발 상황 경험
+
+**[Question]**
+People often experience unexpected situations while taking the subway or bus during their commute. Tell me about a memorable unexpected situation you experienced while using public transportation. When and where was it, what happened, and how did you handle the situation?
+(사람들은 출퇴근길에 지하철이나 버스를 타다가 종종 돌발 상황을 겪습니다. 대중교통을 이용하다가 겪었던 기억에 남는 돌발 상황에 대해 말씀해 주세요. 언제 어디서 일어난 일이며, 무슨 일이 있었고, 어떻게 대처했나요?)
+
+**[Model Answer]**
+You know, commuting via public transportation <strong style="color:blue;">is bound to</strong> involve some unexpected moments, but there is one specific incident that <strong style="color:blue;">stands out in my mind</strong>. It happened about six months ago on a Monday morning. As you can imagine, Monday commutes are already <strong style="color:blue;">a nightmare</strong> because everyone is rushing to work. 
+
+I was on my usual subway train, listening to music, and reading a book. Suddenly, right in the middle of the tunnel between two stations, the train <strong style="color:blue;">came to a screeching halt</strong>. At first, I didn't think much of it because trains occasionally stop for traffic control. However, after about ten minutes, the lights inside the carriages flickered and went completely dark, and the air conditioning <strong style="color:blue;">shut down</strong>. 
+
+Panic started to <strong style="color:blue;">set in</strong> among the passengers. It was suffocatingly hot, and people were <strong style="color:blue;">freaking out</strong> because we had no idea what was going on. The emergency intercom was buzzing, but the driver's announcement was completely <strong style="color:blue;">muffled and hard to catch</strong>. 
+
+To <strong style="color:blue;">make matters worse</strong>, my phone battery was critically low. I needed to <strong style="color:blue;">notify</strong> my boss that I was going to <strong style="color:blue;">run late</strong> for an important meeting. Fortunately, I <strong style="color:blue;">kept my cool</strong> and asked a friendly passenger nearby if I could borrow their portable charger. After about forty agonizing minutes, the power <strong style="color:blue;">came back on</strong>, and the train slowly crawled to the next station. It was definitely an unforgettable experience, and it taught me to always <strong style="color:blue;">be prepared for</strong> unexpected delays.
+
+**[Vocabulary & Expressions]**
+* suffocatingly: 숨막힐 정도로
+* agonizing: 몹시 괴로운, 고통스러운
+* <strong style="color:blue;">is bound to</strong>: 반드시 ~하게 되어 있다
+* <strong style="color:blue;">stands out in my mind</strong>: 마음속에 뚜렷이 기억에 남다
+* <strong style="color:blue;">come to a screeching halt</strong>: 끽 소리를 내며 급정거하다
+* <strong style="color:blue;">set in</strong>: (좋지 않은 일이) 시작되다, 자리 잡다
+* <strong style="color:blue;">freak out</strong>: 기겁하다, 극도로 당황하다
+* <strong style="color:blue;">make matters worse</strong>: 설상가상으로
+* <strong style="color:blue;">keep one's cool</strong>: 침착함을 유지하다
+* <strong style="color:blue;">come back on</strong>: (전기 등이) 다시 들어오다
