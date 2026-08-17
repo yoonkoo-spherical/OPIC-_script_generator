@@ -12576,3 +12576,79 @@ To <strong style="color:blue;">make matters worse</strong>, my phone battery was
 * <strong style="color:blue;">make matters worse</strong>: 설상가상으로
 * <strong style="color:blue;">keep one's cool</strong>: 침착함을 유지하다
 * <strong style="color:blue;">come back on</strong>: (전기 등이) 다시 들어오다
+
+## 2026-08-17 03:38:59 OPIc Study
+
+### 묘사 : 단골 식당의 대표 메뉴 묘사
+
+**[Question]**
+You indicated in the survey that you enjoy going to restaurants. Tell me about your favorite dish at your regular restaurant. How does it look, and what does it taste like? Please describe it in detail.
+(당신은 설문에서 식당 가는 것을 즐긴다고 했습니다. 단골 식당에서 가장 좋아하는 메뉴에 대해 말씀해 주세요. 어떻게 생겼고, 맛은 어떤가요? 자세히 묘사해 주세요.)
+
+**[Model Answer]**
+You know, if I have to pick just one absolute favorite dish at my go-to Italian bistro, it would definitely have to be their signature truffle cream pasta. Let me paint a picture for you. When the plate is first <strong style="color:blue;">brought out</strong> to the table, the visual presentation is simply stunning. It's served in a wide, dark-colored ceramic bowl, which really makes the creamy white color of the sauce <strong style="color:blue;">stand out</strong>. The pasta strands are perfectly <strong style="color:blue;">coated with</strong> a thick, glossy sauce, and right in the middle, there's a generous amount of freshly shaved black truffles <strong style="color:blue;">scattered around</strong>, along with a few vibrant green parsley leaves for a pop of color. It honestly looks like something straight out of a food magazine. 
+
+Now, as for the taste and texture, it is an absolute game-changer. The moment you take your first bite, the rich, earthy aroma of the truffle completely <strong style="color:blue;">fills up</strong> your senses. The sauce is super velvety and creamy, but remarkably, it doesn't <strong style="color:blue;">taste heavy</strong> or greasy at all because they use high-quality parmesan cheese and fresh cream. The pasta itself is cooked to that absolute perfection of al dente—you know, with a slight chew to it. And just when you think it's just a rich cream pasta, a subtle hint of garlic and cracked black pepper <strong style="color:blue;">kicks in</strong> at the end, which really balances out the overall flavor profile. Whenever I have a rough week, eating this dish never fails to <strong style="color:blue;">cheer me up</strong>. It's just the ultimate comfort food for me, and I can't recommend it enough.
+
+**[Vocabulary & Expressions]**
+* Bistro: 작은 식당, 양식당
+* Signature: 대표적인, 시그니처의
+* Velvety: 벨벳처럼 부드러운
+* <strong style="color:blue;">bring out</strong>: 내오다, 가져다주다
+* <strong style="color:blue;">stand out</strong>: 눈에 띄다, 두드러지다
+* <strong style="color:blue;">coated with</strong>: ~로 뒤덮인, 코팅된
+* <strong style="color:blue;">fills up</strong>: 채우다
+* <strong style="color:blue;">kicks in</strong>: 효과가 나타나기 시작하다, 맛이 느껴지다
+* <strong style="color:blue;">cheer me up</strong>: 기분을 좋게 하다
+
+---
+### 롤플레이 : 택시 타고 가장 빠른 길 요청
+
+**[Question]**
+I'd like to give you a situation and ask you to act it out. You need to take a taxi to get to a very important business meeting downtown. Tell the driver where you are going, and ask him to take the most efficient and fastest route possible. 
+(상황을 하나 드릴 테니 역할 연기를 해 주시기 바랍니다. 당신은 시내에서 열리는 매우 중요한 비즈니스 미팅에 가기 위해 택시를 타야 합니다. 기사님께 목적지를 말씀드리고, 가능한 가장 효율적이고 빠른 길로 가 달라고 요청하세요.)
+
+**[Model Answer]**
+Hi there, good afternoon! I need to head down to the Grand Central Hotel downtown as soon as possible. I actually have a critically important business presentation starting in about thirty minutes, so time is really of the essence for me today. 
+
+By the way, do you happen to know the current traffic situation around the main bridge? I heard on the radio earlier that there might be some congestion <strong style="color:blue;">piling up</strong> near the Interchange. If you think the highway is going to <strong style="color:blue;">slow down</strong>, would you mind taking the backstreets or using the coastal expressway instead? I am more than happy to <strong style="color:blue;">pay the toll</strong> if it means we can <strong style="color:blue;">bypass</strong> all the heavy traffic. 
+
+Also, could you please <strong style="color:blue;">keep an eye on</strong> the GPS and <strong style="color:blue;">figure out</strong> the absolute quickest detour? I really cannot afford to <strong style="color:blue;">be late for</strong> this appointment. I would deeply appreciate it if you could <strong style="color:blue;">step on it</strong> a little bit safely, of course. Thank you so much for your help!
+
+**[Vocabulary & Expressions]**
+* Congestion: 교통 혼잡
+* Detour: 우회로, 우회하다
+* Expressway: 고속도로
+* <strong style="color:blue;">piling up</strong>: 쌓이다, 몰려들다
+* <strong style="color:blue;">slow down</strong>: 속도가 줄어들다, 느려지다
+* <strong style="color:blue;">pay the toll</strong>: 통행료를 지불하다
+* <strong style="color:blue;">bypass</strong>: 우회하다, 지나치다
+* <strong style="color:blue;">keep an eye on</strong>: 주시하다, 눈을 떼지 않다
+* <strong style="color:blue;">figure out</strong>: 알아내다, 파악하다
+* <strong style="color:blue;">be late for</strong>: ~에 늦다
+* <strong style="color:blue;">step on it</strong>: 속도를 내다, 서두르다
+
+---
+### 돌발 : 과거와 현재의 소통 방식 비교
+
+**[Question]**
+How has the way people communicate changed over time? In the past, people used letters or landline phones, but nowadays, we use instant messengers and social media. Compare how people communicated back then and how they do it now, and explain what pros and cons each method has.
+(시간이 흐름에 따라 사람들이 소통하는 방식은 어떻게 변했나요? 과거에는 편지나 유선 전화를 사용했지만, 요즘에는 즉석 메신저와 소셜 미디어를 사용합니다. 과거와 현재의 소통 방식을 비교하고, 각 방식의 장단점을 설명해 주세요.)
+
+**[Model Answer]**
+When looking at how human communication has evolved, the changes are truly monumental. If we <strong style="color:blue;">look back</strong> a few decades, communication was much slower and required a lot more patience. People used to write handwritten letters or make calls from a landline phone at home. Back then, waiting for a letter to arrive or trying to <strong style="color:blue;">get in touch with</strong> someone who wasn't at home could take days. However, the biggest pro of those traditional methods was the emotional depth and sincerity. Receiving a physical letter meant someone took real time and effort to think about you, which made the relationship feel much more meaningful and intimate.
+
+In stark contrast, today we are living in a hyper-connected era driven by instant messengers and social media platforms like KakaoTalk, Instagram, and WhatsApp. We can <strong style="color:blue;">send out</strong> messages, share photos, and even have video calls in real-time, no matter where we are in the world. This instant nature completely <strong style="color:blue;">breaks down</strong> geographical barriers and makes coordination so much easier. But on the flip side, this modern way of communicating also has notable downsides. Because we are constantly <strong style="color:blue;">bombarded with</strong> notifications and expected to reply immediately, it often leads to digital fatigue and burnout. Moreover, people tend to <strong style="color:blue;">rely on</strong> short texts and emojis rather than having deep, face-to-face conversations, which can sometimes <strong style="color:blue;">result in</strong> misunderstandings and superficial relationships. Ultimately, while technology has made our lives undoubtedly faster, we might have <strong style="color:blue;">given up</strong> some of the genuine emotional connection we used to have.
+
+**[Vocabulary & Expressions]**
+* Monumental: 어마어마한, 기념비적인
+* Sincerity: 진심, 진정성
+* Superficial: 피상적인, 얄팍한
+* <strong style="color:blue;">look back</strong>: 되돌아보다, 회상하다
+* <strong style="color:blue;">get in touch with</strong>: ~와 연락을 취하다
+* <strong style="color:blue;">send out</strong>: 보내다, 발송하다
+* <strong style="color:blue;">breaks down</strong>: 무너뜨리다, 분해하다
+* <strong style="color:blue;">bombarded with</strong>: ~로 폭격을 받다, 쏟아지다
+* <strong style="color:blue;">rely on</strong>: 의존하다
+* <strong style="color:blue;">result in</strong>: ~라는 결과를 낳다
+* <strong style="color:blue;">given up</strong>: 포기하다, 내주다
