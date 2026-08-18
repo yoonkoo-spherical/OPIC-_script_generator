@@ -12652,3 +12652,81 @@ In stark contrast, today we are living in a hyper-connected era driven by instan
 * <strong style="color:blue;">rely on</strong>: 의존하다
 * <strong style="color:blue;">result in</strong>: ~라는 결과를 낳다
 * <strong style="color:blue;">given up</strong>: 포기하다, 내주다
+
+## 2026-08-18 03:34:38 OPIc Study
+
+### 묘사 : 즐겨 보는 유튜브 채널의 특징 묘사
+
+**[Question]**
+What is your favorite YouTube channel or TV program that you enjoy watching nowadays? Please describe it in detail. What makes it so special or appealing to you?
+(요즘 즐겨 보는 가장 좋아하는 유튜브 채널이나 TV 프로그램은 무엇인가요? 자세히 묘사해 주세요. 무엇이 그것을 그렇게 특별하고 매력적으로 만드나요?)
+
+**[Model Answer]**
+You know, I’m a huge fan of watching YouTube videos these days, and if I have to pick one channel that <strong style="color:blue;">stands out</strong> the most, it would definitely be a travel documentary channel called 'Kian84's Life.' To give you a brief overview, the host travels to remote parts of the world without any fancy plans, completely immersing himself in the local culture. 
+
+What really <strong style="color:blue;">sets this channel apart</strong> from other ordinary travel shows is its incredible raw honesty and unpredictability. Unlike heavily scripted and glamorous travel programs, this channel shows the unfiltered reality of traveling. The host doesn't try to look cool; instead, he eats whatever the locals eat, sleeps wherever he can find a spot, and interacts with people in the most genuine way possible. Whenever I watch his journey, I feel like I am <strong style="color:blue;">tagging along</strong> with him on the trip, which gives me an amazing sense of vicarious thrill.
+
+Another thing that <strong style="color:blue;">captivates my attention</strong> is his unique perspective on life. Through his raw experiences, he delivers deep and surprisingly touching life lessons without sounding preachy at all. Whenever I feel exhausted from my busy routine and need to <strong style="color:blue;">blow off some steam</strong>, I turn on this channel. It never fails to <strong style="color:blue;">cheer me up</strong> and <strong style="color:blue;">put things into perspective</strong>. So overall, it's not just a fun entertainment channel for me, but a precious source of inspiration and healing.
+
+**[Vocabulary & Expressions]**
+* Unfiltered: 여과 없는, 가감 없는
+* Preachy: 설교하는 듯한, 훈시하려 드는
+* Vicarious: 대리의, 간접적인
+* <strong style="color:blue;">stands out</strong>: 두드러지다, 눈에 띄다
+* <strong style="color:blue;">sets this channel apart</strong>: 이 채널을 차별화하다
+* <strong style="color:blue;">tagging along</strong>: 따라가다, 동행하다
+* <strong style="color:blue;">captivates my attention</strong>: 내 마음을 사로잡다
+* <strong style="color:blue;">blow off some steam</strong>: 스트레스를 발산하다
+* <strong style="color:blue;">cheer me up</strong>: 기운을 북돋아 주다
+* <strong style="color:blue;">put things into perspective</strong>: 상황을 제대로 바라보게 하다
+
+---
+### 롤플레이 : 고장 난 제품 환불 및 교환 요구
+
+**[Question]**
+You recently bought a home appliance, such as a coffee maker, from an electronics store, but it doesn't work properly. Call the customer service center, explain the situation, and strongly demand a full refund or exchange along with a proper apology.
+(당신은 최근 가전제품 매장에서 커피 머신과 같은 가전제품을 샀는데 제대로 작동하지 않습니다. 고객센터에 전화해서 상황을 설명하고, 적절한 사과와 함께 전액 환불이나 교환을 강력하게 요구하세요.)
+
+**[Model Answer]**
+Hi, I am calling from customer service? Listen, I am extremely frustrated right now, and I need to speak with the manager immediately. I bought a high-end coffee maker at your downtown branch just three days ago, and it is completely defective. This is completely unacceptable.
+
+Let me <strong style="color:blue;">spell out</strong> what happened. I followed the instruction manual precisely, but when I tried to use it yesterday morning, it wouldn't even turn on. I tried different outlets, I checked the cord, and <strong style="color:blue;">nothing worked</strong>. Because of this, my morning routine was totally ruined, and to make matters worse, when I brought it back to the store, one of your staff members tried to <strong style="color:blue;">brush it off</strong> as my fault and refused to process an immediate refund. That is absolute nonsense! I paid a significant amount of money for a brand-new, premium appliance, not a piece of junk. 
+
+I demand a brand-new replacement delivered directly to my house by tomorrow, along with a formal apology for the terrible customer service I received. If you guys <strong style="color:blue;">give me the runaround</strong> or try to deny this request, I will not hesitate to report this store to the Consumer Protection Board. I expect you to <strong style="color:blue;">take responsibility</strong> and resolve this issue right now. What are you going to do about this?
+
+**[Vocabulary & Expressions]**
+* Defective: 결함이 있는
+* Unacceptable: 용납할 수 없는
+* Nonsense: 터무니없는 소리, 말도 안 되는 일
+* <strong style="color:blue;">spell out</strong>: 자세히 설명하다, 분명히 말하다
+* <strong style="color:blue;">nothing worked</strong>: 어떤 방법도 통하지 않았다
+* <strong style="color:blue;">brush it off</strong>: 대수롭지 않게 넘기다, 무시하다
+* <strong style="color:blue;">give me the runaround</strong>: 책임을 떠넘기며 핑계를 대다
+* <strong style="color:blue;">take responsibility</strong>: 책임을 지다
+
+---
+### 돌발 : 가족 모임에서 발생했던 예상치 못한 사건
+
+**[Question]**
+Tell me about a memorable unexpected argument or incident that happened during a holiday or a family gathering. What caused it, how did it unfold, and how was the situation eventually resolved?
+(명절이나 가족 모임 중에 발생했던 기억에 남는 예상치 못한 말다툼이나 사건에 대해 이야기해 주세요. 무엇 때문에 발생했고, 어떻게 전개되었으며, 상황이 결국 어떻게 해결되었나요?)
+
+**[Model Answer]**
+Oh, man, thinking about this still gives me chills. A couple of years ago, during the Lunar New Year holiday, my entire extended family gathered at my grandparents' house. Everything was going smoothly, we were sharing delicious food, and <strong style="color:blue;">catching up with</strong> each other until an unexpected chaos broke out.
+
+It all started quite innocently. My uncle and my dad started a harmless debate about the real estate market. However, as drinks were poured, the conversation <strong style="color:blue;">escalated quickly</strong> into a very heated political argument. Voices became louder, and harsh words were exchanged. The atmosphere in the living room <strong style="color:blue;">froze instantly</strong>, and everyone else was just looking at each other, completely dumbfounded. It felt like walking on thin ice, and nobody dared to <strong style="color:blue;">step in</strong> because things were getting way too personal.
+
+Just when the tension <strong style="color:blue;">reached its peak</strong>, my grandmother walked into the room carrying a huge tray of hot dessert. She didn't yell or scold them; instead, she just sighed deeply, handed my dad and uncle each a bowl, and said, "I cooked this all morning for my family to love each other, not to fight like enemies." That single moment of wisdom <strong style="color:blue;">woke them up</strong>. Both of my dad and uncle looked instantly ashamed, <strong style="color:blue;">swallowed their pride</strong>, and apologized to each other immediately. We all <strong style="color:blue;">let out a sigh of relief</strong>, and the gathering ended on a warm note. It was definitely a chaotic day, but it showed me the incredible power of family.
+
+**[Vocabulary & Expressions]**
+* Extended family: 대가족, 친척들
+* Dumbfounded: 어문이 벙란, 말문이 막힌
+* Walking on thin ice: 살얼음판을 걷는 것 같다
+* <strong style="color:blue;">catching up with</strong>: ~의 회포를 풀다, 안부를 묻다
+* <strong style="color:blue;">escalated quickly</strong>: 빠르게 고조되다, 악화되다
+* <strong style="color:blue;">froze instantly</strong>: 순식간에 얼어붙다
+* <strong style="color:blue;">step in</strong>: 개입하다, 나서다
+* <strong style="color:blue;">reached its peak</strong>: 정점에 달하다
+* <strong style="color:blue;">woke them up</strong>: 정신을 차리게 하다
+* <strong style="color:blue;">swallowed their pride</strong>: 자존심을 굽히다
+* <strong style="color:blue;">let out a sigh of relief</strong>: 안도의 한숨을 쉬다
