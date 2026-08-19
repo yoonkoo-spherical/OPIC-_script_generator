@@ -12730,3 +12730,99 @@ Just when the tension <strong style="color:blue;">reached its peak</strong>, my 
 * <strong style="color:blue;">woke them up</strong>: 정신을 차리게 하다
 * <strong style="color:blue;">swallowed their pride</strong>: 자존심을 굽히다
 * <strong style="color:blue;">let out a sigh of relief</strong>: 안도의 한숨을 쉬다
+
+## 2026-08-19 03:36:36 OPIc Study
+
+### 묘사 : 건강 유지를 위해 챙겨 먹는 영양제 묘사
+
+**[Question]**
+Please tell me about the supplements or health foods you take regularly to maintain your health. What are they, what do they look like, and why do you take them? Describe them in detail.
+(건강을 유지하기 위해 정기적으로 챙겨 먹는 영양제나 건강식품에 대해 말씀해 주세요. 그것들은 무엇이고, 어떻게 생겼으며, 왜 드시나요? 자세히 묘사해 주세요.)
+
+**[Model Answer]**
+You know, as I get older, keeping up with my health has become an absolute priority for me. To be honest, I used to <strong style="color:blue;">brush off</strong> the importance of vitamins, but nowadays, I am kind of a health fanatic. So, I would love to tell you about the main supplements I take every single day. 
+
+First of all, the absolute staple in my daily routine is a multivitamin. It comes in a rather large, amber-colored plastic bottle with a child-proof cap. Inside, the pills are large, oval-shaped tablets with a somewhat chalky texture and a distinct, earthy smell. I take one of these right after breakfast every morning. I feel like it <strong style="color:blue;">makes up for</strong> all the nutrients I miss out on due to my busy and irregular diet. 
+
+On top of that, I also take Omega-3 fish oil capsules. Visually, they are totally different from the multivitamin. They are translucent, golden-yellow capsules that are quite plump and shiny. Whenever I <strong style="color:blue;">pop</strong> one into my mouth, I have to swallow it quickly with plenty of water because of its texture. I started taking Omega-3 because a friend of mine strongly recommended it for blood circulation and brain function. Since I spend hours staring at a computer screen all day, I figured it would <strong style="color:blue;">pay off</strong> in the long run to protect my eyes and cardiovascular health.
+
+Lately, I’ve also added probiotics to my routine to <strong style="color:blue;">ward off</strong> any digestive issues. It’s a fine white powder that comes in individual stick packs, so it’s super convenient to <strong style="color:blue;">carry around</strong>. It has a sweet, yogurt-like flavor, so I just dissolve it right on my tongue without water. 
+
+Looking back, taking these supplements has definitely become a second nature to me. Even though swallowing all these pills can sometimes <strong style="color:blue;">be a hassle</strong>, I can genuinely feel that my energy levels have <strong style="color:blue;">picked up</strong> significantly since I started this routine. I really believe that taking care of your body from the inside <strong style="color:blue;">makes all the difference</strong>.
+
+**[Vocabulary & Expressions]**
+* Priority: 우선순위
+* Translucent: 반투명한
+* Cardiovascular: 심혈관의
+* <strong style="color:blue;">brush off</strong>: 무시하다, 가볍게 넘기다
+* <strong style="color:blue;">make up for</strong>: 보충하다, 만회하다
+* <strong style="color:blue;">pay off</strong>: 성과를 내다, 성공하다
+* <strong style="color:blue;">ward off</strong>: ~을 피하다, 예방하다
+* <strong style="color:blue;">carry around</strong>: 들고 다니다, 가지고 다니다
+* <strong style="color:blue;">be a hassle</strong>: 번거롭다, 성가시다
+* <strong style="color:blue;">pick up</strong>: 회복되다, 좋아지다
+* <strong style="color:blue;">make all the difference</strong>: 큰 차이를 만들다, 결정적인 영향을 미치다
+
+---
+### 롤플레이 : 마트에서 산 유제품 환불 요청하기
+
+**[Question]**
+You bought some dairy products, like milk or yogurt, at a local supermarket yesterday. However, when you checked them at home, you realized they are past their expiration date. Call the customer service center or go to the store, explain the situation to the clerk, and ask for a refund or exchange.
+(어제 동네 마트에서 우유나 요거트 같은 유제품을 샀습니다. 하지만 집에 와서 확인해보니 유통기한이 지나 있었습니다. 고객센터에 전화하거나 매장에 가서 점원에게 상황을 설명하고 환불이나 교환을 요청하세요.)
+
+**[Model Answer]**
+Hi there. I’m actually calling because I have a bit of an issue with a purchase I made at your supermarket yesterday afternoon. I bought a few grocery items, and among them, I picked up a large pack of fresh milk and a container of Greek yogurt. But when I got home and went to put them in the fridge, I happened to <strong style="color:blue;">check out</strong> the expiration dates, and to my surprise, I noticed that both items are already past their expiration date by two days. 
+
+Honestly, I was pretty flustered because I usually <strong style="color:blue;">count on</strong> your store for fresh produce and dairy. I mean, serving or selling expired dairy products could really <strong style="color:blue;">result in</strong> serious food poisoning, especially if my kids had consumed them without noticing. 
+
+So, I’d like to either <strong style="color:blue;">get a full refund</strong> or <strong style="color:blue;">swap</strong> these items for newly stocked ones with a fresh date. I still have the receipt right here in my hand, and the items are completely unopened and refrigerated ever since I brought them home. Could you please <strong style="color:blue;">look into</strong> this matter and let me know how we can process this return quickly? 
+
+Oh, by the way, I live just around the corner, so I can drop by the customer service desk in about ten minutes if you need me to present the items physically. I really appreciate your prompt help with this, and I hope you can <strong style="color:blue;">pass along</strong> this feedback to the inventory management team to make sure this doesn't <strong style="color:blue;">happen again</strong>. Thanks a lot!
+
+**[Vocabulary & Expressions]**
+* Expiration date: 유통기한
+* Flustered: 당황한
+* Consumed: 소비된, 먹은
+* Receipt: 영수증
+* Unopened: 개봉하지 않은
+* Inventory: 재고
+* <strong style="color:blue;">check out</strong>: 확인하다, 살펴보다
+* <strong style="color:blue;">count on</strong>: ~을 믿다, 의지하다
+* <strong style="color:blue;">result in</strong>: ~라는 결과를 낳다
+* <strong style="color:blue;">get a full refund</strong>: 전액 환불받다
+* <strong style="color:blue;">look into</strong>: 조사하다, 알아보다
+* <strong style="color:blue;">pass along</strong>: 전달하다
+* <strong style="color:blue;">happen again</strong>: 다시 발생하다
+
+---
+### 돌발 : 과거와 오늘날의 주거 환경 변화 설명
+
+**[Question]**
+How have housing environments, such as apartments and houses, changed from the past to the present in your country? Compare the living spaces, facilities, and overall lifestyle associated with homes from the past compared to today's modern homes.
+(당신의 국가에서 아파트나 주택 같은 주거 환경이 과거와 비교해 현재 어떻게 변했나요? 과거의 주택과 오늘날의 현대적인 주택을 연관 짓어 생활 공간, 시설, 전반적인 라이프스타일을 비교해 주세요.)
+
+**[Model Answer]**
+When I think about how much housing environments have evolved in my country over the past few decades, it’s honestly mind-blowing. If you <strong style="color:blue;">look back at</strong> the housing situation a few decades ago, detached houses or traditional multi-family housing blocks were the absolute norm. Back then, living spaces were relatively cramped, and people had to <strong style="color:blue;">make do with</strong> much simpler, analog-style facilities. For instance, heating systems were quite basic, and parking spaces were a luxury, which often <strong style="color:blue;">led to</strong> fierce neighborly disputes over parking spots every single night.
+
+Fast forward to today, and the landscape has completely transformed, with high-rise apartment complexes dominating the entire real estate market. Modern apartments are no longer just a place to sleep; they have <strong style="color:blue;">turned into</strong> sophisticated, self-contained communities equipped with state-of-the-art smart home technologies. You can control your home's lighting, heating, and security systems right from your smartphone, which was completely unimaginable in the past. 
+
+Furthermore, modern apartment complexes <strong style="color:blue;">come with</strong> incredible communal facilities <strong style="color:blue;">such as</strong> indoor fitness centers, swimming pools, cafes, and safe playgrounds for children, all within walking distance <strong style="color:blue;">right on</strong> the premises. This has dramatically <strong style="color:blue;">shifted</strong> our overall lifestyle <strong style="color:blue;">away from</strong> isolated living <strong style="color:blue;">toward</strong> a more convenient, community-centric, and leisure-oriented culture. 
+
+Of course, some people sometimes <strong style="color:blue;">long for</strong> the cozy, nostalgic charm of old-fashioned standalone houses with private yards. However, considering the sheer convenience, security, and efficiency of modern housing, I truly believe that contemporary living environments <strong style="color:blue;">run away with</strong> the prize in terms of overall quality of life. The way we live has truly been revolutionized.
+
+**[Vocabulary & Expressions]**
+* Evolved: 진화했다, 발전했다
+* Detached house: 단독주택
+* Real estate: 부동산
+* Sophisticated: 정교한, 세련된
+* Contemporary: 현대의, 동시대의
+* <strong style="color:blue;">look back at</strong>: ~를 되돌아보다
+* <strong style="color:blue;">make do with</strong>: ~로럭셔리하게 때우다, 견디다
+* <strong style="color:blue;">led to</strong>: ~로 이어지다, 초래하다
+* <strong style="color:blue;">turned into</strong>: ~로 변하다
+* <strong style="color:blue;">come with</strong>: ~가 딸려 있다, 포함되어 있다
+* <strong style="color:blue;">such as</strong>: ~와 같은
+* <strong style="color:blue;">right on</strong>: 바로 ~에
+* <strong style="color:blue;">shifted ~ away from ~ toward ...</strong>: ~에서 ...로 전환하다
+* <strong style="color:blue;">long for</strong>: 갈망하다, 그리워하다
+* <strong style="color:blue;">run away with</strong>: 압승하다, 단연 우세하다
