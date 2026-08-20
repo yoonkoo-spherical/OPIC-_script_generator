@@ -12826,3 +12826,88 @@ Of course, some people sometimes <strong style="color:blue;">long for</strong> t
 * <strong style="color:blue;">shifted ~ away from ~ toward ...</strong>: ~에서 ...로 전환하다
 * <strong style="color:blue;">long for</strong>: 갈망하다, 그리워하다
 * <strong style="color:blue;">run away with</strong>: 압승하다, 단연 우세하다
+
+## 2026-08-20 03:36:32 OPIc Study
+
+### 묘사 : 점심시간 회사 주변 거리 풍경
+
+**[Question]**
+Could you describe what the streets or the cafeteria near your workplace look like during lunchtime? Please give me a detailed description of the scenery and the atmosphere.
+(점심시간에 회사 주변의 거리나 구내식당의 모습은 어떠한가요? 풍경과 분위기에 대해 자세히 설명해 주세요.)
+
+**[Model Answer]**
+You know, I work in the middle of a really bustling business district, so the streets near my office during lunchtime are absolute chaos, but in a very vibrant and energetic way. If I have to paint a picture for you, right when the clock strikes twelve, you can see flocks of office workers <strong style="color:blue;">pouring out</strong> of every single building like a human tidal wave. Everyone is <strong style="color:blue;">dressed to the nines</strong> in business casual or suits, marching with a sense of extreme urgency because everybody wants to <strong style="color:blue;">beat the rush</strong> at popular restaurants. 
+
+The atmosphere completely shifts from the quiet, tense vibe of the morning to something much more lively and conversational. You can hear a cacophony of sounds—people <strong style="color:blue;">catching up</strong> on their morning work, laughing over inside jokes, and the constant ringing of delivery bikes weaving dangerously through the pedestrian crowds. Speaking of which, the streets are lined with all sorts of eateries, ranging from cozy, hole-in-the-wall noodle shops to trendy brunch cafes. During this hour, the air is <strong style="color:blue;">filled with</strong> the mouth-watering aromas of grilled meats, freshly brewed coffee, and spicy street food that just <strong style="color:blue;">makes your mouth water</strong> instantly. 
+
+Another interesting thing you'll notice is the long queues. Almost every decent restaurant has people <strong style="color:blue;">lining up</strong> down the block, and the staff are outside frantically <strong style="color:blue;">taking orders</strong> and trying to <strong style="color:blue;">keep things moving</strong>. Despite the overwhelming crowd and the minor chaos, I actually really enjoy this time of day. It’s fascinating to observe the sheer energy of the city. People are <strong style="color:blue;">letting off steam</strong> after a stressful morning, and walking through this lively neighborhood always helps me <strong style="color:blue;">clear my head</strong> before I head back to my desk for the afternoon shift. All in all, it’s a dynamic snapshot of modern urban life.
+
+**[Vocabulary & Expressions]**
+* Bustling: 번잡한, 붐비는
+* Cacophony: 소음, 섭소리
+* Pedestrian: 보행자의
+* * <strong style="color:blue;">pouring out</strong>: 쏟아져 나오다
+* * <strong style="color:blue;">dressed to the nines</strong>: 멋지게 차려입은
+* * <strong style="color:blue;">beat the rush</strong>: 혼잡한 시간을 피하다
+* * <strong style="color:blue;">catching up</strong>: (밀린 이야기를) 나누다
+* * <strong style="color:blue;">filled with</strong>: ~로 가득 찬
+* * <strong style="color:blue;">makes your mouth water</strong>: 군침이 돌게 하다
+* * <strong style="color:blue;">lining up</strong>: 줄을 서다
+* * <strong style="color:blue;">taking orders</strong>: 주문을 받다
+* * <strong style="color:blue;">keep things moving</strong>: 진행을 원활하게 하다
+* * <strong style="color:blue;">letting off steam</strong>: (스트레스를) 풀다, 발산하다
+* * <strong style="color:blue;">clear my head</strong>: 머리를 식히다
+
+---
+### 롤플레이 : 콘서트장 좌석 착오 문제 해결
+
+**[Question]**
+You have arrived at a concert venue, but when you get to your seat, someone else is sitting in it. Call the staff member, explain the situation, and ask them to resolve the problem.
+(콘서트장에 도착했는데 예약한 좌석에 다른 사람이 앉아있습니다. 직원에게 연락하여 상황을 설명하고 문제를 해결해 달라고 요청하세요.)
+
+**[Model Answer]**
+Excuse me? Hi there. I'm sorry to bother you, but I seem to have a bit of a problem with my seating, and I was hoping you could help me <strong style="color:blue;">sort this out</strong>. You see, I bought a ticket for section B, row 12, seat number 14, which is supposed to be right here. However, when I came to my seat just now, someone else was already sitting in it. I tried to <strong style="color:blue;">bring it to his attention</strong> politely, but he insists that his ticket says the exact same thing. 
+
+I’m a bit confused because I booked this ticket months in advance, and I definitely double-checked my booking confirmation email before coming. Could you please <strong style="color:blue;">look into</strong> this for me? Maybe there was a double booking error in your system, or perhaps one of us is reading the ticket wrong. 
+
+Could you please <strong style="color:blue;">check my ticket</strong> against the seating chart? If it turns out to be a system error, I really expect you to <strong style="color:blue;">find a solution</strong>, like upgrading my seat or finding an equivalent spot nearby. I’ve been <strong style="color:blue;">looking forward to</strong> this concert for ages, and I don't want my evening to be ruined by this mix-up. I'd really appreciate it if you could <strong style="color:blue;">look into</strong> this right away so I can <strong style="color:blue;">settle down</strong> before the show starts. Thank you so much for your help.
+
+**[Vocabulary & Expressions]**
+* Confirmation: 확인, 확정
+* Equivalent: 동등한, 대등한
+* Mix-up: 혼동, 착오
+* * <strong style="color:blue;">sort this out</strong>: 이 문제를 해결하다
+* * <strong style="color:blue;">bring it to his attention</strong>: 그에게 이 사실을 알리다
+* * <strong style="color:blue;">look into</strong>: 조사하다, 확인하다
+* * <strong style="color:blue;">check my ticket</strong>: 내 표를 확인하다
+* * <strong style="color:blue;">find a solution</strong>: 해결책을 찾다
+* * <strong style="color:blue;">looking forward to</strong>: ~를 학수고대하다
+* * <strong style="color:blue;">settle down</strong>: 자리에 앉아 진정하다
+
+---
+### 돌발 : 어릴 적 장래 희망과 현재 직업 비교
+
+**[Question]**
+Think about when you were a child. What did you want to be when you grew up, and how does that compare to your current job or major? Tell me about the differences in detail.
+(어릴 적을 떠올려보세요. 커서 어떤 사람이 되고 싶었나요? 그리고 그것이 현재의 직업이나 전공과 어떻게 다른가요? 차이점에 대해 자세히 이야기해 주세요.)
+
+**[Model Answer]**
+Oh, looking back at my childhood dreams, it always makes me smile because my aspirations were so vastly different from where I actually ended up. When I was a little kid, say around eight or nine years old, my absolute dream was to become a professional comic book artist or a famous animator. I used to spend hours <strong style="color:blue;">drawing pictures</strong> of superheroes and inventing crazy fictional storylines. Back then, I thought that creating magical worlds on paper was the coolest thing in the entire universe. I was totally <strong style="color:blue;">immersed in</strong> that creative bubble, completely convinced that I would <strong style="color:blue;">grow up to be</strong> the next big thing in the art industry.
+
+However, as I <strong style="color:blue;">grew older</strong> and faced the harsh realities of life, my priorities and interests shifted dramatically. Today, ironically enough, I work as a financial analyst in a major corporate firm. If my childhood self could see me now, he would probably be utterly shocked and disappointed. Instead of sketching colorful cartoons and dreaming up fantasy plots, I spend my entire day staring at Excel spreadsheets, analyzing market trends, and <strong style="color:blue;">crunching numbers</strong> to help corporate clients make investment decisions. 
+
+The contrast between my childhood dream and my current reality is like night and day. Art is all about emotional expression, freedom, and breaking the rules, whereas finance is heavily structured, analytical, and relies strictly on logic and data. But you know what? I don't regret how things <strong style="color:blue;">turned out</strong> at all. While I no longer draw for a living, I still <strong style="color:blue;">keep up with</strong> my hobby on the weekends to <strong style="color:blue;">let off some steam</strong>. My current job provides me with stability and a great intellectual challenge, which I deeply appreciate. So, even though my career path took a completely unexpected turn, I’ve learned to <strong style="color:blue;">make the most of</strong> where life has taken me.
+
+**[Vocabulary & Expressions]**
+* Aspiration: 열망, 포부
+* Fictional: 허구의, 소설의
+* Analytically: 분석적으로
+* * <strong style="color:blue;">drawing pictures</strong>: 그림을 그리다
+* * <strong style="color:blue;">immersed in</strong>: ~에 몰두한
+* * <strong style="color:blue;">grow up to be</strong>: 자라서 ~가 되다
+* * <strong style="color:blue;">grew older</strong>: 나이가 들다
+* * <strong style="color:blue;">crunching numbers</strong>: (복잡한) 수 계산을 하다
+* * <strong style="color:blue;">turned out</strong>: (결과가) 판명되다, 되다
+* * <strong style="color:blue;">keep up with</strong>: ~을 계속 유지하다, 뒤처지지 않다
+* * <strong style="color:blue;">let off some steam</strong>: 스트레스를 풀다
+* * <strong style="color:blue;">make the most of</strong>: ~을 최대한 활용하다
