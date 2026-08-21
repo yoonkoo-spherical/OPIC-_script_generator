@@ -12911,3 +12911,82 @@ The contrast between my childhood dream and my current reality is like night and
 * * <strong style="color:blue;">keep up with</strong>: ~을 계속 유지하다, 뒤처지지 않다
 * * <strong style="color:blue;">let off some steam</strong>: 스트레스를 풀다
 * * <strong style="color:blue;">make the most of</strong>: ~을 최대한 활용하다
+
+## 2026-08-21 03:40:17 OPIc Study
+
+### 묘사 : 한국의 지리적 특징과 기후
+
+**[Question]**
+Could you describe the geographical features and climate of your country? What comes to mind first when you think about them?
+(당신의 나라의 지리적 특징과 기후를 묘사해 주시겠습니까? 그것들에 대해 생각할 때 가장 먼저 무엇이 떠오르나요?)
+
+**[Model Answer]**
+Well, when it comes to describing the geography and climate of South Korea, the very first thing that <strong style="color:blue;">comes to mind</strong> is that it is a remarkably dynamic and diverse country, despite its relatively compact size. Geographically speaking, South Korea is <strong style="color:blue;">characterized by</strong> mountainous terrain, which <strong style="color:blue;">makes up for</strong> about seventy percent of the entire country. Because of this, wherever you go, you are never too far from a mountain range or a scenic hiking trail. 
+
+Furthermore, the country is surrounded by the sea on three sides, which <strong style="color:blue;">brings about</strong> distinct environmental advantages. The East Coast is famous for its deep waters and stunning cliffs, while the West and South Coasts feature complex shorelines with numerous islands and tidal flats. This unique geography naturally <strong style="color:blue;">shapes</strong> our lifestyle, as outdoor activities like hiking in autumn and visiting the beach in summer are deeply embedded in our culture.
+
+Now, moving on to the climate, South Korea experiences four distinct seasons, each of which <strong style="color:blue;">brings its own flavor</strong> to the table. We have freezing, dry winters influenced by continental air masses, and hot, humid summers caused by North Pacific highs. Personally, I <strong style="color:blue;">am particularly fond of</strong> autumn because the weather is crisp and the foliage is breathtaking. However, the transition between seasons can sometimes <strong style="color:blue;">catch people off guard</strong>, especially during the sudden temperature drops in late autumn. All in all, the combination of our rugged topography and dramatic seasonal changes <strong style="color:blue;">results in</strong> a vibrant environment that constantly <strong style="color:blue;">keeps us on our toes</strong>.
+
+**[Vocabulary & Expressions]**
+* topography: 지형
+* foliage: 나뭇잎, 단풍
+* <strong style="color:blue;">come to mind</strong>: 생각이 나다
+* <strong style="color:blue;">characterized by</strong>: ~로 특징지어지는
+* <strong style="color:blue;">make up for</strong>: 차지하다, 보상하다
+* <strong style="color:blue;">bring about</strong>: 초래하다, 야기하다
+* <strong style="color:blue;">catch someone off guard</strong>: 방심할 때 허를 찌르다
+* <strong style="color:blue;">results in</strong>: ~의 결과를 낳다
+* <strong style="color:blue;">keep someone on their toes</strong>: 긴장을 늦추지 않게 하다
+
+---
+### 롤플레이 : 길에서 지하철역 길 묻기
+
+**[Question]**
+You are walking down the street and realize you are lost. You need to get to the nearest subway station. Approach a stranger, explain your situation, and ask for directions. Then, ask two or three follow-up questions to get detailed instructions.
+(길을 걷다 길을 잃었다는 것을 깨달았습니다. 가장 가까운 지하철역에 가야 합니다. 모르는 사람에게 다가가 상황을 설명하고 길을 물어보세요. 그런 다음, 상세한 안내를 받기 위해 두세 가지 추가 질문을 하세요.)
+
+**[Model Answer]**
+Excuse me, sorry to bother you, but I seem to <strong style="color:blue;">be a bit turned around</strong>. I am trying to find the nearest subway station, but my phone battery just died, so I <strong style="color:blue;">am at a loss</strong> right now. Could you possibly help me out? 
+
+Oh, thank you so much! You are a lifesaver. Actually, I am heading toward Gangnam Station, but any station nearby will do. Could you tell me how to get there from here? Do I need to <strong style="color:blue;">head straight down</strong> this street and <strong style="color:blue;">make a left</strong> at the main intersection? 
+
+Ah, I see. Let me <strong style="color:blue;">make sure I've got this straight</strong>. So, I walk down this block until I see a big coffee shop on the corner, and then I turn right? By the way, about how long does it take to walk there? Is it within walking distance, or should I consider taking a bus if I am in a hurry? Also, are there any prominent landmarks near the station entrance so that I don't <strong style="color:blue;">miss it</strong>? 
+
+Thank you so much for your patience and detailed explanation. I really appreciate your help. Have a wonderful day!
+
+**[Vocabulary & Expressions]**
+* intersection: 사거리, 교차로
+* landmark: 주요 건물, 명소
+* <strong style="color:blue;">be turned around</strong>: 방향을 잃다, 혼란스러워하다
+* <strong style="color:blue;">be at a loss</strong>: 어찌할 바를 모르다
+* <strong style="color:blue;">help someone out</strong>: ~를 돕다
+* <strong style="color:blue;">head straight down</strong>: 곧장 걸어가다
+* <strong style="color:blue;">make a left</strong>: 좌회전하다
+* <strong style="color:blue;">make sure I've got this straight</strong>: 제대로 이해했는지 확인하다
+* <strong style="color:blue;">miss it</strong>: 지나치다, 놓치다
+
+---
+### 돌발 : 반려동물을 키우며 겪은 보람찬 순간
+
+**[Question]**
+Talk about your experience with a pet. What was the most rewarding or challenging moment you have experienced while raising a pet? Share a specific story.
+(반려동물과 함께한 경험에 대해 이야기해 주세요. 반려동물을 키우면서 겪었던 가장 보람찼거나 힘들었던 순간은 무엇인가요? 구체적인 이야기를 공유해 주세요.)
+
+**[Model Answer]**
+When it comes to raising a pet, I have been through countless unforgettable moments with my dog, Coco. If I have to pick the most rewarding moment, it would definitely be the time Coco fully recovered from a severe illness last year and finally <strong style="color:blue;">bounded toward</strong> me with her usual energy. 
+
+To give you some background, Coco suddenly stopped eating and <strong style="color:blue;">came down with</strong> a high fever. The veterinarian said it was a critical condition that required intensive care. For about two weeks, I had to <strong style="color:blue;">stay up around the clock</strong> to monitor her breathing and administer medication every few hours. It was an incredibly exhausting period, both physically and emotionally. I can't even <strong style="color:blue;">begin to describe</strong> how anxious and helpless I felt watching her suffer. 
+
+However, all that hardship <strong style="color:blue;">paid off</strong> on the day she was discharged from the animal hospital. When we returned home, she slowly walked out of her carrier, looked straight into my eyes, and let out a gentle tail wag. It felt as if she was trying to <strong style="color:blue;">express her gratitude</strong> for everything I had done. At that exact second, all the sleepless nights and worries <strong style="color:blue;">melted away</strong>, and I realized just how deep our bond had become. That experience <strong style="color:blue;">left a lasting impression on</strong> me and taught me the true meaning of unconditional love and responsibility.
+
+**[Vocabulary & Expressions]**
+* veterinarian: 수의사
+* intensive care: 집중 치료
+* unconditional: 무조건적인
+* <strong style="color:blue;">bound toward</strong>: ~를 향해방방 뛰어가다
+* <strong style="color:blue;">come down with</strong>: (병에) 걸리다
+* <strong style="color:blue;">stay up around the clock</strong>: 24시간 내내 깨어 있다
+* <strong style="color:blue;">begin to describe</strong>: 말로 표현하기 시작하다 (주로 부정문과 함께 쓰여 말로 표현 못 함을 강조)
+* <strong style="color:blue;">pay off</strong>: 결실을 맺다, 성과를 거두다
+* <strong style="color:blue;">melt away</strong>: 눈 녹듯 사라지다
+* <strong style="color:blue;">left a lasting impression on</strong>: ~에게 깊은 인상을 남기다
