@@ -12990,3 +12990,96 @@ However, all that hardship <strong style="color:blue;">paid off</strong> on the 
 * <strong style="color:blue;">pay off</strong>: 결실을 맺다, 성과를 거두다
 * <strong style="color:blue;">melt away</strong>: 눈 녹듯 사라지다
 * <strong style="color:blue;">left a lasting impression on</strong>: ~에게 깊은 인상을 남기다
+
+## 2026-08-22 03:32:11 OPIc Study
+
+### 묘사 : 우리 집 반려견 초코의 외모와 특징 묘사
+
+**[Question]**
+Please describe the pet that you raise at home or your neighbor's pet. What does it look like, and what are its physical characteristics? Tell me in detail.
+(당신이 집에서 기르는 반려동물이나 이웃의 반려동물에 대해 묘사해 주세요. 어떻게 생겼으며, 신체적 특징은 무엇인가요? 자세히 말씀해 주세요.)
+
+**[Model Answer]**
+You know what? I'd love to tell you about my lovely dog, Choco, who is basically a member of our family. When it comes to his appearance, Choco is a Toy Poodle, and he is just about the cutest creature you could ever imagine. First off, he has this gorgeous, curly, chocolate-brown fur that feels <strong style="color:blue;">soft to the touch</strong>, kind of like a plush teddy bear. Whenever we <strong style="color:blue;">groom</strong> him, his coat gets super fluffy, and he literally <strong style="color:blue;">stands out</strong> whenever we take a walk in the neighborhood. 
+
+One of his most distinctive physical features is his big, round, expressive eyes. They are dark brown and always <strong style="color:blue;">look at me with</strong> so much affection, which <strong style="color:blue;">melts my heart</strong> every single time. He also has these floppy ears that <strong style="color:blue;">bounce up and down</strong> whenever he runs around the living room. Oh, and I shouldn't forget his tiny button nose and his little stubby tail that <strong style="color:blue;">wags back and forth</strong> non-stop whenever he gets excited. 
+
+Though he is quite small—he weighs only about 4 kilograms—he <strong style="color:blue;">is full of</strong> energy. His legs are relatively short, but boy, can he jump! He can <strong style="color:blue;">leap over</strong> small obstacles in the house with surprising agility. To <strong style="color:blue;">sum it up</strong>, Choco's adorable looks combined with his lively personality never fail to <strong style="color:blue;">bring a smile to my face</strong> after a long, exhausting day. I honestly cannot imagine my life without him.
+
+**[Vocabulary & Expressions]**
+* distinctive: 독특한
+* agility: 민첩성
+* <strong style="color:blue;">soft to the touch</strong>: 만지면 부드러운
+* <strong style="color:blue;">groom</strong>: 털을 손질하다
+* <strong style="color:blue;">stands out</strong>: 눈에 띄다
+* <strong style="color:blue;">look at me with</strong>: ~로 나를 바라보다
+* <strong style="color:blue;">melts my heart</strong>: 마음을 녹이다
+* <strong style="color:blue;">bounce up and down</strong>: 위아래로 펄쩍펄쩍 뛰다
+* <strong style="color:blue;">wags back and forth</strong>: 앞뒤로 흔들다
+* <strong style="color:blue;">is full of</strong>: ~로 가득 차 있다
+* <strong style="color:blue;">leap over</strong>: ~를 뛰어넘다
+* <strong style="color:blue;">sum it up</strong>: 요약하자면
+* <strong style="color:blue;">bring a smile to my face</strong>: 내 얼굴에 미소를 짓게 하다
+
+---
+### 롤플레이 : 식당에서 알레르기 재료가 든 음식 재주문 요청
+
+**[Question]**
+You are at a restaurant and you just ordered a meal. However, after taking a bite, you realize that the dish contains an ingredient that you are severely allergic to. Call the waiter, explain the situation, and ask them to remake the dish or offer an alternative.
+(당신은 식당에 와서 식사를 주문했습니다. 하지만 한 입 먹은 후, 그 요리에 심각한 알레르기가 있는 재료가 들어 있다는 것을 깨달았습니다. 웨이터를 불러 상황을 설명하고, 음식을 다시 만들어 주거나 다른 대안을 제시해 달라고 요청하세요.)
+
+**[Model Answer]**
+Excuse me! Sir, could you spare a minute? I'm terribly sorry to <strong style="color:blue;">bother you</strong>, but I have a serious issue with the dish I was just served. I ordered the seafood pasta a few minutes ago, and unfortunately, it <strong style="color:blue;">turns out</strong> that it contains walnuts and macadamia nuts. The thing is, I have a severe, life-threatening nut allergy. 
+
+When I took my first bite, I immediately <strong style="color:blue;">felt a tingling sensation</strong> in my throat, and I had to <strong style="color:blue;">spit it out</strong>. I know I should have <strong style="color:blue;">double-checked</strong> the menu or <strong style="color:blue;">warned the staff</strong> beforehand, but I completely forgot because I was so hungry. I didn't see any allergy warnings listed next to the menu item. 
+
+Could you please <strong style="color:blue;">take this back</strong> to the kitchen and have them <strong style="color:blue;">remake</strong> the pasta without any nuts? Also, please make sure the chef <strong style="color:blue;">washes the pan thoroughly</strong> to <strong style="color:blue;">prevent cross-contamination</strong>, because even a tiny trace can <strong style="color:blue;">trigger a severe reaction</strong> for me. If it takes too long to <strong style="color:blue;">start over</strong>, would it be possible to <strong style="color:blue;">switch to</strong> a completely different dish, like the grilled salmon? I would really appreciate your quick help on this matter, as I'm starting to feel a bit anxious. Thank you so much for your understanding.
+
+**[Vocabulary & Expressions]**
+* life-threatening: 생명을 위협하는
+* cross-contamination: 교차 오염
+* <strong style="color:blue;">bother you</strong>: ~에게 귀찮게 하다
+* <strong style="color:blue;">turns out</strong>: 판명되다, 알고 보니 ~이다
+* <strong style="color:blue;">felt a tingling sensation</strong>: 얼얼한 느낌을 느끼다
+* <strong style="color:blue;">spit it out</strong>: (입에 든 것을) 뱉어내다
+* <strong style="color:blue;">double-checked</strong>: 재확인하다
+* <strong style="color:blue;">warned the staff</strong>: 직원에게 경고하다
+* <strong style="color:blue;">take this back</strong>: 이걸 가져가다
+* <strong style="color:blue;">remake</strong>: 다시 만들다
+* <strong style="color:blue;">washes the pan thoroughly</strong>: 팬을 철저히 씻다
+* <strong style="color:blue;">prevent cross-contamination</strong>: 교차 오염을 예방하다
+* <strong style="color:blue;">trigger a severe reaction</strong>: 심각한 알레르기 반응을 유발하다
+* <strong style="color:blue;">start over</strong>: 처음부터 다시 시작하다
+* <strong style="color:blue;">switch to</strong>: ~로 바꾸다
+
+---
+### 돌발 : 결혼식장 예절을 몰라 당황했거나 실수한 경험
+
+**[Question]**
+Have you ever attended a wedding or a funeral and made a mistake or felt embarrassed because you didn't know the proper etiquette or customs? Tell me about the situation in detail, what happened, and how you handled it.
+(결혼식장이나 장례식장에 참석했다가 적절한 예절이나 관습을 몰라 당황했거나 실수한 적이 있나요? 당시 상황, 벌어진 일, 그리고 어떻게 대처했는지 자세히 말씀해 주세요.)
+
+**[Model Answer]**
+You know, looking back, I've had my share of awkward moments, but one particular incident stands out <strong style="color:blue;">crystal clear</strong> in my mind. It happened a few years ago when I attended a traditional Korean-American wedding for one of my close colleagues. Up until then, I had only ever attended standard buffet-style weddings, so I was completely <strong style="color:blue;">clueless about</strong> the specific cultural protocols involved in a traditional ceremony.
+
+The ceremony was held in a very grand, formal hall, and guests were expected to <strong style="color:blue;">observe strict silence</strong> and follow specific seating arrangements based on their relationship to the bride and groom. Well, being completely oblivious, I rushed in just five minutes before the ceremony started, and instead of taking a seat in the designated guest area, I accidentally sat down in the very front row, which was strictly reserved for close family members. To <strong style="color:blue;">make matters worse</strong>, my phone suddenly <strong style="color:blue;">went off</strong> at the most solemn moment when the officiant was giving his speech. The ringtone was this ridiculously loud, upbeat pop song! 
+
+I could feel hundreds of eyes <strong style="color:blue;">locking onto</strong> me, and my face instantly turned as red as a tomato. I was so mortified that I just wanted to <strong style="color:blue;">crawl into a hole and hide</strong>. Thankfully, an usher discreetly <strong style="color:blue;">came over to</strong> me, gently <strong style="color:blue;">pointed out</strong> my mistake with a warm smile, and guided me to the correct seat in the back. I quickly <strong style="color:blue;">apologized profusely</strong> and <strong style="color:blue;">learned my lesson</strong> the hard way. Since that day, I always make sure to <strong style="color:blue;">do my homework</strong> regarding event etiquette before attending any formal gathering.
+
+**[Vocabulary & Expressions]**
+* protocol: 의례, 규정
+* oblivious: 알아차리지 못하는
+* mortified: 굴욕감을 느끼는
+* usher: 안내원
+* <strong style="color:blue;">crystal clear</strong>: 아주 명확하게
+* <strong style="color:blue;">clueless about</strong>: ~에 대해 전혀 모르는
+* <strong style="color:blue;">observe strict silence</strong>: 엄숙한 침묵을 지키다
+* <strong style="color:blue;">make matters worse</strong>: 설상가상으로, 더욱 나쁘게도
+* <strong style="color:blue;">went off</strong>: (알람 등이) 울리다
+* <strong style="color:blue;">locking onto</strong>: ~에 집중되다
+* <strong style="color:blue;">crawl into a hole and hide</strong>: 땅굴이라도 파고 숨고 싶다
+* <strong style="color:blue;">came over to</strong>: ~에게 다가오다
+* <strong style="color:blue;">pointed out</strong>: 지적하다, 알려주다
+* <strong style="color:blue;">apologized profusely</strong>: 사과를 연발하다
+* <strong style="color:blue;">learned my lesson</strong>: 뼈저리게 교훈을 얻다
+* <strong style="color:blue;">do my homework</strong>: 사전 조사를 하다, 철저히 준비하다
