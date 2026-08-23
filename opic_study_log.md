@@ -13083,3 +13083,89 @@ I could feel hundreds of eyes <strong style="color:blue;">locking onto</strong> 
 * <strong style="color:blue;">apologized profusely</strong>: 사과를 연발하다
 * <strong style="color:blue;">learned my lesson</strong>: 뼈저리게 교훈을 얻다
 * <strong style="color:blue;">do my homework</strong>: 사전 조사를 하다, 철저히 준비하다
+
+## 2026-08-23 03:40:00 OPIc Study
+
+### 묘사 : 나의 멘토이자 존경하는 아버지 묘사
+
+**[Question]**
+Please describe one of your family members or someone you respect the most. What do they look like, and what kind of personality do they have? Why do you respect this person so much? Give me as many details as possible.
+가족 구성원 중 한 명이나 가장 존경하는 사람을 묘사해 주세요. 그들의 외모는 어떠하고 성격은 어떠한가요? 왜 이 사람을 그토록 존경하나요? 가능한 한 많은 세부 사항을 알려주세요.
+
+**[Model Answer]**
+You know, when it comes to someone I respect the most, my father definitely <strong style="color:blue;">stands out</strong> in my mind. To give you a brief description of his physical appearance, he is in his late fifties, but he <strong style="color:blue;">takes after</strong> someone much younger because he consistently <strong style="color:blue;">works out</strong> to maintain his health. He usually wears neat, casual clothes and always has a warm, gentle smile on his face, which instantly makes people around him feel comfortable. 
+
+When it comes to his personality, my father is one of the most diligent and empathetic people I have ever known. He <strong style="color:blue;">takes pride in</strong> his work as an engineer, and his positive attitude <strong style="color:blue;">rubs off on</strong> everyone in the family, especially during difficult times. Whenever I <strong style="color:blue;">run into</strong> a major crisis or feel overwhelmed by my career choices, he never forces his opinions on me. Instead, he sits down with me, <strong style="color:blue;">puts himself in my shoes</strong>, and helps me <strong style="color:blue;">figure out</strong> the best possible solution. 
+
+I deeply respect him because he has always <strong style="color:blue;">stood by me</strong> through thick and thin and <strong style="color:blue;">set a good example</strong> for how to live a meaningful life. Even when unexpected hurdles <strong style="color:blue;">come up</strong>, he handles them with incredible grace and resilience. He taught me that success is not just about making money, but about staying humble and never giving up on your dreams. All in all, my father is not just a parent to me, but my ultimate role model and my greatest mentor in life.
+
+**[Vocabulary & Expressions]**
+* Diligent: 부지런한
+* Empathetic: 공감 능력이 뛰어난
+* Resilience: 회복력, 끈기
+* <strong style="color:blue;">stands out</strong>: 눈에 띄다
+* <strong style="color:blue;">takes after</strong>: 닮다
+* <strong style="color:blue;">works out</strong>: 운동하다
+* <strong style="color:blue;">takes pride in</strong>: ~에 자부심을 느끼다
+* <strong style="color:blue;">rubs off on</strong>: ~에게 좋은 영향을 미치다
+* <strong style="color:blue;">run into</strong>: (문제 등에) 부딪히다
+* <strong style="color:blue;">puts himself in my shoes</strong>: 내 입장여서 생각하다
+* <strong style="color:blue;">figure out</strong>: 알아내다, 해결하다
+* <strong style="color:blue;">stood by me</strong>: 내 곁을 지켜주었다
+* <strong style="color:blue;">set a good example</strong>: 모범을 보이다
+* <strong style="color:blue;">come up</strong>: (일이) 생기다, 발생하다
+
+---
+### 롤플레이 : 인터넷 서비스 가입을 위한 요금제 문의
+
+**[Question]**
+You are planning to move into a new apartment and need to sign up for a new internet service. Call a customer service center of a telecommunication company. Ask three or four questions about their internet plans, installation fees, and special discounts.
+새로운 아파트로 이사할 계획이며 새로운 인터넷 서비스에 가입해야 합니다. 통신사 고객센터에 전화하세요. 인터넷 요금제, 설치비, 특별 할인에 대해 3~4가지 질문을 하세요.
+
+**[Model Answer]**
+Hi, I'm calling because I'm moving into a new apartment next week, and I'm looking to <strong style="color:blue;">sign up for</strong> a new internet service. I've heard great things about your company, but I need to <strong style="color:blue;">get the hang of</strong> your current plans before making a decision. First of all, could you <strong style="color:blue;">break down</strong> the monthly fees for your high-speed internet packages? I mainly work from home and stream a lot of videos, so I want to make sure I <strong style="color:blue;">opt for</strong> a plan that is fast enough without <strong style="color:blue;">breaking the bank</strong>. 
+
+Secondly, I was wondering about the installation process. How soon can a technician <strong style="color:blue;">come over</strong> to my place, and are there any extra installation fees I should <strong style="color:blue;">keep in mind</strong>? 
+
+Lastly, do you currently have any promotional offers or bundle discounts if I also connect my mobile phone plan with your service? I want to <strong style="color:blue;">take advantage of</strong> any possible savings. Please <strong style="color:blue;">get back to me</strong> with detailed information as soon as possible. Thanks!
+
+**[Vocabulary & Expressions]**
+* Telecommunication: 통신
+* Technician: 기술자
+* Promotional: 판촉의, 홍보의
+* <strong style="color:blue;">sign up for</strong>: ~에 가입하다
+* <strong style="color:blue;">get the hang of</strong>: ~의 요령을 터득하다, 이해하다
+* <strong style="color:blue;">break down</strong>: 세분하여 설명하다
+* <strong style="color:blue;">opt for</strong>: ~을 선택하다
+* <strong style="color:blue;">breaking the bank</strong>: 비용이 너무 많이 들다
+* <strong style="color:blue;">come over</strong>: (집 등에) 오다
+* <strong style="color:blue;">keep in mind</strong>: 명심하다, 염두에 두다
+* <strong style="color:blue;">take advantage of</strong>: ~을 이용하다
+* <strong style="color:blue;">get back to me</strong>: (나에게) 회신하다, 연락하다
+
+---
+### 돌발 : 길거리 버스킹을 보고 감동한 경험
+
+**[Question]**
+Tell me about a memorable experience when you saw a street busking performance or an unexpected wonderful event on the street that deeply touched you. Where were you, what happened, and why was it so special to you?
+길거리에서 버스킹 공연이나 예기치 않은 멋진 이벤트를 보고 깊은 감동을 받았던 기억에 남는 경험에 대해 이야기해 주세요. 어디에 있었고, 무슨 일이 일어났으며, 왜 그것이 당신에게 그토록 특별했나요?
+
+**[Model Answer]**
+You know, normally, city streets are just packed with busy commuters rushing to their destinations, but a few months ago, something truly magical happened that completely <strong style="color:blue;">blew my mind</strong>. It was a chilly Friday evening, and I was walking down a crowded street in Hongdae after finishing a very exhausting week at work. I was feeling quite down and just wanted to <strong style="color:blue;">hurry up and</strong> get home. 
+
+Suddenly, I heard a stunning acoustic guitar melody <strong style="color:blue;">cutting through</strong> the city noise. I decided to <strong style="color:blue;">slow down</strong> and check it out. There was a young street musician playing a song, and his voice was so full of soul that it literally gave me goosebumps. What made the moment even more unforgettable was how the crowd reacted. Dozens of strangers <strong style="color:blue;">gathered around</strong>, swaying to the music, and when the chorus hit, everyone started singing along together. 
+
+In that exact moment, all my stress and anxiety just <strong style="color:blue;">melted away</strong>. It made me realize how music has this incredible power to <strong style="color:blue;">bring people together</strong> and heal tired souls in the middle of a chaotic city life. It was such a spontaneous and heartwarming experience that I will <strong style="color:blue;">cherish for a long time</strong>.
+
+**[Vocabulary & Expressions]**
+* Commuter: 통근자
+* Spontaneous: 즉흥적인, 자발적인
+* Chaotic: 혼란스러운
+* <strong style="color:blue;">blew my mind</strong>: 큰 감동을 주다, 깜짝 놀라게 하다
+* <strong style="color:blue;">hurry up and</strong>: 서둘러서 ~하다
+* <strong style="color:blue;">cutting through</strong>: (소음 등을) 뚫고 들리다
+* <strong style="color:blue;">slow down</strong>: 속도를 줄이다, 여유를 가지다
+* <strong style="color:blue;">gathered around</strong>: 주위에 모여들다
+* <strong style="color:blue;">melted away</strong>: (눈 녹듯) 사라지다
+* <strong style="color:blue;">bring people together</strong>: 사람들을 하나로 모으다
+* <strong style="color:blue;">cherish for a long time</strong>: 오랫동안 소중히 간직하다
