@@ -13169,3 +13169,91 @@ In that exact moment, all my stress and anxiety just <strong style="color:blue;"
 * <strong style="color:blue;">melted away</strong>: (눈 녹듯) 사라지다
 * <strong style="color:blue;">bring people together</strong>: 사람들을 하나로 모으다
 * <strong style="color:blue;">cherish for a long time</strong>: 오랫동안 소중히 간직하다
+
+## 2026-08-24 03:42:53 OPIc Study
+
+### 묘사 : 최근 읽은 책의 표지와 내용
+
+**[Question]**
+I'd like to know about a book you've read recently. Could you describe its cover design in detail and also give me an overall summary of what the book is about?
+최근에 읽은 책에 대해 알고 싶습니다. 그 책의 표지 디자인을 자세히 묘사해주고, 책의 전반적인 내용에 대해서도 요약해 주시겠어요?
+
+**[Model Answer]**
+Well, to be honest with you, I'm quite an avid reader, and the most recent book that really <strong style="color:blue;">stood out to</strong> me is a bestselling fiction novel titled "The Midnight Library." First off, let me paint a picture of the cover design for you. It's striking yet wonderfully minimalistic. The background is a deep, velvety midnight blue, almost giving off a mysterious cosmic vibe. Right in the center, there is a glowing, vintage wooden door that seems to be slightly ajar, casting a warm, golden light onto the dark pathway. At the top, the title is embossed in a sleek, silver font, which creates a sharp contrast against the dark background. It <strong style="color:blue;">catches your eye</strong> immediately and really encapsulates the mystical theme of the story before you even <strong style="color:blue;">open up</strong> the first page. 
+
+Now, moving on to the content, the story <strong style="color:blue;">revolves around</strong> a woman named Nora Seed, who finds herself in a mysterious library between life and death. Every book in this library gives her the chance to <strong style="color:blue;">live out</strong> the different lives she could have lived if she had made other choices. For instance, she experiences what her life would be like if she had stayed with her ex-fiancée, if she had become a rock star, or if she had pursued her dream of becoming a glaciologist. Through these alternative lives, Nora <strong style="color:blue;">comes to realize</strong> what truly makes life worth living and learns to <strong style="color:blue;">come to terms with</strong> her past regrets. Honestly, this book <strong style="color:blue;">left a lasting impression on</strong> me because it made me <strong style="color:blue;">reflect on</strong> my own life choices and appreciate the present moment much more deeply. I would <strong style="color:blue;">recommend it to</strong> anyone who is going through a transitional phase in their life.
+
+**[Vocabulary & Expressions]**
+* minimalist: 미니멀리스트의, 간결한
+* cosmic: 우주의
+* embossed: (글자 등이) 튀어나오게 새겨진
+* glaciologist: 빙하학자
+* transitional: 과도기의
+* <strong style="color:blue;">stand out to</strong>: ~에게 두드러지다, 눈에 띄다
+* <strong style="color:blue;">catch your eye</strong>: 눈길을 사로잡다
+* <strong style="color:blue;">open up</strong>: 책을 펼치다, 열다
+* <strong style="color:blue;">revolve around</strong>: ~을 중심으로 전개되다
+* <strong style="color:blue;">live out</strong>: (생각대로) 살아보다, 실현하다
+* <strong style="color:blue;">come to realize</strong>: 깨닫게 되다
+* <strong style="color:blue;">come to terms with</strong>: ~을 받아들이다, 순응하다
+* <strong style="color:blue;">leave a lasting impression on</strong>: ~에게 깊은 인상을 남기다
+* <strong style="color:blue;">reflect on</strong>: 깊이 생각하다, 되돌아보다
+* <strong style="color:blue;">recommend it to</strong>: ~에게 추천하다
+
+---
+### 롤플레이 : 자동차 정비소 점검 및 엔진오일 교체
+
+**[Question]**
+Imagine you are at an auto repair shop to drop off your car. Ask the mechanic a few questions to request an engine oil change and a general inspection of your vehicle.
+자동차 정비소에 차를 맡기러 갔다고 상상해 보세요. 정비사에게 엔진오일 교체와 차량 전반적인 점검을 요청하는 질문 몇 가지를 해보세요.
+
+**[Model Answer]**
+Hi there, good morning! I'm here to <strong style="color:blue;">drop off</strong> my car for some maintenance. Basically, I need to get my engine oil changed, and I'd also like to ask you to <strong style="color:blue;">give my car a thorough check-up</strong>. You see, I'm planning to go on a long road trip this weekend, so I want to make sure everything is in top shape. Could you check the brakes, tire pressure, and fluid levels as well? Also, I've been hearing a slight squeaking noise whenever I step on the brakes, so could you <strong style="color:blue;">look into</strong> that too? 
+
+By the way, how long is this going to <strong style="color:blue;">take</strong>? Do you think it will <strong style="color:blue;">wrap up</strong> by this afternoon? I have an important meeting to attend in the late afternoon, so I need to <strong style="color:blue;">pick it up</strong> by 4 PM at the latest. Oh, and could you please <strong style="color:blue;">give me a call</strong> with an estimate of the total cost before you actually start working on any major repairs? I just want to <strong style="color:blue;">keep track of</strong> the expenses. Thanks so much for your help!
+
+**[Vocabulary & Expressions]**
+* maintenance: 정비, 유지보수
+* fluid level: (냉각수, 엔진오일 등의) 액체류 양
+* squeaking: 삐걱거리는
+* estimate: 견적
+* expense: 비용
+* <strong style="color:blue;">drop off</strong>: (물건이나 사람을) 맡기다, 내려주다
+* <strong style="color:blue;">give a thorough check-up</strong>: 철저히 점검하다
+* <strong style="color:blue;">look into</strong>: ~을 조사하다, 알아보다
+* <strong style="color:blue;">take</strong>: 시간이 걸리다
+* <strong style="color:blue;">wrap up</strong>: 마무리되다, 끝나다
+* <strong style="color:blue;">pick it up</strong>: 찾아가다, 수거하다
+* <strong style="color:blue;">give me a call</strong>: 전화하다
+* <strong style="color:blue;">keep track of</strong>: ~을 파악하다, 기록을 유지하다
+
+---
+### 돌발 : 과거와 현재의 야외 활동 트렌드 비교
+
+**[Question]**
+Compare the outdoor activities that people used to enjoy in the past with the current trends in outdoor activities. How have they changed and what are the main reasons for these changes?
+과거 사람들이 즐기던 야외 활동과 현재의 야외 활동 트렌드를 비교해 주세요. 어떻게 변했으며 이러한 변화의 주된 이유는 무엇인가요?
+
+**[Model Answer]**
+When we <strong style="color:blue;">look at</strong> how outdoor activities have evolved over time, there is a striking contrast between the past and the present. Back in the day, people's outdoor activities were generally quite straightforward, community-oriented, and often required fewer specialized resources. For instance, families and friends would frequently <strong style="color:blue;">gather for</strong> simple picnics in local neighborhood parks, play casual games of soccer or badminton, or go on traditional weekend hikes up nearby mountains. The main focus was primarily on socializing, getting some fresh air, and enjoying nature in a very classic, uncomplicated way.
+
+However, if you <strong style="color:blue;">look at</strong> current outdoor trends, things have shifted dramatically. Nowadays, outdoor activities are much more diverse, individualistic, and heavily influenced by social media and technology. Instead of traditional hiking, trendy activities like glamping, rooftop camping, paddleboarding, and trail running have <strong style="color:blue;">gained enormous popularity</strong>. People love to <strong style="color:blue;">capture every moment</strong> and share their aesthetic outdoor experiences on Instagram or YouTube. Furthermore, there is a massive surge in people seeking unique, experiential activities that help them <strong style="color:blue;">disconnect from</strong> their stressful digital lives, even if they are doing it with high-tech gear. 
+
+There are a couple of key reasons behind this shift. First, people have much higher disposable incomes and are willing to <strong style="color:blue;">spend money on</strong> premium gear and unique experiences. Second, social media platforms <strong style="color:blue;">play a crucial role in</strong> setting trends, making people eager to try out visually appealing activities. In short, while past activities were centered around simple communal bonding, today's outdoor trends are much more about self-expression, wellness, and aesthetic lifestyle choices.
+
+**[Vocabulary & Expressions]**
+* evolve: 진화하다, 발달하다
+* straightforward: 간단한, 복잡하지 않은
+* community-oriented: 지역사회 지향적인, 공동체 중심의
+* individualistic: 개인주의적인
+* glamping: 글램핑 (화려하고 편리한 캠핑)
+* paddleboarding: 패들보딩
+* disposable income: 가처분 소득
+* aesthetic: 미적인, 심미적인
+* <strong style="color:blue;">look at</strong>: ~을 살펴보다, 바라보다
+* <strong style="color:blue;">gather for</strong>: ~를 위해 모이다
+* <strong style="color:blue;">gain enormous popularity</strong>: 엄청난 인기를 얻다
+* <strong style="color:blue;">capture every moment</strong>: 모든 순간을 포착하다, 기록하다
+* <strong style="color:blue;">disconnect from</strong>: ~로부터 단절하다, 휴식을 취하다
+* <strong style="color:blue;">spend money on</strong>: ~에 돈을 쓰다
+* <strong style="color:blue;">play a crucial role in</strong>: ~에서 중대한 역할을 하다
