@@ -13257,3 +13257,145 @@ There are a couple of key reasons behind this shift. First, people have much hig
 * <strong style="color:blue;">disconnect from</strong>: ~로부터 단절하다, 휴식을 취하다
 * <strong style="color:blue;">spend money on</strong>: ~에 돈을 쓰다
 * <strong style="color:blue;">play a crucial role in</strong>: ~에서 중대한 역할을 하다
+
+## 2026-08-25 03:38:09 OPIc Study
+
+### 묘사 : 주말 저녁 번화가 풍경
+
+**[Question]**
+Could you describe what a busy downtown street looks like on a weekend evening? Tell me in as much detail as possible.
+(주말 저녁 번화가의 붐비는 거리 풍경은 어떤지 묘사해 주실 수 있나요? 가능한 한 자세히 말씀해 주세요.)
+
+**[Model Answer]**
+You know, if I have to paint a picture of a downtown street on a typical Saturday evening, the first thing that comes to mind is absolute chaos, but in a very vibrant and energetic way. As soon as you step out of the subway station, you are instantly <strong style="color:blue;">swept away by</strong> a massive crowd of people. It seems like everyone in the city decided to <strong style="color:blue;">head out</strong> for the weekend. The sidewalks are <strong style="color:blue;">jam-packed with</strong> groups of friends, couples on dates, and families <strong style="color:blue;">strolling around</strong>. 
+
+What really strikes me the most is the incredible sensory overload. On both sides of the street, massive electronic billboards are flashing with dazzling neon lights, casting a colorful glow over the pavement. If you <strong style="color:blue;">look up</strong>, skyscrapers are illuminated, and the city practically <strong style="color:blue;">comes alive</strong> after sunset. Then there are the sounds. You can hear a <strong style="color:blue;">blend of</strong> chatter, laughter, and high-energy music <strong style="color:blue;">blasting from</strong> trendy clothing stores and hip cafes. 
+
+Moreover, your nose <strong style="color:blue;">gets bombarded with</strong> a variety of mouth-watering aromas. Street food vendors are everywhere, <strong style="color:blue;">cooking up</strong> local delicacies, and the delicious smell <strong style="color:blue;">wafts through</strong> the air, making it almost impossible not to stop by and <strong style="color:blue;">grab a bite</strong>. Cars are <strong style="color:blue;">crawling along</strong> the narrow streets, <strong style="color:blue;">stuck in</strong> heavy traffic, while frustrated drivers <strong style="color:blue;">honk their horns</strong>. 
+
+Despite all the noise and congestion, I actually <strong style="color:blue;">am fond of</strong> this kind of atmosphere. It <strong style="color:blue;">brings me back to</strong> my college days when I used to <strong style="color:blue;">hang out with</strong> my buddies until late at night. It genuinely <strong style="color:blue;">captures the essence of</strong> modern urban life—it is fast-paced, dynamic, and full of life. Whenever I need a little boost of energy, <strong style="color:blue;">dropping by</strong> a bustling downtown area on a Saturday night is always my go-to remedy.
+
+**[Vocabulary & Expressions]**
+* vibrant: 활기찬
+* sensory overload: 감각 과부하
+* illuminated: 조명이 켜진
+* congestion: 혼잡
+* delicate: 맛있는, 섬세한
+* <strong style="color:blue;">swept away by</strong>: ~에 휩쓸리다
+* <strong style="color:blue;">head out</strong>: 외출하다, 향하다
+* <strong style="color:blue;">jam-packed with</strong>: ~로 가득 찬
+* <strong style="color:blue;">strolling around</strong>: 산책하다, 거닐다
+* <strong style="color:blue;">come alive</strong>: 생기가 돌다
+* <strong style="color:blue;">blending of</strong>: ~의 혼합
+* <strong style="color:blue;">blasting from</strong>: ~에서 쾅쾅 울려 퍼지는
+* <strong style="color:blue;">get bombarded with</strong>: ~로 공격받다 (세례를 받다)
+* <strong style="color:blue;">cooking up</strong>: 요리하다, 만들어내다
+* <strong style="color:blue;">waft through</strong>: (냄새 등이) 둥실 떠돌다
+* <strong style="color:blue;">grab a bite</strong>: 간단히 먹다
+* <strong style="color:blue;">crawling along</strong>: 기어가듯 서행하다
+* <strong style="color:blue;">stuck in</strong>: ~에 갇힌
+* <strong style="color:blue;">honk their horns</strong>: 경적을 울리다
+* <strong style="color:blue;">am fond of</strong>: ~를 좋아하다
+* <strong style="color:blue;">bring me back to</strong>: ~로 추억을 소환하다
+* <strong style="color:blue;">hang out with</strong>: ~와 어울려 놀다
+* <strong style="color:blue;">captures the essence of</strong>: ~의 본질을 포착하다
+* <strong style="color:blue;">drop by</strong>: 들르다
+
+---
+### 롤플레이 : 넷플릭스 드라마 추천
+
+**[Question]**
+You want to recommend a great Netflix series that you recently watched to your friend. Ask three or four questions about what kind of shows they like, and explain the plot and why you liked it.
+(친구에게 최근 본 멋진 넷플릭스 시리즈를 추천하고 싶습니다. 친구가 어떤 종류의 쇼를 좋아하는지 3~4가지 질문을 하고, 줄거리와 왜 좋았는지 설명해 주세요.)
+
+**[Model Answer]**
+Hey, what is up? It has been a while! Listen, I am calling you because I recently <strong style="color:blue;">came across</strong> an absolute masterpiece on Netflix, and I <strong style="color:blue;">couldn't wait to</strong> share it with you. But before I <strong style="color:blue;">dive into</strong> the details, let me ask you a few quick questions about your taste. <strong style="color:blue;">First of all</strong>, what kind of genres do you usually <strong style="color:blue;">lean toward</strong>? Are you more into thrilling mysteries, or do you <strong style="color:blue;">prefer</strong> heartwarming romance? Also, how much time do you usually <strong style="color:blue;">set aside for</strong> binge-watching on weekends? Lastly, have you <strong style="color:blue;">by any chance</strong> already seen that show everyone is talking about? 
+
+Well, assuming you are open to a gripping psychological thriller, the series I want to recommend is called "The Glory." To <strong style="color:blue;">give you a rough idea of</strong> the plot, it <strong style="color:blue;">revolves around</strong> a woman who was brutally bullied in high school. Her life was completely <strong style="color:blue;">torn apart</strong>, and she had to <strong style="color:blue;">drop out</strong> of school. Years later, she <strong style="color:blue;">sets out on</strong> a meticulous and calculated plan for revenge. She <strong style="color:blue;">ends up</strong> becoming the homeroom teacher of her main tormentor's child. As the story <strong style="color:blue;">unfolds</strong>, she <strong style="color:blue;">carries out</strong> her revenge step by step, and it is just so satisfying to watch.
+
+The reason why I am so obsessed with this drama is that it <strong style="color:blue;">keeps you on the edge of your seat</strong> from start to finish. The pacing is phenomenal, and the plot twists <strong style="color:blue;">take you by surprise</strong> every single episode. Plus, the lead actress <strong style="color:blue;">pulls off</strong> such an intense and chilling performance that it <strong style="color:blue;">leaves you speechless</strong>. I literally <strong style="color:blue;">stayed up all night</strong> <strong style="color:blue;">getting through</strong> the whole season. Seriously, you have to <strong style="color:blue;">check it out</strong> this weekend. Trust me, you won't <strong style="color:blue;">regret it</strong>! Let's <strong style="color:blue;">catch up</strong> soon after you watch it!
+
+**[Vocabulary & Expressions]**
+* masterpiece: 명작
+* genre: 장르
+* gripping: 몰입감 넘치는, 손에 땀을 쥐게 하는
+* meticulous: 꼼꼼한, 세심한
+* tormentor: 괴롭히는 사람
+* phenomenal: 경이로운, 대단한
+* <strong style="color:blue;">came across</strong>: 우연히 발견하다
+* <strong style="color:blue;">couldn't wait to</strong>: ~하고 견딜 수 없다
+* <strong style="color:blue;">dive into</strong>: ~에 깊이 몰두하다, 뛰어들다
+* <strong style="color:blue;">lean toward</strong>: ~로 기울다, 선호하다
+* <strong style="color:blue;">set aside for</strong>: ~를 위해 따로 떼어두다
+* <strong style="color:blue;">by any chance</strong>: 혹시라도
+* <strong style="color:blue;">give a rough idea of</strong>: 대략적인 개념을 주다
+* <strong style="color:blue;">revolves around</strong>: ~를 중심으로 전개되다
+* <strong style="color:blue;">torn apart</strong>: 산산조각 난, 찢긴
+* <strong style="color:blue;">drop out</strong>: 중퇴하다, 발을 빼다
+* <strong style="color:blue;">sets out on</strong>: ~에 착수하다, 나서다
+* <strong style="color:blue;">ends up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">unfolds</strong>: (이야기가) 펼쳐지다
+* <strong style="color:blue;">carries out</strong>: 수행하다, 실행하다
+* <strong style="color:blue;">keeps you on the edge of your seat</strong>: 손에 땀을 쥐게 하다
+* <strong style="color:blue;">take you by surprise</strong>: 놀라게 하다
+* <strong style="color:blue;">pulls off</strong>: (어려운 일을) 해내다, 소화하다
+* <strong style="color:blue;">leaves you speechless</strong>: 말문이 막히게 하다
+* <strong style="color:blue;">stayed up all night</strong>: 밤을 새우다
+* <strong style="color:blue;">getting through</strong>: (일 등을) 다 끝내다, 해치우다
+* <strong style="color:blue;">check it out</strong>: 확인해 보다, 구경하다
+* <strong style="color:blue;">catch up</strong>: (못다 한 이야기를) 나누다, 따라잡다
+
+---
+### 돌발 : 상사/선생님과의 오해로 힘들었던 경험
+
+**[Question]**
+Tell me about a time when you experienced a misunderstanding with your boss at work or a teacher at school. What caused the misunderstanding, and how did you resolve it?
+(직장 상사나 학교 선생님과 오해가 생겨 힘들었던 경험에 대해 말씀해 주세요. 오해의 원인은 무엇이었으며, 어떻게 해결하셨나요?)
+
+**[Model Answer]**
+Well, thinking back, I had quite a stressful experience a couple of years ago when I was <strong style="color:blue;">dealing with</strong> a major project at my previous workplace. I had a severe misunderstanding with my direct supervisor, and it <strong style="color:blue;">put me in</strong> a really awkward and difficult position. 
+
+The whole mess <strong style="color:blue;">stemmed from</strong> poor communication and time pressure. We were <strong style="color:blue;">working against the clock</strong> to <strong style="color:blue;">meet a tight deadline</strong> for an important client presentation. I was <strong style="color:blue;">in charge of</strong> preparing the financial data analysis, while my boss expected me to also <strong style="color:blue;">look into</strong> the marketing strategies. Because we were both so <strong style="color:blue;">swamped with work</strong>, we didn't <strong style="color:blue;">talk things through</strong> properly. 
+
+One afternoon, my boss <strong style="color:blue;">dropped by</strong> my desk and asked about the marketing report, which I hadn't even started because I assumed another teammate was <strong style="color:blue;">taking care of</strong> it. My boss <strong style="color:blue;">lost his temper</strong> and <strong style="color:blue;">jumped to the conclusion</strong> that I was being irresponsible and <strong style="color:blue;">slacking off</strong>. He publicly <strong style="color:blue;">scolded me</strong> in front of the entire team. I felt totally <strong style="color:blue;">humiliated</strong>, and my heart <strong style="color:blue;">sank</strong>. I wanted to <strong style="color:blue;">fight back</strong> immediately, but I decided to <strong style="color:blue;">hold my tongue</strong>. 
+
+Later that evening, once things had <strong style="color:blue;">calmed down</strong>, I <strong style="color:blue;">gathered my courage</strong> and <strong style="color:blue;">reached out to</strong> my boss. I asked if we could <strong style="color:blue;">have a private chat</strong> in the meeting room. During our conversation, I <strong style="color:blue;">calmly explained</strong> my perspective without sounding defensive. I showed him the initial task distribution chart and <strong style="color:blue;">pointed out</strong> where the miscommunication had happened. 
+
+As we <strong style="color:blue;">talked it over</strong>, my boss <strong style="color:blue;">realized his mistake</strong> and saw that it was an honest miscommunication, not negligence on my part. He sincerely <strong style="color:blue;">apologized for</strong> reacting so harshly. That experience taught me a valuable lesson: when things go wrong, <strong style="color:blue;">letting things go</strong> or <strong style="color:blue;">holding a grudge</strong> doesn't help at all. Instead, <strong style="color:blue;">stepping up</strong>, having an open conversation, and <strong style="color:blue;">clearing the air</strong> is always the best way to <strong style="color:blue;">smooth things over</strong>.
+
+**[Vocabulary & Expressions]**
+* supervisor: 관리자, 상사
+* negligence: 과실, 태만
+* perspective: 관점, 시각
+* defensive: 방어적인
+* valuable lesson: 값진 교훈
+* <strong style="color:blue;">dealing with</strong>: ~를 처리하다, 다루다
+* <strong style="color:blue;">put me in</strong>: 나를 ~한 처지에 놓이게 하다
+* <strong style="color:blue;">stem from</strong>: ~에서 비롯되다, 기인하다
+* <strong style="color:blue;">working against the clock</strong>: 시간에 쫓겨 일하다
+* <strong style="color:blue;">meet a tight deadline</strong>: 촉박한 마감 기한을 맞추다
+* <strong style="color:blue;">in charge of</strong>: ~를 담당하는
+* <strong style="color:blue;">look into</strong>: 조사하다, 검토하다
+* <strong style="color:blue;">swamped with work</strong>: 일이 너무 많아 꼼짝 못 하는
+* <strong style="color:blue;">talk things through</strong>: 충분히 이야기하여 해결하다
+* <strong style="color:blue;">drop by</strong>: 들르다
+* <strong style="color:blue;">taking care of</strong>: 처리하다, 돌보다
+* <strong style="color:blue;">lost his temper</strong>: 화를 참지 못하다, 이성을 잃다
+* <strong style="color:blue;">jump to the conclusion</strong>: 성급하게 결론을 내리다
+* <strong style="color:blue;">slacking off</strong>: 농땡이 피우다, 게으름 피우다
+* <strong style="color:blue;">scolded me</strong>: 나를 야단치다
+* <strong style="color:blue;">fight back</strong>: 반격하다, 맞서 싸우다
+* <strong style="color:blue;">hold my tongue</strong>: 말을 참다, 입을 다물다
+* <strong style="color:blue;">calmed down</strong>: 진정되다
+* <strong style="color:blue;">gathered my courage</strong>: 용기를 내다
+* <strong style="color:blue;">reached out to</strong>: ~에게 연락하다, 손을 내밀다
+* <strong style="color:blue;">have a private chat</strong>: 단둘이 이야기하다
+* <strong style="color:blue;">pointed out</strong>: 지적하다, 짚어내다
+* <strong style="color:blue;">talked it over</strong>: 충분히 의논하다
+* <strong style="color:blue;">realized his mistake</strong>: 자신의 실수를 깨닫다
+* <strong style="color:blue;">apologized for</strong>: ~에 대해 사과하다
+* <strong style="color:blue;">letting things go</strong>: 그냥 넘어g다, 잊어버리다
+* <strong style="color:blue;">holding a grudge</strong>: 앙심을 품다
+* <strong style="color:blue;">stepping up</strong>: 나서다, 한 걸음 더 나아가다
+* <strong style="color:blue;">clearing the air</strong>: 오해를 풀다, 분위기를 쇄신하다
+* <strong style="color:blue;">smooth things over</strong>: 원만하게 수습하다, 무마하다
