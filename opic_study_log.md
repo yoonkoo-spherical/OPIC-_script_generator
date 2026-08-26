@@ -13399,3 +13399,91 @@ As we <strong style="color:blue;">talked it over</strong>, my boss <strong style
 * <strong style="color:blue;">stepping up</strong>: 나서다, 한 걸음 더 나아가다
 * <strong style="color:blue;">clearing the air</strong>: 오해를 풀다, 분위기를 쇄신하다
 * <strong style="color:blue;">smooth things over</strong>: 원만하게 수습하다, 무마하다
+
+## 2026-08-26 03:43:05 OPIc Study
+
+### 묘사 : 동네 코인 세탁방 내부 묘사
+
+**[Question]**
+Please describe the laundromat or coin laundry near your house. What does it look like, and what kind of facilities does it have?
+집 근처에 있는 세탁소나 코인 세탁방을 묘사해 주세요. 어떻게 생겼고 어떤 시설들이 있나요?
+
+**[Model Answer]**
+Well, Eva, let me tell you about the coin laundry right around the block from my apartment. It is an absolute lifesaver for me since my building doesn't have a built-in washing machine. 
+
+To give you a general idea, the place is not exceptionally huge, but it is impeccably clean and remarkably well-lit, which instantly <strong style="color:blue;">sets me at ease</strong> the moment I walk in. As soon as you <strong style="color:blue;">step through</strong> the glass front door, you can immediately hear the soothing, rhythmic hum of massive industrial washing machines and dryers <strong style="color:blue;">hard at work</strong>. 
+
+The interior is organized in a very structured way. Along the left wall, there is a whole row of heavy-duty washers ranging from medium to extra-large capacities. They are sleek, stainless steel machines, and <strong style="color:blue;">facing off against</strong> them on the right side are stacked rows of powerful dryers. Right in the middle of the room, there is a large, sturdy wooden folding table where people neatly stack and fold their laundry once everything is <strong style="color:blue;">done and dusted</strong>. 
+
+What I love most about this place is that it’s not just a boring, functional space. The owner has really <strong style="color:blue;">gone out of their way</strong> to make it comfortable. There is a cozy little waiting corner equipped with a couple of plush armchairs, a small coffee table filled with magazines, and even a vending machine that dispenses various snacks and hot beverages. There is also a high-speed Wi-Fi network available, so waiting for my laundry to finish never feels like a tedious chore; rather, it has kind of <strong style="color:blue;">grown on me</strong> as a peaceful time to catch up on my reading or just <strong style="color:blue;">wind down</strong> after a long, exhausting workday. Overall, it’s a modern, cozy, and highly efficient spot that I genuinely appreciate having in my neighborhood.
+
+**[Vocabulary & Expressions]**
+* impeccably: 흠잡을 데 없이, 완벽하게
+* industrial: 산업용의, 공업용의
+* tedious: 지루한, 싫증 나는
+* <strong style="color:blue;">sets me at ease</strong>: 마음을 편안하게 하다
+* <strong style="color:blue;">step through</strong>: ~를 통해 걸어 들어오다
+* <strong style="color:blue;">hard at work</strong>: 열심히 작동 중인, 분주히 일하는
+* <strong style="color:blue;">facing off against</strong>: ~와 마주 보고 있는
+* <strong style="color:blue;">done and dusted</strong>: 완전히 끝난, 완료된
+* <strong style="color:blue;">gone out of their way</strong>: 특별히 애를 쓰다, 노력하다
+* <strong style="color:blue;">grown on me</strong>: 점차 마음에 들게 되다
+* <strong style="color:blue;">wind down</strong>: 긴장을 풀고 쉬다
+
+---
+### 롤플레이 : 학원 수업 반 변경 요청
+
+**[Question]**
+You are currently taking a class at an academy, but you feel that the level of the class does not match your skills. Call the academy office, explain your situation, and ask to change to a different class. Ask three or four questions about the alternative classes.
+현재 학원에서 수업을 듣고 계시지만, 수업 난이도가 실력에 맞지 않는다고 느낍니다. 학원 사무실에 전화해서 상황을 설명하고 다른 반으로 변경을 요청하세요. 대안이 되는 수업에 대해 3~4가지 질문을 하세요.
+
+**[Model Answer]**
+Hi, good morning. My name is Alex, and I'm currently enrolled in the intermediate English conversation course on Tuesday and Thursday evenings. I’m calling because I’m facing a bit of a dilemma regarding my current class, and I really need to <strong style="color:blue;">talk things over</strong> with someone here. 
+
+To be completely honest with you, I feel like the level of the class is just <strong style="color:blue;">way off the mark</strong> for me. When I signed up, I thought intermediate would be a good fit, but as the weeks go by, I'm realizing that the curriculum is moving much too fast, and the discussions are a bit too advanced for my current proficiency. On the other hand, a few parts feel a bit repetitive. Because of this, I'm struggling to <strong style="color:blue;">keep up with</strong> the pace, and I feel like I'm falling behind, which is quite discouraging. 
+
+Therefore, I was wondering if it would be possible for me to <strong style="color:blue;">switch over</strong> to a slightly lower level or a more fundamental class. Could you check if there is an opening in a beginner-plus or a foundational conversation class? 
+
+Before I make a final decision, I have a few quick questions for you. First of all, are there any alternative classes available in the morning time slot, or are they mostly in the evening? Secondly, if I do manage to change my class, what happens to the textbooks I’ve already purchased? Can they be exchanged, or will I need to buy new ones? Lastly, if I <strong style="color:blue;">drop back</strong> to a different class next week, will I be able to make up for the missed sessions of that new class? I'd really appreciate it if you could help me <strong style="color:blue;">sort this out</strong>. Thank you so much!
+
+**[Vocabulary & Expressions]**
+* proficiency: 숙달도, 유창함
+* repetitive: 반복되는
+* curriculum: 교육과정, 커리큘럼
+* <strong style="color:blue;">talk things over</strong>: 문제를 충분히 논의하다
+* <strong style="color:blue;">way off the mark</strong>: 전혀 엉뚱한, 실정에 맞지 않는
+* <strong style="color:blue;">keep up with</strong>: ~을 따라가다
+* <strong style="color:blue;">switch over</strong>: 전환하다, 바꾸다
+* <strong style="color:blue;">drop back</strong>: (수준 등을) 낮추다, 후퇴하다
+* <strong style="color:blue;">sort this out</strong>: 이 문제를 해결하다, 정리하다
+
+---
+### 돌발 : 인터넷 레시피 보고 요리하다 망친 경험
+
+**[Question]**
+Tell me about a time when you tried to cook something by following an internet recipe, but it went completely wrong. What were you trying to make, what happened, and how did you <strong style="color:blue;">deal with</strong> the situation?
+인터넷 레시피를 따라 요리하려다가 완전히 망쳐버린 경험에 대해 이야기해 주세요. 무엇을 만들려고 했고, 무슨 일이 일어났으며, 그 상황을 어떻게 대처하셨나요?
+
+**[Model Answer]**
+Oh, Eva, just thinking about this incident still makes me shudder. It happened a few months ago when I wanted to <strong style="color:blue;">try my hand at</strong> making a fancy carbonara pasta for a small dinner gathering with a couple of close friends at my place. 
+
+I found this seemingly foolproof, highly rated recipe online. The food blogger claimed that you could make a restaurant-quality carbonara in under twenty minutes using just a few basic ingredients. Well, <strong style="color:blue;">things went south</strong> almost immediately. The recipe instructed me to mix eggs, cheese, and hot pasta water in a bowl to create a creamy sauce. However, I must have completely miscalculated the temperature of the pasta water. The moment I poured the boiling water into the egg mixture, before I could even <strong style="color:blue;">get a grip on</strong> the situation, the eggs instantly scrambled. 
+
+Instead of a velvety, smooth sauce, I ended up with a giant clump of scrambled eggs swimming in greasy pasta water, mixed with totally overcooked, soggy noodles. It looked like an absolute disaster, and to make matters worse, it emitted a rather strange, burnt smell. I tried desperately to <strong style="color:blue;">patch things up</strong> by adding more cheese and heavy cream, but it only made the texture thick and clumpy. It was completely inedible. 
+
+Panic <strong style="color:blue;">set in</strong> because my guests were due to arrive in less than thirty minutes. Realizing that there was no way I could <strong style="color:blue;">pull it off</strong> on my own again, I had to completely <strong style="color:blue;">scrap the plan</strong>. I quickly threw the failed pasta into the trash, took a deep breath, and decided to <strong style="color:blue;">fall back on</strong> a reliable backup plan. I quickly ordered some gourmet pizzas and loaded fries through a food delivery app. When my friends finally arrived, I confessed everything with a good laugh, and we ended up having a great time eating the delivered food anyway. It was a hilarious kitchen nightmare that I will certainly never forget!
+
+**[Vocabulary & Expressions]**
+* foolproof: 아주 단순한, 실패할 염려가 없는
+* velvety: 벨벳 같은, 부드러운
+* clumpy: 덩어리진
+* inedible: 먹을 수 없는, 상한
+* <strong style="color:blue;">deal with</strong>: 대처하다, 처리하다
+* <strong style="color:blue;">try my hand at</strong>: ~을 시도해 보다, 손대 보다
+* <strong style="color:blue;">things went south</strong>: 상황이 엉망이 되다, 악화되다
+* <strong style="color:blue;">get a grip on</strong>: 상황을 통제하다, 이해하다
+* <strong style="color:blue;">patch things up</strong>: 수습하다, 관계나 상황을 개선하다
+* <strong style="color:blue;">set in</strong>: (좋지 않은 일이) 시작되다, 자리 잡다
+* <strong style="color:blue;">pull it off</strong>: 해내다, 성공하다
+* <strong style="color:blue;">scrap the plan</strong>: 계획을 폐기하다, 포기하다
+* <strong style="color:blue;">fall back on</strong>: ~에 의지하다, 차선책으로 삼다
