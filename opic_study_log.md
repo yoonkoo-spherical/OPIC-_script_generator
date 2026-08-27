@@ -13487,3 +13487,111 @@ Panic <strong style="color:blue;">set in</strong> because my guests were due to 
 * <strong style="color:blue;">pull it off</strong>: 해내다, 성공하다
 * <strong style="color:blue;">scrap the plan</strong>: 계획을 폐기하다, 포기하다
 * <strong style="color:blue;">fall back on</strong>: ~에 의지하다, 차선책으로 삼다
+
+## 2026-08-27 13:15:49 OPIc Study
+
+### 묘사 : 방의 가구 배치와 인테리어 특징 묘사
+
+**[Question]**
+Please describe your bedroom. What does it look like, and how are the furniture and interior items arranged?
+자신의 방을 묘사해 주세요. 어떻게 생겼으며, 가구와 인테리어 소품은 어떻게 배치되어 있나요?
+
+**[Model Answer]**
+Well, to begin with, my bedroom is my ultimate sanctuary, a place where I truly unwind after a long, exhausting day. If I were to <strong style="color:blue;">paint a picture</strong> of my room, I’d say it has a very cozy yet modern aesthetic, mostly featuring a neutral color palette like soft beige and warm wood tones. As you <strong style="color:blue;">walk through</strong> the door, the first thing you'll notice is my queen-sized bed, which is <strong style="color:blue;">tucked away</strong> in the far left corner against the wall, making the most of the space. Right beside the bed, there’s a small oak nightstand where I keep my diffuser and a warm-toned reading lamp, which really helps <strong style="color:blue;">set the mood</strong> at night. 
+
+Moving on to the other side of the room, I have a rather spacious minimalist work desk <strong style="color:blue;">set up</strong> right underneath the large window. I intentionally positioned it this way because I <strong style="color:blue;">am a big believer in</strong> natural lighting; getting plenty of sunlight during the day genuinely helps me <strong style="color:blue;">stay on top of</strong> my work and boosts my productivity. On top of the desk, my laptop, a multi-angle monitor stand, and a few small potted plants are neatly arranged. 
+
+One of the most defining interior features of my room is the full-length mirror <strong style="color:blue;">leaning against</strong> the wall opposite the bed, which visually makes the room look much larger than it actually is. Also, I <strong style="color:blue;">put up</strong> a couple of minimalist art prints and floating shelves to <strong style="color:blue;">add a touch of</strong> personality without making the walls look cluttered. Overall, every single piece of furniture and decoration was <strong style="color:blue;">thoughtfully put together</strong> to create a tranquil and balanced environment, so I honestly couldn't be happier with how my room turned out.
+
+**[Vocabulary & Expressions]**
+* Sanctuary: 안식처
+* Aesthetic: 미학, 미적 특성
+* Palette: (색채의) 범위
+* Diffuser: 디퓨저
+* Minimalist: 미니멀한, 최소주의의
+* Potted plant: 화분에 심은 식물
+* Cluttered: 어수선한, 복잡한
+* Tranquil: 평온한, 차분한
+* <strong style="color:blue;">paint a picture</strong>: 생생하게 묘사하다
+* <strong style="color:blue;">walk through</strong>: ~를 걸어서 들어가다
+* <strong style="color:blue;">tucked away</strong>: 구석에 숨겨진, 아늑하게 자리 잡은
+* <strong style="color:blue;">set the mood</strong>: 분위기를 조성하다
+* <strong style="color:blue;">set up</strong>: 설치하다, 마련하다
+* <strong style="color:blue;">am a big believer in</strong>: ~를 깊게 신뢰하다
+* <strong style="color:blue;">stay on top of</strong>: (~를 잘 파악하고) 우위를 지키다, 잘 해내다
+* <strong style="color:blue;">leaning against</strong>: ~에 기대어 있는
+* <strong style="color:blue;">put up</strong>: (벽에) 붙이다, 걸다
+* <strong style="color:blue;">add a touch of</strong>: 약간의 ~를 더하다
+* <strong style="color:blue;">thoughtfully put together</strong>: 심사숙고하여 구성된
+
+---
+### 롤플레이 : 영화관 내부 온도가 너무 추울 때 직원에게 요청하기
+
+**[Question]**
+You are at a movie theater watching a film, but the indoor temperature is way too cold. Call the theater staff or approach the counter to explain the situation, and ask them to adjust the temperature. Give three consecutive questions or statements.
+영화관에서 영화를 보는데 실내 온도가 너무 추습니다. 직원에게 상황을 설명하고 온도 조절을 요청하세요. 연속으로 3가지 질문이나 말을 하세요.
+
+**[Model Answer]**
+Excuse me, hello? I'm currently watching the movie in Theater 3, and I'm sorry to bother you, but I really need to <strong style="color:blue;">bring something to your attention</strong> regarding the temperature inside. It is freezing cold in there—like, genuinely biting cold. I've been trying to <strong style="color:blue;">grin and bear it</strong> for the past half hour while wearing my thick winter coat, but it's simply getting unbearable, and it's completely <strong style="color:blue;">ruining the experience</strong> for me and many other audience members around me. 
+
+So, first of all, could you please <strong style="color:blue;">turn down</strong> the AC or <strong style="color:blue;">turn up</strong> the heating a little bit so that it feels reasonably comfortable? 
+
+Also, on top of that, since a lot of people in the theater are visibly shivering, would it be possible for you to provide some extra blankets if adjusting the thermostat <strong style="color:blue;">takes a while</strong>? 
+
+Lastly, if it's going to <strong style="color:blue;">take some time</strong> for the temperature to <strong style="color:blue;">get back to normal</strong>, could you offer some kind of compensation or check if we can <strong style="color:blue;">be seated</strong> in another theater where the heating is actually working properly? I'd really appreciate your prompt action on this matter. Thank you.
+
+**[Vocabulary & Expressions]**
+* Freezing: 몹시 추운
+* Biting: (추위가)을 벌을 듯이 매서운
+* Unbearable: 참을 수 없는
+* Audience: 관객
+* Shivering: 떨고 있는
+* Thermostat: 온도 조절 장치
+* Compensation: 보상
+* Prompt: 신속한
+* <strong style="color:blue;">bring something to your attention</strong>: ~를 주목하게 하다, 알리다
+* <strong style="color:blue;">grin and bear it</strong>: 웃으며 (역경을) 참아내다
+* <strong style="color:blue;">ruining the experience</strong>: 경험을 망치다
+* <strong style="color:blue;">turn down</strong>: (강도를) 줄이다
+* <strong style="color:blue;">turn up</strong>: (온도를) 높이다
+* <strong style="color:blue;">takes a while</strong>: 시간이 걸리다
+* <strong style="color:blue;">take some time</strong>: 시간이 걸리다
+* <strong style="color:blue;">get back to normal</strong>: 정상으로 돌아오다
+* <strong style="color:blue;">be seated</strong>: 자리에 앉다
+
+---
+### 돌발 : 과거의 주거 환경과 오늘날 주거 환경의 변화 설명
+
+**[Question]**
+Compare how people's living environments, such as houses and apartments, have changed from the past to today. What are the main differences, and what caused these changes?
+과거와 비교하여 오늘날 사람들의 주거 환경(집, 아파트 등)이 어떻게 변했는지 설명해 주세요. 주요 차이점은 무엇이며, 이러한 변화를 이끈 원인은 무엇인가요?
+
+**[Model Answer]**
+When we <strong style="color:blue;">look back at</strong> how people's living environments used to be compared to today, the shifts are nothing short of remarkable. In the past, especially in Korea, traditional detached houses or older, low-rise apartment complexes were the absolute norm. Back then, living spaces were generally centered around <strong style="color:blue;">multi-generational living</strong>, and interior designs focused heavily on practical functionality rather than aesthetic appeal. Houses were built with conventional materials, and smart home technology was practically unheard of. 
+
+However, fast forward to today, and the modern housing landscape is completely unrecognizable. High-rise smart apartments have <strong style="color:blue;">taken over</strong> the market. The most striking difference is the integration of cutting-edge technology and multi-functional spaces. Nowadays, almost every new apartment is equipped with IoT systems, allowing residents to <strong style="color:blue;">control everything</strong>—from lighting and security to ventilation and floor heating—right from their smartphones. Moreover, interior design trends have evolved dramatically; people heavily emphasize open-plan layouts, minimalist aesthetics, and customized built-in furniture to <strong style="color:blue;">make the most of</strong> compact urban spaces. 
+
+These massive changes were primarily driven by rapid urbanization, technological innovation, and a shifting lifestyle. As urban populations <strong style="color:blue;">skyrocketed</strong>, maximizing space efficiency became a top priority. At the same time, people’s expectations regarding their quality of life rose significantly. We no longer just view a home as a basic shelter to sleep in; rather, we view it as a sophisticated, personalized wellness space. All in all, the evolution of our living environments <strong style="color:blue;">reflects how far</strong> society has progressed in terms of technology, convenience, and personal values.
+
+**[Vocabulary & Expressions]**
+* Remarkable: 주목할 만한, 놀라운
+* Detached house: 단독 주택
+* Low-rise: 저층의
+* Conventional: 전통적인, 관습적인
+* Unheard of: 들어본 적 없는, 전례 없는
+* Landscape: 풍경, 양상
+* Unrecognizable: 알아볼 수 없는
+* Cutting-edge: 최첨단의
+* Integration: 통합
+* IoT (Internet of Things): 사물 인터넷
+* Ventilation: 환기
+* Urbanization: 도시화
+* Priority: 우선순위
+* Sophisticated: 정교한, 세련된
+* <strong style="color:blue;">look back at</strong>: 되돌아보다, 회상하다
+* <strong style="color:blue;">multi-generational living</strong>: 대가족 동거, 여러 세대가 함께 사는 삶
+* <strong style="color:blue;">taken over</strong>: 장악하다, 인수하다
+* <strong style="color:blue;">control everything</strong>: 모든 것을 통제하다
+* <strong style="color:blue;">make the most of</strong>: ~를 최대한 활용하다
+* <strong style="color:blue;">skyrocketed</strong>: 치솟다, 급등하다
+* <strong style="color:blue;">reflects how far</strong>: 얼마나 발전했는지를 보여주다
