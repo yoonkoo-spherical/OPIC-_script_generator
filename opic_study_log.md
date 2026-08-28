@@ -13595,3 +13595,94 @@ These massive changes were primarily driven by rapid urbanization, technological
 * <strong style="color:blue;">make the most of</strong>: ~를 최대한 활용하다
 * <strong style="color:blue;">skyrocketed</strong>: 치솟다, 급등하다
 * <strong style="color:blue;">reflects how far</strong>: 얼마나 발전했는지를 보여주다
+
+## 2026-08-28 14:40:17 OPIc Study
+
+### 묘사 : 동네 시장의 제철 과일 묘사
+
+**[Question]**
+Tell me about the seasonal fruits displayed at a fruit store or a traditional market in your neighborhood. What kind of fruits are there, and what do they look and taste like?
+당신 동네의 과일 가게나 전통 시장에 진열된 제철 과일들에 대해 이야기해 주세요. 어떤 과일들이 있으며, 생김새와 맛은 어떠한가요?
+
+**[Model Answer]**
+You know, I visit the local traditional market in my neighborhood quite often, and the fruit stands there always <strong style="color:blue;">catch my eye</strong> because they are so vibrant and <strong style="color:blue;">packed with</strong> fresh seasonal fruits. Right now, since it is peak summer season, the display is absolutely <overwhelming> in a good way. 
+
+First of all, right at the front of the store, you can see piles of deep red watermelons. They are huge, round, and <strong style="color:blue;">take up</strong> a lot of space. The merchants usually cut a small triangular sample to <strong style="color:blue;">show off</strong> how juicy and sweet they are. When you take a bite, it instantly <strong style="color:blue;">cools you down</strong> from the scorching summer heat. 
+
+Right next to the watermelons, there are boxes of peaches and plums. The peaches have this lovely gradient of pink and yellow, and they feel a bit fuzzy when you touch them. They <strong style="color:blue;">give off</strong> such a sweet, fragrant aroma that you can smell them from meters away. When you bite into a ripe peach, the juice just <strong style="color:blue;">runs down</strong> your chin, and the texture is incredibly soft and melting. 
+
+Also, I shouldn't forget to mention the shiny purple grapes and golden mangoes. They are neatly arranged, looking like they were polished. Whenever I go there, I end up <strong style="color:blue;">picking up</strong> way more than I originally planned because everything just looks so mouth-watering. Overall, walking past these fruit stands <strong style="color:blue;">brings me joy</strong> and makes me truly appreciate the changing seasons.
+
+**[Vocabulary & Expressions]**
+* Vibrant: 활기찬, 생기 넘치는
+* Fragrant: 향기로운
+* Mouth-watering: 군침이 도는
+* <strong style="color:blue;">Catch my eye</strong>: 눈길을 사로잡다
+* <strong style="color:blue;">Packed with</strong>: ~로 가득 찬
+* <strong style="color:blue;">Take up</strong>: 자리를 차지하다
+* <strong style="color:blue;">Show off</strong>: 뽐내다, 자랑하다
+* <strong style="color:blue;">Cool down</strong>: 열을 식히다, 시원하게 하다
+* <strong style="color:blue;">Give off</strong>: (냄새·빛 등을) 내뿜다
+* <strong style="color:blue;">Run down</strong>: (액체가) 흘러내리다
+* <strong style="color:blue;">Pick up</strong>: 집어 들다, 구매하다
+* <strong style="color:blue;">Brings me joy</strong>: 내게 기쁨을 주다
+
+---
+### 롤플레이 : 길거리에서 지하철역 길 묻기
+
+**[Question]**
+You are walking down the street and realize you are lost. You need to get to the nearest subway station. Approach a stranger on the street, explain your situation, and ask for directions. 
+길을 걷다가 길을 잃었다는 것을 깨달았습니다. 가장 가까운 지하철역으로 가야 합니다. 길거리에 있는 모르는 사람에게 다가가 상황을 설명하고 길을 물어보세요.
+
+**[Model Answer]**
+Excuse me, sorry to <strong style="color:blue;">bother you</strong>, but I was wondering if you could help me out for a second? I am actually a bit lost here. I am trying to get to the nearest subway station, but my phone battery just died, so I can't check my navigation app. I’m completely <strong style="color:blue;">turned around</strong> and have no idea which way to go. 
+
+Could you tell me how to get to the station from here? Is it <strong style="color:blue;">within walking distance</strong>, or should I take a bus? I am supposed to meet my friend there in about twenty minutes, so I am a bit <strong style="color:blue;">pressed for time</strong>. 
+
+Oh, I see. So if I <strong style="color:blue;">head straight down</strong> this street and <strong style="color:blue;">turn left</strong> at the big crossroad where the coffee shop is, I'll see the entrance, right? Just to make sure I got it <strong style="color:blue;">straight</strong>, I walk straight, pass the traffic light, and it will be right on my right-hand side after the convenience store? 
+
+Thank you so much for your help. I really appreciate your kindness. Have a wonderful day!
+
+**[Vocabulary & Expressions]**
+* Navigation app: 내비게이션 앱
+* Entrance: 입구
+* Convenience store: 편의점
+* <strong style="color:blue;">Bother you</strong>: 방해하다, 실례하다
+* <strong style="color:blue;">Turned around</strong>: 방향 감각을 잃은, 혼란스러운
+* <strong style="color:blue;">Within walking distance</strong>: 걸어서 갈 수 있는 거리의
+* <strong style="color:blue;">Pressed for time</strong>: 시간이 촉박한
+* <strong style="color:blue;">Head straight down</strong>: 곧장 걸어 내려가다
+* <strong style="color:blue;">Turn left</strong>: 왼쪽으로 돌다
+* <strong style="color:blue;">Get it straight</strong>: 정확히 이해하다
+
+---
+### 돌발 : 중고 거래 사기 미수 경험
+
+**[Question]**
+Have you ever experienced a situation where you almost got scammed while using a second-hand marketplace, or met a very strange person? Describe the situation in detail.
+중고 거래 플랫폼을 이용하다가 사기를 당할 뻔했거나 매우 이상한 사람을 만났던 적이 있습니까? 그 상황을 자세히 묘사해 주세요.
+
+**[Model Answer]**
+You know, I usually consider myself quite careful, but a few months ago, I almost <strong style="color:blue;">fell victim to</strong> a very sophisticated online scam while trying to buy a second-hand tablet PC. 
+
+I found a listing that offered a nearly brand-new tablet at a surprisingly reasonable price. I immediately <strong style="color:blue;">reached out to</strong> the seller through the app's chat feature. The seller seemed extremely polite and professional. However, things started to <strong style="color:blue;">seem fishy</strong> when I suggested meeting face-to-face in a public place. 
+
+The seller suddenly <strong style="color:blue;">came up with</strong> all sorts of excuses. They claimed they were currently out of town on a business trip and could only ship the item. They even sent me a photo of their ID card and a receipt to <strong style="color:blue;">gain my trust</strong>, asking me to transfer the money directly to their bank account instead of using the platform's official secure payment system. 
+
+Fortunately, before transferring the money, I decided to <strong style="color:blue;">double-check</strong> their phone number and account number on a well-known online fraud prevention website. To my shock, their information <strong style="color:blue;">popped up</strong> immediately with multiple scam reports from other victims! 
+
+I was so relieved that I hadn't <strong style="color:blue;">gone through with</strong> the transaction. I immediately blocked the user and reported the account to the platform administrators. That experience really <strong style="color:blue;">opened my eyes</strong>, and now I never transfer money in advance and always insist on safe face-to-face transactions.
+
+**[Vocabulary & Expressions]**
+* Sophisticated: 정교한, 교묘한
+* Reasonable: 합리적인
+* Transaction: 거래
+* <strong style="color:blue;">Fell victim to</strong>: ~의 피해를 입다, 속아 넘어가다
+* <strong style="color:blue;">Reached out to</strong>: ~에게 연락하다
+* <strong style="color:blue;">Seem fishy</strong>: 수상쩍어 보이다
+* <strong style="color:blue;">Came up with</strong>: (아이디어·핑계 등을) 생각해내다, 제시하다
+* <strong style="color:blue;">Gain my trust</strong>: 신뢰를 얻다
+* <strong style="color:blue;">Double-check</strong>: 재확인하다
+* <strong style="color:blue;">Popped up</strong>: 튀어나오다, 나타나다
+* <strong style="color:blue;">Gone through with</strong>: (힘든 일을) 끝까지 해내다, 강행하다
+* <strong style="color:blue;">Opened my eyes</strong>: 눈을 뜨게 하다, 깨닫게 하다
