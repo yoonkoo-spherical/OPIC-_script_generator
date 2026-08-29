@@ -13686,3 +13686,85 @@ I was so relieved that I hadn't <strong style="color:blue;">gone through with</s
 * <strong style="color:blue;">Popped up</strong>: 튀어나오다, 나타나다
 * <strong style="color:blue;">Gone through with</strong>: (힘든 일을) 끝까지 해내다, 강행하다
 * <strong style="color:blue;">Opened my eyes</strong>: 눈을 뜨게 하다, 깨닫게 하다
+
+## 2026-08-29 09:30:04 OPIc Study
+
+### 묘사 : 어릴 적 자주 가지고 놀았던 장난감 묘사
+
+**[Question]**
+What kind of toys did you frequently play with when you were a child? Please describe the toy in detail. What did it look like and what made it so special to you?
+(당신은 어릴 적에 어떤 장난감을 자주 가지고 놀았나요? 그 장난감을 자세히 묘사해 주세요. 어떻게 생겼으며 무엇이 그 장난감을 당신에게 특별하게 만들었나요?)
+
+**[Model Answer]**
+You know, thinking back to my childhood, one particular toy immediately <strong style="color:blue;">comes to mind</strong>. It was a retro, red-and-white transforming robot that my older cousin passed down to me. To give you a detailed description, it was made of surprisingly durable plastic, standing about thirty centimeters tall. It had this distinctive, blocky design which was typical of toys from the eighties. Its arms and legs could <strong style="color:blue;">bend and twist</strong> in all sorts of directions, allowing it to morph from a sleek sports car into a pretty intimidating-looking warrior robot. The color scheme was vibrant, mostly glossy crimson red with striking silver accents on the chest plate, and it even had these tiny, glowing blue plastic gems for eyes. What really <strong style="color:blue;">set it apart from</strong> other toys was its incredible versatility and the sound effects box embedded in its torso. Whenever you pressed the main belt buckle, it would <strong style="color:blue;">let out</strong> futuristic laser noises. I remember spending countless hours just sitting on my living room floor, <strong style="color:blue;">taking it apart</strong> and <strong style="color:blue;">putting it back together</strong> again. It wasn't just a plaything; it was a companion that really <strong style="color:blue;">sparked my imagination</strong> and helped me <strong style="color:blue;">get through</strong> those lonely afternoons when my parents were busy working. Even now, whenever I happen to <strong style="color:blue;">stumble upon</strong> old childhood photos, a wave of nostalgia <strong style="color:blue;">washes over me</strong>, reminding me of the simple yet profound joy that toy brought into my early life.
+
+**[Vocabulary & Expressions]**
+* retro: 복고풍의
+* versatile: 다용도의, 다재다능한
+* <strong style="color:blue;">comes to mind</strong>: 기억에 떠오르다
+* <strong style="color:blue;">bend and twist</strong>: 구부러지고 비틀리다
+* <strong style="color:blue;">set it apart from</strong>: ~와 구별되게 하다, 차별화하다
+* <strong style="color:blue;">let out</strong>: (소리를) 내다, 발하다
+* <strong style="color:blue;">taking it apart</strong>: 그것을 분해하다
+* <strong style="color:blue;">putting it back together</strong>: 그것을 다시 조립하다
+* <strong style="color:blue;">sparked my imagination</strong>: 상상력을 불러일으키다
+* <strong style="color:blue;">get through</strong>: 견뎌내다, 통과하다
+* <strong style="color:blue;">stumble upon</strong>: 우연히 발견하다
+* <strong style="color:blue;">washes over me</strong>: (감정이) 밀려오다
+
+---
+### 롤플레이 : 가벼운 접촉 사고 경찰 신고
+
+**[Question]**
+You were involved in a minor traffic accident while driving. Call the police station, explain the situation, and ask what you should do next.
+(운전 중 가벼운 접촉 사고가 났습니다. 경찰서에 전화하여 상황을 설명하고 다음에 무엇을 해야 하는지 물어보세요.)
+
+**[Model Answer]**
+Hello, is this the police station? My name is Alex Kim, and I'm calling to report a minor traffic accident that just happened a few minutes ago. I was driving down Elm Street, moving at a very low speed because of the heavy traffic, when the car right in front of me suddenly <strong style="color:blue;">slammed on</strong> its brakes without any warning. Even though I <strong style="color:blue;">hit the brakes</strong> as hard as I could, my front bumper <strong style="color:blue;">ended up</strong> <strong style="color:blue;">scraping against</strong> their rear bumper. Thankfully, nobody is hurt, and traffic isn't completely blocked, but there is a visible scratch and a small dent on both vehicles. I'm currently <strong style="color:blue;">pulled over</strong> on the right shoulder of the road with my hazard lights <strong style="color:blue;">turned on</strong>. Since this is my first time <strong style="color:blue;">running into</strong> this kind of situation, I'm kind of panicking and not entirely sure how to <strong style="color:blue;">go about</strong> handling it. Could you please let me know if I need to <strong style="color:blue;">wait for</strong> an officer to arrive at the scene, or should we <strong style="color:blue;">exchange insurance information</strong> and just <strong style="color:blue;">fill out</strong> an accident report online? Also, do we need to <strong style="color:blue;">move our cars</strong> out of the way completely so we don't <strong style="color:blue;">hold up</strong> the traffic flow? I would really appreciate your guidance on this.
+
+**[Vocabulary & Expressions]**
+* minor traffic accident: 경미한 교통사고
+* hazard lights: 비상등
+* <strong style="color:blue;">slammed on</strong>: (브레이크를) 꽉 밟다
+* <strong style="color:blue;">hit the brakes</strong>: 브레이크를 밟다
+* <strong style="color:blue;">ended up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">scraping against</strong>: ~에 긁히다
+* <strong style="color:blue;">pulled over</strong>: (차를) 길 가에 대다
+* <strong style="color:blue;">turned on</strong>: 켜진
+* <strong style="color:blue;">running into</strong>: ~와 마주치다, 겪다
+* <strong style="color:blue;">go about</strong>: ~을 착수하다, 처리하다
+* <strong style="color:blue;">wait for</strong>: ~을 기다리다
+* <strong style="color:blue;">exchange insurance information</strong>: 보험 정보를 교환하다
+* <strong style="color:blue;">fill out</strong>: 작성하다
+* <strong style="color:blue;">move our cars</strong>: 차를 이동시키다
+* <strong style="color:blue;">hold up</strong>: 지연시키다, 정체시키다
+
+---
+### 돌발 : 최근 스마트폰 고장으로 인한 불편 경험
+
+**[Question]**
+Tell me about a time when your smartphone or computer suddenly broke down, causing major inconvenience in your daily life. What happened and how did you resolve the situation?
+(최근 스마트폰이나 컴퓨터가 갑자기 고장 나서 일상생활에 큰 불편을 겪었던 경험에 대해 이야기해 주세요. 무슨 일이 있었고 어떻게 해결했나요?)
+
+**[Model Answer]**
+Oh, I can never forget what happened to me just a couple of weeks ago. It was an absolute nightmare. My primary smartphone, which I rely on for literally everything, suddenly <strong style="color:blue;">gave out</strong> on me right in the middle of a very busy workday. I was simply scrolling through my work emails when the screen <strong style="color:blue;">went completely black</strong>, and it just wouldn't <strong style="color:blue;">turn back on</strong> no matter what I tried. I tried <strong style="color:blue;">holding down</strong> the power button and volume keys, but it was completely dead. That malfunction <strong style="color:blue;">threw a wrench into</strong> my entire routine because nowadays, my phone is essentially my lifeline. I couldn't check my schedule, I couldn't access mobile banking to <strong style="color:blue;">pay for</strong> my lunch, and worst of all, I was completely <strong style="color:blue;">cut off from</strong> important client communications. I felt totally lost and <strong style="color:blue;">cut off from</strong> the rest of the world. To <strong style="color:blue;">make matters worse</strong>, I had important meetings scheduled for the afternoon. I had to drop everything, <strong style="color:blue;">hurry over to</strong> the nearest service center, and <strong style="color:blue;">wait in line</strong> for over an hour. It turned out that the battery had <strong style="color:blue;">short-circuited</strong> due to overheating. The technician had to <strong style="color:blue;">replace the battery</strong> on the spot, which <strong style="color:blue;">set me back</strong> a considerable amount of money. That whole ordeal really made me realize how dependent I've become on technology and taught me the importance of <strong style="color:blue;">backing up</strong> my data regularly.
+
+**[Vocabulary & Expressions]**
+* nightmare: 악몽, 끔찍한 일
+* lifeline: 생명선, 필수품
+* malfunction: 오작동
+* ordeal: 시련, 겪은 고생
+* <strong style="color:blue;">gave out</strong>: 고장 나다, 다 닳다
+* <strong style="color:blue;">went completely black</strong>: 완전히 까맣게 변하다
+* <strong style="color:blue;">turn back on</strong>: 다시 켜다
+* <strong style="color:blue;">holding down</strong>: (꾸욱) 누르고 있다
+* <strong style="color:blue;">threw a wrench into</strong>: 계획에 차질을 빚게 하다, 방해하다
+* <strong style="color:blue;">pay for</strong>: ~에 대해 지불하다
+* <strong style="color:blue;">cut off from</strong>: ~로부터 차단되다, 단절되다
+* <strong style="color:blue;">make matters worse</strong>: 설상가상으로
+* <strong style="color:blue;">hurry over to</strong>: ~로 서둘러 가다
+* <strong style="color:blue;">wait in line</strong>: 줄을 서서 기다리다
+* <strong style="color:blue;">short-circuited</strong>: 합선되다, 쇼트가 나다
+* <strong style="color:blue;">replace the battery</strong>: 배터리를 교체하다
+* <strong style="color:blue;">set me back</strong>: (돈이) 들게 하다, 비용이 발생하다
+* <strong style="color:blue;">backing up</strong>: 백업하다, 자료를 복사해 두다
