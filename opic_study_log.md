@@ -13768,3 +13768,107 @@ Oh, I can never forget what happened to me just a couple of weeks ago. It was an
 * <strong style="color:blue;">replace the battery</strong>: 배터리를 교체하다
 * <strong style="color:blue;">set me back</strong>: (돈이) 들게 하다, 비용이 발생하다
 * <strong style="color:blue;">backing up</strong>: 백업하다, 자료를 복사해 두다
+
+## 2026-08-30 08:37:17 OPIc Study
+
+### 묘사 : 자주 가는 백화점의 층별 구성 묘사
+
+**[Question]**
+Please describe the department store or shopping mall you frequently visit. What is it like, and how is it structured by floor? Tell me in detail.
+자주 가는 백화점이나 쇼핑몰을 묘사해 주세요. 어떤 곳이며 층별 구성은 어떻게 되어 있나요? 자세히 말씀해 주세요.
+
+**[Model Answer]**
+You know, if I have to pick one place where I spend most of my weekends, it would definitely be the Starfield Department Store located right near my neighborhood. It's a massive, state-of-the-art complex, and every time I <strong style="color:blue;">drop by</strong>, I am always amazed by its sheer size and variety. Since I go there almost every week, I know the layout like the back of my hand. Let me walk you through it floor by floor. 
+
+First off, when you <strong style="color:blue;">head into</strong> the basement levels, from B1 to B3, that's where the magic happens for food lovers. The underground floor features a massive gourmet food court and a premium supermarket. Whenever I <strong style="color:blue;">run out of</strong> groceries or just want to grab a quick bite, I immediately <strong style="color:blue;">make for</strong> this area. They have everything from traditional Korean street food to high-end bakeries. 
+
+Moving up to the ground floor, which is the 1st floor, it is mainly dedicated to luxury cosmetics, international designer brands, and a spacious central lobby. This area is always bustling with people <strong style="color:blue;">hanging out</strong> or waiting to meet their friends because it's a prominent landmark within the mall. The interior design here is exceptionally sleek, with high ceilings and marble floors, giving off a very sophisticated vibe. 
+
+As you <strong style="color:blue;">make your way up</strong> to the 2nd and 3rd floors, you will find contemporary fashion brands, casual wear, and footwear. This is my go-to spot whenever I need to <strong style="color:blue;">pick up</strong> some new clothes for the upcoming season. The clothing options range from affordable local brands to trendy streetwear, so there is something for everyone. 
+
+Continuing upward, the 4th and 5th floors are allocated for home appliances, lifestyle goods, and a comprehensive children's theme park. It's fascinating to see how the mall caters to families with kids. Finally, the top floor, the 6th floor, is a cultural hub. It features a multiplex cinema, an art gallery, and a rooftop garden. Whenever I <strong style="color:blue;">feel like</strong> catching the latest movie or just getting some fresh air while <strong style="color:blue;">taking in</strong> the panoramic view of the city, I <strong style="color:blue;">wind up</strong> spending hours up there. All in all, this department store is not just a shopping venue, but a complete entertainment ecosystem that never fails to <strong style="color:blue;">blow me away</strong>.
+
+**[Vocabulary & Expressions]**
+* State-of-the-art: 최첨단의
+* Sheer size: 엄청난 크기
+* Prominent landmark: 저명한 랜드마크
+* Sophisticated vibe: 세련된 분위기
+* Panoramic view: 파노라마 전경
+* <strong style="color:blue;">Drop by</strong>: 들르다
+* <strong style="color:blue;">Head into</strong>: ~로 향하다
+* <strong style="color:blue;">Run out of</strong>: ~가 다 떨어지다
+* <strong style="color:blue;">Make for</strong>: ~로 향하다
+* <strong style="color:blue;">Hang out</strong>: 시간을 보내다
+* <strong style="color:blue;">Make your way up</strong>: 위로 올라가다
+* <strong style="color:blue;">Pick up</strong>: 사다, 집어들다
+* <strong style="color:blue;">Feel like</strong>: ~하고 싶다
+* <strong style="color:blue;">Take in</strong>: (경치 등을) 감상하다
+* <strong style="color:blue;">Wind up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">Blow someone away</strong>: 감탄시키다, 압도하다
+
+---
+### 롤플레이 : 서점 직원에게 추천받은 책 찾기 요청하기
+
+**[Question]**
+You want to buy a book that your friend recommended, but you cannot find it in the bookstore. Call a bookstore staff member, explain the situation, and ask three or four questions to find the book.
+친구에게 추천받은 책을 사고 싶지만 서점에서 찾을 수 없습니다. 서점 직원에게 전화하여(또는 말을 걸어) 상황을 설명하고, 책을 찾기 위해 3~4가지 질문을 하세요.
+
+**[Model Answer]**
+Excuse me? Hi, I am actually looking for a specific book that a close friend of mine strongly recommended, but I've been <strong style="color:blue;">looking around</strong> this section for over twenty minutes and I just can't seem to <strong style="color:blue;">track it down</strong>. Could you possibly help me out? 
+
+To give you a bit of detail, the title is "The Psychology of Money," and I believe it's a bestseller regarding personal finance. My friend told me it has a striking dark blue cover with white lettering. Do you happen to carry this book in your store? 
+
+Oh, you do? That's such a relief! But wait, just to make sure, could you check if it's currently in stock on the shelves, or is it <strong style="color:blue;">sold out</strong>? If it is available, could you tell me exactly which aisle and shelf it is located on so that I don't get lost again? 
+
+Wait, one more thing. My friend also mentioned that there is a newly released special edition with an extra chapter included. Do you happen to have that specific version, or do you only carry the standard paperback edition? 
+
+Lastly, if it turns out that you don't have the book in physical stock right now, would it be possible for you to <strong style="color:blue;">look up</strong> if other branches nearby have it, or perhaps <strong style="color:blue;">order it in</strong> for me? I really want to <strong style="color:blue;">get my hands on</strong> this book by this weekend because I'm planning a quiet reading trip. I would really appreciate your assistance. Thank you so much!
+
+**[Vocabulary & Expressions]**
+* Bestseller: 베스트셀러
+* Personal finance: 개인 재테크
+* Striking cover: 눈에 띄는 표지
+* Paperback edition: 페이퍼백(보급판) 에디션
+* <strong style="color:blue;">Look around</strong>: 둘러보다
+* <strong style="color:blue;">Track down</strong>: 찾아내다
+* <strong style="color:blue;">Sold out</strong>: 품절된
+* <strong style="color:blue;">Look up</strong>: (정보를) 찾아보다
+* <strong style="color:blue;">Order in</strong>: 주문해서 들여오다
+* <strong style="color:blue;">Get one's hands on</strong>: ~를 손에 넣다
+
+---
+### 돌발 : 과거의 흑역사 사진이나 우연히 아주 잘 나온 사진 사연
+
+**[Question]**
+Tell me about a memorable photo of you from the past. It could be an embarrassing photo that you consider your dark history, or it could be a photo where you turned out exceptionally well by coincidence. What is the story behind it?
+과거에 찍힌 기억에 남는 사진에 대해 이야기해 주세요. 흑역사라고 생각하는 굴욕적인 사진일 수도 있고, 우연히 아주 잘 나온 사진일 수도 있습니다. 그 사진에 얽힌 사연은 무엇인가요?
+
+**[Model Answer]**
+You know, when it comes to memorable photos, a particular picture from about five years ago immediately <strong style="color:blue;">pops into my head</strong>. To be completely honest with you, it is the ultimate black-history photo that I always try to <strong style="color:blue;">keep under wraps</strong>, but it's too hilarious not to share. 
+
+It was taken during my very first trip backpacking across Europe. I had just arrived in Rome after a grueling, fifteen-hour overnight train ride. I was completely exhausted, jet-lagged, and running on fumes. Naturally, my hair was an absolute mess, and I was wearing the most unflattering, mismatched travel gear imaginable—bright neon orange hiking pants paired with a faded graphic tee. 
+
+Just as I was dragging my heavy luggage across a historic plaza, a local street photographer suddenly approached me and <strong style="color:blue;">snapped a photo</strong> without giving me any warning. At that exact microsecond, a fierce gust of wind blew my bangs straight up into the air, and I caught mid-sneeze with my eyes completely crossed and mouth wide open. It literally looked like a mugshot of a zombie escaping from a horror movie. 
+
+When the photographer <strong style="color:blue;">showed me</strong> the preview on his camera screen, I was so mortified that I actually offered him twenty euros on the spot just to <strong style="color:blue;">delete it</strong>. But you know what? He refused, laughed out loud, and ended up <strong style="color:blue;">posting it</strong> on his public social media page as an example of "authentic tourist struggle." 
+
+Nowadays, whenever my friends <strong style="color:blue;">bring up</strong> that trip, they inevitably <strong style="color:blue;">pull out</strong> this exact photo to <strong style="color:blue;">tease me</strong>. Even though it was deeply embarrassing back then, looking back now, it always <strong style="color:blue;">cracks me up</strong> and serves as a hilarious reminder of my chaotic youth. It just goes to show that sometimes, the most imperfect moments <strong style="color:blue;">turn out to be</strong> the most unforgettable ones.
+
+**[Vocabulary & Expressions]**
+* Ultimate black-history photo: 궁극의 흑역사 사진
+* Grueling train ride: 고된 기차 여행
+* Jet-laged: 시차 적응으로 피곤한
+* Unflattering gear: 볼품없는 옷차림
+* Mismatched travel gear: 어울리지 않는 여행 용품
+* Historic plaza: 역사적인 광장
+* Fierce gust of wind: 거센 돌풍
+* Mugshot: 범죄인 식별용 사진
+* Mortified: 수치스러운
+* <strong style="color:blue;">Pop into one's head</strong>: 머릿속에 떠오르다
+* <strong style="color:blue;">Keep under wraps</strong>: 숨기다, 비밀로 하다
+* <strong style="color:blue;">Snap a photo</strong>: 사진을 찍다
+* <strong style="color:blue;">Bring up</strong>: (이야기를) 꺼내다
+* <strong style="color:blue;">Pull out</strong>: 꺼내다
+* <strong style="color:blue;">Tease someone</strong>: 놀리다
+* <strong style="color:blue;">Crack someone up</strong>: 박장대소하게 만들다
+* <strong style="color:blue;">Turn out to be</strong>: 결국 ~임이 드러나다
