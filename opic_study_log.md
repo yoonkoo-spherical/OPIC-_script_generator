@@ -13872,3 +13872,90 @@ Nowadays, whenever my friends <strong style="color:blue;">bring up</strong> that
 * <strong style="color:blue;">Tease someone</strong>: 놀리다
 * <strong style="color:blue;">Crack someone up</strong>: 박장대소하게 만들다
 * <strong style="color:blue;">Turn out to be</strong>: 결국 ~임이 드러나다
+
+## 2026-09-01 08:03:27 OPIc Study
+
+### 묘사 : 자주 사용하는 스마트폰 애플리케이션의 인터페이스 묘사
+
+**[Question]**
+Could you describe the user interface of the smartphone application that you use most frequently? What does it look like, and how is it organized?
+가장 자주 사용하는 스마트폰 애플리케이션의 사용자 인터페이스를 묘사해 주시겠습니까? 어떻게 생겼으며, 어떻게 구성되어 있나요?
+
+**[Model Answer]**
+You know, I use various apps on my phone on a daily basis, but if I have to pick the one I rely on the most, it would definitely be the mobile banking app, specifically 'Toss'. As soon as I <strong style="color:blue;">fire up</strong> the app, I'm always impressed by its remarkably clean and minimalist interface. Unlike traditional banking apps that tend to <strong style="color:blue;">be cluttered with</strong> endless menus and flashing banners, Toss focuses purely on user experience and efficiency. 
+
+Let me walk you through the layout. When you <strong style="color:blue;">log into</strong> the main screen, the very first thing that catches your eye is your total asset summary right at the top. It displays your checking accounts, savings, and even investments in one neat list. Below that, there are a few primary action buttons such as 'transfer', 'scan', and 'history'. These buttons are strategically placed where your thumb naturally rests, making one-handed operation a breeze. 
+
+Another feature I really appreciate is how they <strong style="color:blue;">break down</strong> your monthly spending habits. If you scroll down just a bit, you'll see a graphical representation of your expenses, categorized neatly into food, transportation, and shopping. It <strong style="color:blue;">stands out from</strong> other financial apps because it uses soothing pastel colors rather than aggressive primary colors, which prevents you from feeling overwhelmed. 
+
+Moreover, navigating through different menus is totally seamless. You don't have to <strong style="color:blue;">dig through</strong> multiple sub-folders to find what you are looking for. A simple horizontal swipe or tapping on the bottom navigation bar will instantly <strong style="color:blue;">bring up</strong> the desired section. All in all, the interface design of Toss is the epitome of modern UI/UX—it’s intuitive, visually appealing, and completely user-centric. That's why I find myself <strong style="color:blue;">turning to</strong> this app multiple times a day without hesitation.
+
+**[Vocabulary & Expressions]**
+* minimalist: 미니멀리스트의, 간결한
+* strategic: 전략적인
+* epitome: 전형, 완벽한 본보기
+* user-centric: 사용자 중심의
+* <strong style="color:blue;">fire up</strong>: (기계나 앱을) 켜다, 실행하다
+* <strong style="color:blue;">be cluttered with</strong>: ~로 꽉 차 있다, 복잡하다
+* <strong style="color:blue;">log into</strong>: ~에 로그인하다
+* <strong style="color:blue;">break down</strong>: 분석하다, 분류하다
+* <strong style="color:blue;">stands out from</strong>: ~에서 눈에 띄다, 두드러지다
+* <strong style="color:blue;">dig through</strong>: ~을 뒤지다, 파헤치다
+* <strong style="color:blue;">bring up</strong>: (화면 등을) 띄우다, 불러오다
+* <strong style="color:blue;">turning to</strong>: ~에 의지하다, 기내다
+
+---
+### 롤플레이 : 치과 예약 시간 연기 요청하기
+
+**[Question]**
+You have an appointment at the dentist tomorrow, but an unexpected issue has come up at work, and you cannot make it. Call the dental clinic, explain your situation, and offer two or three alternative options to reschedule.
+내일 치과 예약이 잡혀 있지만, 직장에서 갑자기 일이 생겨 갈 수 없게 되었습니다. 치과에 전화하여 상황을 설명하고, 예약을 변경하기 위한 2~3가지 대안을 제시하세요.
+
+**[Model Answer]**
+Hi, good morning. My name is Alex Kim, and I have an appointment scheduled for tomorrow afternoon at 2 PM for a routine check-up and scaling. Unfortunately, I'm calling because something urgent <strong style="color:blue;">has come up</strong> at work, and there is absolutely no way I can make it to the clinic on time. I am so sorry for the short notice, as I know this might <strong style="color:blue;">throw off</strong> your schedule for the day. 
+
+To <strong style="color:blue;">make up for</strong> this inconvenience, I would like to reschedule my appointment as soon as possible. Since my schedule for this week is pretty tight, I was wondering if I could <strong style="color:blue;">shift</strong> the appointment to this Friday instead. Do you have any openings in the morning, say around 10 AM? If Friday morning doesn't work for you, my second option would be early next week. How does next Monday afternoon look? I am pretty flexible anytime after 3 PM on that day. 
+
+I really hope one of these options works out. Again, I deeply apologize for any trouble this sudden change might cause your staff. Please let me know what works best, and I will make sure to <strong style="color:blue;">show up</strong> on time without fail. Thank you so much for your understanding and cooperation. Have a wonderful day.
+
+**[Vocabulary & Expressions]**
+* routine check-up: 정기 검진
+* scaling: 스케일링 (치석 제거)
+* inconvenient: 불편한
+* flexible: 유연한, 융통성 있는
+* <strong style="color:blue;">has come up</strong>: (일이) 생기다, 발생하다
+* <strong style="color:blue;">throw off</strong>: ~을 차질 생기게 하다, 혼란시키다
+* <strong style="color:blue;">make up for</strong>: ~을 만회하다, 보상하다
+* <strong style="color:blue;">shift</strong>: (시간이나 날짜를) 옮기다, 바꾸다
+* <strong style="color:blue;">show up</strong>: 나타나다, 참석하다
+
+---
+### 돌발 : 어린 시절 기억에 남는 생일 파티 에피소드
+
+**[Question]**
+Tell me about a memorable birthday party or special celebration from your childhood. What made it so special, and why do you still remember it clearly to this day?
+어린 시절 기억에 남는 생일 파티나 특별한 기념일에 대해 이야기해 주세요. 무엇이 그토록 특별하게 만들었으며, 왜 지금까지도 생생하게 기억하고 계시나요?
+
+**[Model Answer]**
+When I look back on my childhood, one particular birthday party still <strong style="color:blue;">stands out</strong> in my memory as if it happened yesterday. It was my tenth birthday, and my parents threw me a surprise party at a local amusement park. Up until that point, I had only ever celebrated my birthdays at home with a simple cake and family members, so I had no idea what was waiting for me. 
+
+On that day, my mom told me we were just going to the park for a casual weekend walk. But as soon as we <strong style="color:blue;">showed up</strong> at the main entrance, all of my closest friends from school suddenly <strong style="color:blue;">jumped out</strong> from behind the ticket booth, shouting, "Surprise!" I was completely <strong style="color:blue;">taken aback</strong> and couldn't even say a word for a few seconds. I was overjoyed beyond words. 
+
+My parents had secretly <strong style="color:blue;">mapped out</strong> the entire day for us. We spent the whole afternoon riding roller coasters, eating cotton candy, and playing carnival games <strong style="color:blue;">to our heart's content</strong>. It felt like we were on top of the world. What made it truly unforgettable wasn't just the rides or the massive birthday cake shaped like a spaceship, but the feeling of being so deeply loved and cherished by both my parents and my friends. 
+
+Even now, whenever I <strong style="color:blue;">look back on</strong> the photos from that day, a big smile naturally <strong style="color:blue;">comes across</strong> my face. That tenth birthday party wasn't just a fun event; it was a core memory that <strong style="color:blue;">brings back</strong> the warmth and innocence of my childhood whenever life gets stressful.
+
+**[Vocabulary & Expressions]**
+* amusement park: 놀이공원
+* unforgettable: 잊을 수 없는
+* spaceship: 우주선
+* innocence: 순수함
+* <strong style="color:blue;">stands out</strong>: 두드러지다, 눈에 띄다
+* <strong style="color:blue;">showed up</strong>: 나타나다
+* <strong style="color:blue;">jumped out</strong>: 튀어나오다
+* <strong style="color:blue;">taken aback</strong>: 깜짝 놀란, 허를 찌른
+* <strong style="color:blue;">mapped out</strong>: 계획을 세우다, 구상하다
+* <strong style="color:blue;">to our heart's content</strong>: 실컷, 마음껏
+* <strong style="color:blue;">look back on</strong>: ~을 회상하다, 되돌아보다
+* <strong style="color:blue;">comes across</strong>: (인상 등이) 들다, 전달되다
+* <strong style="color:blue;">brings back</strong>: (기억 등을) 되살리다, 떠올리게 하다
