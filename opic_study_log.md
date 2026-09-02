@@ -13959,3 +13959,124 @@ Even now, whenever I <strong style="color:blue;">look back on</strong> the photo
 * <strong style="color:blue;">look back on</strong>: ~을 회상하다, 되돌아보다
 * <strong style="color:blue;">comes across</strong>: (인상 등이) 들다, 전달되다
 * <strong style="color:blue;">brings back</strong>: (기억 등을) 되살리다, 떠올리게 하다
+
+## 2026-09-02 07:23:38 OPIc Study
+
+### 묘사 : 가장 좋아하는 방 묘사
+
+**[Question]**
+Please describe your favorite room in your house and explain why you like it so much. What do you usually do in there?
+집에서 가장 좋아하는 방을 묘사하고, 왜 그토록 좋아하는지 설명해 주세요. 그곳에서 주로 무엇을 하나요?
+
+**[Model Answer]**
+You know, if I have to pick my absolute favorite room in my house, I would definitely have to say it’s my home office. It’s not just a place where I work, but it’s my personal sanctuary where I can truly <strong style="color:blue;">wind down</strong> and focus on things that matter to me. 
+
+First of all, let me describe the physical layout. The room is located right next to the living room, and it features a large, floor-to-ceiling glass window that lets in an incredible amount of natural sunlight during the day. I’ve <strong style="color:blue;">set up</strong> a massive wooden desk right facing the window, so whenever I look up from my computer, I can enjoy a refreshing view of the neighborhood park. The walls are painted in a soothing, neutral tone like warm beige, which <strong style="color:blue;">contributes to</strong> a very calm and serene atmosphere. I also have a couple of bookshelves <strong style="color:blue;">stacked with</strong> all sorts of novels, design magazines, and professional reference books. 
+
+Now, as for why I love this room so much, it really <strong style="color:blue;">comes down to</strong> the vibe and the sense of privacy it offers. In my busy daily life, things can get pretty hectic, but the moment I <strong style="color:blue;">step foot into</strong> this room, all the stress just <strong style="color:blue;">melts away</strong>. 
+
+I spend a significant amount of time here. On weekdays, I <strong style="color:blue;">work away</strong> on various projects, taking advantage of the quiet environment. But on weekends, I usually <strong style="color:blue;">curl up</strong> in my ergonomic armchair with a cup of freshly brewed drip coffee and <strong style="color:blue;">get lost in</strong> a good book. Sometimes, when I need a creative spark, I just <strong style="color:blue;">stare out</strong> the window and let my mind wander. 
+
+All in all, this room is much more than just a physical space; it's an essential part of my daily routine that helps me <strong style="color:blue;">keep my sanity</strong> in check. I simply couldn't live without it.
+
+**[Vocabulary & Expressions]**
+* sanctuary: 안식처
+* layout: 배치, 구조
+* serene: 평온한
+* ergonomic: 인체 공학적인
+* <strong style="color:blue;">wind down</strong>: 긴장을 풀다
+* <strong style="color:blue;">set up</strong>: 설치하다, 마련하다
+* <strong style="color:blue;">contribute to</strong>: ~에 기여하다
+* <strong style="color:blue;">stacked with</strong>: ~로 가득 쌓여 있는
+* <strong style="color:blue;">comes down to</strong>: 결국 ~로 귀결되다
+* <strong style="color:blue;">step foot into</strong>: 발을 들놓다
+* <strong style="color:blue;">melts away</strong>: 눈 녹듯 사라지다
+* <strong style="color:blue;">work away</strong>: 계속해서 일하다
+* <strong style="color:blue;">curl up</strong>: 웅크리고 앉다(눕다)
+* <strong style="color:blue;">get lost in</strong>: ~에 심취하다, 몰두하다
+* <strong style="color:blue;">stare out</strong>: 밖을 응시하다
+* <strong style="color:blue;">keep my sanity</strong>: 제정신을 유지하다
+
+---
+### 롤플레이 : 옷에 얼룩 발견 후 매장에 교환 요청
+
+**[Question]**
+You just bought some clothes at a clothing store and came back home. However, you noticed there is a stain on the clothing item. Call the store, explain the situation, and offer three to four alternatives or solutions to resolve the issue.
+옷가게에서 옷을 사고 집에 돌아왔는데, 옷에 얼룩이 있는 것을 발견했습니다. 매장에 전화하여 상황을 설명하고, 문제를 해결하기 위한 3~4가지 대안이나 해결책을 제시해 주세요.
+
+**[Model Answer]**
+Hi, is this the customer service center of the clothing boutique downtown? Yes, hello. I’m calling because I have a bit of an issue with a purchase I made earlier today. My name is Alex, and I bought a beige trench coat around 2 PM. 
+
+To be honest, I was really excited about this purchase, but when I <strong style="color:blue;">got home</strong> and <strong style="color:blue;">unpacked</strong> the shopping bag, I noticed something quite disappointing. There is a noticeable, dark stain right on the left sleeve of the coat. It looks like it might have been damaged on the display rack. Since I'm planning to wear this to an important meeting this weekend, I really need to <strong style="color:blue;">sort this out</strong> as soon as possible. 
+
+I’d like to suggest a few ways we can handle this situation. First, do you still have the same coat in a medium size? If so, I’d love to <strong style="color:blue;">drop by</strong> the store tomorrow morning and <strong style="color:blue;">swap it out</strong> for a brand new, flawless one. 
+
+Second, if you’re currently out of stock in that size, would it be possible for you to <strong style="color:blue;">ship</strong> a replacement <strong style="color:blue;">to</strong> my house via express delivery? If you could <strong style="color:blue;">cover the shipping fee</strong>, that would be wonderful. 
+
+Third, if neither of those options works, I wouldn't mind <strong style="color:blue;">getting a full refund</strong>, provided that I can return the item without any hassle. 
+
+Lastly, if the stain is minor and you think it can be removed easily, could you perhaps send it to a professional dry cleaner on your <strong style="color:blue;">tab</strong> and have it delivered back to me? 
+
+Please <strong style="color:blue;">look into</strong> these options and let me know what works best. I’ll <strong style="color:blue;">wait for</strong> your prompt call back. Thank you!
+
+**[Vocabulary & Expressions]**
+* boutique: 부티크, 의류 매장
+* stain: 얼룩, 오점
+* flawless: 결함 없는
+* express delivery: 특급 배송
+* hassle: 번거로움, 성가신 일
+* <strong style="color:blue;">got home</strong>: 집에 도착하다
+* <strong style="color:blue;">unpacked</strong>: 짐을 풀다
+* <strong style="color:blue;">sort this out</strong>: 이 문제를 해결하다
+* <strong style="color:blue;">drop by</strong>: 잠깐 들르다
+* <strong style="color:blue;">swap it out</strong>: 교환하다, 맞바꾸다
+* <strong style="color:blue;">ship to</strong>: ~로 배송하다
+* <strong style="color:blue;">cover the shipping fee</strong>: 배송비를 부담하다
+* <strong style="color:blue;">getting a full refund</strong>: 전액 환불받다
+* <strong style="color:blue;">tab</strong>: 장부, 비용 부담
+* <strong style="color:blue;">look into</strong>: 조사하다, 검토하다
+* <strong style="color:blue;">wait for</strong>: ~을 기다리다
+
+---
+### 돌발 : 새로운 취미나 스포츠를 배울 때 겪었던 어려움
+
+**[Question]**
+When you start learning a new hobby or a sport, what are some difficulties or challenges people usually face? Can you talk about a specific personal experience when you struggled with something new and how you overcame it?
+새로운 취미나 스포츠를 배우기 시작할 때 사람들이 주로 겪는 어려움이나 난관은 무엇인가요? 당신이 무언가 새로운 것으로 인해 고생했던 구체적인 개인적 경험과 그것을 어떻게 극복했는지 이야기해 주세요.
+
+**[Model Answer]**
+You know, whenever someone <strong style="color:blue;">sets out to</strong> learn a brand new hobby or sport, they inevitably <strong style="color:blue;">run into</strong> a bunch of hurdles. The most common challenge, I think, is the initial steep learning curve. People often <strong style="color:blue;">get discouraged</strong> easily because they expect to see rapid progress, but reality usually <strong style="color:blue;">hits them hard</strong>. Another major obstacle is simply finding the consistent time and energy to <strong style="color:blue;">stick with</strong> it, especially when life gets overwhelming.
+
+Speaking of my own personal experience, about a year ago, I decided to <strong style="color:blue;">take up</strong> indoor rock climbing. I thought it looked so cool and fun, but boy, was I wrong about how difficult it would be! During my very first session, I <strong style="color:blue;">came face to face with</strong> my absolute worst fears: intense physical exhaustion and a huge fear of heights. 
+
+My forearms <strong style="color:blue;">gave out</strong> after just ten minutes on the wall, and I couldn't even <strong style="color:blue;">make it</strong> halfway up the easiest beginner route. I remember <strong style="color:blue;">feeling utterly defeated</strong> and questioning why I even <strong style="color:blue;">signed up for</strong> the class in the first place. I wanted to <strong style="color:blue;">give up</strong> right then and there.
+
+However, I knew I couldn't just <strong style="color:blue;">back down</strong> without giving it a fair shot. To <strong style="color:blue;">get over</strong> this mental and physical slump, I decided to <strong style="color:blue;">break things down into</strong> smaller, manageable steps. Instead of focusing on reaching the top, I <strong style="color:blue;">set sights on</strong> improving my grip strength and mastering basic footwork techniques. I also asked a more experienced instructor to <strong style="color:blue;">walk me through</strong> the safety protocols and movement tips. 
+
+Slowly but surely, things started to <strong style="color:blue;">fall into place</strong>. As weeks went by, my muscles adapted, and my confidence began to <strong style="color:blue;">build up</strong>. Looking back, that initial struggle turned out to be a blessing in disguise because it taught me the true value of patience and perseverance.
+
+**[Vocabulary & Expressions]**
+* steep learning curve: 가파른 학습 곡선 (배우기 어려움)
+* hurdle: 장애물
+* obstacle: 방해물, 장애
+* exhaustion: 탈진, 극심한 피로
+* perseverance: 인내심, 끈기
+* <strong style="color:blue;">sets out to</strong>: ~하기 시작하다, 착수하다
+* <strong style="color:blue;">run into</strong>: (곤란 등에) 부딪히다
+* <strong style="color:blue;">get discouraged</strong>: 낙담하다
+* <strong style="color:blue;">hits them hard</strong>: 뼈저리게 다가오다, 타격을 주다
+* <strong style="color:blue;">stick with</strong>: ~을 지속하다, 고수하다
+* <strong style="color:blue;">take up</strong>: (취미 등을) 시작하다
+* <strong style="color:blue;">came face to face with</strong>: ~와 직면하다
+* <strong style="color:blue;">gave out</strong>: (기력 등이) 다하다, 고장 나다
+* <strong style="color:blue;">make it</strong>: 해내다, 성공하다
+* <strong style="color:blue;">feeling utterly defeated</strong>: 완전히 패배한 기분이 들다
+* <strong style="color:blue;">signed up for</strong>: 등록하다, 신청하다
+* <strong style="color:blue;">give up</strong>: 포기하다
+* <strong style="color:blue;">back down</strong>: 물러서다, 발을 빼다
+* <strong style="color:blue;">get over</strong>: 극복하다
+* <strong style="color:blue;">break things down into</strong>: 세부적으로 나누다
+* <strong style="color:blue;">set sights on</strong>: ~에 목표를 두다
+* <strong style="color:blue;">walk me through</strong>: 차근차근 설명해 주다
+* <strong style="color:blue;">fall into place</strong>: 제자리를 잡다, 잘 풀리다
+* <strong style="color:blue;">build up</strong>: 쌓아 올리다, 강화하다
