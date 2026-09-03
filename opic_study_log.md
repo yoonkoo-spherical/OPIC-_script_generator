@@ -14080,3 +14080,87 @@ Slowly but surely, things started to <strong style="color:blue;">fall into place
 * <strong style="color:blue;">walk me through</strong>: 차근차근 설명해 주다
 * <strong style="color:blue;">fall into place</strong>: 제자리를 잡다, 잘 풀리다
 * <strong style="color:blue;">build up</strong>: 쌓아 올리다, 강화하다
+
+## 2026-09-03 07:27:02 OPIc Study
+
+### 묘사 : 여행 필수 소지품 묘사
+
+**[Question]**
+When you go on a trip, what are some of the essential items you always pack in your bag? Please describe these items in detail and explain why you must bring them with you every time you travel.
+(여행을 갈 때 가방에 항상 챙기는 필수 소지품은 무엇입니까? 이러한 물품들을 자세히 묘사하고, 여행할 때마다 그것들을 꼭 가져와야 하는 이유를 설명해 주세요.)
+
+**[Model Answer]**
+You know, when it comes to traveling, I am a bit of a meticulous planner, so my packing list is pretty much set in stone. If I have to <strong style="color:blue;">narrow down</strong> my absolute must-haves, the top items would definitely be my noise-canceling headphones, a portable multi-voltage adapter, and a compact yet durable power bank. 
+
+First off, let’s talk about my noise-canceling headphones. To be honest, I can't live without them, especially during long flights or train rides. Whenever I want to <strong style="color:blue;">block out</strong> the surrounding engine noise and crying babies, I just put them on, play my favorite playlist, and instantly <strong style="color:blue;">drift off to sleep</strong>. It feels like my own private sanctuary, no matter how chaotic the environment is.
+
+Secondly, a portable multi-voltage adapter is a total lifesaver. Since I travel globally, socket types vary dramatically from country to country. Instead of <strong style="color:blue;">running into</strong> trouble with dead batteries, this all-in-one adapter ensures that I can <strong style="color:blue;">plug in</strong> my devices anywhere without breaking a sweat. It really <strong style="color:blue;">gives me peace of mind</strong>.
+
+Lastly, a high-capacity power bank is non-negotiable. With all the digital boarding passes, real-time map navigation, and translation apps we rely on nowadays, smartphone batteries <strong style="color:blue;">run out</strong> incredibly fast. Having a reliable power bank <strong style="color:blue;">comes in handy</strong> when I am out exploring all day and unable to find a wall outlet. All in all, these three items are absolute game-changers that <strong style="color:blue;">add up to</strong> a stress-free and seamless travel experience every single time.
+
+**[Vocabulary & Expressions]**
+* Meticulous: 꼼꼼한, 세심한
+* Non-negotiable: 타협할 수 없는, 필수적인
+* <strong style="color:blue;">Narrow down</strong>: 좁히다, 압축하다
+* <strong style="color:blue;">Block out</strong>: 차단하다
+* <strong style="color:blue;">Drift off to sleep</strong>: 스르륵 잠들다
+* <strong style="color:blue;">Run into</strong>: (문제 등에) 부딪히다, 직면하다
+* <strong style="color:blue;">Plug in</strong>: 플러그를 꽂다
+* <strong style="color:blue;">Give someone peace of mind</strong>: ~에게 마음의 평안을 주다
+* <strong style="color:blue;">Run out</strong>: 다 떨어지다, 소진되다
+* <strong style="color:blue;">Come in handy</strong>: 유용하다, 도움이 되다
+* <strong style="color:blue;">Add up to</strong>: 결국 ~가 되다, 총합이 ~가 되다
+
+---
+### 롤플레이 : 해외 여권 분실 긴급 대처 묻기
+
+**[Question]**
+You are traveling abroad, and you suddenly realize that you have lost your passport. Call the local embassy or consulate, explain the situation to the officer, and ask three or four questions about what emergency measures you need to take.
+(당신은 해외 여행 중이며, 문득 여권을 잃어버렸다는 것을 깨달았습니다. 현지 대사관이나 영사관에 전화를 걸어 담당자에게 상황을 설명하고, 취해야 할 긴급 조치에 대해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hello, is this the Embassy of the Republic of Korea? My name is Alex Kim, and I am currently calling you in a state of absolute panic because I have just realized that I lost my passport somewhere in the city center. I tried to <strong style="color:blue;">look all over</strong> my hotel room and my backpack, but it is nowhere to be found. I am scheduled to fly back home in three days, so I am completely at a loss as to what to do right now. Could you please guide me through the emergency process? 
+
+First of all, what immediate steps should I <strong style="color:blue;">take care of</strong>? Do I need to visit a local police station first to file a lost property report before coming to the embassy? If so, what documents or identification proofs do I need to bring with me when I visit your office? 
+
+Also, I am wondering about the timeframe. Given that my flight is in three days, is it possible to <strong style="color:blue;">speed up</strong> the process to get an emergency passport or a travel certificate issued in time? Lastly, are there any extra fees or specific passport photos that I need to prepare beforehand? I am really counting on your help to <strong style="color:blue;">sort this out</strong> quickly so I can <strong style="color:blue;">get back on track</strong> with my travel schedule. Thank you so much for your assistance.
+
+**[Vocabulary & Expressions]**
+* Consulate: 영사관
+* At a loss: 어쩔 줄 몰라 하는, 난감한
+* <strong style="color:blue;">Look all over</strong>: 온통 찾아다니다
+* <strong style="color:blue;">Take care of</strong>: 처리하다, 돌보다
+* <strong style="color:blue;">Speed up</strong>: 속도를 높이다, 서두르다
+* <strong style="color:blue;">Sort this out</strong>: 이 문제를 해결하다
+* <strong style="color:blue;">Get back on track</strong>: 제자리를 찾다, 정상궤도에 오르다
+
+---
+### 돌발 : 새로운 취미나 스포츠 배울 때 겪은 어려움
+
+**[Question]**
+People often try learning a new hobby or sport, but things do not always go smoothly at first. What new hobby or sport did you try to learn, and what kind of difficulties did you experience when you first started? How did you overcome them?
+(사람들은 종종 새로운 취미나 스포츠를 배우려고 하지만, 처음부터 항상 순조롭게 진행되지는 않습니다. 당신이 배우려고 시도했던 새로운 취미나 스포츠는 무엇이며, 처음 시작했을 때 어떤 어려움을 겪었습니까? 어떻게 극복하셨나요?)
+
+**[Model Answer]**
+Well, thinking back, about a year ago, I decided to <strong style="color:blue;">take up</strong> indoor rock climbing, thinking it would be a great way to stay in shape. However, to be completely honest, it turned out to be much more challenging than I had originally anticipated, and I <strong style="color:blue;">ran into</strong> a bunch of unexpected hurdles right from the get-go.
+
+The biggest challenge was my lack of upper body strength and terrible grip endurance. During my very first session, I couldn't even <strong style="color:blue;">hold on to</strong> the wall for more than thirty seconds before my forearms felt like they were on fire, forcing me to <strong style="color:blue;">give up</strong> midway. On top of that, I was constantly <strong style="color:blue;">dealing with</strong> bruised fingers and sore muscles all over my body. It was quite frustrating, and at times, I felt like I was just <strong style="color:blue;">falling behind</strong> compared to other beginners who seemed to <strong style="color:blue;">catch on</strong> so naturally.
+
+To <strong style="color:blue;">get through</strong> this difficult phase, I realized I had to <strong style="color:blue;">break down</strong> my goals into smaller, manageable steps. Instead of trying to conquer difficult climbing routes right away, I decided to focus heavily on foundational techniques and basic conditioning exercises outside the gym. I also started to <strong style="color:blue;">reach out to</strong> more experienced climbers and instructors for feedback, which <strong style="color:blue;">turned out to be</strong> a total game-changer. Slowly but surely, my strength improved, and I was able to <strong style="color:blue;">pull off</strong> routes that I used to think were impossible. Looking back, those initial struggles actually made the eventual success feel so much more rewarding.
+
+**[Vocabulary & Expressions]**
+* Anticipated: 예상했던
+* Conditioning: (체력 단련 등의) 컨디셔닝
+* <strong style="color:blue;">Take up</strong>: (취미 등을) 시작하다
+* <strong style="color:blue;">Run into</strong>: (곤란 등에) 처하다, 부딪히다
+* <strong style="color:blue;">From the get-go</strong>: 처음부터
+* <strong style="color:blue;">Hold on to</strong>: ~를 붙잡다
+* <strong style="color:blue;">Give up</strong>: 포기하다
+* <strong style="color:blue;">Deal with</strong>: 다루다, 대처하다
+* <strong style="color:blue;">Falling behind</strong>: 뒤쳐지는
+* <strong style="color:blue;">Catch on</strong>: 이해하다, 요령을 터득하다
+* <strong style="color:blue;">Get through</strong>: 헤쳐나가다, 극복하다
+* <strong style="color:blue;">Break down</strong>: 쪼개다, 분해하다
+* <strong style="color:blue;">Reach out to</strong>: ~에게 손을 내밀다, 도움을 청하다
+* <strong style="color:blue;">Turn out to be</strong>: ~로 판명되다, 드러나다
+* <strong style="color:blue;">Pull off</strong>: (어려운 것을) 해내다, 성사시키다
