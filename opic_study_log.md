@@ -14164,3 +14164,101 @@ To <strong style="color:blue;">get through</strong> this difficult phase, I real
 * <strong style="color:blue;">Reach out to</strong>: ~에게 손을 내밀다, 도움을 청하다
 * <strong style="color:blue;">Turn out to be</strong>: ~로 판명되다, 드러나다
 * <strong style="color:blue;">Pull off</strong>: (어려운 것을) 해내다, 성사시키다
+
+## 2026-09-04 07:29:13 OPIc Study
+
+### 묘사 : 가장 친한 친구의 외모와 성격 묘사
+
+**[Question]**
+Please describe your best friend to me. What does he or she look like, and what kind of personality do they have? Also, how did you guys first meet?
+가장 친한 친구를 묘사해 주세요. 외모는 어떠하고 성격은 어떤가요? 또한, 두 분은 어떻게 처음 만나게 되었나요?
+
+**[Model Answer]**
+You know, when it comes to my best friend, David, words just cannot <strong style="color:blue;">do justice to</strong> how amazing he is. We’ve been through thick and thin together for over a decade, so he’s basically like family to me. Let me <strong style="color:blue;">paint a picture</strong> of what he looks like first. David is pretty tall, about 185 centimeters, and he always <strong style="color:blue;">carries himself with</strong> confidence. He has sharp, expressive eyes, a warm smile, and neatly styled hair. He’s quite athletic, so he always <strong style="color:blue;">dresses in</strong> casual yet stylish clothes that <strong style="color:blue;">fit him like a glove</strong>. 
+
+Now, when it comes to his personality, he is honestly one of the most kind-hearted and dependable people I’ve ever known. He is an absolute <strong style="color:blue;">people person</strong>, meaning he can <strong style="color:blue;">strike up a conversation with</strong> anyone anywhere. Whenever I <strong style="color:blue;">go through a rough patch</strong>, David is always the first person to <strong style="color:blue;">drop everything</strong> and <strong style="color:blue;">be there for</strong> me. He never judges me and always knows how to <strong style="color:blue;">look on the bright side</strong>. 
+
+As for how we first met, it’s a funny story. We actually met back in high school on the very first day. I was completely lost trying to find my classroom, and David literally <strong style="color:blue;">bumbled into</strong> me while running late. Instead of just walking past, he apologized, asked where I was heading, and we realized we were in the exact same class. We <strong style="color:blue;">hit it off</strong> instantly, sitting next to each other, and we've been <strong style="color:blue;">joined at the hip</strong> ever since. Having a friend like David is truly a blessing, and I just can't imagine my life without him.
+
+**[Vocabulary & Expressions]**
+* athletic: 운동을 잘하는, 탄탄한 체격의
+* dependable: 믿을 수 있는
+* blessing: 축복
+* <strong style="color:blue;">do justice to</strong>: ~의 진면목을 제대로 보여주다
+* <strong style="color:blue;">paint a picture</strong>: 생생하게 묘사하다
+* <strong style="color:blue;">carries himself with</strong>: ~한 태도나 자세를 지니고 다니다
+* <strong style="color:blue;">dresses in</strong>: ~한 옷을 입다
+* <strong style="color:blue;">fit him like a glove</strong>: 아주 딱 맞다, 잘 어울리다
+* <strong style="color:blue;">people person</strong>: 대인관계가 좋은 사람
+* <strong style="color:blue;">strike up a conversation with</strong>: ~와 말을 트다, 대화를 시작하다
+* <strong style="color:blue;">go through a rough patch</strong>: 힘든 시기를 겪다
+* <strong style="color:blue;">drop everything</strong>: 모든 일을 제쳐두다
+* <strong style="color:blue;">be there for</strong>: 곁에 있어 주다, 도와주다
+* <strong style="color:blue;">look on the bright side</strong>: 긍정적으로 생각하다
+* <strong style="color:blue;">bumbled into</strong>: 우연히 부딪히다
+* <strong style="color:blue;">hit it off</strong>: 첫눈에 마음이 잘 맞다
+* <strong style="color:blue;">joined at the hip</strong>: 뗄래야 뗄 수 없는 사이인
+
+---
+### 롤플레이 : 주말 영화 관람 약속 잡기
+
+**[Question]**
+You want to go see a movie with your friend this weekend. Call your friend, invite him or her to the movie, and ask three or four questions about what kind of movie they want to see, when, and where.
+이번 주말에 친구와 영화를 보러 가고 싶습니다. 친구에게 전화해서 영화 관람을 제안하고, 보고 싶은 영화 종류, 시간, 장소 등에 대해 3~4가지 질문을 하세요.
+
+**[Model Answer]**
+Hey, Sarah! It’s me. I hope you’re having a good week so far. I’m calling because I was wondering if you <strong style="color:blue;">happen to be</strong> free this coming weekend. You know, I’ve been <strong style="color:blue;">swamped with</strong> work lately and haven't had any time to <strong style="color:blue;">wind down</strong>, so I really need to <strong style="color:blue;">blow off some steam</strong>. I was thinking it would be awesome if we could go see a movie together. What do you think? 
+
+If you're down, I have a few questions. First of all, what kind of genre are you in the mood for lately? There are a couple of new action blockbusters and touching dramas <strong style="color:blue;">playing at</strong> the theater right now. Would you rather <strong style="color:blue;">go for</strong> something thrilling, or do you prefer a comedy to just laugh and <strong style="color:blue;">let your hair down</strong>? 
+
+Also, when would be best for you? Are you more available on Saturday afternoon, or would Sunday evening <strong style="color:blue;">work better for</strong> your schedule? Lastly, which theater should we go to? We could either go to the one downtown or the multiplex near the station. Let me know what you think, so I can <strong style="color:blue;">get the tickets in advance</strong>. Call me back when you get this! Talk to you soon!
+
+**[Vocabulary & Expressions]**
+* blockbuster: 블록버스터 (대형 흥행작)
+* thrilling: 스릴 넘치는
+* available: 시간이 나는, 이용 가능한
+* <strong style="color:blue;">happen to be</strong>: 우연히 ~이다
+* <strong style="color:blue;">swamped with</strong>: ~로 눈코 뜰 새 없이 바쁜
+* <strong style="color:blue;">wind down</strong>: 긴장을 풀고 쉬다
+* <strong style="color:blue;">blow off some steam</strong>: 스트레스를 발산하다
+* <strong style="color:blue;">playing at</strong>: (영화 등이) 상영 중인
+* <strong style="color:blue;">go for</strong>: ~을 선택하다
+* <strong style="color:blue;">let your hair down</strong>: 마음껏 즐기다, 편히 쉬다
+* <strong style="color:blue;">work better for</strong>: ~에게 더 알맞다, 더 편하다
+* <strong style="color:blue;">get the tickets in advance</strong>: 표를 미리 예매하다
+
+---
+### 돌발 : 친구에게 빌려준 돈이나 물건을 돌려받지 못해 곤란했던 경험
+
+**[Question]**
+Tell me about a time when you lent money or an item to a friend, but had a hard time getting it back. What did you lend, why was it difficult, and how did you resolve the situation?
+친구에게 돈이나 물건을 빌려주었지만 돌려받는 데 어려움을 겪었던 경험을 이야기해 주세요. 무엇을 빌려주었으며, 왜 돌려받기 어려웠고, 그 상황을 어떻게 해결했나요?
+
+**[Model Answer]**
+You know, thinking back, I had a really awkward and stressful experience a few years ago regarding a borrowed item. One of my close university friends asked to <strong style="color:blue;">borrow my</strong> high-end DSLR camera because he was going on a <strong style="color:blue;">once-in-a-lifetime</strong> trip to Europe and wanted to <strong style="color:blue;">capture the moment</strong>. Since we were good friends, I <strong style="color:blue;">didn't think twice about</strong> it and handed it over, expecting him to <strong style="color:blue;">give it back</strong> right after he returned. 
+
+Well, the problem <strong style="color:blue;">arose</strong> when he came back, but weeks turned into months, and he never mentioned returning my camera. Every time I tried to <strong style="color:blue;">bring it up</strong>, he would <strong style="color:blue;">change the subject</strong> or say he forgot to pack it in his bag. It was extremely frustrating and put me in a very tight spot because I actually needed the camera for a freelance photography project myself. I was worried that if I kept <strong style="color:blue;">pushing the issue</strong>, it would <strong style="color:blue;">take a toll on</strong> our friendship, but I couldn't just <strong style="color:blue;">let it slide</strong> either. 
+
+Finally, I decided I had to <strong style="color:blue;">bite the bullet</strong> and have an honest conversation with him <strong style="color:blue;">face to face</strong>. I invited him over for coffee and gently <strong style="color:blue;">pointed out</strong> that I really needed my equipment back for work. As it turned out, he wasn't doing it on purpose; he had actually left the camera at his parents' house in another city and kept forgetting to pick it up. He sincerely <strong style="color:blue;">apologized for</strong> the delay, <strong style="color:blue;">made it up to</strong> me by treating me to a nice dinner, and brought the camera back the very next day. Looking back, it taught me that clear communication is always key, even with close friends.
+
+**[Vocabulary & Expressions]**
+* freelance: 프리랜서의, 독립된
+* equipment: 장비
+* sincerely: 진심으로
+* communication: 소통, 의사소통
+* <strong style="color:blue;">borrow my</strong>: 내 것을 빌리다 (빌려주다의 문맥에서 활용)
+* <strong style="color:blue;">once-in-a-lifetime</strong>: 일생에 단 한 번뿐인
+* <strong style="color:blue;">capture the moment</strong>: 순간을 포착하다, 사진에 담다
+* <strong style="color:blue;">didn't think twice about</strong>: 아무런 의심 없이, 깊게 생각하지 않고 ~하다
+* <strong style="color:blue;">give it back</strong>: 돌려주다
+* <strong style="color:blue;">arose</strong>: 발생하다, 생기다
+* <strong style="color:blue;">bring it up</strong>: (화제를) 꺼내다, 이야기를 꺼내다
+* <strong style="color:blue;">change the subject</strong>: 주제를 바꾸다
+* <strong style="color:blue;">pushing the issue</strong>: 문제를 계속 강요하다, 추궁하다
+* <strong style="color:blue;">take a toll on</strong>: ~에 악영향을 주다, 피해를 주다
+* <strong style="color:blue;">let it slide</strong>: 대충 넘어가다, 눈감아주다
+* <strong style="color:blue;">bite the bullet</strong>: (어려운 일을) 꾹 참고 해내다, 마음을 단단히 먹다
+* <strong style="color:blue;">face to face</strong>: 얼굴을 맞대고
+* <strong style="color:blue;">pointed out</strong>: 지적하다, 짚어내다
+* <strong style="color:blue;">apologized for</strong>: ~에 대해 사과하다
+* <strong style="color:blue;">made it up to</strong>: ~에게 보상하다, 만회하다
