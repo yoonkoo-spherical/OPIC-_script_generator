@@ -14262,3 +14262,110 @@ Finally, I decided I had to <strong style="color:blue;">bite the bullet</strong>
 * <strong style="color:blue;">pointed out</strong>: 지적하다, 짚어내다
 * <strong style="color:blue;">apologized for</strong>: ~에 대해 사과하다
 * <strong style="color:blue;">made it up to</strong>: ~에게 보상하다, 만회하다
+
+## 2026-09-05 07:10:32 OPIc Study
+
+### 묘사 : 한국의 대표 길거리 음식과 냄새
+
+**[Question]**
+Could you describe some of the most representative street foods in Korea and what they smell like? Also, tell me about the overall atmosphere of a traditional Korean street food market.
+(한국의 가장 대표적인 길거리 음식 몇 가지와 그것들의 냄새에 대해 묘사해 주실 수 있나요? 또한, 한국 전통 길거리 음식 시장의 전반적인 분위기에 대해서도 말씀해 주세요.)
+
+**[Model Answer]**
+When it comes to Korean street food, it is an absolute paradise for food lovers, and just thinking about it makes my mouth water. If I had to <strong style="color:blue;">pick out</strong> a few of the most iconic items, I would definitely have to <strong style="color:blue;">talk about</strong> Tteokbokki, which are spicy rice cakes, and Gimmari, deep-fried seaweed rolls. 
+
+First of all, walking down a traditional street food alley, you are immediately <strong style="color:blue;">hit by</strong> an <strong style="color:blue;">overwhelming wave of</strong> rich and spicy aromas. The scent of simmering gochujang, which is a sweet and fiery red chili paste, <strong style="color:blue;">wafts through the air</strong> and instantly <strong style="color:blue;">stirs up</strong> your appetite. As you get closer to the stalls, you can also <strong style="color:blue;">pick up</strong> the savory, mouth-watering scent of hot oil sizzling. That is usually coming from the Eomuk, fish cake skewers, boiling in a rich, comforting broth, and various deep-fried snacks being <strong style="color:blue;">crisped up</strong> to perfection. 
+
+The overall atmosphere of these markets is just vibrant and full of life. Vendors are constantly <strong style="color:blue;">calling out to</strong> passersby, and you see groups of people <strong style="color:blue;">huddled around</strong> small, steamy food carts, <strong style="color:blue;">bonding over</strong> piping hot food regardless of the chilly weather. It is not just about eating; it is a truly immersive cultural experience where you can <strong style="color:blue;">take in</strong> the authentic daily lives of local people. Whenever I visit these places, I always <strong style="color:blue;">wind up</strong> eating way more than I originally <strong style="color:blue;">set out to</strong> do. It is an experience that <strong style="color:blue;">grows on you</strong> more and more every time you go.
+
+**[Vocabulary & Expressions]**
+* iconic: 상징적인
+* simmering: 끓고 있는
+* savory: 맛있는, 짭조름한
+* vibrant: 활기찬
+* immersive: 몰입형의
+* <strong style="color:blue;">pick out</strong>: 골라내다, 선정하다
+* <strong style="color:blue;">talk about</strong>: ~에 대해 이야기하다
+* <strong style="color:blue;">hit by</strong>: (~한 느낌이나 냄새에) 강하게 타격을 받다
+* <strong style="color:blue;">overwhelming wave of</strong>: 압도적인 물결/파도
+* <strong style="color:blue;">wafts through the air</strong>: 공기 중에 냄새가 은은하게 퍼지다
+* <strong style="color:blue;">stirs up</strong>: (감정이나 식욕을) 불러일으키다
+* <strong style="color:blue;">pick up</strong>: (냄새나 소리를) 알아차리다, 감지하다
+* <strong style="color:blue;">crisped up</strong>: 바삭하게 튀겨진
+* <strong style="color:blue;">calling out to</strong>: ~를 향해 소리치다, 호객하다
+* <strong style="color:blue;">huddled around</strong>: ~의 주위에 옹골차게 모여 서다
+* <strong style="color:blue;">bonding over</strong>: ~을 매개로 유대감을 형성하다
+* <strong style="color:blue;">take in</strong>: (경치나 분위기를) 흡수하다, 만끽하다
+* <strong style="color:blue;">wind up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">set out to</strong>: ~하려고 착수하다, 의도하다
+* <strong style="color:blue;">grows on you</strong>: 갈수록 더 좋아지다, 마음에 들다
+
+---
+### 롤플레이 : 미용실 방문 및 헤어스타일 설명
+
+**[Question]**
+You are at a hair salon and want to get a new haircut. Explain to the hair designer what kind of style you want by showing a picture on your phone. Ask a few questions about how it will look on you.
+(당신은 미용실에 와서 새로운 머리를 하려고 합니다. 휴대폰 사진을 보여주며 헤어 디자이너에게 원하는 스타일을 상세히 설명하고, 그 스타일이 자신에게 어울릴지 몇 가지 질문을 하세요.)
+
+**[Model Answer]**
+Hi, thanks for seeing me today. I am actually <strong style="color:blue;">looking to</strong> get a completely <strong style="color:blue;">makeover</strong>, and I brought some reference photos on my phone. Let me <strong style="color:blue;">pull up</strong> the picture. 
+
+As you can see here in this photo, I really love this textured, medium-length layered cut with soft, natural-looking waves. I want to <strong style="color:blue;">go for</strong> something that looks effortless yet chic. Specifically, could you keep the length right around my collarbone, but add a lot of layers to <strong style="color:blue;">take off</strong> some weight? My hair tends to <strong style="color:blue;">get weighed down</strong> easily because it is quite thick. Also, I would like to have some face-framing bangs, something like a curtain fringe, so that it can <strong style="color:blue;">blend in</strong> naturally with the rest of my hair. 
+
+Before we <strong style="color:blue;">get started</strong>, I have a few questions. Do you think this specific length and layering will <strong style="color:blue;">suit my face shape</strong>? My face is a bit on the round side, so I want to make sure it doesn't <strong style="color:blue;">end up</strong> making my face look wider. Also, how much daily styling <strong style="color:blue;">is involved</strong> with this look? I am usually quite busy in the morning, so I hope it is something I can easily <strong style="color:blue;">manage on my own</strong> without <strong style="color:blue;">spending hours in front of the mirror</strong>. What do you think? Can we <strong style="color:blue;">pull this off</strong>?
+
+**[Vocabulary & Expressions]**
+* reference photo: 참고용 사진
+* texture: 질감, 결
+* layer: 층 (헤어 스타일)
+* collarbone: 쇄골
+* fringe: 앞머리
+* <strong style="color:blue;">looking to</strong>: ~하고자 하다
+* <strong style="color:blue;">pull up</strong>: (화면이나 자료를) 띄우다, 불러오다
+* <strong style="color:blue;">go for</strong>: ~로 선택하다, ~를 추구하다
+* <strong style="color:blue;">take off</strong>: (무게나 숱을) 줄이다, 덜어내다
+* <strong style="color:blue;">get weighed down</strong>: (무게 때문에) 축 처지다
+* <strong style="color:blue;">blend in</strong>: 조화롭게 어우러지다
+* <strong style="color:blue;">get started</strong>: 시작하다
+* <strong style="color:blue;">suit my face shape</strong>: 내 얼굴형에 어울리다
+* <strong style="color:blue;">end up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">is involved</strong>: 수반되다, 포함되다
+* <strong style="color:blue;">manage on my own</strong>: 혼자서 관리하다
+* <strong style="color:blue;">spending hours in front of the mirror</strong>: 거울 앞에서 몇 시간씩 보내다
+* <strong style="color:blue;">pull this off</strong>: (어려운 스타일 등을) 잘 소화해 내다
+
+---
+### 돌발 : 부모님 세대와 본인 세대의 육아 방식 차이
+
+**[Question]**
+How has parenting changed from your parents' generation to your generation? Compare the parenting styles of the past and present, and share your own thoughts on these differences.
+(부모님 세대와 본인 세대의 육아 방식은 어떻게 바뀌었나요? 과거와 현재의 양육 방식을 비교하고, 이러한 차이점에 대한 본인의 생각을 공유해 주세요.)
+
+**[Model Answer]**
+When looking at how parenting has <strong style="color:blue;">evolved over time</strong>, I feel like there <strong style="color:blue;">has been a huge shift</strong> from previous generations to mine. 
+
+Back in the day, when our parents were raising us, parenting tended to be much more authoritarian and strict. The main focus was often on academic achievement, discipline, and respect for elders, sometimes at the expense of emotional communication. Parents would <strong style="color:blue;">lay down the law</strong>, and children were simply expected to <strong style="color:blue;">fall in line</strong> without questioning much. In contrast, my generation approaches parenting through a totally different lens. We <strong style="color:blue;">place a high value on</strong> emotional intelligence, open dialogue, and mutual respect. Instead of just <strong style="color:blue;">handing down</strong> strict rules, modern parents try to <strong style="color:blue;">put themselves in their children's shoes</strong> and <strong style="color:blue;">talk things through</strong> when problems arise. We want our kids to <strong style="color:blue;">open up to</strong> us and feel emotionally safe. 
+
+In my opinion, both styles have their own pros and cons, but I personally <strong style="color:blue;">lean toward</strong> the modern approach because fostering self-esteem and emotional resilience is crucial in today's fast-paced world. That being said, we shouldn't completely <strong style="color:blue;">write off</strong> the traditional ways. Sometimes, children do need firm boundaries to <strong style="color:blue;">grow into</strong> responsible adults. Ultimately, I believe the ideal way is to <strong style="color:blue;">strike a balance</strong> between modern emotional support and traditional discipline, so that children can <strong style="color:blue;">bring out</strong> their full potential while <strong style="color:blue;">keeping grounded</strong>.
+
+**[Vocabulary & Expressions]**
+* authoritarian: 권위주의적인
+* discipline: 훈육, 규율
+* resilience: 회복탄력성
+* crucial: 중대한, 결정적인
+* boundaries: 경계, 한계
+* <strong style="color:blue;">evolved over time</strong>: 시간에 따라 진화하다
+* <strong style="color:blue;">has been a huge shift</strong>: 큰 변화가 있었다
+* <strong style="color:blue;">lay down the law</strong>: 엄격한 규칙을 정하다, 엄포를 놓다
+* <strong style="color:blue;">fall in line</strong>: (규율이나 대열에) 따르다, 순응하다
+* <strong style="color:blue;">place a high value on</strong>: ~에 높은 가치를 두다
+* <strong style="color:blue;">hand down</strong>: (지식이나 규율을 아래 세대로) 물려주다, 전수하다
+* <strong style="color:blue;">put themselves in their children's shoes</strong>: 아이들의 입장에서 생각하다
+* <strong style="color:blue;">talk things through</strong>: 대화를 통해 문제를 해결하다
+* <strong style="color:blue;">open up to</strong>: ~에게 마음을 열다
+* <strong style="color:blue;">lean toward</strong>: ~쪽으로 마음이 기울다
+* <strong style="color:blue;">write off</strong>: (가치 없다고) 치부하다, 무시하다
+* <strong style="color:blue;">grow into</strong>: 자라서 ~가 되다
+* <strong style="color:blue;">strike a balance</strong>: 균형을 잡다
+* <strong style="color:blue;">bring out</strong>: (잠재력 등을) 이끌어내다
+* <strong style="color:blue;">keeping grounded</strong>: 현실 감각을 유지하다, 겸손함을 잃지 않다
