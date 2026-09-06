@@ -14369,3 +14369,98 @@ In my opinion, both styles have their own pros and cons, but I personally <stron
 * <strong style="color:blue;">strike a balance</strong>: 균형을 잡다
 * <strong style="color:blue;">bring out</strong>: (잠재력 등을) 이끌어내다
 * <strong style="color:blue;">keeping grounded</strong>: 현실 감각을 유지하다, 겸손함을 잃지 않다
+
+## 2026-09-06 07:22:34 OPIc Study
+
+### 묘사 : 은행원들과 대기 고객의 모습 묘사
+
+**[Question]**
+Please describe a typical scene inside a bank. What are the bank tellers doing, and what does the customer waiting area look like? How has your impression of visiting a bank changed over time compared to the past in the past?
+(은행 내부의 전형적인 모습을 묘사해 주세요. 은행원들은 무엇을 하고 있으며, 고객 대기 구역은 어떤 모습인가요? 과거에 비해 은행 방문에 대한 인상이 시간이 흐름에 따라 어떻게 바뀌었나요?)
+
+**[Model Answer]**
+Well, when I think about a typical bank, the very first image that <strong style="color:blue;">comes to mind</strong> is a bustling environment filled with people and the subtle clicking sound of keyboards. If I <strong style="color:blue;">paint a picture</strong> of the scene, the bank tellers are extremely busy, constantly <strong style="color:blue;">taking care of</strong> various financial transactions for customers. Some are processing deposits and withdrawals, while others are <strong style="color:blue;">dealing with</strong> loan consultations or investment inquiries. They always maintain a professional demeanor, though you can sometimes <strong style="color:blue;">tell that</strong> they are under a lot of pressure, especially when the branch is <strong style="color:blue;">packed with</strong> people. 
+
+Now, if you look at the customer waiting area, it’s usually quite crowded, especially during lunch hours or right before closing time. You can see people from all walks of life—elderly citizens trying to <strong style="color:blue;">figure out</strong> digital banking, office workers <strong style="color:blue;">checking in</strong> on their mobile phones, and parents <strong style="color:blue;">keeping an eye on</strong> their restless children. Everyone is <strong style="color:blue;">glancing at</strong> the electronic ticket display board, anxiously <strong style="color:blue;">waiting for</strong> their number to be called. 
+
+Personally, my perception of visiting a bank has <strong style="color:blue;">gone through</strong> a massive transformation. Back in the day, going to the bank was a major chore; you had to <strong style="color:blue;">stand in line</strong> for ages just to update your passbook or transfer money. But nowadays, with the <strong style="color:blue;">rise of</strong> mobile banking apps, I rarely <strong style="color:blue;">set foot in</strong> a physical branch. When I actually do visit, it really <strong style="color:blue;">brings back memories</strong> of how much our daily lives have changed thanks to technology. Overall, visiting a bank today is more of a rare, specialized experience rather than a routine errand.
+
+**[Vocabulary & Expressions]**
+* Bustling: 붐비는
+* Demeanor: 태도, 처신
+* Transformation: 변화, 변형
+* <strong style="color:blue;">comes to mind</strong>: 마음속에 떠오르다
+* <strong style="color:blue;">taking care of</strong>: ~을 처리하다, 돌보다
+* <strong style="color:blue;">dealing with</strong>: ~을 다루다, 대처하다
+* <strong style="color:blue;">packed with</strong>: ~로 가득 찬
+* <strong style="color:blue;">figure out</strong>: 알아내다, 이해하다
+* <strong style="color:blue;">checking in</strong>: 확인하다, 체크인하다
+* <strong style="color:blue;">keeping an eye on</strong>: 주시하다, 눈을 떼지 않다
+* <strong style="color:blue;">glancing at</strong>: ~을 힐끗 보다
+* <strong style="color:blue;">waiting for</strong>: ~을 기다리다
+* <strong style="color:blue;">gone through</strong>: 겪다, 통과하다
+* <strong style="color:blue;">stand in line</strong>: 줄을 서서 기다리다
+* <strong style="color:blue;">rise of</strong>: ~의 부상, 증가
+* <strong style="color:blue;">set foot in</strong>: 발을 들이다, 방문하다
+* <strong style="color:blue;">brings back memories</strong>: 추억을 되살리다
+
+---
+### 롤플레이 : 주차 문제로 이웃에게 차 이동 요청하기
+
+**[Question]**
+You find that a neighbor’s car is parked incorrectly, blocking your vehicle and preventing you from leaving. Call your neighbor, explain the situation politely, and ask them to move their car. Also, offer a practical alternative solution if they are not available immediately.
+(이웃의 차량이 잘못 주차되어 당신의 차량을 가로막고 있어 출발할 수 없는 상황입니다. 이웃에게 전화하여 정중하게 상황을 설명하고 차량 이동을 요청하세요. 또한, 그들이 당장 올 수 없는 경우를 대비해 현실적인 대안을 제시하세요.)
+
+**[Model Answer]**
+Hi Mr. Johnson, this is Alex from unit 402. I hope I’m not disturbing you, but I’m calling because I have a bit of an urgent situation regarding parking. Actually, I need to <strong style="color:blue;">head out</strong> for an important morning meeting right now, but it <strong style="color:blue;">turns out</strong> that your vehicle is parked slightly over the line, and unfortunately, it’s <strong style="color:blue;">blocking my way</strong>. I tried to back out, but there’s just not enough clearance. 
+
+Would you mind <strong style="color:blue;">stepping outside</strong> for a moment to <strong style="color:blue;">move your car</strong> just a little bit so I can <strong style="color:blue;">pull out</strong>? I know it’s early and I feel terrible <strong style="color:blue;">bothering you</strong> like this, but I’m in a real bind. 
+
+Oh, I see. You’re currently stuck in a heavy morning meeting and can’t <strong style="color:blue;">get away</strong> right away? No worries at all, I completely understand. In that case, would it be okay if I <strong style="color:blue;">left my car keys</strong> with the front desk security guard so they can <strong style="color:blue;">take care of moving</strong> it for you later, or is it okay if I temporarily <strong style="color:blue;">borrow your spare key</strong> if you happen to have one downstairs? Let me know what works best for you, and again, I’m so sorry for the inconvenience!
+
+**[Vocabulary & Expressions]**
+* Urgent: 긴급한
+* Clearance: 여유 공간, 간격
+* Inconvenience: 불편
+* <strong style="color:blue;">head out</strong>: 출발하다, 나가다
+* <strong style="color:blue;">turns out</strong>: 밝혀지다, 판명되다
+* <strong style="color:blue;">blocking my way</strong>: 내 길을 막다
+* <strong style="color:blue;">stepping outside</strong>: 밖으로 나오다
+* <strong style="color:blue;">move your car</strong>: 차를 이동시키다
+* <strong style="color:blue;">pull out</strong>: (차를 몰고) 나가다, 빠져나오다
+* <strong style="color:blue;">bothering you</strong>: ~를 귀찮게 하다
+* <strong style="color:blue;">get away</strong>: 벗어나다, 자리를 뜨다
+* <strong style="color:blue;">left my car keys</strong>: 차 키를 맡기다
+* <strong style="color:blue;">take care of moving</strong>: 이동시키는 것을 처리하다
+* <strong style="color:blue;">borrow your spare key</strong>: 여분 열쇠를 빌리다
+
+---
+### 돌발 : 과거와 최근의 외식 문화 변화 비교
+
+**[Question]**
+How has the dining-out culture changed in your country over the years? Compare the types of restaurants that were popular in the past with the ones that are trending nowadays, and explain what factors have driven these changes.
+(귀하의 국가에서 외식 문화가 수년에 걸쳐 어떻게 바뀌었나요? 과거에 인기가 있었던 식당 유형과 요즘 유행하는 식당을 비교하고, 이러한 변화를 이끌어낸 요인이 무엇인지 설명해 주세요.)
+
+**[Model Answer]**
+When looking at how the dining-out culture has evolved over the years, the shift is truly remarkable. If we <strong style="color:blue;">look back at</strong> the past, say a couple of decades ago, traditional family-style restaurants or large Korean BBQ places <strong style="color:blue;">ruled the market</strong>. Back then, dining out was primarily about quantity, hearty meals, and gathering in large groups for company dinners or family reunions. People didn't really <strong style="color:blue;">pay much attention to</strong> the interior aesthetics or plating; rather, they focused on <strong style="color:blue;">filling up</strong> on comfort food in a lively, bustling atmosphere. 
+
+However, fast forward to today, and the trend has <strong style="color:blue;">shifted dramatically</strong>. Nowadays, the restaurant scene is completely dominated by unique, aesthetic brunch cafes, specialty dining spots, and hidden-gem restaurants that <strong style="color:blue;">cater to</strong> individual tastes. People no longer just go out to eat a meal; they go out to <strong style="color:blue;">capture the moment</strong>, enjoy a curated experience, and share their food photos on social media. Moreover, the <strong style="color:blue;">rise of</strong> single-person households has <strong style="color:blue;">brought about</strong> the popularity of solo-dining restaurants where people can enjoy high-quality food without feeling awkward.
+
+What <strong style="color:blue;">brought about</strong> this massive change? I believe it’s a combination of the influence of social media platforms like Instagram, changing lifestyle patterns, and a growing desire for personalized experiences. Consumers nowadays are willing to <strong style="color:blue;">fork out</strong> extra money for a memorable dining experience rather than just grabbing a quick, cheap bite. Ultimately, dining out has <strong style="color:blue;">turned into</strong> a form of self-expression and cultural consumption rather than just a basic biological necessity.
+
+**[Vocabulary & Expressions]**
+* Evolved: 진화했다, 발전했다
+* Remarkable: 놀랄 만한, 주목할 만한
+* Aesthetics: 미학, 미적 특성
+* Curated: 엄선된, 기획된
+* <strong style="color:blue;">look back at</strong>: ~을 돌아보다, 회상하다
+* <strong style="color:blue;">ruled the market</strong>: 시장을 지배하다
+* <strong style="color:blue;">pay much attention to</strong>: ~에 많은 관심을 기울이다
+* <strong style="color:blue;">filling up</strong>: 배를 채우다
+* <strong style="color:blue;">shifted dramatically</strong>: 극적으로 바뀌다
+* <strong style="color:blue;">cater to</strong>: ~의 요구를 충족시키다, 맞추다
+* <strong style="color:blue;">capture the moment</strong>: 순간을 포착하다
+* <strong style="color:blue;">rise of</strong>: ~의 대두, 증가
+* <strong style="color:blue;">brought about</strong>: ~을 야기하다, 초래하다
+* <strong style="color:blue;">fork out</strong>: (돈을 마지못해) 내다, 지불하다
+* <strong style="color:blue;">turned into</strong>: ~로 변하다
