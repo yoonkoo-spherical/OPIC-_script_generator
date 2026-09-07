@@ -14464,3 +14464,83 @@ What <strong style="color:blue;">brought about</strong> this massive change? I b
 * <strong style="color:blue;">brought about</strong>: ~을 야기하다, 초래하다
 * <strong style="color:blue;">fork out</strong>: (돈을 마지못해) 내다, 지불하다
 * <strong style="color:blue;">turned into</strong>: ~로 변하다
+
+## 2026-09-07 07:37:58 OPIc Study
+
+### 묘사 : 현재 거주 중인 집의 구조와 방 묘사
+
+**[Question]**
+Could you describe the house or apartment you are currently living in? How many rooms are there, and what does it look like overall?
+(현재 살고 계신 집이나 아파트를 묘사해 주시겠어요? 방은 몇 개가 있고, 전체적인 모습은 어떠한가요?)
+
+**[Model Answer]**
+Well, to begin with, I currently live in a mid-sized apartment located in a quiet neighborhood, and I absolutely love it. <strong style="color:blue;">To give you a rough idea</strong> of the layout, it features three bedrooms, two bathrooms, a fairly spacious living room, and a modern kitchen. When you first step inside through the entrance hallway, you are immediately greeted by the living room, which is <strong style="color:blue;">connected to</strong> the kitchen in an open-concept design. This makes the entire space feel much larger and brighter than it actually is. 
+
+One of my favorite things about my place is the massive floor-to-ceiling window in the living room. It <strong style="color:blue;">lets in</strong> plenty of natural sunlight throughout the day, giving the apartment a very warm and cozy vibe. My bedroom, which is the master bedroom, has its own en-suite bathroom, providing me with enough privacy. The other two rooms are currently being used as a home office and a guest room for when my friends <strong style="color:blue;">drop by</strong>. 
+
+The interior is decorated mostly in neutral colors like white and light gray, which I think <strong style="color:blue;">goes well with</strong> the wooden flooring. Although it's not a luxury penthouse, it has everything I need to <strong style="color:blue;">feel at home</strong> after a long, exhausting day at work. I always <strong style="color:blue;">look forward to</strong> coming back here every single evening because it is my ultimate sanctuary where I can truly unwind and recharge my batteries.
+
+**[Vocabulary & Expressions]**
+* Sanctuary: 안식처
+* Unwind: 긴장을 풀다
+* <strong style="color:blue;">To give you a rough idea</strong>: 대략적인 개념을 설명하자면
+* <strong style="color:blue;">Connected to</strong>: ~와 연결된
+* <strong style="color:blue;">Lets in</strong>: (빛 등을) 들여보내다
+* <strong style="color:blue;">Drop by</strong>: 잠깐 들르다
+* <strong style="color:blue;">Goes well with</strong>: ~와 잘 어울리다
+* <strong style="color:blue;">Feel at home</strong>: 편안함을 느끼다
+* <strong style="color:blue;">Look forward to</strong>: ~을 학수고대하다
+
+---
+### 롤플레이 : 주민센터에 전화해 전입신고 문의하기
+
+**[Question]**
+I'd like to give you a situation and ask you to act it out. You recently moved to a new neighborhood and need to submit a change of address report, also known as Jeon-ip-sin-go. Call the local community center, explain your situation, and ask the staff three or four questions about the required documents and operating hours.
+(상황을 하나 드리겠습니다. 역할극을 해주세요. 당신은 최근 새로운 동네로 이사했으며 전입신고를 해야 합니다. 주민센터에 전화하여 상황을 설명하고, 필요한 서류와 운영 시간에 대해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hi, good morning. I’m calling because I recently moved into a new apartment within your district, and I need to <strong style="color:blue;">take care of</strong> my change of address registration, which we call Jeon-ip-sin-go. Since this is my first time doing this at this specific office, I want to make sure I <strong style="color:blue;">bring along</strong> everything required so that I don't have to <strong style="color:blue;">make a wasted trip</strong>. 
+
+First of all, could you tell me what documents I need to <strong style="color:blue;">fill out</strong> and submit? Do I only need my ID card and my lease agreement, or are there any other forms I should prepare in advance? Also, I was wondering if I can <strong style="color:blue;">handle this</strong> online through the government website, or if I must visit your office in person. 
+
+Lastly, what are your exact operating hours, and do you take a lunch break? I am usually at work during regular office hours, so I might need to <strong style="color:blue;">drop by</strong> during my lunch break, or maybe on a Saturday if you are open. Could you please <strong style="color:blue;">clear up</strong> these details for me? Thank you so much for your help!
+
+**[Vocabulary & Expressions]**
+* Registration: 등록, 신고
+* Lease agreement: 임대차 계약서
+* <strong style="color:blue;">Take care of</strong>: 처리하다
+* <strong style="color:blue;">Bring along</strong>: ~을 가지고 가다
+* <strong style="color:blue;">Make a wasted trip</strong>: 헛걸음하다
+* <strong style="color:blue;">Fill out</strong>: (서류를) 작성하다
+* <strong style="color:blue;">Handle this</strong>: 이것을 처리하다
+* <strong style="color:blue;">Drop by</strong>: 들르다
+* <strong style="color:blue;">Clear up</strong>: 명확히 하다, 설명해주다
+
+---
+### 돌발 : 여행 준비 중 예약 문제 발생 경험
+
+**[Question]**
+Travel plans don't always go smoothly. Have you ever experienced a problem while booking a hotel or airline tickets for a trip? What was the issue, and how did you <strong style="color:blue;">deal with</strong> it?
+(여행 계획이 항상 원활하게 진행되는 것은 아닙니다. 여행을 위해 호텔이나 항공권을 예약하는 과정에서 문제가 생겼던 적이 있습니까? 문제가 무엇이었으며, 어떻게 대처하셨나요?)
+
+**[Model Answer]**
+Oh, I actually had a rather stressful experience a couple of years ago when I was planning a vacation to Japan with my best friend. We had <strong style="color:blue;">booked our flights</strong> and a nice boutique hotel months in advance, and everything seemed to be <strong style="color:blue;">set in stone</strong>. However, just two weeks before our departure date, I received an unexpected email from the hotel booking platform. 
+
+It turned out that there was a system glitch, and my reservation had been <strong style="color:blue;">canceled by mistake</strong>. To make matters worse, when I <strong style="color:blue;">looked into</strong> rebooking the same hotel, it was completely <strong style="color:blue;">booked up</strong>, and the prices for other places had <strong style="color:blue;">skyrocketed</strong> because it was peak season. I completely panicked because our itinerary depended heavily on that specific accommodation. 
+
+Without wasting any time, I <strong style="color:blue;">reached out to</strong> the customer service center immediately. I explained the situation calmly but firmly, pointing out that it was their system error, not my fault. After waiting on hold for what felt like forever, the representative finally <strong style="color:blue;">offered a solution</strong>. They upgraded us to a partner hotel nearby at no extra charge. It was a massive relief, and looking back, it taught me to always <strong style="color:blue;">double-check</strong> my bookings well in advance.
+
+**[Vocabulary & Expressions]**
+* Glitch: (시스템의) 결함, 사소한 문제
+* Itinerary: 여행 일정표
+* Representative: 상담원, 대표자
+* <strong style="color:blue;">Deal with</strong>: 대처하다, 처리하다
+* <strong style="color:blue;">Booked our flights</strong>: 비행기 표를 예약했다
+* <strong style="color:blue;">Set in stone</strong>: 확정된, 변경할 수 없는
+* <strong style="color:blue;">Canceled by mistake</strong>: 실수로 취소된
+* <strong style="color:blue;">Looked into</strong>: 조사하다, 알아보다
+* <strong style="color:blue;">Booked up</strong>: 예약이 꽉 찬
+* <strong style="color:blue;">Skyrocketed</strong>: 치솟았다
+* <strong style="color:blue;">Reached out to</strong>: 연락하다
+* <strong style="color:blue;">Offered a solution</strong>: 해결책을 제시하다
+* <strong style="color:blue;">Double-check</strong>: 재확인하다
