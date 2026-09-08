@@ -14544,3 +14544,89 @@ Without wasting any time, I <strong style="color:blue;">reached out to</strong> 
 * <strong style="color:blue;">Reached out to</strong>: 연락하다
 * <strong style="color:blue;">Offered a solution</strong>: 해결책을 제시하다
 * <strong style="color:blue;">Double-check</strong>: 재확인하다
+
+## 2026-09-08 07:30:12 OPIc Study
+
+### 묘사 : 동네 놀이터의 미끄럼틀과 그네 묘사
+
+**[Question]**
+Please describe the slide and the swings at the playground where children play in your neighborhood. What do they look like, and what kind of activities do children usually enjoy doing there?
+(동네 놀이터에 있는 미끄럼틀과 그네를 묘사해 주세요. 그것들은 어떻게 생겼고, 아이들은 보통 그곳에서 어떤 활동을 즐겨하나요?)
+
+**[Model Answer]**
+You know, when it comes to the playground in my neighborhood, it really <strong style="color:blue;">brings back memories</strong> of my own childhood, even though I'm all grown up now. It's a vibrant and lively spot, and the two things that <strong style="color:blue;">stand out</strong> the most are definitely the giant slide and the traditional swings. Let me paint a picture for you. First of all, the slide is not just your ordinary, run-of-the-mill plastic slide. It's built like a brightly colored yellow and blue dragon, which instantly <strong style="color:blue;">captures the imagination</strong> of all the kids playing around. It’s pretty tall, and it has a gentle wave in the middle, so when the children <strong style="color:blue;">zoom down</strong>, they get this amazing rush of excitement. I always see kids <strong style="color:blue;">lining up</strong> eagerly, waiting for their turn, and when they reach the bottom, they just <strong style="color:blue;">burst into laughter</strong> and run straight back to the stairs to do it all over again. It's such an infectious energy to watch. Right next to the slide, there is a set of four swings <strong style="color:blue;">suspended from</strong> a sturdy, arched metal frame. These swings have rubber seats that are securely attached with heavy-duty chains. What I love the most is watching the kids <strong style="color:blue;">pump their legs</strong> to get higher and higher. Some of the older kids even try to <strong style="color:blue;">show off</strong> by jumping off the swing mid-air, which always gives me a minor heart attack, but their parents just watch with an indulgent smile. Occasionally, you'll see toddlers being gently pushed by their mothers, <strong style="color:blue;">letting out</strong> cute little giggles that <strong style="color:blue;">melt your heart</strong>. On top of that, the ground underneath these structures is covered with soft, recycled rubber tiles, so even if someone <strong style="color:blue;">takes a tumble</strong>, they don't get seriously hurt. Overall, this playground is much more than just a collection of equipment; it's the beating heart of our community where kids <strong style="color:blue;">let off steam</strong> and form lasting friendships, and honestly, just looking at them <strong style="color:blue;">brightens up</strong> my entire day whenever I walk by.
+
+**[Vocabulary & Expressions]**
+* vibrant: 활기찬
+* ordinary: 평범한
+* sturdy: 튼튼한
+* indulgent: 너그러운
+* <strong style="color:blue;">brings back memories</strong>: 추억을 떠올리게 하다
+* <strong style="color:blue;">stand out</strong>: 눈에 띄다
+* <strong style="color:blue;">captures the imagination</strong>: 상상력을 사로잡다
+* <strong style="color:blue;">zoom down</strong>: 쌩 하고 내려가다
+* <strong style="color:blue;">lining up</strong>: 줄을 서다
+* <strong style="color:blue;">burst into laughter</strong>: 웃음을 터뜨리다
+* <strong style="color:blue;">suspended from ~</strong>: ~에 매달려 있는
+* <strong style="color:blue;">pump their legs</strong>: 다리를 구르다 (속력을 내다)
+* <strong style="color:blue;">show off</strong>: 뽐내다, 자랑하다
+* <strong style="color:blue;">letting out</strong>: (소리 등을) 내다
+* <strong style="color:blue;">melt your heart</strong>: 마음을 녹이다
+* <strong style="color:blue;">takes a tumble</strong>: 넘어지다
+* <strong style="color:blue;">let off steam</strong>: 스트레스를 풀다, 에너지를 발산하다
+* <strong style="color:blue;">brightens up</strong>: 밝게 하다, 기분 좋게 하다
+
+---
+### 롤플레이 : 주말에 자전거 타러 가자고 친구에게 제안하기
+
+**[Question]**
+You want to go bike riding with your friend this weekend. Call your friend, and ask three or four questions to make plans, such as where to go, what time to meet, and what to bring.
+(이번 주말에 친구와 함께 자전거를 타러 가고 싶습니다. 친구에게 전화해서 어디로 갈지, 몇 시에 만날지, 무엇을 챙겨야 할지 등 계획을 세우기 위한 3~4개의 질문을 하세요.)
+
+**[Model Answer]**
+Hey Alex! It's me. How have you been keeping up? Listen, I'm calling because I've been <strong style="color:blue;">cooped up</strong> inside working all week, and I'm dying to get some fresh air. The weather forecast for this weekend looks absolutely amazing, so I was wondering if you'd be down to go bike riding with me? You know, we really need to <strong style="color:blue;">get off the couch</strong> and do some outdoor activities. First of all, do you have any specific place in mind? I was thinking we could either <strong style="color:blue;">head over to</strong> the Han River park or maybe check out that new bike trail by the lake. The scenery there is supposed to be breathtaking, and it's not too crowded in the mornings. Speaking of which, what time do you think we should meet? If we <strong style="color:blue;">set off</strong> early around 9 AM, we can beat the afternoon heat and maybe even grab some brunch afterwards. Let me know if that works for your schedule. Also, since we'll probably be riding for a couple of hours, what kind of stuff do you think we should <strong style="color:blue;">bring along</strong>? I was planning to pack some energy bars and a couple of water bottles, but do we need anything else, like a portable phone charger or a small backpack? Oh, by the way, if you don't have your bike with you right now, don't worry about it because we can easily <strong style="color:blue;">rent out</strong> those public bicycles using an app. Anyway, <strong style="color:blue;">give me a call back</strong> as soon as you get this message so we can <strong style="color:blue;">finalize the plan</strong>. I'm really looking forward to <strong style="color:blue;">catching up</strong> with you while riding! Talk to you soon!
+
+**[Vocabulary & Expressions]**
+* forecast: 예보
+* breathtaking: 숨막힐 듯이 아름다운
+* scheduled: 일정
+* backpack: 배낭
+* <strong style="color:blue;">cooped up</strong>: (좁은 곳에) 갖혀 있는, 답답한
+* <strong style="color:blue;">get off the couch</strong>: 소파에서 일어나다 (활동을 시작하다)
+* <strong style="color:blue;">head over to ~</strong>: ~로 향하다
+* <strong style="color:blue;">set off</strong>: 출발하다
+* <strong style="color:blue;">bring along</strong>: 가지고 가다, 지참하다
+* <strong style="color:blue;">rent out</strong>: 대여하다, 빌려주다
+* <strong style="color:blue;">give me a call back</strong>: 나에게 다시 전화하다
+* <strong style="color:blue;">finalize the plan</strong>: 계획을 확정하다
+* <strong style="color:blue;">catching up</strong>: 밀린 이야기를 나누다
+
+---
+### 돌발 : 동네에서 이웃과 겪었던 기억에 남는 사건이나 오해 경험
+
+**[Question]**
+Tell me about a memorable incident or a misunderstanding you experienced with a neighbor in your neighborhood. What happened, how did you resolve it, and what did you learn from that experience?
+(동네에서 이웃과 겪었던 기억에 남는 사건이나 오해에 대해 이야기해 주세요. 무슨 일이 있었고, 어떻게 해결했으며, 그 경험을 통해 무엇을 배웠나요?)
+
+**[Model Answer]**
+You know, looking back, I've had quite a few interesting encounters with my neighbors, but one particular incident from last winter <strong style="color:blue;">stands out</strong> in my mind because it started as a rather awkward misunderstanding and ended up <strong style="color:blue;">turning into</strong> a wonderful friendship. It all started when I kept noticing that someone was repeatedly knocking on my front door late at night, but whenever I rushed to open it, <strong style="color:blue;">there was no one in sight</strong>. This happened three times in a single week, and to be honest, I was starting to get a bit creeped out and paranoid. I actually began to suspect that someone was playing a prank on me, or worse, that maybe there was a weird stalker in the building. Naturally, my anxiety <strong style="color:blue;">built up</strong>, and I was determined to <strong style="color:blue;">get to the bottom of</strong> this mystery. So, the very next time I heard that familiar knock, I immediately unlocked the door and <strong style="color:blue;">burst out</strong> into the hallway. To my absolute surprise, it wasn't a prankster at all. It was my elderly neighbor, Mr. Henderson, who lives right next door. He looked quite flustered and confused. It turned out that he has poor eyesight and hearing, and he kept mixing up my apartment door with his grandson's because our welcome mats looked somewhat similar. He had been trying to drop off some homemade kimchi his wife made, but every time he knocked, he would accidentally <strong style="color:blue;">trip over</strong> my shoe rack, panic, and quickly hobble back to his apartment before I could answer. When everything <strong style="color:blue;">came to light</strong>, I couldn't help but <strong style="color:blue;">burst into laughter</strong> at how ridiculous my scary scenarios had been. I immediately <strong style="color:blue;">cleared up</strong> the confusion, assured him that it was no trouble at all, and gratefully accepted the kimchi, which, by the way, tasted heavenly. From that day on, we <strong style="color:blue;">struck up</strong> a really close relationship. I make it a point to check in on him every few days, and he always greets me with a warm smile. That whole experience really taught me a valuable lesson: before you <strong style="color:blue;">jump to conclusions</strong> or let your imagination run wild, you should always give people the benefit of the doubt and communicate openly, because what seems like a stressful nuisance can often <strong style="color:blue;">turn out to be</strong> a blessing in disguise.
+
+**[Vocabulary & Expressions]**
+* encounter: 마주침, 만남
+* paranoid: 피해망상적인, 지나치게 염려하는
+* prank: 장난
+* flustered: 당황한
+* nuisance: 성가신 것, 골칫거리
+* <strong style="color:blue;">stands out</strong>: 두드러지다, 눈에 띄다
+* <strong style="color:blue;">turning into</strong>: ~로 변하다
+* <strong style="color:blue;">there was no one in sight</strong>: 시야에 아무도 없다
+* <strong style="color:blue;">built up</strong>: 쌓이다, 커지다
+* <strong style="color:blue;">get to the bottom of ~</strong>: ~의 진상을 밝히다
+* <strong style="color:blue;">burst out</strong>: 튀어나가다, 터뜨리다
+* <strong style="color:blue;">trip over</strong>: ~에 걸려 넘어지다
+* <strong style="color:blue;">came to light</strong>: 밝혀지다, 드러나다
+* <strong style="color:blue;">burst into laughter</strong>: 웃음을 터뜨리다
+* <strong style="color:blue;">cleared up</strong>: 오해 등을 풀다, 해결하다
+* <strong style="color:blue;">struck up</strong>: (관계를) 맺다, 시작하다
+* <strong style="color:blue;">jump to conclusions</strong>: 성급한 결론을 내리다
+* <strong style="color:blue;">turn out to be</strong>: ~로 판명되다, 드러나다
