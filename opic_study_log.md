@@ -14630,3 +14630,91 @@ You know, looking back, I've had quite a few interesting encounters with my neig
 * <strong style="color:blue;">struck up</strong>: (관계를) 맺다, 시작하다
 * <strong style="color:blue;">jump to conclusions</strong>: 성급한 결론을 내리다
 * <strong style="color:blue;">turn out to be</strong>: ~로 판명되다, 드러나다
+
+## 2026-09-09 07:38:07 OPIc Study
+
+### 묘사 : 요리할 때 자주 사용하는 주방 도구 묘사
+
+**[Question]**
+What are some of the kitchen utensils or tools you frequently use when cooking at home? Please describe them in detail and explain why you use them so often.
+(집에서 요리할 때 자주 사용하는 주방 도구는 무엇인가요? 그것들을 자세히 묘사하고 왜 그렇게 자주 사용하는지 설명해 주세요.)
+
+**[Model Answer]**
+Well, when it comes to cooking, I consider myself quite an avid home cook, so I rely heavily on a few essential kitchen gadgets. If I have to pick the one tool that I <strong style="color:blue;">rely on</strong> the most, it would definitely be my chef's knife, paired with a heavy-duty wooden cutting board. Let me paint a picture for you. The knife has an eight-inch stainless steel blade that is incredibly sharp, and the handle is ergonomically designed to <strong style="color:blue;">fit snugly</strong> in my hand, which really <strong style="color:blue;">cuts down on</strong> hand fatigue during long prep sessions. 
+
+You know, I use this knife for almost everything—dicing onions, mincing garlic, and slicing up meats. Another appliance that I simply cannot live without is my cast-iron skillet. It’s jet black, quite heavy, and has seasoned over the years to become naturally non-stick. Whenever I want to sear a steak or <strong style="color:blue;">whisk up</strong> a quick stir-fry, this skillet is my go-to choice because it <strong style="color:blue;">retains heat</strong> remarkably well and gives food that amazing, mouth-watering flavor. 
+
+To be honest, having the right tools truly <strong style="color:blue;">makes all the difference</strong> in the kitchen. It doesn't just speed up the cooking process; it actually <strong style="color:blue;">brings out</strong> the best flavors in the ingredients. Without these two items, my culinary routine would completely <strong style="color:blue;">fall apart</strong>. They are absolute game-changers for me, and I <strong style="color:blue;">couldn't imagine</strong> cooking a single meal without them by my side.
+
+**[Vocabulary & Expressions]**
+* Avid: 열렬한
+* Ergonomically: 인체공학적으로
+* Non-stick: 늘러붙지 않는
+* <strong style="color:blue;">rely on</strong>: 의존하다
+* <strong style="color:blue;">fit snugly</strong>: 딱 맞다
+* <strong style="color:blue;">cuts down on</strong>: 줄이다
+* <strong style="color:blue;">whisk up</strong>: 휘리릭 만들어내다
+* <strong style="color:blue;">retains heat</strong>: 열을 유지하다
+* <strong style="color:blue;">makes all the difference</strong>: 큰 차이를 만들다
+* <strong style="color:blue;">brings out</strong>: 이끌어내다, 살리다
+* <strong style="color:blue;">fall apart</strong>: 무너지다, 엉망이 되다
+
+---
+### 롤플레이 : 요가 강사에게 허리 통증 설명 및 주의할 점 문의
+
+**[Question]**
+You have just registered for a new yoga class. However, you have been experiencing some lower back pain recently. Call your yoga instructor, explain your condition in detail, and ask three or four questions about what precautions you should take during the class.
+(새로 요가 수업에 등록했습니다. 하지만 최근에 허리 통증을 겪고 있습니다. 요가 강사에게 전화하여 상태를 자세히 설명하고, 수업 중 주의해야 할 점에 대해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hi, is this Instructor Kim? Hi, my name is Alex, and I just signed up for your beginner yoga course starting this coming Monday. I'm really looking forward to it, but actually, I'm calling because I wanted to <strong style="color:blue;">heads up</strong> you about a minor health issue I've been dealing with lately. Over the past few weeks, I’ve been suffering from chronic lower back pain, probably <strong style="color:blue;">brought on by</strong> sitting too long at my desk. It sometimes <strong style="color:blue;">flares up</strong> when I bend over or twist my torso too quickly. 
+
+Given this condition, I have a few concerns and questions for you. First of all, are there any specific poses that I should <strong style="color:blue;">stay away from</strong> during the class to avoid <strong style="color:blue;">making it worse</strong>? I really don't want to <strong style="color:blue;">overdo it</strong> and <strong style="color:blue;">end up</strong> hurting myself further. Also, do you provide modifications or alternative postures for students with back issues? I was wondering if I should bring any extra props, like a block or a rolled-up towel, to <strong style="color:blue;">help out</strong> with my lower back support. Lastly, if the pain suddenly <strong style="color:blue;">acts up</strong> while we are in the middle of a session, is it okay for me to just skip the pose and rest in child’s pose? 
+
+I’m really eager to learn, but I just want to <strong style="color:blue;">play it safe</strong>. Thanks so much for your time, and I'll see you in class!
+
+**[Vocabulary & Expressions]**
+* Chronic: 만성적인
+* Modification: 변형 (동작 조정)
+* Prop: 소도구
+* <strong style="color:blue;">heads up</strong>: 미리 알려주다 (give a heads up)
+* <strong style="color:blue;">brought on by</strong>: ~로 인해 야기된
+* <strong style="color:blue;">flares up</strong>: (통증 등이) 도지다, 심해지다
+* <strong style="color:blue;">stay away from</strong>: 멀리하다, 피하다
+* <strong style="color:blue;">making it worse</strong>: 악화시키다
+* <strong style="color:blue;">overdo it</strong>: 무리하다
+* <strong style="color:blue;">end up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">help out</strong>: 도와주다
+* <strong style="color:blue;">acts up</strong>: (문제가) 다시 도지다
+* <strong style="color:blue;">play it safe</strong>: 안전하게 하다, 조심하다
+
+---
+### 돌발 : 과거 오프라인 쇼핑과 현재 온라인 쇼핑의 차이점 비교
+
+**[Question]**
+How has shopping changed over the years? Compare how people used to purchase items in the past with how online shopping is done today. What are the pros and cons of each?
+(쇼핑은 수년에 걸쳐 어떻게 변화했나요? 과거 사람들이 물건을 사던 방식과 현재 온라인 쇼핑이 이루어지는 방식을 비교해 주세요. 각각의 장단점은 무엇인가요?)
+
+**[Model Answer]**
+When we look at how shopping has evolved over the years, the transformation is truly mind-blowing. If we <strong style="color:blue;">think back to</strong> how things used to be done a couple of decades ago, shopping was essentially a physical, time-consuming experience. Back then, people had to <strong style="color:blue;">physically go out</strong> to brick-and-mortar stores, department stores, or traditional markets. You had to <strong style="color:blue;">browse through</strong> racks of clothing or aisles of products item by item, wait in long checkout lines, and carry heavy shopping bags all the way home. The biggest advantage of that traditional method was that you could actually touch the fabrics, try on clothes, and <strong style="color:blue;">walk away with</strong> the item immediately. However, it was a huge <strong style="color:blue;">hassle</strong> because of limited operating hours, parking issues, and a restricted selection of goods.
+
+On the flip side, today’s digital era has completely <strong style="color:blue;">turned the retail world upside down</strong> with e-commerce platforms. Now, consumers can simply <strong style="color:blue;">scroll through</strong> endless online catalogs, compare prices with just a few clicks, and have packages <strong style="color:blue;">delivered right to</strong> their doorstep within twenty-four hours. The convenience factor is off the charts. You can <strong style="color:blue;">shop around</strong> in your pajamas at midnight without ever leaving your couch. 
+
+Of course, online shopping isn't without its downsides. You often <strong style="color:blue;">run into</strong> issues like sizing errors, misleading product descriptions, or the frustration of having to <strong style="color:blue;">send back</strong> items through cumbersome return processes. Even with these minor drawbacks, it's clear that online shopping has <strong style="color:blue;">taken over</strong> our daily lives because it simply <strong style="color:blue;">saves time and effort</strong> in our fast-paced modern society.
+
+**[Vocabulary & Expressions]**
+* Mind-blowing: 놀라운, 충격적인
+* Brick-and-mortar: 오프라인 매장의
+* Cumbersome: 성가신, 번거로운
+* <strong style="color:blue;">think back to</strong>: ~를 회상하다
+* <strong style="color:blue;">physically go out</strong>: 직접 나가다
+* <strong style="color:blue;">browse through</strong>: 훑어보다
+* <strong style="color:blue;">walk away with</strong>: ~를 손에 넣고 가다
+* <strong style="color:blue;">turned the retail world upside down</strong>: 소매 시장을 뒤흔들다
+* <strong style="color:blue;">scroll through</strong>: 화면을 스크롤하며 넘겨보다
+* <strong style="color:blue;">delivered right to</strong>: ~로 바로 배송되는
+* <strong style="color:blue;">shop around</strong>: 여러 곳을 비교하며 쇼핑하다
+* <strong style="color:blue;">run into</strong>: (문제 등에) 부딪히다, 직면하다
+* <strong style="color:blue;">send back</strong>: 반품하다, 돌려보내다
+* <strong style="color:blue;">taken over</strong>: 장악하다, 인수하다
+* <strong style="color:blue;">saves time and effort</strong>: 시간과 노력을 절약하다
