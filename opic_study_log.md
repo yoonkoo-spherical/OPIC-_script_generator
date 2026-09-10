@@ -14718,3 +14718,122 @@ Of course, online shopping isn't without its downsides. You often <strong style=
 * <strong style="color:blue;">send back</strong>: 반품하다, 돌려보내다
 * <strong style="color:blue;">taken over</strong>: 장악하다, 인수하다
 * <strong style="color:blue;">saves time and effort</strong>: 시간과 노력을 절약하다
+
+## 2026-09-10 07:34:43 OPIc Study
+
+### 묘사 : 스마트폰 배달 앱의 인터페이스 묘사
+
+**[Question]**
+What is your favorite smartphone application that you use frequently? Please describe its user interface in detail. What does the main screen look like, and how do you navigate through it?
+(당신이 자주 사용하는 가장 좋아하는 스마트폰 애플리케이션은 무엇인가요? 그것의 사용자 인터페이스를 자세히 묘사해 주세요. 메인 화면은 어떻게 생겼으며, 어떻게 탐색하나요?)
+
+**[Model Answer]**
+You know, I use my smartphone practically all day long, but if I have to pick the one application that I rely on the most, it would definitely be 'Baemin', which is the most popular food delivery app here in Korea. To be honest, I <strong style="color:blue;">rely heavily on</strong> this app at least three times a week, so I am extremely familiar with its interface. 
+
+Let me <strong style="color:blue;">break down</strong> the user interface for you, starting with the very moment you tap the app icon. As soon as the app <strong style="color:blue;">boots up</strong>, you are greeted by a very clean, intuitive, and vibrant mint-colored splash screen. Then, it <strong style="color:blue;">transitions smoothly</strong> to the main dashboard. 
+
+The layout is structured in a very user-friendly way. At the very top of the screen, there is a prominent search bar where you can either type in a specific craving, like tteokbokki or pizza, or just type in your exact current address. Right below the search bar, you will notice a horizontal scrollable menu featuring various food categories represented by cute, minimalist icons. These categories <strong style="color:blue;">range from</strong> Korean traditional food and Chinese cuisine <strong style="color:blue;">to</strong> late-night snacks and western fast food. 
+
+As you <strong style="color:blue;">scroll down</strong> the main page, the app <strong style="color:blue;">takes advantage of</strong> personalized recommendation algorithms. It showcases curated lists like "Trending Restaurants Around You," "Discount Coupons Just For You," and "What People Ordered Most This Week." This <strong style="color:blue;">feature allows me to</strong> discover new restaurants effortlessly without having to think too much. 
+
+Furthermore, at the very bottom of the screen, there is a fixed navigation bar with four main tabs: 'Home', 'Search', 'Order History', and 'My Page'. This persistent bar <strong style="color:blue;">makes it easy to</strong> <strong style="color:blue;">switch back and forth</strong> between browsing new food options and checking the delivery status of my current order. Overall, the developers really <strong style="color:blue;">put a lot of thought into</strong> creating an interface that minimizes friction and maximizes convenience, which is why I <strong style="color:blue;">am deeply impressed by</strong> its design.
+
+**[Vocabulary & Expressions]**
+* intuitive: 직관적인
+* vibrant: 활기찬, 선명한
+* minimalist: 미니멀한, 단순한
+* curated: 엄선된
+* persistent: 고정된, 지속적인
+* friction: (사용자 경험에서의) 마찰, 불편함
+* <strong style="color:blue;">rely heavily on</strong>: ~에 크게 의존하다
+* <strong style="color:blue;">break down</strong>: 세부적으로 설명하다, 분석하다
+* <strong style="color:blue;">boots up</strong>: 부팅되다, 켜지다
+* <strong style="color:blue;">transitions smoothly</strong>: 부드럽게 전환되다
+* <strong style="color:blue;">range from A to B</strong>: A에서 B까지 다양하다
+* <strong style="color:blue;">scroll down</strong>: 아래로 스크롤하다
+* <strong style="color:blue;">takes advantage of</strong>: ~을 활용하다
+* <strong style="color:blue;">feature allows me to</strong>: ~ 기능 덕분에 내가 ~할 수 있다
+* <strong style="color:blue;">switch back and forth</strong>: 이리저리 전환하다
+* <strong style="color:blue;">put a lot of thought into</strong>: ~에 많은 심혈을 기울이다
+* <strong style="color:blue;">am deeply impressed by</strong>: ~에 깊은 인상을 받다
+
+---
+### 롤플레이 : 부동산에 전화해 새로운 원룸 문의하기
+
+**[Question]**
+You are planning to move into a new studio apartment. Call a real estate agent, tell them what kind of place you are looking for, and ask three or four questions about the available listings, deposit, and contract conditions.
+(당신은 새로운 원룸으로 이사할 계획입니다. 부동산 중개인에게 전화하여 당신이 찾고 있는 방의 조건을 말하고, 가용 매물, 보증금 및 계약 조건에 대해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hi, good afternoon. I’m calling because I’m currently <strong style="color:blue;">on the market for</strong> a new studio apartment in this neighborhood, and I was hoping you could help me out. Let me <strong style="color:blue;">give you a quick rundown of</strong> what I have in mind. 
+
+I’m actually looking for a clean, modern studio apartment that is within a five-minute walking distance from the subway station. Ideally, I need a place with a separate kitchen area, or at least a room with good soundproofing because I work from home sometimes and need some peace and quiet. Also, having enough sunlight is a huge priority for me, so <strong style="color:blue;">if possible</strong>, I’d prefer a south-facing room. 
+
+Could you tell me if you have any listings that <strong style="color:blue;">fit this description</strong> right now? If you do, I have a few specific questions regarding the financial and contract conditions. 
+
+First of all, what is the <strong style="color:blue;">price range</strong> for these kinds of studios? I want to know about the deposit and monthly rent. Also, are there any separate maintenance fees, and if so, what utilities—like water, electricity, or internet—<strong style="color:blue;">are included in</strong> that fee? 
+
+Secondly, how flexible are the landlords regarding the contract period? I am thinking of signing a standard one-year lease, but there’s a slight chance I might have to relocate due to work in about ten months, so I want to know if <strong style="color:blue;">subletting</strong> or breaking the contract early is negotiable. 
+
+Lastly, are there any parking spaces available? I don't own a car right now, but I might <strong style="color:blue;">end up buying</strong> one next year, so I want to know the parking situation in advance. 
+
+Anyway, I’d love to <strong style="color:blue;">set up an appointment</strong> to visit your office and actually <strong style="color:blue;">look around</strong> a couple of places this weekend. Does Saturday afternoon work for you? Please let me know. Thanks!
+
+**[Vocabulary & Expressions]**
+* soundproofing: 방음
+* priority: 우선순위
+* south-facing: 남향의
+* utilities: 공과금 (수도세, 전기세 등)
+* negotiable: 협상 가능한
+* lease: 임대차 계약
+* <strong style="color:blue;">on the market for</strong>: ~을 구하는 중인
+* <strong style="color:blue;">give you a quick rundown of</strong>: ~의 개요를 간략히 설명하다
+* <strong style="color:blue;">if possible</strong>: 가능하다면
+* <strong style="color:blue;">fit this description</strong>: 이 설명에 부합하다
+* <strong style="color:blue;">price range</strong>: 가격대
+* <strong style="color:blue;">are included in</strong>: ~에 포함되다
+* <strong style="color:blue;">end up buying</strong>: 결국 ~을 사게 되다
+* <strong style="color:blue;">set up an appointment</strong>: 약속을 잡다
+* <strong style="color:blue;">look around</strong>: 둘러보다
+
+---
+### 돌발 : 처음 먹어본 외국 음식에 놀랐던 경험
+
+**[Question]**
+Tell me about a time when you tried an unfamiliar food or a foreign dish for the first time. What was the food, what did it look and taste like, and why were you surprised by it?
+(처음으로 낯선 음식이나 외국 음식을 시도해 보았던 경험에 대해 이야기해 주세요. 그 음식은 무엇이었고, 생김새와 맛은 어땠으며, 왜 그것에 놀랐나요?)
+
+**[Model Answer]**
+You know, I consider myself a real foodie who is always willing to <strong style="color:blue;">step out of my comfort zone</strong> and try exotic cuisines. However, a couple of years ago, when I took a trip to Vietnam, I had a truly <strong style="color:blue;">mind-blowing</strong> culinary experience that completely <strong style="color:blue;">took me by surprise</strong>. It was my very first time trying authentic Vietnamese 'Balut', which is a fertilized developing bird egg embryo that is boiled and eaten from the shell. 
+
+To be completely honest, I had no idea what it actually was when my local friend ordered it for me at a night market. At first glance, it just looked like a regular hard-boiled egg. But once I <strong style="color:blue;">cracked open</strong> the shell and <strong style="color:blue;">peeled it back</strong>, I was utterly shocked. I could literally see the small feathers, bones, and beak of the duck embryo inside. To be frank, my <strong style="color:blue;">stomach turned</strong> a little bit, and I almost <strong style="color:blue;">backed out</strong> because it looked so visually disturbing and intimidating. 
+
+However, my friend <strong style="color:blue;">encouraged me to</strong> <strong style="color:blue;">give it a try</strong>, saying I shouldn't <strong style="color:blue;">judge a book by its cover</strong>. So, I closed my eyes, sprinkled some salt, pepper, and fresh mint leaves on it, and took a small bite. And guess what? It <strong style="color:blue;">turned out to be</strong> an absolute game-changer. 
+
+Contrary to its terrifying appearance, the texture was remarkably tender, almost melt-in-your-mouth soft, and the broth inside was intensely rich and savory, very similar to a deeply <strong style="color:blue;">simmered</strong> chicken soup. It completely <strong style="color:blue;">blew my mind</strong> because it shattered my prejudice that strange-looking food must taste awful. That experience taught me a valuable lesson not to <strong style="color:blue;">make hasty judgments</strong> based solely on visuals. Since then, whenever I travel abroad, I always make it a point to <strong style="color:blue;">keep an open mind</strong> regarding local delicacies.
+
+**[Vocabulary & Expressions]**
+* foodie: 미식가
+* exotic: 이국적인
+* culinary: 요리의
+* fertilized: 수정된
+* embryo: 배아
+* disturbing: 충격적인, 불안감을 주는
+* intimidating: 위압적인, 겁을 주는
+* savory: 풍미 있는, 맛있는
+* prejudice: 편견
+* delicacies: 진미, 별미
+* <strong style="color:blue;">step out of my comfort zone</strong>: 안전지대를 벗어나 새로운 것에 도전하다
+* <strong style="color:blue;">mind-blowing</strong>: 엄청난, 놀라운
+* <strong style="color:blue;">took me by surprise</strong>: 나를 놀라게 하다
+* <strong style="color:blue;">cracked open</strong>: 톡 깨다
+* <strong style="color:blue;">peeled it back</strong>: 껍질을 벗겨내다
+* <strong style="color:blue;">stomach turned</strong>: 속이 메슥거렸다, 역겨웠다
+* <strong style="color:blue;">backed out</strong>: 발을 빼다, 포기하려 하다
+* <strong style="color:blue;">encouraged me to</strong>: 내가 ~하도록 격려하다
+* <strong style="color:blue;">give it a try</strong>: 시도해 보다
+* <strong style="color:blue;">judge a book by its cover</strong>: 겉모습만 보고 판단하다
+* <strong style="color:blue;">turned out to be</strong>: ~로 판명되다, 알고 보니 ~이었다
+* <strong style="color:blue;">blew my mind</strong>: 깜짝 놀라게 하다
+* <strong style="color:blue;">make hasty judgments</strong>: 성급한 판단을 내리다
+* <strong style="color:blue;">keep an open mind</strong>: 열린 마음을 유지하다
