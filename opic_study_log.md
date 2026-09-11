@@ -14837,3 +14837,81 @@ Contrary to its terrifying appearance, the texture was remarkably tender, almost
 * <strong style="color:blue;">blew my mind</strong>: 깜짝 놀라게 하다
 * <strong style="color:blue;">make hasty judgments</strong>: 성급한 판단을 내리다
 * <strong style="color:blue;">keep an open mind</strong>: 열린 마음을 유지하다
+
+## 2026-09-11 07:33:33 OPIc Study
+
+### 묘사 : 자주 시켜 먹는 피자 상자 묘사
+
+**[Question]**
+I'd like to know about the pizza box your favorite pizza comes in. Please describe it in detail. What does it look like, what colors are used, and is there any special feature on it?
+당신이 가장 좋아하는 피자가 담겨 오는 피자 상자에 대해 알고 싶습니다. 자세히 묘사해 주세요. 어떻게 생겼고, 어떤 색상이 사용되었으며, 특별한 특징이 있나요?
+
+**[Model Answer]**
+Well, Eva, when it comes to the pizza box that my favorite pepperoni pizza comes in, it's actually quite eye-catching and distinctive. To <strong style="color:blue;">kick things off</strong>, the box is typically square-shaped, made of a thick, corrugated cardboard material designed to <strong style="color:blue;">keep the heat in</strong> so the pizza arrives nice and steaming hot. The background color of the box is a rich, matte black, which instantly gives it a modern and premium look, unlike the standard plain white or red boxes you usually see. Right in the center of the lid, there is a bold, striking logo featuring a golden crown and cursive lettering in bright neon red, representing the brand's signature style. What's really interesting is that the texture of the box has a slight matte finish, so it doesn't <strong style="color:blue;">smudge easily</strong> when you touch it. Another cool feature is that if you <strong style="color:blue;">look closely at</strong> the edges, there are these clever little ventilation holes designed to <strong style="color:blue;">let the steam out</strong>, preventing the crust from getting soggy. Inside, sometimes they include a small plastic tripod, commonly known as a pizza saver, to <strong style="color:blue;">make sure</strong> the top of the box doesn't <strong style="color:blue;">caved in</strong> and mess up the melted cheese. Whenever the delivery guy <strong style="color:blue;">shows up at</strong> my door, seeing that sleek black box always <strong style="color:blue;">gets my mouth watering</strong>. It's just amazing how even the packaging can <strong style="color:blue;">add to</strong> the overall dining experience right at home, you know?
+
+**[Vocabulary & Expressions]**
+* Corrugated cardboard: 골판지
+* Distinctive: 독특한, 특색 있는
+* Matte finish: 무광택 마감
+* Soggy: 눅눅한, 젖은
+* <strong style="color:blue;">kick things off</strong>: ~를 시작하다
+* <strong style="color:blue;">keep the heat in</strong>: 열기를 유지하다
+* <strong style="color:blue;">smudge easily</strong>: 쉽게 자국이 남다, 더러워지다
+* <strong style="color:blue;">look closely at</strong>: ~을 자세히 보다
+* <strong style="color:blue;">let the steam out</strong>: 김을 빼내다
+* <strong style="color:blue;">make sure</strong>: 확실히 하다
+* <strong style="color:blue;">caved in</strong>: 안으로 무너지다
+* <strong style="color:blue;">shows up at</strong>: ~에 나타나다, 도착하다
+* <strong style="color:blue;">gets my mouth watering</strong>: 군침이 돌게 하다
+* <strong style="color:blue;">add to</strong>: ~을 더해주다, 증대시키다
+
+---
+### 롤플레이 : 친구에게 전화해 이번 주말 영화 관람 약속 잡기
+
+**[Question]**
+You want to see a movie with your friend this coming weekend. Call your friend, let them know what kind of genre you are into these days, and ask 2-3 questions about their schedule and preferences to make plans.
+이번 주말에 친구와 함께 영화를 보고 싶습니다. 친구에게 전화해서 요즘 어떤 장르에 빠져 있는지 알리고, 약속을 잡기 위해 친구의 스케줄과 선호도에 대해 2-3가지 질문을 해 주세요.
+
+**[Model Answer]**
+Hey, Min-su! It's me. I hope you're having a good week so far. Listen, I'm calling because I was wondering what your plans are for this coming weekend. You see, I've been <strong style="color:blue;">getting really into</strong> sci-fi thriller movies lately, and there's this new blockbuster that <strong style="color:blue;">just came out</strong>. I heard the visual effects are mind-blowing, so I'm dying to check it out on the big screen. Since we haven't hung out in a while, I thought it would be awesome if we could catch a flick together. Anyway, <strong style="color:blue;">first things first</strong>, are you even free this weekend, or do you have <strong style="color:blue;">a lot on your plate</strong>? If you're available, what day works better for you, Saturday or Sunday? Also, have you <strong style="color:blue;">given any thought to</strong> what kind of genre you're in the mood for? If sci-fi isn't really your thing, we can totally <strong style="color:blue;">look into</strong> something else like a comedy or an action movie. Oh, and one more thing—do you prefer going to the theater in the afternoon, or would you rather <strong style="color:blue;">book a late-night show</strong> so we can grab some drinks afterward? Let me know whenever you get a chance, and <strong style="color:blue;">give me a call back</strong>. Talk to you soon!
+
+**[Vocabulary & Expressions]**
+* Blockbuster: 블록버스터, 대작 영화
+* Visual effects: 시각 효과
+* Sci-fi thriller: 공상과학 스릴러
+* <strong style="color:blue;">getting really into</strong>: ~에 푹 빠지다
+* <strong style="color:blue;">just came out</strong>: 막 개봉했다
+* <strong style="color:blue;">first things first</strong>: 무엇보다도 먼저, 우선
+* <strong style="color:blue;">a lot on your plate</strong>: 할 일이 아주 많은, 바쁜
+* <strong style="color:blue;">given any thought to</strong>: ~에 대해 생각해 본 적 있는
+* <strong style="color:blue;">look into</strong>: ~을 알아보다, 조사하다
+* <strong style="color:blue;">book a late-night show</strong>: 심야 영화를 예매하다
+* <strong style="color:blue;">give me a call back</strong>: 나에게 다시 전화하다
+
+---
+### 돌발 : 과거의 영화관 시설과 최근 멀티플렉스 영화관의 차이점 비교
+
+**[Question]**
+Think about movie theaters in the past compared to modern multiplexes today. What are the major differences between them in terms of facilities, environment, and overall experience? Please explain in detail.
+과거의 영화관을 오늘날의 현대식 멀티플렉스 영화관과 비교해 보세요. 시설, 환경, 전반적인 경험 측면에서 이들 간의 주요 차이점은 무엇인가요? 자세히 설명해 주세요.
+
+**[Model Answer]**
+When comparing movie theaters from the past to the modern multiplexes we have today, the differences are truly night and day, especially when you <strong style="color:blue;">look at</strong> facilities and the overall movie-going experience. Back in the day, movie theaters were usually standalone buildings with just one or two screens. The auditoriums were pretty basic, equipped with rigid, cramped seats that didn't <strong style="color:blue;">recline at all</strong>, making it really difficult to stay comfortable during a long movie. Moreover, the sound systems and projection quality were quite outdated compared to today's standards. On top of that, your snack options were basically limited to basic popcorn, soda, and maybe some squishy candy. <strong style="color:blue;">On the flip side</strong>, modern multiplexes have completely <strong style="color:blue;">revolutionized the way</strong> we enjoy films. First off, they are usually located inside massive entertainment complexes filled with restaurants, shopping malls, and arcades, allowing people to <strong style="color:blue;">make a whole day of it</strong>. Inside the theaters, the technological advancements are incredible. We now have IMAX, 4DX, and Dolby Atmos screens that <strong style="color:blue;">truly immerse you in</strong> the action. The seating has also <strong style="color:blue;">evolved dramatically</strong>; many theaters now feature plush, fully reclining leather chairs, and some even offer VIP private suites where you can <strong style="color:blue;">lie back</strong> and relax like you're on your own couch. Furthermore, concession stands have <strong style="color:blue;">upped their game</strong> significantly, offering gourmet hot dogs, churros, and even craft beer. All in all, going to the movies has <strong style="color:blue;">transformed from</strong> a simple weekend outing <strong style="color:blue;">into</strong> a luxury entertainment experience.
+
+**[Vocabulary & Expressions]**
+* Standalone building: 단독 건물
+* Outdated: 시대에 뒤떨어진, 구식의
+* Technological advancement: 기술적 발전
+* Plush: 호화로운, 푹신한
+* Concession stand: 매점
+* Gourmet: 미식가의, 고급의
+* <strong style="color:blue;">look at</strong>: ~을 살펴보다
+* <strong style="color:blue;">recline at all</strong>: 전혀 젖혀지지 않다
+* <strong style="color:blue;">On the flip side</strong>: 반면에
+* <strong style="color:blue;">revolutionized the way</strong>: ~하는 방식을 완전히 바꾸다
+* <strong style="color:blue;">make a whole day of it</strong>: 하루 종일 그 일로 즐기다
+* <strong style="color:blue;">truly immerse you in</strong>: 진정으로 ~에 몰입하게 하다
+* <strong style="color:blue;">evolved dramatically</strong>: 극적으로 진화하다
+* <strong style="color:blue;">lie back</strong>: 뒤로 눕다
+* <strong style="color:blue;">upped their game</strong>: 수준을 높이다, 분발하다
+* <strong style="color:blue;">transformed from A into B</strong>: A에서 B로 변화하다
