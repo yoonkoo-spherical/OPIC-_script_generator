@@ -14915,3 +14915,109 @@ When comparing movie theaters from the past to the modern multiplexes we have to
 * <strong style="color:blue;">lie back</strong>: 뒤로 눕다
 * <strong style="color:blue;">upped their game</strong>: 수준을 높이다, 분발하다
 * <strong style="color:blue;">transformed from A into B</strong>: A에서 B로 변화하다
+
+## 2026-09-12 07:24:40 OPIc Study
+
+### 묘사 : 해외 여행을 가기 위한 공항 내부 묘사
+
+**[Question]**
+I would like to know about the airport you usually visit when you go on an overseas trip. Could you describe the inside of the airport in detail? What does it look like, and what are the people doing there?
+해외여행을 갈 때 주로 방문하는 공항에 대해 알고 싶습니다. 공항 내부의 모습을 자세히 묘사해 주시겠어요? 어떻게 생겼으며, 그곳에서 사람들은 무엇을 하고 있나요?
+
+**[Model Answer]**
+Well, whenever I get to go on an overseas trip, the moment I step inside the airport, I immediately <strong style="color:blue;">get swept up in</strong> the incredible hustle and bustle, which always <strong style="color:blue;">sets the mood for</strong> my vacation. 
+
+To give you a vivid picture, the departure hall is usually massive with exceptionally high glass ceilings that let in a flood of natural sunlight, making the entire area feel remarkably bright and spacious. As soon as you walk through the main entrance, the sheer scale of the place is striking. Right in the center, there is a giant information display board <strong style="color:blue;">flashing away</strong> with flight schedules, and you can see hundreds of passengers <strong style="color:blue;">hurrying along</strong> with their luggage carts loaded with suitcases.
+
+If you look around, the airport is typically divided into several distinct zones. On one side, you'll notice massive queues stretching out in front of the check-in counters. People are <strong style="color:blue;">standing in line</strong> patiently, waiting to drop off their baggage and <strong style="color:blue;">check in for</strong> their flights. Airline staff members are busy <strong style="color:blue;">dealing with</strong> passport verification and issuing boarding passes with absolute professionalism. 
+
+Meanwhile, if you <strong style="color:blue;">look over to</strong> the other side, there are cozy cafes and duty-free pickup zones. Many travelers who have already <strong style="color:blue;">wrapped up</strong> their security checks are <strong style="color:blue;">hanging out</strong> at coffee shops, sipping their iced Americanos while <strong style="color:blue;">catching up on</strong> last-minute travel plans or chatting excitedly with their companions. Some families with young kids are <strong style="color:blue;">taking a break</strong> on the comfortable leather benches near the boarding gates, keeping an eye on their children who are <strong style="color:blue;">running around</strong> out of pure excitement. 
+
+What's fascinating is that despite the chaotic atmosphere, there is a strange sense of orderly movement. Everyone is <strong style="color:blue;">on the move</strong> with a specific destination in mind. The ambient sound consists of a mixture of rolling suitcase wheels, multilingual announcement speakers, and the low hum of chatter, all of which <strong style="color:blue;">add up to</strong> that signature airport vibe. Honestly, just observing people's expressions—ranging from exhausted business travelers to wide-eyed tourists—is a great source of entertainment for me while waiting for my flight.
+
+**[Vocabulary & Expressions]**
+* exceptionally: 유난히, 별나게
+* verification: 확인, 증명
+* ambient: 주위의, 주변의
+* <strong style="color:blue;">get swept up in</strong>: ~에 휘말리다, 휩쓸리다
+* <strong style="color:blue;">sets the mood for</strong>: ~의 분위기를 조성하다
+* <strong style="color:blue;">flashing away</strong>: 번쩍이는, 반짝이는
+* <strong style="color:blue;">hurrying along</strong>: 서둘러 나아가다
+* <strong style="color:blue;">standing in line</strong>: 줄을 서서 기다리다
+* <strong style="color:blue;">check in for</strong>: 탑승 수속을 밟다
+* <strong style="color:blue;">dealing with</strong>: ~을 처리하다, 다루다
+* <strong style="color:blue;">look over to</strong>: ~쪽을 바라보다
+* <strong style="color:blue;">wrapped up</strong>: 끝마친, 마무리된
+* <strong style="color:blue;">hanging out</strong>: 시간을 보내다, 어울리다
+* <strong style="color:blue;">catching up on</strong>: (소식 등을) 알아보다, 따라잡다
+* <strong style="color:blue;">taking a break</strong>: 휴식을 취하다
+* <strong style="color:blue;">running around</strong>: 사방으로 뛰어다니다
+* <strong style="color:blue;">on the move</strong>: 이동 중에, 바쁘게 움직이는
+* <strong style="color:blue;">add up to</strong>: 결국 ~이 되다, 합계가 ~이다
+
+---
+### 롤플레이 : 침대 배송 시간 변경 요청
+
+**[Question]**
+Imagine you recently purchased a bed from a furniture store, and it is scheduled to be delivered tomorrow. However, an urgent personal matter has come up, and you need to change the delivery time. Call the furniture store and explain your situation to the customer service representative, then suggest two or three alternative options.
+최근 가구점에서 침대를 구입했고 내일 배송될 예정이라고 상상해 보십시오. 하지만 급한 개인 일이 생겨 배송 시간을 변경해야 합니다. 가구점에 전화하여 고객센터 직원에게 상황을 설명하고, 두세 가지 대안을 제안하세요.
+
+**[Model Answer]**
+Hi, good afternoon. My name is Alex, and I’m calling to <strong style="color:blue;">follow up on</strong> a delivery order I placed last week. I recently purchased a queen-size bed from your store, and according to my receipt, it is scheduled to be delivered to my apartment tomorrow afternoon between 2 PM and 5 PM. 
+
+The thing is, I have a sudden emergency at work. Something unexpected <strong style="color:blue;">came up</strong> this morning, and I am required to attend an urgent meeting out of town tomorrow afternoon. Because of this, I won't be able to stay at home to receive the bed and let the delivery crew in. I am terribly sorry for any inconvenience this might cause, as I know your delivery schedule is probably fully booked. 
+
+So, I was wondering if it’s possible to <strong style="color:blue;">reschedule</strong> the delivery. Let me offer a couple of alternative options that might work on your end. First, would it be possible to <strong style="color:blue;">push back</strong> the delivery time to tomorrow evening, say around 7 PM or 8 PM? I should be back home by then, so I can definitely be there to receive it. 
+
+If tomorrow evening is completely impossible for the drivers, how about changing the date to the day after tomorrow? I am working from home the day after tomorrow, so any time in the morning—preferably between 9 AM and 12 PM—would be completely fine for me. 
+
+Could you please check your system and see if either of these options is doable? I would really appreciate your help in <strong style="color:blue;">sorting this out</strong>. Thank you so much for your understanding, and I look forward to hearing back from you soon.
+
+**[Vocabulary & Expressions]**
+* receipt: 영수증
+* requirement: 요구 사항
+* doable: 실행 가능한, 할 수 있는
+* <strong style="color:blue;">follow up on</strong>: ~에 대해 후속 조치를 취하다, 확인하다
+* <strong style="color:blue;">came up</strong>: (일이) 생기다, 발생하다
+* <strong style="color:blue;">reschedule</strong>: 일정을 변경하다
+* <strong style="color:blue;">push back</strong>: (시간·일정을) 미루다, 연기하다
+* <strong style="color:blue;">sorting this out</strong>: 이 문제를 해결하다, 정리하다
+
+---
+### 돌발 : 스마트폰 또는 컴퓨터 고장 경험
+
+**[Question]**
+Tell me about a time recently when your smartphone or computer broke down, causing you major inconvenience in your daily life. What was the exact situation, how did you feel, and how did you resolve the problem?
+최근 스마트폰이나 컴퓨터가 고장 나서 일상생활에 큰 불편을 겪었던 경험에 대해 이야기해 주세요. 정확히 어떤 상황이었고, 기분이 어땠으며, 그 문제를 어떻게 해결하셨나요?
+
+**[Model Answer]**
+You know, looking back, the most frustrating and chaotic day of my entire year happened just about a month ago when my main work laptop suddenly <strong style="color:blue;">gave out</strong> on me right in the middle of a busy workday. 
+
+It was a Tuesday morning, and I was in the middle of preparing a critical presentation for a major client meeting scheduled for the afternoon. I had dozens of browser tabs open, along with heavy design software running simultaneously. Suddenly, the screen <strong style="color:blue;">went completely blank</strong>, and I heard a weird clicking noise from the hard drive. I tried to <strong style="color:blue;">restart</strong> it multiple times by holding down the power button, but nothing happened. It wouldn't even boot up. The Apple logo flashed briefly and then the screen remained pitch black. 
+
+I honestly felt an extreme wave of panic <strong style="color:blue;">wash over</strong> me. My heart started <strong style="color:blue;">pounding heavily</strong> because all my project files, final drafts, and important documents were stored locally on that machine, and I hadn't backed up my data to cloud storage for a few days. For about ten minutes, I was completely paralyzed, staring at the dead screen and wondering how on earth I was going to <strong style="color:blue;">pull off</strong> the presentation without my notes and slides. 
+
+Realizing that panicking wasn't going to <strong style="color:blue;">get me anywhere</strong>, I quickly <strong style="color:blue;">pulled myself together</strong>. I immediately packed up the laptop, ran out of my apartment, and <strong style="color:blue;">headed straight for</strong> the nearest official service center. 
+
+When I got there, I had to <strong style="color:blue;">wait in a long queue</strong> for nearly an hour before a technician finally looked at my device. After running a diagnostic test, he gave me the bad news: the motherboard had short-circuited due to overheating, and the hard drive was severely damaged. However, after pleading with him and explaining the urgency of my situation, he managed to <strong style="color:blue;">extract</strong> my essential data using a special external cable and transferred it onto a USB flash drive. 
+
+As for the laptop itself, I had to <strong style="color:blue;">leave it behind</strong> for repairs, which took nearly a week, and I had to borrow an old, sluggish laptop from a friend to <strong style="color:blue;">get by</strong> in the meantime. That whole ordeal was a huge wake-up call for me, and ever since that day, I make it a strict habit to <strong style="color:blue;">back up</strong> all my important files to the cloud every single night.
+
+**[Vocabulary & Expressions]**
+* simultaneously: 동시에
+* diagnostic: 진단의
+* short-circuit: 합선되다
+* sluggish: 느릿느릿 움직이는, 부진한
+* ordeal: 시련, 고난
+* <strong style="color:blue;">gave out</strong>: 고장 나다, 다 닳다
+* <strong style="color:blue;">went completely blank</strong>: 완전히 까맣게 되다, 먹통이 되다
+* <strong style="color:blue;">wash over</strong>: (감정 등이 덮치듯) 밀려오다
+* <strong style="color:blue;">pounding heavily</strong>: 심장이 쿵쾅거리다
+* <strong style="color:blue;">pull off</strong>: (어려운 일을) 해내다, 성사시키다
+* <strong style="color:blue;">get me anywhere</strong>: 아무런 도움이 되다, 진전을 보이다 (주로 부정문)
+* <strong style="color:blue;">pulled myself together</strong>: 마음을 가라앉히다, 정신을 차리다
+* <strong style="color:blue;">headed straight for</strong>: ~를 향해 곧장 가다
+* <strong style="color:blue;">wait in a long queue</strong>: 긴 줄을 서서 기다리다
+* <strong style="color:blue;">leave it behind</strong>: 두고 가다, 맡기고 가다
+* <strong style="color:blue;">get by</strong>:럭키하게럭키 (럭키하게럭키 생략)럭키하게럭키 ->럭키하게럭키 (임시:럭키하게럭키->) 간신히 살아가다, 견뎌내다
+* <strong style="color:blue;">back up</strong>: 백업하다, 예비해 두다
