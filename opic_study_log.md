@@ -15021,3 +15021,93 @@ As for the laptop itself, I had to <strong style="color:blue;">leave it behind</
 * <strong style="color:blue;">leave it behind</strong>: 두고 가다, 맡기고 가다
 * <strong style="color:blue;">get by</strong>:럭키하게럭키 (럭키하게럭키 생략)럭키하게럭키 ->럭키하게럭키 (임시:럭키하게럭키->) 간신히 살아가다, 견뎌내다
 * <strong style="color:blue;">back up</strong>: 백업하다, 예비해 두다
+
+## 2026-09-13 07:44:03 OPIc Study
+
+### 묘사 : 가장 좋아하는 SF 영화 장르와 인터스텔라 묘사
+
+**[Question]**
+What is your favorite movie genre, and could you describe a representative movie of that genre? What makes it so special to you?
+(가장 좋아하는 영화 장르가 무엇이며, 그 장르를 대표하는 영화 한 편을 묘사해 주실 수 있나요? 무엇이 그 영화를 당신에게 특별하게 만드나요?)
+
+**[Model Answer]**
+You know, if you ask me about my absolute favorite movie genre, I would have to say it is definitely science fiction. I have always been fascinated by space, time travel, and the endless possibilities of the future. Among countless sci-fi masterpieces, the one that <strong style="color:blue;">stands out</strong> the most to me is Christopher Nolan's 'Interstellar'. 
+
+To <strong style="color:blue;">paint a picture</strong> of the film, it is set in a dystopian future where Earth is <strong style="color:blue;">running out of</strong> resources and slowly becoming uninhabitable. The protagonist, a former NASA pilot named Cooper, is <strong style="color:blue;">tasked with</strong> leading a mission through a wormhole to find a new habitable planet for humanity. The visual effects in the movie are simply breathtaking. When I first watched the scenes depicting the colossal black hole named 'Gargantua' and the freezing water planets, I was completely blown away. The sheer scale of the universe was <strong style="color:blue;">brought to life</strong> with incredible scientific accuracy and stunning cinematography. 
+
+What really <strong style="color:blue;">sets this movie apart</strong> from other sci-fi films, though, is its profound emotional core. Beneath the complex theories of relativity and quantum mechanics, it is fundamentally a story about the unbreakable bond between a father and his daughter. The scene where Cooper watches video messages from his grown-up children after decades have passed due to time dilation never fails to <strong style="color:blue;">bring me to tears</strong>. It really <strong style="color:blue;">hits home</strong> for me because it makes me reflect on the value of family and the passage of time. Overall, 'Interstellar' is not just a visual spectacle, but a masterpiece that <strong style="color:blue;">grows on</strong> you the more you watch it, leaving you <strong style="color:blue;">lost in thought</strong> for days.
+
+**[Vocabulary & Expressions]**
+* Masterpiece: 걸작
+* Cinematorgaphy: 촬영 기술
+* Relativity: 상대성 이론
+* Dystopian: 디스토피아의
+* <strong style="color:blue;">stands out</strong>: 두드러지다, 눈에 띄다
+* <strong style="color:blue;">paint a picture</strong>: 생생하게 묘사하다
+* <strong style="color:blue;">running out of</strong>: ~이 바닥나다, 고갈되다
+* <strong style="color:blue;">tasked with</strong>: ~라는 임무를 맡다
+* <strong style="color:blue;">brought to life</strong>: 생생하게 구현되다
+* <strong style="color:blue;">sets this movie apart</strong>: 이 영화를 차별화하다
+* <strong style="color:blue;">bring me to tears</strong>: 나를 눈물 흘리게 하다
+* <strong style="color:blue;">hits home</strong>: 가슴에 와닿다, 뼈저리게 느껴지다
+* <strong style="color:blue;">grows on</strong>: 갈수록 좋아지다, 마음에 들다
+* <strong style="color:blue;">lost in thought</strong>: 생각에 잠긴
+
+---
+### 롤플레이 : 카페에서 콘센트 고장 문의하기
+
+**[Question]**
+You are at a cafe to study, but you realize that the power outlet at your seat is not working. Call the staff, explain the situation, and offer two or three alternative solutions.
+(카페에서 공부를 하려는데 자리에 있는 콘센트가 작동하지 않습니다. 직원에게 전화하여 상황을 설명하고, 두세 가지 대안을 제시해 주세요.)
+
+**[Model Answer]**
+Excuse me, hi. I'm sorry to bother you, but I'm actually sitting over there by the window, and I'm having a bit of an issue with the power outlet at my table. I really need to <strong style="color:blue;">plug in</strong> my laptop because my battery is <strong style="color:blue;">running low</strong>, but it seems like the outlet is completely dead. None of my devices are charging. I was wondering if you could <strong style="color:blue;">look into</strong> this for me?
+
+Since I have a major report to finish and I need to <strong style="color:blue;">stay on top of</strong> my work, is there any way we can <strong style="color:blue;">sort this out</strong> quickly? If the outlet itself is broken and cannot be fixed right away, would it be possible for me to <strong style="color:blue;">move over</strong> to another table that has a working socket? I noticed a couple of empty seats near the counter. Or alternatively, do you happen to have a extension cord or a portable power strip that I could <strong style="color:blue;">borrow for</strong> a couple of hours? I would really <strong style="color:blue;">appreciate it</strong> if you could help me <strong style="color:blue;">work around</strong> this little problem so I can <strong style="color:blue;">get back on track</strong> with my studies. Thank you so much for your understanding.
+
+**[Vocabulary & Expressions]**
+* Outlet: 콘센트
+* Extension cord: 연장선, 멀티탭
+* Alternative: 대안의
+* <strong style="color:blue;">plug in</strong>: 플러그를 꽂다
+* <strong style="color:blue;">running low</strong>: (배터리 등이) 얼마 남지 않다
+* <strong style="color:blue;">look into</strong>: ~을 조사하다, 알아보다
+* <strong style="color:blue;">stay on top of</strong>: (~을) 주도적으로 처리하다, 뒤처지지 않다
+* <strong style="color:blue;">sort this out</strong>: 이 문제를 해결하다
+* <strong style="color:blue;">move over</strong>: 자리를 옮기다
+* <strong style="color:blue;">borrow for</strong>: ~동안 빌리다
+* <strong style="color:blue;">appreciate it</strong>: 감사하게 생각하다
+* <strong style="color:blue;">work around</strong>: (~을 우회하여) 해결하다
+* <strong style="color:blue;">get back on track</strong>: 제자리를 찾다, 정상 궤도에 오르다
+
+---
+### 돌발 : 어린 시절 TV 프로그램과 요즘 영상 매체 비교
+
+**[Question]**
+How have TV programs and video media changed since you were a child compared to nowadays? What are the main differences in how people consume media?
+(당신이 어렸을 때와 비교하여 요즘 TV 프로그램과 영상 매체는 어떻게 달라졌나요? 사람들이 미디어를 소비하는 방식에서의 주요 차이점은 무엇인가요?)
+
+**[Model Answer]**
+You know, when I <strong style="color:blue;">think back to</strong> my childhood, the media landscape was completely different from what we see today. Back then, television was the absolute center of entertainment in our household. My family and I used to <strong style="color:blue;">gather around</strong> the TV screen at a specific time every evening to watch our favorite drama series or animation. We had no choice but to <strong style="color:blue;">adhere to</strong> the broadcasting schedule, and if you missed an episode, you simply missed it. Commercial breaks were a given, and we just had to <strong style="color:blue;">sit through</strong> them.
+
+Fast forward to today, and the way we consume video content has <strong style="color:blue;">gone through</strong> a massive paradigm shift. With the explosive growth of streaming services like Netflix, YouTube, and various OTT platforms, people are no longer <strong style="color:blue;">tied down</strong> to scheduled broadcasting. Nowadays, everything is <strong style="color:blue;">on demand</strong>. Viewers can <strong style="color:blue;">binge-watch</strong> an entire season of a show in a single weekend if they want to. Furthermore, the content itself has become much more diverse, personalized, and interactive. Algorithms <strong style="color:blue;">tailor</strong> recommendations based on our viewing habits, which <strong style="color:blue;">brings about</strong> a totally customized experience. 
+
+Another huge difference is the platform itself. While my generation grew up watching bulky television sets in the living room, younger generations nowadays mostly <strong style="color:blue;">rely on</strong> smartphones and tablets. They prefer short-form content like TikTok or YouTube Shorts, which allows them to <strong style="color:blue;">consume media</strong> on the go. To <strong style="color:blue;">sum it all up</strong>, the shift from traditional scheduled TV to digital streaming has fundamentally redefined our daily habits, giving us unprecedented freedom and flexibility in how we entertain ourselves.
+
+**[Vocabulary & Expressions]**
+* Paradigm shift: 패러다임 전환
+* Broadcasting: 방송
+* Unprecedented: 전례 없는
+* <strong style="color:blue;">think back to</strong>: ~를 회상하다
+* <strong style="color:blue;">gather around</strong>: ~주위에 모이다
+* <strong style="color:blue;">adhere to</strong>: ~을 고수하다, 따르다
+* <strong style="color:blue;">sit through</strong>: (지루한 것을) 끝까지 견디다
+* <strong style="color:blue;">gone through</strong>: 겪다, 거치다
+* <strong style="color:blue;">tied down</strong>: 묶여 있는, 구속받는
+* <strong style="color:blue;">on demand</strong>: 수요에 응하는, 원할 때 볼 수 있는
+* <strong style="color:blue;">binge-watch</strong>: 정주행하다 (몰아서 보다)
+* <strong style="color:blue;">tailor</strong>: 맞추다, 조정하다
+* <strong style="color:blue;">brings about</strong>: 야기하다, 초래하다
+* <strong style="color:blue;">rely on</strong>: ~에 의존하다
+* <strong style="color:blue;">consume media</strong>: 미디어를 소비하다
+* <strong style="color:blue;">sum it all up</strong>: 요약하자면
