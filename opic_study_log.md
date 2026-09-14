@@ -15111,3 +15111,80 @@ Another huge difference is the platform itself. While my generation grew up watc
 * <strong style="color:blue;">rely on</strong>: ~에 의존하다
 * <strong style="color:blue;">consume media</strong>: 미디어를 소비하다
 * <strong style="color:blue;">sum it all up</strong>: 요약하자면
+
+## 2026-09-14 08:12:57 OPIc Study
+
+### 묘사 : 나의 존경하는 아버지 묘사
+
+**[Question]**
+Please describe one of your family members whom you respect the most. What do they look like and what kind of personality do they have? Why do you look up to them so much?
+가장 존경하는 가족 구성원을 묘사해 주세요. 외모는 어떠하고 성격은 어떤가요? 왜 그분을 그렇게 존경하시나요?
+
+**[Model Answer]**
+You know, when it comes to the person I respect the most in my life, without a doubt, it has to be my father. To begin with, physically speaking, he is quite tall and has a very warm and gentle impression. Even though he is getting older now, he always tries to <strong style="color:blue;">stay in shape</strong> by working out every single morning, which is something I really admire. When it comes to his personality, he is one of the most patient and open-minded people I have ever known. He never <strong style="color:blue;">loses his temper</strong>, no matter how stressful the situation might be. Instead, he always listens to others attentively before <strong style="color:blue;">making up his mind</strong>. I vividly remember a time back in college when I completely failed an important exam and was totally devastated. I thought my life was over, but my dad simply put his hand on my shoulder and said that failure is just a stepping stone to success. He <strong style="color:blue;">talked me through</strong> the entire problem and helped me <strong style="color:blue;">get back on my feet</strong>. That moment really <strong style="color:blue;">left a lasting impression</strong> on me. Over the years, I have truly <strong style="color:blue;">come to realize</strong> just how much wisdom he has. He is not just a father to me, but also a life mentor whom I can always <strong style="color:blue;">look up to</strong>. All in all, my dad is the absolute pillar of our family, and I strive to be a person just like him every single day.
+
+**[Vocabulary & Expressions]**
+* impression: 인상
+* attentively: 주의 깊게
+* devastated: 큰 충격을 받은
+* stepping stone: 디딤돌, 발판
+* wisdom: 지혜
+* <strong style="color:blue;">stay in shape</strong>: 건강을 유지하다, 몸매를 가꾸다
+* <strong style="color:blue;">loses his temper</strong>: 화를 내다
+* <strong style="color:blue;">making up his mind</strong>: 결정을 내리다
+* <strong style="color:blue;">talked me through</strong>: 차근차근 설명해 주다, 설득하다
+* <strong style="color:blue;">get back on my feet</strong>: 재기하다, 다시 일어서다
+* <strong style="color:blue;">left a lasting impression</strong>: 깊은 인상을 남기다
+* <strong style="color:blue;">come to realize</strong>: 깨닫게 되다
+* <strong style="color:blue;">look up to</strong>: 존경하다
+
+---
+### 롤플레이 : 미용실 머리 수정 요청하기
+
+**[Question]**
+You went to a hair salon to get a haircut, but when you look in the mirror after it's done, you are not satisfied with the result at all. It is way too short and the style is completely different from what you wanted. Call the hair designer, explain the situation, and offer two or three alternative solutions.
+미용실에 가서 머리를 잘랐는데, 끝나고 거울을 보니 결과가 전혀 마음에 들지 않습니다. 너무 짧고 원하는 스타일과 완전히 다릅니다. 헤어 디자이너에게 전화하여 상황을 설명하고 2~3가지 대안을 제시해 주세요.
+
+**[Model Answer]**
+Hi, um, excuse me. I actually just got my hair cut here about an hour ago, and to be honest, I am quite unhappy with how it turned out. I mean, look at this. It is way shorter than what I originally asked for, and the overall layering is completely off. I specifically showed you a picture of the style I wanted, but this looks totally different. I have a very important presentation at work tomorrow morning, and I honestly don't know how to <strong style="color:blue;">show up</strong> looking like this. I'm really upset, but since it's already cut, shouting isn't going to <strong style="color:blue;">solve the problem</strong>. Instead, I'd like to <strong style="color:blue;">come up with</strong> a solution together. First of all, is there any way you can <strong style="color:blue;">fix it up</strong> by adding some natural waves or using some styling products to soften the look? Or, if that's impossible because it's too short, do you happen to have any hair extensions available that can temporarily <strong style="color:blue;">make up for</strong> the length? Lastly, if none of these options work, I would like to ask for a full refund so I can at least try to get it partially corrected at another salon. Please, let's <strong style="color:blue;">work this out</strong> reasonably. I look forward to your prompt suggestion.
+
+**[Vocabulary & Expressions]**
+* layering: 층 (헤어스타일)
+* presentation: 발표
+* temporarily: 일시적으로
+* extension: 붙임머리, 연장
+* prompt: 신속한
+* <strong style="color:blue;">show up</strong>: 나타나다, 출석하다
+* <strong style="color:blue;">solve the problem</strong>: 문제를 해결하다
+* <strong style="color:blue;">come up with</strong>: ~을 생각해 내다
+* <strong style="color:blue;">fix it up</strong>: 수정하다, 손보다
+* <strong style="color:blue;">make up for</strong>: 보완하다, 만회하다
+* <strong style="color:blue;">work this out</strong>: 이 문제를 원만히 해결하다
+
+---
+### 돌발 : 동아리 갈등 해결 경험
+
+**[Question]**
+Tell me about a time when you were in a leadership role within a group, such as a club or a team, and you had to resolve a conflict among members. What caused the conflict and how did you handle it? What was the outcome?
+동아리나 팀 같은 집단에서 리더 역할을 맡아 구성원 간의 갈등을 해결해야 했던 경험에 대해 이야기해 주세요. 갈등의 원인은 무엇이었고 어떻게 대처했나요? 결과는 어땠나요?
+
+**[Model Answer]**
+Well, back when I was a senior in college, I served as the president of our university's English drama club. We were preparing for our annual performance, which was just two weeks away, when a massive conflict <strong style="color:blue;">broke out</strong> between the main actor and the stage director. The director thought the actor was not attending rehearsals seriously and was <strong style="color:blue;">slacking off</strong>, while the actor felt the director was being overly controlling and demanding too much without any flexibility. The tension in the club became so intense that other members started <strong style="color:blue;">taking sides</strong>, and the practice was completely <strong style="color:blue;">brought to a halt</strong>. Realizing that if I didn't <strong style="color:blue;">step in</strong> immediately, the whole project would <strong style="color:blue;">fall apart</strong>, I decided to take action. First, I called for an emergency meeting, but not to scold them. Instead, I asked both of them to <strong style="color:blue;">open up</strong> and share their inner frustrations in a private, calm setting. I listened to each side without judgment and helped them <strong style="color:blue;">see eye to eye</strong> by explaining the immense pressure each person was under. The director realized the actor was struggling with heavy academic coursework, and the actor understood the immense stress the director was facing regarding the schedule. Once they <strong style="color:blue;">cleared the air</strong>, they sincerely apologized to each other and <strong style="color:blue;">made up</strong>. Thanks to that intervention, we successfully <strong style="color:blue;">pulled off</strong> the play without any further issues. That experience taught me that active listening and empathy are the most crucial qualities of a true leader.
+
+**[Vocabulary & Expressions]**
+* annual: 연례의
+* tension: 긴장감
+* intervention: 개입
+* empathy: 공감
+* crucial: 중대한, 결정적인
+* <strong style="color:blue;">broke out</strong>: (사건 등이) 발생하다
+* <strong style="color:blue;">slacking off</strong>: 요령 피우다, 태만히 하다
+* <strong style="color:blue;">taking sides</strong>: 편을 들다
+* <strong style="color:blue;">brought to a halt</strong>: 중단되다
+* <strong style="color:blue;">step in</strong>: 개입하다, 나서다
+* <strong style="color:blue;">fall apart</strong>: 무너지다, 결속이 깨지다
+* <strong style="color:blue;">open up</strong>: 마음을 열다
+* <strong style="color:blue;">see eye to eye</strong>: 의견이 일치하다, 견해를 같이하다
+* <strong style="color:blue;">cleared the air</strong>: 오해를 풀다, 분위기를 정화하다
+* <strong style="color:blue;">made up</strong>: 화해하다
+* <strong style="color:blue;">pulled off</strong>: (어려운 일을) 해내다
