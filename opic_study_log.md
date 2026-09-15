@@ -15188,3 +15188,114 @@ Well, back when I was a senior in college, I served as the president of our univ
 * <strong style="color:blue;">cleared the air</strong>: 오해를 풀다, 분위기를 정화하다
 * <strong style="color:blue;">made up</strong>: 화해하다
 * <strong style="color:blue;">pulled off</strong>: (어려운 일을) 해내다
+
+## 2026-09-15 08:06:08 OPIc Study
+
+### 묘사 : 자주 사용하는 스마트폰 앱 인터페이스
+
+**[Question]**
+What is your most frequently used smartphone application, and can you describe its overall layout and interface in detail?
+(당신이 가장 자주 사용하는 스마트폰 애플리케이션은 무엇이며, 그 전반적인 레이아웃과 인터페이스를 자세히 묘사해 주실 수 있나요?)
+
+**[Model Answer]**
+You know, if I have to pick one app that I use more than anything else on a daily basis, it would definitely be Instagram. I <strong style="color:blue;">spend hours on end</strong> scrolling through it, so I am extremely familiar with its interface. Let me <strong style="color:blue;">break it down</strong> for you piece by piece. 
+
+First of all, when you launch the app, you are immediately greeted by the main feed, which takes up the majority of the screen. At the very top, there is the iconic Instagram logo, and right next to it, you can find the direct message icon and the notification heart. Below the logo is the "Stories" bar, where circular profile pictures of the people I follow are lined up horizontally. When someone <strong style="color:blue;">puts up</strong> a new story, a colorful ring <strong style="color:blue;">pops up</strong> around their profile picture, which really <strong style="color:blue;">draws my attention</strong>. 
+
+Now, moving down to the main content area, that's where the photo and video posts are displayed vertically. Each post is structured with the user's profile at the top, the media content in the middle, and interactive icons—like the like heart, comment bubble, and share button—right underneath. If you want to <strong style="color:blue;">get away from</strong> the feed and explore new content, you can easily <strong style="color:blue;">navigate through</strong> the bottom navigation bar. This bar is permanently fixed at the bottom of the screen and includes the home icon, the search and explore tab, the reels button, the shopping tab, and finally, your own profile icon. 
+
+What I really love about this interface is its minimalist and sleek design. The developers <strong style="color:blue;">keep up with</strong> modern UI trends by using a clean, dark-mode-friendly background that doesn't <strong style="color:blue;">strain my eyes</strong> even when I <strong style="color:blue;">browse through</strong> the app late at night. Everything is just so intuitive and <strong style="color:blue;">laid out</strong> logically, which makes the user experience exceptionally smooth. Overall, the interface is designed in a way that effortlessly <strong style="color:blue;">draws users in</strong> and keeps them engaged for hours.
+
+**[Vocabulary & Expressions]**
+* minimalist: 미니멀한, 단순한
+* intuitive: 직관적인
+* exceptionally: 유례없이, 유난히
+* <strong style="color:blue;">spend hours on end</strong>: 몇 시간 동안 계속해서 ~를 보내다
+* <strong style="color:blue;">break down</strong>: 상세히 설명하다, 분석하다
+* <strong style="color:blue;">puts up</strong>: (게시물 등을) 올리다, 게시하다
+* <strong style="color:blue;">pops up</strong>: 팝업으로 뜨다, 불쑥 나타나다
+* <strong style="color:blue;">draws my attention</strong>: 내 주의를 끌다
+* <strong style="color:blue;">get away from</strong>: ~로부터 벗어나다
+* <strong style="color:blue;">navigate through</strong>: ~를 탐색하며 이동하다
+* <strong style="color:blue;">keep up with</strong>: ~에 뒤처지지 않고 따라가다
+* <strong style="color:blue;">strain my eyes</strong>: 눈을 피로하게 하다
+* <strong style="color:blue;">browse through</strong>: 훑어보다, 둘러보다
+* <strong style="color:blue;">laid out</strong>: 배치된, 설계된
+* <strong style="color:blue;">draw users in</strong>: 사용자를 끌어들이다
+
+---
+### 롤플레이 : 세탁소에 코트 맡기며 주의점 설명
+
+**[Question]**
+I'd like to give you a situation and ask you to act it out. You need to drop off your expensive winter coat at a dry cleaner's. Ask the staff about the cleaning process and explain some special care instructions for your coat.
+(상황을 하나 드리겠습니다. 연기를 해 주세요. 당신은 비싼 겨울 코트를 세탁소에 맡겨야 합니다. 직원에게 세탁 과정에 대해 물어보고 코트에 대한 몇 가지 특별한 주의 사항을 설명하세요.)
+
+**[Model Answer]**
+Hi there! I'd like to <strong style="color:blue;">drop off</strong> this winter coat for dry cleaning, but to be honest, I'm a bit nervous because it's quite expensive and holds a lot of sentimental value to me. Could you explain a little bit about how you handle delicate items like this? 
+
+Oh, I see. So you hand-inspect every single item before putting them into separate batches. That's a relief to hear! But before I hand it over, I really need to <strong style="color:blue;">point out</strong> a few things that you guys need to <strong style="color:blue;">pay close attention to</strong>. 
+
+First of all, if you look at the sleeve right here, there is a tiny coffee stain that I <strong style="color:blue;">accidently spilled</strong> yesterday morning. Could you make sure to <strong style="color:blue;">pay extra attention</strong> to this specific spot? But please, do not use any harsh chemical removers on it because the fabric is 100% pure cashmere, and it can easily <strong style="color:blue;">get ruined</strong>. Instead, could you gently <strong style="color:blue;">work on</strong> it with a mild, eco-friendly detergent? 
+
+Also, there's another major concern. The buttons on the front are vintage tortoiseshell buttons, and they are quite loose. I'm really worried that they might <strong style="color:blue;">fall off</strong> during the machine tumble. Would it be possible for you to either remove them beforehand or <strong style="color:blue;">sew them up</strong> more tightly before the cleaning process begins? 
+
+Lastly, when it comes to drying, please do not use high heat under any circumstances. I always <strong style="color:blue;">make sure to</strong> air-dry or use a very low-temperature setting to prevent the material from shrinking. If you could just <strong style="color:blue;">keep these in mind</strong>, I would deeply appreciate it. When do you think it will be ready for pickup?
+
+**[Vocabulary & Expressions]**
+* sentimental value: 감정적 가치, 소중한 의미
+* delicate: 섬세한, 조심해서 다뤄야 하는
+* detergent: 세제
+* vintage: 빈티지의, 오래된
+* tortoiseshell: 거북이 등껍질 무늬의
+* shrink: 줄어들다, 수축하다
+* <strong style="color:blue;">drop off</strong>: (물건을) 맡기다, 내려주다
+* <strong style="color:blue;">point out</strong>: 지적하다, 짚어주다
+* <strong style="color:blue;">pay close attention to</strong>: 주의 깊게 살피다
+* <strong style="color:blue;">accidently spilled</strong>: 우연히 흘리다
+* <strong style="color:blue;">pay extra attention</strong>: 특별히 신경 쓰다
+* <strong style="color:blue;">get ruined</strong>: 망가지다, 상하다
+* <strong style="color:blue;">work on</strong>: 공을 들이다, 작업하다
+* <strong style="color:blue;">fall off</strong>: 떨어지다, 탈락하다
+* <strong style="color:blue;">sew them up</strong>: 그것들을 꿰매어 붙이다
+* <strong style="color:blue;">make sure to</strong>: 반드시 ~하다
+* <strong style="color:blue;">keep these in mind</strong>: 이것들을 명심하다
+
+---
+### 돌발 : 스포츠 경기 관람 중 예상치 못한 결과
+
+**[Question]**
+Tell me about a time when you were watching a sports game and something completely unexpected happened. What was the game, what was the unexpected situation, and how did it make you feel and react?
+(스포츠 경기를 관람하다가 완전히 예상치 못한 일이 일어났던 경험에 대해 말씀해 주세요. 어떤 경기였고, 예상치 못한 상황은 무엇이었으며, 기분이 어땠고 어떻게 반응했나요?)
+
+**[Model Answer]**
+You know, sports are always full of twists and turns, but there is one particular incident that still <strong style="color:blue;">stands out in my mind</strong>. It happened about a year ago when I was watching a crucial international football match between our national team and one of the strongest teams in Asia. 
+
+Everyone, including myself, <strong style="color:blue;">wrote off</strong> our team from the very beginning because the opposing team had world-class players and a massive tactical advantage. Throughout the first half, things <strong style="color:blue;">went just as expected</strong>. Our team was <strong style="color:blue;">losing by</strong> two goals, and we were completely <strong style="color:blue;">on the defensive</strong>. I was actually about to <strong style="color:blue;">turn off</strong> the TV because it was so frustrating to watch, but I decided to <strong style="color:blue;">hang in there</strong> just until the end. 
+
+Then, out of nowhere, absolute magic happened in the last ten minutes of the game! Our substitute striker, who had never scored an international goal before, <strong style="color:blue;">pulled off</strong> an unbelievable bicycle kick from outside the penalty box, sending the ball <strong style="color:blue;">straight into</strong> the top corner of the net. The entire stadium—and myself in my living room—went <strong style="color:blue;">wild with excitement</strong>. I literally <strong style="color:blue;">jumped out of</strong> my couch, <strong style="color:blue;">let out</strong> a massive scream, and accidentally <strong style="color:blue;">knocked over</strong> my coffee table. 
+
+But that wasn't even the end of it. Riding the momentum, our team <strong style="color:blue;">kept up the pressure</strong>, and during the final minutes of injury time, we scored a dramatic header from a corner kick, <strong style="color:blue;">turning the tables</strong> completely and winning the game 3 to 2! I was in absolute disbelief and literally <shong style="color:blue;">teared up</shong> with joy. It was such an exhilarating, unforgettable moment that truly proved that in sports, you should never say never until the final whistle blows.
+
+**[Vocabulary & Expressions]**
+* crucial: 중대한, 결정적인
+* opposing: 상대하는, 적대하는
+* tactical: 전술적인
+* substitute: 교체 선수의, 대체의
+* striker: 공격수, 스트라이커
+* momentum: 탄력, 기세
+* exhilarating: 아주 신나는, 짜릿한
+* <strong style="color:blue;">stands out in my mind</strong>: 내 마음속에 선명하게 남다
+* <strong style="color:blue;">wrote off</strong>: 가능성이 없다고 포기하다, 치부하다
+* <strong style="color:blue;">went just as expected</strong>: 예상대로 흘러가다
+* <strong style="color:blue;">losing by</strong>: ~점 차로 지고 있다
+* <strong style="color:blue;">on the defensive</strong>: 수세에 몰린
+* <strong style="color:blue;">turn off</strong>: (전기 등을) 끄다
+* <strong style="color:blue;">hang in there</strong>: 견뎌내다, 버티다
+* <strong style="color:blue;">pulled off</strong>: (어려운 일을) 성사시키다, 해내다
+* <strong style="color:blue;">straight into</strong>: 곧바로 ~안으로
+* <strong style="color:blue;">wild with excitement</strong>: 흥분으로 광분한, 열광한
+* <strong style="color:blue;">jumped out of</strong>: ~에서 펄쩍 뛰어오르다
+* <strong style="color:blue;">let out</strong>: (소리를) 내지르다, 발산하다
+* <strong style="color:blue;">knocked over</strong>: 쳐서 쓰러뜨리다
+* <strong style="color:blue;">kept up the pressure</strong>: 압박을 계속 유지하다
+* <strong style="color:blue;">turning the tables</strong>: 판세를 뒤집다
