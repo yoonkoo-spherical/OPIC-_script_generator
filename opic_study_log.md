@@ -15299,3 +15299,104 @@ But that wasn't even the end of it. Riding the momentum, our team <strong style=
 * <strong style="color:blue;">knocked over</strong>: 쳐서 쓰러뜨리다
 * <strong style="color:blue;">kept up the pressure</strong>: 압박을 계속 유지하다
 * <strong style="color:blue;">turning the tables</strong>: 판세를 뒤집다
+
+## 2026-09-16 07:59:31 OPIc Study
+
+### 묘사 : 해외 여행을 앞둔 공항 내부 묘사
+
+**[Question]**
+I would like to know about the airport you visited for your overseas trip. Please describe the inside of the airport in detail from the moment you arrived until you passed through security. What did it look like, and what was the atmosphere there?
+(해외여행을 위해 방문한 공항에 대해 알고 싶습니다. 도착한 순간부터 보안 검색대를 통과할 때까지 공항 내부의 모습을 자세히 묘사해 주세요. 어떻게 생겼고, 그곳의 분위기는 어땠나요?)
+
+**[Model Answer]**
+You know, thinking back to my last trip abroad, the moment I <strong style="color:blue;">stepped foot into</strong> the Incheon International Airport terminal, I was once again blown away by its sheer scale and modern vibe. To <strong style="color:blue;">paint a picture</strong> for you, the departure hall was absolutely massive, featuring towering glass ceilings that allowed natural sunlight to <strong style="color:blue;">pour in</strong>, giving it a very bright and airy feel. 
+
+As I <strong style="color:blue;">made my way toward</strong> the airline counter to <strong style="color:blue;">check in</strong> for my flight, I noticed that the place was <strong style="color:blue;">buzzing with activity</strong>. Even though it was quite early in the morning, the terminal was already packed with travelers, and a low <strong style="color:blue;">hum of</strong> excitement and chatter <strong style="color:blue;">hung in the air</strong>. People were rushing around with their luggage carts, while others were saying tearful goodbyes to their families, which really <strong style="color:blue;">added to</strong> the dynamic atmosphere. 
+
+After getting my boarding pass, I had to <strong style="color:blue;">head over to</strong> the security checkpoint. The queue was pretty long, but it moved surprisingly fast thanks to the well-organized system. Standing there, I could hear the constant announcements echoing through the PA system and the faint <strong style="color:blue;">bickering of</strong> passengers trying to organize their carry-on items into plastic bins. Security officers were <strong style="color:blue;">barking out</strong> instructions to keep the line moving smoothly. 
+
+Once I finally <strong style="color:blue;">made it through</strong> security and immigration, the chaotic noise suddenly faded away, replaced by the calm, luxurious ambiance of the duty-free shops and boarding gates. Overall, the whole airport experience felt like the official start of my vacation, <strong style="color:blue;">filled with</strong> anticipation and nervous excitement.
+
+**[Vocabulary & Expressions]**
+* sheer scale: 엄청난 규모
+* dynamic atmosphere: 역동적인 분위기
+* <strong style="color:blue;">step foot into</strong>: ~에 발을 들이다
+* <strong style="color:blue;">paint a picture</strong>: 생생하게 묘사하다
+* <strong style="color:blue;">pour in</strong>: 쏟아져 들어오다
+* <strong style="color:blue;">made my way toward</strong>: ~쪽으로 나아가다
+* <strong style="color:blue;">check in</strong>: 탑승 수속을 하다
+* <strong style="color:blue;">buzzing with activity</strong>: 활기 넘치는, 분주한
+* <strong style="color:blue;">hum of</strong>: ~의 웅성거림
+* <strong style="color:blue;">hung in the air</strong>: (공기 중에) 감돌다
+* <strong style="color:blue;">added to</strong>: ~를 더하다
+* <strong style="color:blue;">head over to</strong>: ~로 향하다
+* <strong style="color:blue;">bickering of</strong>: ~의 티격태격함
+* <strong style="color:blue;">barking out</strong>: (고함치듯) 지시하다
+* <strong style="color:blue;">made it through</strong>: ~를 통과해 해내다
+* <strong style="color:blue;">filled with</strong>: ~로 가득 찬
+
+---
+### 롤플레이 : 길거리에서 주운 지갑 파출소 신고
+
+**[Question]**
+You found a wallet on the street while walking. You decided to go to a nearby police substation (파출소) to report it. Ask the police officer three or four questions about the procedure, or explain the situation and ask what you should do next.
+(길을 걷다 길에서 지갑을 주웠습니다. 인근 파출소에 가서 신고하기로 했습니다. 경찰관에게 절차에 대해 3~4가지 질문을 하거나, 상황을 설명하고 다음에 무엇을 해야 하는지 물어보세요.)
+
+**[Model Answer]**
+Excuse me, officer. I'm here because I need to <strong style="color:blue;">report a lost item</strong>. I was walking down the street near the subway station just a few minutes ago, and I <strong style="color:blue;">came across</strong> this leather wallet lying right on the sidewalk. It looks pretty expensive, and when I <strong style="color:blue;">took a quick peek inside</strong> to see if there was any ID, I saw quite a bit of cash and several credit cards. I figured the owner must be completely <strong style="color:blue;">freaking out</strong> right now, so I <strong style="color:blue;">decided against</strong> leaving it there and brought it straight to you guys. 
+
+Um, I have a few questions about what I need to do now. First of all, do I need to <strong style="color:blue;">fill out</strong> some kind of paperwork or write a statement regarding where and when I found it? I want to make sure everything is properly documented. 
+
+Also, I'm kind of curious about the legal side of things. If the owner <strong style="color:blue;">turns up</strong> and claims the wallet, am I entitled to any kind of finder's fee, or how does that work in this country? To be honest, I'm not really expecting a reward, but I just want to know the general rule. 
+
+Lastly, in case the owner doesn't <strong style="color:blue;">show up</strong> within a certain period, is there any possibility that I could <strong style="color:blue;">end up</strong> owning the wallet, or does it automatically <strong style="color:blue;">get handed over</strong> to the government? Could you please <strong style="color:blue;">walk me through</strong> the whole process so I know what to expect? Thank you for your help.
+
+**[Vocabulary & Expressions]**
+* paperwork: 서류 작업
+* statement: 진술서
+* finder's fee: 습득자 보상금
+* <strong style="color:blue;">report a lost item</strong>: 분실물 신고를 하다
+* <strong style="color:blue;">came across</strong>: 우연히 발견하다
+* <strong style="color:blue;">took a quick peek inside</strong>: 안을 살짝 들여다보다
+* <strong style="color:blue;">freaking out</strong>: 패닉에 빠진, 당황한
+* <strong style="color:blue;">decided against</strong>: ~하지 않기로 결심하다
+* <strong style="color:blue;">fill out</strong>: 작성하다
+* <strong style="color:blue;">turns up</strong>: 나타나다, 등장하다
+* <strong style="color:blue;">show up</strong>: 나타나다
+* <strong style="color:blue;">end up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">get handed over</strong>: 넘겨지다, 이관되다
+* <strong style="color:blue;">walk me through</strong>: 차근차근 설명해 주다
+
+---
+### 돌발 : 어릴 적 싫어했던 채소를 성인이 되어 좋아하게 된 계기
+
+**[Question]**
+Many people have foods that they hated when they were children, but grew to like as adults. What was a vegetable or food you really disliked when you were young? Why did you hate it, and what made you change your mind and start enjoying it as an adult?
+(많은 사람들이 어릴 때는 싫어했지만 성인이 되어 좋아하게 된 음식을 가지고 있습니다. 어렸을 때 정말 싫어했던 채소나 음식은 무엇인가요? 왜 그것을 싫어했으며, 무엇이 당신의 생각을 바꾸어 성인이 되어 그것을 즐기게 만들었나요?)
+
+**[Model Answer]**
+You know, looking back at my childhood, there is one specific food that I absolutely <strong style="color:blue;">couldn't stand</strong>, and that was broccoli. Whenever my mom put those little tree-like green florets on my plate, it was like a complete nightmare. Back then, I hated it with a passion because of its bitter taste and, honestly, its rather mushy texture when overcooked. I would always <strong style="color:blue;">pick them out</strong> and try to <strong style="color:blue;">hide them under</strong> my rice or feed them to the family dog when my parents weren't looking. 
+
+However, my perspective completely <strong style="color:blue;">did a 180-degree turn</strong> a few years ago when I started living on my own and got really into cooking. One day, I watched this gourmet cooking show where a professional chef demonstrated how to properly prepare broccoli. I realized that my mom had been boiling it to death, which completely <strong style="color:blue;">ruined both</strong> the flavor and the crunch. 
+
+The chef suggested roasting it in the oven with a <strong style="color:blue;">drizzle of</strong> olive oil, salt, garlic powder, and a generous <strong style="color:blue;">sprinkling of</strong> parmesan cheese on top. Intrigued, I decided to <strong style="color:blue;">give it a shot</strong> in my own kitchen. To my absolute surprise, when I <strong style="color:blue;">took a bite</strong>, it didn't taste bitter at all. Instead, the edges were nicely <strong style="color:blue;">crisped up</strong>, and the nutty, savory flavor of the roasted garlic and cheese <strong style="color:blue;">blended together</strong> harmoniously. 
+
+Ever since that day, broccoli has <strong style="color:blue;">grown on me</strong>, and now it has actually <strong style="color:blue;">turned into</strong> one of my absolute favorite vegetables. It just goes to show that sometimes you don't hate the food itself; you just hate the way it was cooked.
+
+**[Vocabulary & Expressions]**
+* perspective: 관점, 시각
+* gourmet cooking show: 고급 요리 프로그램
+* savory flavor: 감칠맛
+* <strong style="color:blue;">couldn't stand</strong>: 질색하다, 견딜 수 없다
+* <strong style="color:blue;">pick them out</strong>: 골라내다
+* <strong style="color:blue;">hide them under</strong>: ~ 밑에 숨기다
+* <strong style="color:blue;">did a 180-degree turn</strong>: 180도 바뀌다, 완전히 돌변하다
+* <strong style="color:blue;">ruined both</strong>: 둘 다 망치다
+* <strong style="color:blue;">drizzle of</strong>: (액체를) 소량 끼얹음
+* <strong style="color:blue;">sprinkling of</strong>: (가루 등을) 살살 뿌림
+* <strong style="color:blue;">give it a shot</strong>: 시도해 보다
+* <strong style="color:blue;">took a bite</strong>: 한 입 먹다
+* <strong style="color:blue;">crisped up</strong>: 바삭해지다
+* <strong style="color:blue;">blended together</strong>: 조화롭게 어우러지다
+* <strong style="color:blue;">grown on me</strong>: (시간이 지나며) 좋아지게 되다
+* <strong style="color:blue;">turned into</strong>: ~로 변하다
