@@ -15400,3 +15400,87 @@ Ever since that day, broccoli has <strong style="color:blue;">grown on me</stron
 * <strong style="color:blue;">blended together</strong>: 조화롭게 어우러지다
 * <strong style="color:blue;">grown on me</strong>: (시간이 지나며) 좋아지게 되다
 * <strong style="color:blue;">turned into</strong>: ~로 변하다
+
+## 2026-09-17 08:05:13 OPIc Study
+
+### 묘사 : 최근에 참석한 결혼식장 묘사
+
+**[Question]**
+Could you describe the wedding venue that you attended most recently? What did it look like, and what made it particularly memorable for you?
+최근에 참석한 결혼식장을 묘사해 주세요. 어떤 모습이었고, 무엇이 특별히 기억에 남나요?
+
+**[Model Answer]**
+To be honest, I am not a big fan of crowded places, but I recently attended one of my closest friends' weddings, and the venue blew me away. It was held at a stunning botanical garden-style wedding hall located on the outskirts of the city. As soon as I <strong style="color:blue;">stepped inside</strong>, I was immediately struck by the breathtaking interior design. Unlike traditional, dark wedding halls, this place had a glass ceiling that allowed natural sunlight to <strong style="color:blue;">pour in</strong>, creating such a warm and dreamy atmosphere. The entire venue was <strong style="color:blue;">decked out with</strong> thousands of fresh flowers, and the sweet floral scent filled the air, making it feel like we were in a fairy tale. Another thing that <strong style="color:blue;">stood out to me</strong> was the seating arrangement. Instead of stiff theater-style rows, the guests were seated around round tables, which naturally <strong style="color:blue;">lent itself to</strong> lively conversations among friends we hadn't seen in ages. The ceremony itself was breathtaking, but the reception area was the true highlight. It was <strong style="color:blue;">laid out</strong> seamlessly with a live jazz band playing in the corner, and the buffet selection was out of this world. Whenever I <strong style="color:blue;">look back on</strong> that day, I am filled with so much joy. It was <strong style="color:blue;">nothing short of</strong> perfection, and it completely redefined my perspective on modern weddings. I will definitely <strong style="color:blue;">cherish the memory of</strong> that gorgeous venue for years to come.
+
+**[Vocabulary & Expressions]**
+* botanical: 식물의
+* outskirts: 교외
+* breathtaking: 숨막히게 멋진
+* <strong style="color:blue;">step inside</strong>: 안으로 들어가다
+* <strong style="color:blue;">pour in</strong>: 쏟아져 들어오다
+* <strong style="color:blue;">decked out with</strong>: ~로 꾸며진, 장식된
+* <strong style="color:blue;">stand out to me</strong>: 내 눈에 띄다
+* <strong style="color:blue;">lent itself to</strong>: ~에 알맞다, 도움이 되다
+* <strong style="color:blue;">laid out</strong>: 배치된, 설계된
+* <strong style="color:blue;">look back on</strong>: 되돌아보다
+* <strong style="color:blue;">nothing short of</strong>: ~와 다름없는, 완전히 ~인
+* <strong style="color:blue;">cherish the memory of</strong>: ~의 추억을 소중히 간직하다
+
+---
+### 롤플레이 : 수영장 등록 문의하기 (셔틀버스 및 사물함)
+
+**[Question]**
+I'd like to sign up for a swimming pool near your house. Ask the clerk at the front desk three or four questions about the shuttle bus and locker rental fees.
+집 근처 수영장에 등록하려고 합니다. 프론트 데스크 직원에게 셔틀버스 노선과 사물함 이용료에 관해 3~4가지 질문을 해 주세요.
+
+**[Model Answer]**
+Hi there, I'm thinking about <strong style="color:blue;">signing up for</strong> the monthly swimming membership here, but before I <strong style="color:blue;">make up my mind</strong>, I have a few questions regarding your facilities. First of all, I was wondering about the shuttle bus service. Could you tell me if there is a shuttle bus that <strong style="color:blue;">runs through</strong> the Gangnam Station area? I live right around there, and since my schedule is pretty tight, <strong style="color:blue;">figuring out</strong> the transportation is crucial for me. Also, I need to know the exact bus timetable and how often it <strong style="color:blue;">comes around</strong>. 
+
+Another thing I'd like to ask about is the locker rental. Do you provide large lockers for swimming gear like kickboards and wet suits, or are they just standard small ones? And how much does it <strong style="color:blue;">set me back</strong> per month for a locker? Is there any extra fee I should be aware of, or is it <strong style="color:blue;">all-inclusive</strong>? Lastly, if I decide to <strong style="color:blue;">go ahead with</strong> the registration today, can I <strong style="color:blue;">start off</strong> with the lessons right away, or is there a waiting list I need to <strong style="color:blue;">deal with</strong>? Thanks a lot for your help, and I look forward to your answers.
+
+**[Vocabulary & Expressions]**
+* facility: 시설
+* crucial: 중대한, 결정적인
+* timetable: 시간표
+* <strong style="color:blue;">sign up for</strong>: ~에 등록하다
+* <strong style="color:blue;">make up my mind</strong>: 결심하다
+* <strong style="color:blue;">runs through</strong>: ~를 통과해 운행하다
+* <strong style="color:blue;">figuring out</strong>: 알아내다, 파악하다
+* <strong style="color:blue;">comes around</strong>: 오다, 순환하다
+* <strong style="color:blue;">set me back</strong>: (돈이) 들다, 비용이 발생하다
+* <strong style="color:blue;">all-inclusive</strong>: 모든 것이 포함된
+* <strong style="color:blue;">go ahead with</strong>: ~을 진행하다
+* <strong style="color:blue;">start off</strong>: 시작하다
+* <strong style="color:blue;">deal with</strong>: 처리하다, 감당하다
+
+---
+### 돌발 : 놀이공원에서 무서운 놀이기구를 억지로 타야 했던 경험
+
+**[Question]**
+Tell me about a time when you had to ride a scary amusement park ride against your will. Why did you have to ride it, and what happened in the end?
+본인의 의지와는 상관없이 놀이공원에서 무서운 놀이기구를 억지로 타야 했던 경험에 대해 이야기해 주세요. 왜 타야 했고, 결국 어떤 일이 일어났나요?
+
+**[Model Answer]**
+To be completely honest with you, I am an absolute coward when it comes to extreme thrill rides. Heights and sudden drops are my worst nightmare. However, a couple of years ago, I had this unforgettable experience where I was literally <strong style="color:blue;">talked into</strong> riding the scariest roller coaster at Lotte World by my college friends. It was my best friend's birthday, and he made it clear that his ultimate birthday wish was for all of us to <strong style="color:blue;">take on</strong> this giant drop ride together. I tried my best to <strong style="color:blue;">get out of</strong> it, claiming I had a bad back, but my friends <strong style="color:blue;">saw right through</strong> my excuse and literally <strong style="color:blue;">dragged me along</strong> to the boarding line. 
+
+While waiting in line, my heart was <strong style="color:blue;">pounding out of my chest</strong>, and I was sweating bullets. When we finally <strong style="color:blue;">climbed into</strong> the cart and the safety bar locked, I felt like I was <strong style="color:blue;">facing my doom</strong>. As the cart slowly climbed up that massive track, I squeezed my eyes shut and held onto the handles for dear life. Then, *boom!* We dropped. The feeling of weightlessness was intense, and I screamed at the top of my lungs. But surprisingly, once the initial shock <strong style="color:blue;">wore off</strong>, a weird rush of adrenaline <strong style="color:blue;">took over</strong>. When the ride finally came to a halt, instead of crying, I actually <strong style="color:blue;">burst into laughter</strong>. It turned out to be an incredible experience, and I realized that sometimes you just need to <strong style="color:blue;">push your limits</strong>. Still, I wouldn't want to <strong style="color:blue;">go through</strong> that terror again anytime soon!
+
+**[Vocabulary & Expressions]**
+* coward: 겁쟁이
+* nightmare: 악몽
+* unforgettable: 잊을 수 없는
+* weightlessness: 무중력 상태
+* adrenaline: 아드레날린
+* <strong style="color:blue;">talked into</strong>: 설득하여 ~하게 하다
+* <strong style="color:blue;">take on</strong>: (책임·도전 등을) 맡다, 떠맡다
+* <strong style="color:blue;">get out of</strong>: (~하기 싫어서) 빠져나오다, 피하다
+* <strong style="color:blue;">saw right through</strong>: (거짓말 등을) 꿰뚫어보다
+* <strong style="color:blue;">dragged me along</strong>: 억지로 끌고 가다
+* <strong style="color:blue;">pounding out of my chest</strong>: 심장이 터질 듯이 뛰다
+* <strong style="color:blue;">climbed into</strong>: ~에 타다
+* <strong style="color:blue;">facing my doom</strong>: 파멸을 직면하다 (죽을 맛이다)
+* <strong style="color:blue;">wore off</strong>: (효과, 느낌 등이) 사라지다, 약해지다
+* <strong style="color:blue;">took over</strong>: 장악하다, 사로잡다
+* <strong style="color:blue;">burst into laughter</strong>: 웃음 터뜨리다
+* <strong style="color:blue;">push your limits</strong>: 한계를 밀어붙이다
+* <strong style="color:blue;">go through</strong>: 겪다
