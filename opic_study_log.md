@@ -15484,3 +15484,94 @@ While waiting in line, my heart was <strong style="color:blue;">pounding out of 
 * <strong style="color:blue;">burst into laughter</strong>: 웃음 터뜨리다
 * <strong style="color:blue;">push your limits</strong>: 한계를 밀어붙이다
 * <strong style="color:blue;">go through</strong>: 겪다
+
+## 2026-10-10 09:10:41 OPIc Study
+
+### 묘사 : 거실에 있는 반려식물 몬스테라 묘사
+
+**[Question]**
+Could you describe one of the plants or pots you have at home? What does it look like, and where is it placed?
+(집에 있는 화분이나 식물 중 하나를 묘사해 주시겠어요? 어떻게 생겼고 어디에 놓여 있나요?)
+
+**[Model Answer]**
+You know, ever since I <strong style="color:blue;">got into</strong> gardening a couple of years ago, my apartment has basically <strong style="color:blue;">turned into</strong> a mini jungle. Among all the green babies I have, the one that immediately <strong style="color:blue;">stands out</strong> the most is my giant Monstera plant, which sits right by the sunny window in my living room. 
+
+First off, visually speaking, it is an absolute stunner. It <strong style="color:blue;">features</strong> these massive, deep green, glossy leaves that naturally develop gorgeous, artistic splits and holes. It looks so tropical and exotic that it instantly <strong style="color:blue;">brings to mind</strong> a lush rainforest whenever I <strong style="color:blue;">glance over at</strong> it. The plant is <strong style="color:blue;">planted in</strong> a heavy, matte ceramic pot in a soothing beige color, which provides a wonderful contrast to the vibrant green foliage. It <strong style="color:blue;">stands</strong> about a meter and a half tall now, <strong style="color:blue;">stretching out</strong> its large leaves gracefully toward the sunlight. 
+
+What I love most about it is how it <strong style="color:blue;">brings life to</strong> the entire space. Whenever I <strong style="color:blue;">kick back</strong> on my sofa after a long, exhausting day at work, just looking at its vibrant leaves helps me <strong style="color:blue;">wind down</strong> and instantly <strong style="color:blue;">relieves stress</strong>. It's not just a piece of decoration; it genuinely feels like a living companion that <strong style="color:blue;">brightens up</strong> my daily routine. So yeah, that's my absolute favorite plant at home, and I truly cherish it.
+
+**[Vocabulary & Expressions]**
+* foliage: 잎의 무성함
+* stunner: 아주 매력적인 것
+* exotic: 이국적인
+* <strong style="color:blue;">got into</strong>: ~에 빠지다, 관심을 갖게 되다
+* <strong style="color:blue;">turned into</strong>: ~로 변하다
+* <strong style="color:blue;">stands out</strong>: 눈에 띄다
+* <strong style="color:blue;">brings to mind</strong>: ~을 떠올리게 하다
+* <strong style="color:blue;">glance over at</strong>: ~을 힐끗 보다
+* <strong style="color:blue;">planted in</strong>: ~에 심어진
+* <strong style="color:blue;">stretching out</strong>: 뻗어나가다
+* <strong style="color:blue;">brings life to</strong>: 생기를 불어넣다
+* <strong style="color:blue;">kick back</strong>: 긴장을 풀고 쉬다
+* <strong style="color:blue;">wind down</strong>: 긴장을 풀다
+* <strong style="color:blue;">brightens up</strong>: 밝게 하다, 환하게 하다
+
+---
+### 롤플레이 : 박람회 안내 데스크에서 정보 묻기
+
+**[Question]**
+You are visiting an international design fair. Go to the information desk, and ask three or four questions to the staff about the layout, brochures, and main booths.
+(국제 디자인 박람회를 방문했습니다. 안내 데스크 직원에게 가서 전시장 배치, 팸플릿, 주요 부스에 대해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hi there! Good morning. I'm actually visiting this design fair for the very first time today, and to be honest, it is so massive that I am a bit <strong style="color:blue;">overwhelmed by</strong> the size of it. I was hoping you could help me out with a few things to help me <strong style="color:blue;">get my bearings</strong>. 
+
+First of all, do you happen to have any English brochures or a floor plan guide that I could <strong style="color:blue;">pick up</strong>? I want to make sure I don't miss anything important. Also, could you <strong style="color:blue;">point out</strong> where the main exhibition zones are? I am particularly interested in the eco-friendly furniture sector and the smart home technology pavilion. Are they located in this main hall, or do I need to <strong style="color:blue;">head over to</strong> the other building? 
+
+Oh, and one more thing—are there any must-see special exhibitions or keynote speeches happening today that I should <strong style="color:blue;">keep an eye out for</strong>? I really want to <strong style="color:blue;">make the most of</strong> my visit here. Thank you so much for your time and help!
+
+**[Vocabulary & Expressions]**
+* overwhelmed: 압도된
+* pavilion: 전시관
+* sector: 부문, 분야
+* <strong style="color:blue;">overwhelmed by</strong>: ~로 압도당하다
+* <strong style="color:blue;">get my bearings</strong>: 상황 파악을 하다, 방향을 잡다
+* <strong style="color:blue;">pick up</strong>: (물건을) 집어 들다, 가져오다
+* <strong style="color:blue;">point out</strong>: 가리키다, 지적하다
+* <strong style="color:blue;">head over to</strong>: ~로 향하다
+* <strong style="color:blue;">keep an eye out for</strong>: ~을 주시하다, 눈여겨보다
+* <strong style="color:blue;">make the most of</strong>: ~을 최대한 활용하다
+
+---
+### 돌발 : 요리를 못 하던 과거와 현재의 요리 실력 발전 과정
+
+**[Question]**
+How has your cooking skill changed over time? Talk about what you couldn't do in the past and what you are able to cook now.
+(당신의 요리 실력은 시간이 지남에 따라 어떻게 변했나요? 과거에 할 수 없었던 것과 현재 할 수 있는 요리에 대해 이야기해 주세요.)
+
+**[Model Answer]**
+Looking back, my cooking skills used to be an absolute disaster. Honestly, a few years ago, I literally couldn't <strong style="color:blue;">boil water</strong> without messing it up. Whenever I tried to cook, things would always <strong style="color:blue;">go wrong</strong>—I used to <strong style="color:blue;">burn everything</strong> I touched, and my kitchen would <strong style="color:blue;">end up</strong> looking like a total war zone. Because I was so bad at it, I <strong style="color:blue;">relied heavily on</strong> instant noodles, takeout, and ready-made meals just to <strong style="color:blue;">get by</strong>. 
+
+However, everything <strong style="color:blue;">changed dramatically</strong> when I started watching online cooking tutorials during the pandemic. At first, I <strong style="color:blue;">started out</strong> with super basic dishes, like making simple fried rice and basic pasta, just to <strong style="color:blue;">get the hang of</strong> the fundamentals. As time went by, I slowly <strong style="color:blue;">gained confidence</strong> and began to <strong style="color:blue;">branch out into</strong> more challenging cuisines, like Korean stews, Italian risotto, and even complex steak dishes. 
+
+Nowadays, I can proudly <strong style="color:blue;">pull off</strong> a decent three-course meal for my friends when they <strong style="color:blue;">come over</strong> to my place. Cooking has completely <strong style="color:blue;">grown on me</strong>, and it has genuinely <strong style="color:blue;">turned into</strong> one of my favorite hobbies. It's amazing to see how far I've <strong style="color:blue;">come along</strong> from my hopeless cooking days!
+
+**[Vocabulary & Expressions]**
+* disaster: 재앙, 엉망진창인 것
+* fundamentals: 기본기, 기초
+* cuisine: 요리법
+* <strong style="color:blue;">boil water</strong>: 물을 끓이다 (요리를 못하는 사람의 비유적 표현)
+* <strong style="color:blue;">go wrong</strong>: 잘못되다
+* <strong style="color:blue;">end up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">relied heavily on</strong>: ~에 크게 의존하다
+* <strong style="color:blue;">get by</strong>:럭키하게 살아가다, 겨우 버텨내다
+* <strong style="color:blue;">changed dramatically</strong>: 극적으로 변하다
+* <strong style="color:blue;">started out</strong>: ~로 시작하다
+* <strong style="color:blue;">get the hang of</strong>: 요령을 터득하다
+* <strong style="color:blue;">gained confidence</strong>: 자신감을 얻다
+* <strong style="color:blue;">branch out into</strong>: ~로 분야를 넓히다
+* <strong style="color:blue;">pull off</strong>: (어려운 일을) 해내다
+* <strong style="color:blue;">come over</strong>: 놀러 오다, 방문하다
+* <strong style="color:blue;">grown on me</strong>: (시간이 지나면서) 좋아지게 되다
+* <strong style="color:blue;">turned into</strong>: ~로 변하다
+* <strong style="color:blue;">come along</strong>: 진척되다, 발전하다
