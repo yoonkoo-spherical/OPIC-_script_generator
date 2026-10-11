@@ -15575,3 +15575,94 @@ Nowadays, I can proudly <strong style="color:blue;">pull off</strong> a decent t
 * <strong style="color:blue;">grown on me</strong>: (시간이 지나면서) 좋아지게 되다
 * <strong style="color:blue;">turned into</strong>: ~로 변하다
 * <strong style="color:blue;">come along</strong>: 진척되다, 발전하다
+
+## 2026-10-11 09:25:09 OPIc Study
+
+### 묘사 : 나의 침대와 침구류 묘사
+
+**[Question]**
+Could you describe your bed and the bedding you use? What do they look like, and why do you like them?
+본인의 침대와 사용하는 침구류를 묘사해 주시겠어요? 어떻게 생겼고, 왜 그것들을 좋아하시나요?
+
+**[Model Answer]**
+To be honest, my bed is my absolute favorite place in the whole world, and I take my sleep very seriously. Let me give you a detailed description of my bed and the bedding I use. First of all, my bed is a queen-sized memory foam mattress that I <strong style="color:blue;">invested in</strong> a couple of years ago after dealing with terrible back pain. It is incredibly supportive and literally <strong style="color:blue;">molds to</strong> my body shape, which helps me <strong style="color:blue;">drift off to sleep</strong> almost instantly whenever I <strong style="color:blue;">hit the hay</strong>. 
+
+When it comes to my bedding, I am totally obsessed with high thread-count cotton sheets because of their breathable and soft texture. My comforter is a fluffy, white down duvet that makes my bed look like a cloud, just like the ones you see in luxury hotels. As for the pillows, I use two ergonomic memory foam pillows for neck support and a couple of soft, decorative accent pillows just to <strong style="color:blue;">spruce up</strong> the overall look. 
+
+I really <strong style="color:blue;">can't live without</strong> this setup because after a long, exhausting day at work, <strong style="color:blue;">winding down</strong> in this cozy sanctuary is the ultimate way to <strong style="color:blue;">recharge my batteries</strong>. Whenever I <strong style="color:blue;">sink into</strong> my bed, all my stress just <strong style="color:blue;">melts away</strong>, and I feel completely at peace. So yeah, that is basically what my bed and bedding look like, and why they mean so much to me.
+
+**[Vocabulary & Expressions]**
+* Mattress: 매트리스
+* Comforter: 이불
+* Ergonomic: 인체공학적인
+* Sanctuary: 안식처
+* <strong style="color:blue;">invested in</strong>: ~에 투자하다
+* <strong style="color:blue;">molds to</strong>: ~에 맞게 모양이 잡히다
+* <strong style="color:blue;">drift off to sleep</strong>: 스르륵 잠들다
+* <strong style="color:blue;">hit the hay</strong>: 잠자리에 들다
+* <strong style="color:blue;">spruce up</strong>: ~을 말끔하게 꾸미다
+* <strong style="color:blue;">can't live without</strong>: ~ 없이는 살 수 없다
+* <strong style="color:blue;">winding down</strong>: 긴장을 풀고 쉬다
+* <strong style="color:blue;">recharge my batteries</strong>: 재충전하다
+* <strong style="color:blue;">sink into</strong>: ~에 파묻히다
+* <strong style="color:blue;">melts away</strong>: 사르르 녹아 없어지다
+
+---
+### 롤플레이 : 서점에서 친구 추천 도서 찾기
+
+**[Question]**
+Imagine you are at a bookstore to buy a book recommended by a friend. However, you can't find it on the shelves. Approach a store clerk, explain the situation, and ask three or four questions to find the book.
+친구에게 추천받은 책을 사기 위해 서점에 갔다고 상상해 보세요. 하지만 서가에서 그 책을 찾을 수 없습니다. 점원에게 다가가 상황을 설명하고, 책을 찾기 위해 3가지 혹은 4가지 질문을 하세요.
+
+**[Model Answer]**
+Excuse me, hi there. I'm actually looking for a book that was recommended by a close friend of mine, but I've been <strong style="color:blue;">looking all over</strong> the store and I just can't seem to <strong style="color:blue;">track it down</strong> on the shelves. Could you perhaps help me find it? 
+
+Let me give you the details. The title is "Atomic Habits" written by James Clear, and it's supposed to be in the self-development section. By the way, do you happen to have this book <strong style="color:blue;">in stock</strong> right now, or is it currently <strong style="color:blue;">sold out</strong>? If you do have copies left, could you please <strong style="color:blue;">look up</strong> which aisle or shelf it is located on? Sometimes books get <strong style="color:blue;">put back</strong> in the wrong place, so I might have <strong style="color:blue;">missed out on</strong> it. 
+
+Also, if it turns out that you don't have it on hand, would it be possible for you to <strong style="color:blue;">order it in</strong> for me, or could you <strong style="color:blue;">check with</strong> another branch nearby? I've been really <strong style="color:blue;">looking forward to</strong> reading this because my friend <strong style="color:blue;">ranted and raved about</strong> how life-changing it is. I'd really appreciate your help in locating a copy today. Thank you so much!
+
+**[Vocabulary & Expressions]**
+* Recommendation: 추천
+* Section: 구역, 코너
+* Branch: 지점
+* <strong style="color:blue;">looking all over</strong>: 온통 찾아다니다
+* <strong style="color:blue;">track it down</strong>: 찾아내다
+* <strong style="color:blue;">in stock</strong>: 재고가 있는
+* <strong style="color:blue;">sold out</strong>: 매진된
+* <strong style="color:blue;">look up</strong>: (정보 등을) 찾아보다
+* <strong style="color:blue;">put back</strong>: 제자리에 놓다
+* <strong style="color:blue;">missed out on</strong>: 놓치다
+* <strong style="color:blue;">order it in</strong>: 주문해서 들여오다
+* <strong style="color:blue;">check with</strong>: ~에게 확인하다
+* <strong style="color:blue;">looking forward to</strong>: ~를 학수고대하다
+* <strong style="color:blue;">ranted and raved about</strong>: 극찬하다
+
+---
+### 돌발 : 존경하는 인물 관련 행사에 참여한 경험
+
+**[Question]**
+Talk about a time when you met a person you deeply admire or participated in an event related to them. Who was the person, what was the event, and what made the experience so memorable?
+당신이 깊이 존경하는 인물을 직접 만났거나 그와 관련된 행사에 참여했던 경험에 대해 이야기해 주세요. 그 사람은 누구였고, 어떤 행사였으며, 무엇이 그 경험을 그토록 기억에 남게 만들었나요?
+
+**[Model Answer]**
+To be completely honest with you, I've never had the chance to meet someone famous on a personal level, but a few years ago, I had a truly unforgettable experience attending a live book concert and talk show hosted by my all-time favorite author, Haruki Murakami. I have been an absolute fanatic of his novels since I was a teenager, so when I heard he was <strong style="color:blue;">flying in</strong> for a rare public appearance in Seoul, I <strong style="color:blue;">jumped at the chance</strong> to get a ticket. 
+
+The event itself was held at a large concert hall, and it was packed to capacity with thousands of fans who wanted to <strong style="color:blue;">catch a glimpse of</strong> him. During the session, he talked extensively about his creative process, where he gets his inspiration, and how he manages to <strong style="color:blue;">stay on track</strong> with his rigorous writing habits. It was just mind-blowing to hear him speak in person, because his books had <strong style="color:blue;">gotten me through</strong> some of the toughest periods of my life. 
+
+What made the experience so special and <strong style="color:blue;">stuck with me</strong> all these years was a Q&A session near the end. Although I didn't get to ask a question myself, seeing him <strong style="color:blue;">open up</strong> about his personal vulnerabilities and share his genuine passion for storytelling <strong style="color:blue;">left a lasting impression</strong> on me. It really <strong style="color:blue;">brought home</strong> the fact that even legendary figures face struggles, which <strong style="color:blue;">spurred me on</strong> to pursue my own creative dreams. It was undeniably a day I will <strong style="color:blue;">cherish for the rest of my life</strong>.
+
+**[Vocabulary & Expressions]**
+* Fanatic: 광팬, 열성 팬
+* Inspiration: 영감
+* Vulnerability: 취약성, 인간적인 약점
+* <strong style="color:blue;">flying in</strong>: 비행기를 타고 들어오다
+* <strong style="color:blue;">jumped at the chance</strong>: 기회를 덥석 잡다
+* <strong style="color:blue;">catch a glimpse of</strong>: 언뜻 보다
+* <strong style="color:blue;">stay on track</strong>: 제대로 나아가다, 궤도를 유지하다
+* <strong style="color:blue;">gotten me through</strong>: (어려움을) 극복하게 해주다
+* <strong style="color:blue;">stuck with me</strong>: 마음에 남다, 잊히지 않다
+* <strong style="color:blue;">open up</strong>: 마음을 털어놓다
+* <strong style="color:blue;">left a lasting impression</strong>: 깊은 인상을 남기다
+* <strong style="color:blue;">brought home</strong>: 절실히 깨닫게 하다
+* <strong style="color:blue;">spurred me on</strong>: 박차를 가하게 하다, 격려하다
+* <strong style="color:blue;">cherish for the rest of my life</strong>: 평생 소중히 간직하다
