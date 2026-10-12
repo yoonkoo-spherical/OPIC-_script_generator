@@ -15666,3 +15666,129 @@ What made the experience so special and <strong style="color:blue;">stuck with m
 * <strong style="color:blue;">brought home</strong>: 절실히 깨닫게 하다
 * <strong style="color:blue;">spurred me on</strong>: 박차를 가하게 하다, 격려하다
 * <strong style="color:blue;">cherish for the rest of my life</strong>: 평생 소중히 간직하다
+
+## 2026-10-12 09:56:24 OPIc Study
+
+### 묘사 : 오랜만에 만난 친척들과의 모임 묘사
+
+**[Question]**
+I'd like to know about a family gathering you attended recently. What did the place look like, and how did your relatives look, especially since it had been a while since you last saw them? Please describe the scene in detail.
+(최근에 참석한 가족 모임에 대해 알고 싶습니다. 장소는 어떻게 생겼었나요, 그리고 마지막으로 본 지 꽤 오래되었는데 친척들은 어떻게 보였나요? 그 장소를 자세히 묘사해 주세요.)
+
+**[Model Answer]**
+You know, <strong style="color:blue;">speaking of</strong> family gatherings, I had this massive family reunion just last weekend, and honestly, it <strong style="color:blue;">stands out in my mind</strong> because it had been literally ages since we last <strong style="color:blue;">got together</strong>. 
+
+First of all, let me <strong style="color:blue;">paint a picture of</strong> the place where we met up. We rented this gorgeous, traditional Korean-style house, a 'Hanok', located right <strong style="color:blue;">at the foot of</strong> a scenic mountain. The venue itself was breathtaking. It featured a spacious wooden courtyard in the middle, surrounded by antique paper doors and rustic wooden pillars. What really <strong style="color:blue;">caught my eye</strong> was the way the warm, amber lighting <strong style="color:blue;">blended in with</strong> the natural dusk outside, creating this incredibly cozy, nostalgic atmosphere. It felt like we had <strong style="color:blue;">stepped back in time</strong>.
+
+As for my relatives, it was such an eye-opening experience to see how everyone had changed. My eldest uncle, who usually <strong style="color:blue;">carries himself</strong> with this very strict and formal demeanor, had actually <strong style="color:blue;">let his hair down</strong> a bit. He had <strong style="color:blue;">put on</strong> a few pounds, which actually suited him well and made him look much more approachable, and he was rocking this surprisingly trendy cardigan. And my cousins! They were just unrecognizable. Some of the younger ones who used to be shy kids have totally <strong style="color:blue;">grown into</strong> confident young adults. My female cousin, in particular, had <strong style="color:blue;">cut her hair short</strong> into a chic bob style, and she just <strong style="color:blue;">exuded</strong> positive energy, constantly <strong style="color:blue;">bursting into laughter</strong> and <strong style="color:blue;">breaking the ice</strong> whenever there was a quiet moment. 
+
+Overall, seeing everyone <strong style="color:blue;">gathered around</strong> the low wooden table, <strong style="color:blue;">digging into</strong> traditional dishes, and <strong style="color:blue;">catching up on</strong> old times was just priceless. It really made me realize how fast time flies, but at the same time, it proved that family bonds never <strong style="color:blue;">fade away</strong>, no matter how much time <strong style="color:blue;">goes by</strong>.
+
+**[Vocabulary & Expressions]**
+* breathtaking: 숨막힐 듯이 아름다운
+* rustic: 소박한, 시골 풍의
+* demeanor: 처신, 태도
+* unrecognizable: 알아보기 힘든
+* exude: (품성이) 발산하다
+* <strong style="color:blue;">speaking of</strong>: ~말이 나와서 말인데
+* <strong style="color:blue;">stands out in my mind</strong>: 기억에렷렷이 남다
+* <strong style="color:blue;">got together</strong>: 모이다
+* <strong style="color:blue;">paint a picture of</strong>: ~을 생생하게 묘사하다
+* <strong style="color:blue;">at the foot of</strong>: ~의 기슭에
+* <strong style="color:blue;">caught my eye</strong>: 눈길을 사로잡다
+* <strong style="color:blue;">blended in with</strong>: ~와 어우러지다
+* <strong style="color:blue;">stepped back in time</strong>: 과거로 시간 여행을 한 듯 하다
+* <strong style="color:blue;">carries himself</strong>: 처신하다, 행동하다
+* <strong style="color:blue;">let his hair down</strong>: 긴장을 풀고 편히 놀다
+* <strong style="color:blue;">put on</strong>: (체중이) 늘다
+* <strong style="color:blue;">grown into</strong>: ~로 성장하다
+* <strong style="color:blue;">cut her hair short</strong>: 머리를 짧게 자르다
+* <strong style="color:blue;">bursting into laughter</strong>: 웃음 터뜨리다
+* <strong style="color:blue;">breaking the ice</strong>: 어색함을 깨다
+* <strong style="color:blue;">gathered around</strong>: 둘러 모이다
+* <strong style="color:blue;">digging into</strong>: (음식을) 맛있게 먹기 시작하다
+* <strong style="color:blue;">catching up on</strong>: (못다 한 이야기를) 나누다
+* <strong style="color:blue;">fade away</strong>: 희미해지다, 사라지다
+* <strong style="color:blue;">goes by</strong>: (시간이) 흘러가다
+
+---
+### 롤플레이 : 주민센터 전입신고 문의
+
+**[Question]**
+You have recently moved to a new neighborhood and need to submit a moving-in report (Jeonip-singo). Call the local community center (Jumin-center), ask about the necessary documents, and find out their operating hours.
+(최근에 새로운 동네로 이사해서 전입신고를 해야 합니다. 주민센터에 전화하여 필요한 서류에 대해 묻고, 운영 시간을 알아보세요.)
+
+**[Model Answer]**
+Hi, good morning. I’m calling to <strong style="color:blue;">get some information about</strong> submitting a moving-in report, commonly known as 'Jeonip-singo'. Actually, I just <strong style="color:blue;">moved into</strong> a new apartment in your district yesterday, and I want to make sure I get everything <strong style="color:blue;">sorted out</strong> as soon as possible. 
+
+Could you please let me know what specific documents I need to <strong style="color:blue;">bring along</strong> when I visit the center? I’ve heard that I definitely need my ID card, but I'm not entirely sure if I also need the lease agreement or any other forms <strong style="color:blue;">filled out in advance</strong>. Could you <strong style="color:blue;">walk me through</strong> the required paperwork so that I don't have to <strong style="color:blue;">make a wasted trip</strong>? 
+
+Also, I have a quite tight work schedule these days, so I need to <strong style="color:blue;">check up on</strong> your exact operating hours. What time do you <strong style="color:blue;">open up</strong> in the morning, and do you <strong style="color:blue;">stay open</strong> during lunchtime? Oh, and by any chance, do you <strong style="color:blue;">keep your doors open</strong> on Saturdays, or are you only <strong style="color:blue;">running on</strong> weekdays? 
+
+One last thing—is it possible to <strong style="color:blue;">take care of</strong> this process online through the government website, just in case I can't <strong style="color:blue;">make it to</strong> the office in person this week? 
+
+Thanks so much for your help, and I look forward to your <strong style="color:blue;">getting back to</strong> me with the details. Have a great day!
+
+**[Vocabulary & Expressions]**
+* paperwork: 서류 업무
+* lease agreement: 임대차 계약서
+* schedule: 일정
+* <strong style="color:blue;">get some information about</strong>: ~에 대한 정보를 얻다
+* <strong style="color:blue;">moved into</strong>: ~로 이사하다
+* <strong style="color:blue;">sorted out</strong>: 해결된, 정돈된
+* <strong style="color:blue;">bring along</strong>: 가져오다, 동반하다
+* <strong style="color:blue;">filled out in advance</strong>: 사전에 작성된
+* <strong style="color:blue;">walk me through</strong>: ~을 자세히 안내해 주다
+* <strong style="color:blue;">make a wasted trip</strong>: 헛걸음하다
+* <strong style="color:blue;">check up on</strong>: ~을 확인하다
+* <strong style="color:blue;">open up</strong>: 문을 열다, 시작하다
+* <strong style="color:blue;">stay open</strong>: 영업 상태를 유지하다
+* <strong style="color:blue;">keep your doors open</strong>: 문을 열어두다, 운영하다
+* <strong style="color:blue;">running on</strong>: ~로 운영되는
+* <strong style="color:blue;">take care of</strong>: 처리하다
+* <strong style="color:blue;">make it to</strong>: ~에 가다, 참석하다
+* <strong style="color:blue;">getting back to</strong>: ~에게 연락을 다시 주다
+
+---
+### 돌발 : 어릴 적 싫어했던 채소를 성인이 되어 좋아하게 된 계기
+
+**[Question]**
+Many people dislike certain vegetables when they are children, but their tastes often change as they grow up. Is there a vegetable you used to hate when you were young, but now actually enjoy? Tell me about it, and share the turning point or reason why your taste changed.
+(많은 사람들이 어릴 때는 특정 채소를 싫어하지만, 자라면서 입맛이 변하곤 합니다. 어릴 적에 싫어했으나 지금은 실제로 즐기는 채소가 있나요? 그에 대해 말해주고, 입맛이 변하게 된 계기나 이유를 공유해 주세요.)
+
+**[Model Answer]**
+You know, <strong style="color:blue;">thinking back to</strong> my childhood, I was an extremely picky eater, and there was one specific vegetable that I absolutely <strong style="color:blue;">couldn't stand</strong>—and that was broccoli. Whenever my mom put broccoli on my plate, I would <strong style="color:blue;">push it to the side</strong> and <strong style="color:blue;">make a face</strong>. To me, it tasted bitter, smelled weird, and felt like I was chewing on little trees. I used to <strong style="color:blue;">vow that</strong> I would never <strong style="color:blue;">touch it</strong> for the rest of my life.
+
+However, my perspective completely <strong style="color:blue;">did a 180-degree turn</strong> a few years ago, right after I <strong style="color:blue;">moved out</strong> of my parents' house and started living alone. At first, I didn't know how to cook anything fancy, so I had to <strong style="color:blue;">rely on</strong> simple, healthy ingredients that were easy to <strong style="color:blue;">throw together</strong>. One day, I watched this cooking show where a professional chef demonstrated how to roast broccoli in the oven with olive oil, garlic, and a <strong style="color:blue;">sprinkling of</strong> parmesan cheese. It looked so mouth-watering that I decided to <strong style="color:blue;">give it a shot</strong>.
+
+I went to the supermarket, <strong style="color:blue;">picked up</strong> a fresh head of broccoli, and <strong style="color:blue;">followed along with</strong> the recipe. I <strong style="color:blue;">tossed</strong> the florets in olive oil, <strong style="color:blue;">minced</strong> some garlic, and <strong style="color:blue;">stuffed</strong> them into the oven until the edges became crispy and slightly charred. When I finally <strong style="color:blue;">took a bite</strong>, it completely <strong style="color:blue;">blew my mind</strong>. The roasting process had <strong style="color:blue;">brought out</strong> this amazing, nutty sweetness that I had never noticed before, completely <strong style="color:blue;">getting rid of</strong> that raw, bitter taste I hated so much. 
+
+Ever since that day, broccoli has <strong style="color:blue;">grown on me</strong> so much that it has now <strong style="color:blue;">turned into</strong> a staple in my diet. I <strong style="color:blue;">incorporate it into</strong> almost every meal—stir-fries, salads, and even soups. It just goes to show that sometimes you don't actually hate the food itself; you just haven't <strong style="color:blue;">figured out</strong> how it’s supposed to be prepared!
+
+**[Vocabulary & Expressions]**
+* picky eater: 편식쟁이
+* florets: (브로콜리 등의) 꽃송이 부분
+* charred: 까맣게 탄, 그을린
+* staple: 주요 식품, 주식
+* <strong style="color:blue;">thinking back to</strong>: ~를 회상하며
+* <strong style="color:blue;">couldn't stand</strong>: 질색하다, 견딜 수 없다
+* <strong style="color:blue;">push it to the side</strong>: (음식을) 옆으로 밀어놓다
+* <strong style="color:blue;">make a face</strong>: 인상을 찌푸리다
+* <strong style="color:blue;">vow that</strong>: ~라고 맹세하다
+* <strong style="color:blue;">touch it</strong>: (음식을) 입에 대다
+* <strong style="color:blue;">did a 180-degree turn</strong>: 180도 바뀌다
+* <strong style="color:blue;">moved out</strong>: 분가하다, 이사 나가다
+* <strong style="color:blue;">rely on</strong>: ~에 의존하다
+* <strong style="color:blue;">throw together</strong>: 대충 뚝딱 만들다
+* <strong style="color:blue;">sprinkling of</strong>: 소량 뿌린 것
+* <strong style="color:blue;">give it a shot</strong>: 시도해 보다
+* <strong style="color:blue;">picked up</strong>: 집어들다, 사다
+* <strong style="color:blue;">followed along with</strong>: ~을 따라하다
+* <strong style="color:blue;">took a bite</strong>: 한 입 먹다
+* <strong style="color:blue;">blew my mind</strong>: 깜짝 놀라게 하다, 감탄시키다
+* <strong style="color:blue;">brought out</strong>: (맛 등을) 끌어내다
+* <strong style="color:blue;">getting rid of</strong>: 없애다, 제거하다
+* <strong style="color:blue;">grown on me</strong>: (처음엔 싫던 것이) 점차 좋아지다
+* <strong style="color:blue;">turned into</strong>: ~로 변하다
+* <strong style="color:blue;">incorporate it into</strong>: ~에 포함시키다, 곁들이다
+* <strong style="color:blue;">figured out</strong>: 알아내다, 터득하다
