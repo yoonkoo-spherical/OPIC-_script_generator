@@ -15792,3 +15792,115 @@ Ever since that day, broccoli has <strong style="color:blue;">grown on me</stron
 * <strong style="color:blue;">turned into</strong>: ~로 변하다
 * <strong style="color:blue;">incorporate it into</strong>: ~에 포함시키다, 곁들이다
 * <strong style="color:blue;">figured out</strong>: 알아내다, 터득하다
+
+## 2026-10-13 09:50:12 OPIc Study
+
+### 묘사 : 핸드워시의 향과 거품 묘사
+
+**[Question]**
+Could you describe the soap or hand wash you usually use? What does it smell like, and what kind of lather does it make when you wash your hands?
+(당신이 보통 사용하는 비누나 핸드워시에 대해 설명해 주시겠습니까? 향은 어떠하며, 손을 씻을 때 어떤 종류의 거품을 만드나요?)
+
+**[Model Answer]**
+You know, ever since I became quite obsessed with personal hygiene, I've been paying a lot of attention to the hand wash I use at home. Currently, I have this organic, citrus-scented liquid hand soap sitting right by my kitchen sink and bathroom sink. Let me tell you, using it has literally <strong style="color:blue;">turned into</strong> one of my favorite little daily rituals. 
+
+First off, as for the scent, it's just amazing. It doesn't have that artificial, overpowering chemical smell that you often get from cheap soaps. Instead, it smells like a fresh, sun-drenched orange grove right after a summer rain. It features a delightful blend of zesty lemon, ripe mandarin, and just a subtle hint of green tea. Whenever I pump some onto my palms, the aroma instantly <strong style="color:blue;">fills the room</strong>, and it never fails to <strong style="color:blue;">lift my spirits</strong> and wash away all the stress accumulated from a hectic day of work. It’s remarkably refreshing, and what’s even better is that the subtle citrus fragrance actually <strong style="color:blue;">lingers on</strong> my skin for hours afterwards.
+
+Now, moving on to the texture and the lather it produces, it is equally impressive. A single pump <strong style="color:blue;">goes a long way</strong>. The moment you <strong style="color:blue;">rub your hands together</strong> with a little bit of water, it instantly <strong style="color:blue;">transforms into</strong> this incredibly rich, luxurious foam. We are talking about a dense, velvety lather that feels just like whipped cream. It doesn't just sit on the surface; rather, it thoroughly <strong style="color:blue;">gets into</strong> all the nooks and crannies between your fingers, effectively <strong style="color:blue;">washing away</strong> all the invisible dirt and impurities. 
+
+Moreover, unlike traditional bar soaps that tend to strip away all your natural moisture and leave your skin feeling completely dried out and tight, this particular hand wash is packed with natural moisturizing agents like shea butter and aloe vera extract. So, even though it provides a deep, thorough cleanse, it <strong style="color:blue;">leaves behind</strong> a silky-smooth, well-hydrated feeling. Whenever I <strong style="color:blue;">rinse my hands off</strong> with lukewarm water, my skin feels wonderfully soft, supple, and pampered. Honestly, I can't imagine going back to ordinary soap anymore. It has truly <strong style="color:blue;">grown on me</strong> over the past few months.
+
+**[Vocabulary & Expressions]**
+* hygiene: 위생
+* overpowering: 숨이 막힐 듯한, 압도적인
+* zesty: 상큼한, 톡 쏘는 맛이 나는
+* subtle: 미묘한, 감지하기 힘든
+* velvety: 벨벳 같은, 부드러운
+* impurities: 불순물, 오염물질
+* supple: 유연한, 탄력 있는
+* pampered: 호강하는, 소중히 다뤄지는
+* <strong style="color:blue;">turn into</strong>: ~로 변하다
+* <strong style="color:blue;">fill the room</strong>: 방을 채우다
+* <strong style="color:blue;">lift my spirits</strong>: 기분을 북돋아 주다
+* <strong style="color:blue;">linger on</strong>: 남아 있다, 맴돌다
+* <strong style="color:blue;">go a long way</strong>: 큰 도움이 되다, 오래 쓰이다
+* <strong style="color:blue;">rub your hands together</strong>: 손을 비비다
+* <strong style="color:blue;">transform into</strong>: ~로 변환되다
+* <strong style="color:blue;">get into</strong>: ~로 파고들다, 들어가다
+* <strong style="color:blue;">wash away</strong>: 씻어내다
+* <strong style="color:blue;">leave behind</strong>: 남기다
+* <strong style="color:blue;">rinse off</strong>: 헹궈내다
+* <strong style="color:blue;">grow on me</strong>: 갈수록 마음에 들다
+
+---
+### 롤플레이 : 층간 소음 문제로 경비실에 연락하기
+
+**[Question]**
+You are trying to sleep, but you hear loud noises coming from the apartment upstairs late at night. Call the front desk or the security office to complain about the noise and ask them to intervene.
+(밤늦게 아파트 위층에서 나는 큰 소음 때문에 잠을 자지 못하고 있습니다. 경비실에 전화해서 소음에 대해 항의하고 중재를 요청하세요.)
+
+**[Model Answer]**
+Hi, good evening. Is this the security office? I'm calling from apartment 1002, and I'm really sorry to be bothering you at this hour, but I'm having a serious issue with the noise coming from the upstairs unit, apartment 1102. It's currently past midnight, and honestly, I have an extremely important presentation at work early tomorrow morning, so I desperately need to get some sleep. However, the people living right above me seem to be having a late-night gathering or <strong style="color:blue;">making a racket</strong>. 
+
+For the past hour or so, I've been hearing this constant, heavy thudding sound, almost like someone <strong style="color:blue;">is dropping</strong> heavy objects on the floor <strong style="color:blue;">over and over again</strong>. On top of that, there's loud, thumping music playing in the background, and I can clearly hear people shouting and laughing uncontrollably. It's driving me crazy, and it's making it <strong style="color:blue;">out of the question</strong> for me to even <strong style="color:blue;">close my eyes</strong>. 
+
+I know it's quite late, but could you please do something about this? Would you mind <strong style="color:blue;">stepping in</strong> and contacting the residents upstairs? Could you politely ask them to <strong style="color:blue;">keep it down</strong> or stop making such a loud noise at this time of night? I would really appreciate it if you could <strong style="color:blue;">look into</strong> this matter right away. Thank you so much for your help, and I'm sorry again for <strong style="color:blue;">calling you up</strong> so late. Please let me know if they cooperate. Thank you.
+
+**[Vocabulary & Expressions]**
+* presentation: 발표
+* desperately: 필사적으로, 몹시
+* thudding: 쿵쿵거리는
+* uncontrollably: 통제할 수 없이
+* cooperate: 협조하다
+* <strong style="color:blue;">make a racket</strong>: 소란을 피우다, 시끄럽게 하다
+* <strong style="color:blue;">over and over again</strong>: 반복해서, 거듭하여
+* <strong style="color:blue;">out of the question</strong>: 불가능한, 생각할 수도 없는
+* <strong style="color:blue;">close my eyes</strong>: 잠에 들다, 눈을 붙이다
+* <strong style="color:blue;">step in</strong>: 개입하다, 나서다
+* <strong style="color:blue;">keep it down</strong>: 조용히 하다
+* <strong style="color:blue;">look into</strong>: 조사하다, 처리하다
+* <strong style="color:blue;">call you up</strong>: 전화하다
+
+---
+### 돌발 : 어릴 때와 현재의 건강에 대한 인식 변화
+
+**[Question]**
+How has your perception or view of health changed since you were a child compared to now? Describe the differences in detail.
+(어릴 때와 비교해서 건강에 대한 당신의 인식이나 관점이 현재 어떻게 달라졌나요? 그 차이점을 자세히 설명해 주세요.)
+
+**[Model Answer]**
+You know, looking back at my life, my perspective on health has <strong style="color:blue;">gone through</strong> a massive transformation as I've grown older. If you asked me about health back when I was a little kid, I probably would have thought it was just about being physically strong enough to <strong style="color:blue;">run around</strong> the playground all day and not catching the common cold. Back then, I literally took my body for granted. I thought I was invincible. I would <strong style="color:blue;">stay up late</strong> playing video games, <strong style="color:blue;">stuff my face with</strong> all kinds of junk food like instant ramyeon, french fries, and sugary sodas, and yet I would <strong style="color:blue;">bounce back</strong> the very next day without feeling any negative physical consequences. Health, to me, was simply the absence of sickness, and I never really had to <strong style="color:blue;">put any effort into</strong> maintaining it.
+
+However, ever since I entered the workforce and <strong style="color:blue;">got older</strong>, my definition of health has completely changed. Now, I realize that true health is a holistic concept that <strong style="color:blue;">encompasses</strong> both physical vitality and mental well-being. Working long hours in a sedentary office environment has really <strong style="color:blue;">taken a toll on</strong> my body, and I've learned the hard way that you cannot <strong style="color:blue;">abuse your body</strong> and expect it to <strong style="color:blue;">hold up</strong> forever. 
+
+Nowadays, I am actively trying to <strong style="color:blue;">incorporate</strong> healthy habits into my daily routine. Instead of skipping meals or relying on fast food, I try to <strong style="color:blue;">cut back on</strong> processed sugars and sodium, and instead, I <strong style="color:blue;">focus on</strong> eating wholesome, nutritious meals packed with vegetables and lean proteins. Moreover, I've started working out regularly, hitting the gym at least three times a week to <strong style="color:blue;">build up</strong> my stamina and <strong style="color:blue;">keep my weight in check</strong>. But physical fitness is only half the battle; I’ve also come to understand the absolute importance of mental health. Dealing with work-related stress means I now make a conscious effort to <strong style="color:blue;">wind down</strong>, practice mindfulness, and get an adequate amount of quality sleep every night. All in all, health is no longer something I just <strong style="color:blue;">take for granted</strong>; it’s something I actively <strong style="color:blue;">care for</strong> and invest in every single day.
+
+**[Vocabulary & Expressions]**
+* perception: 인식, 생각
+* transformation: 변화, 변모
+* invincible: 무적의, 천하무적의
+* holistic: 전인적인, 전체론적인
+* vitality: 활력
+* sedentary: 주로 앉아서 하는
+* wholesome: 건강에 좋은, 건전한
+* stamina: 지구력, 스태미나
+* mindfulness: 마음챙김, 명상
+* <strong style="color:blue;">go through</strong>: 겪다, 거치다
+* <strong style="color:blue;">run around</strong>: 뛰어다니다
+* <strong style="color:blue;">take for granted</strong>: 당연하게 여기다
+* <strong style="color:blue;">stay up late</strong>: 늦게까지 깨어 있다
+* <strong style="color:blue;">stuff my face with</strong>: (음식을) 게걸스럽게 먹다, 배불리 먹다
+* <strong style="color:blue;">bounce back</strong>: 회복되다, 다시 일어서다
+* <strong style="color:blue;">put effort into</strong>: ~에 노력을 쏟다
+* <strong style="color:blue;">got older</strong>: 나이가 들다
+* <strong style="color:blue;">encompass</strong>: 아우르다, 포함하다
+* <strong style="color:blue;">take a toll on</strong>: ~에 타격을 주다, 피해를 입히다
+* <strong style="color:blue;">abuse your body</strong>: 몸을 학대하다, 무리하게 쓰다
+* <strong style="color:blue;">hold up</strong>: 견디다, 버티다
+* <strong style="color:blue;">incorporate</strong>: 포함시키다, 받아들이다
+* <strong style="color:blue;">cut back on</strong>: ~을 줄이다
+* <strong style="color:blue;">focus on</strong>: ~에 집중하다
+* <strong style="color:blue;">build up</strong>: 기르다, 쌓다
+* <strong style="color:blue;">keep in check</strong>: 억제하다, 통제하다
+* <strong style="color:blue;">wind down</strong>: 긴장을 풀고 쉬다
+* <strong style="color:blue;">care for</strong>: 돌보다, 신경 쓰다
