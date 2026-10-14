@@ -15904,3 +15904,83 @@ Nowadays, I am actively trying to <strong style="color:blue;">incorporate</stron
 * <strong style="color:blue;">keep in check</strong>: 억제하다, 통제하다
 * <strong style="color:blue;">wind down</strong>: 긴장을 풀고 쉬다
 * <strong style="color:blue;">care for</strong>: 돌보다, 신경 쓰다
+
+## 2026-10-14 08:06:35 OPIc Study
+
+### 묘사 : 어릴 적 가지고 놀던 장난감 묘사
+
+**[Question]**
+I'd like to know about a toy that you used to play with when you were a child. What did it look like? Please give me a detailed description of the toy and why you liked it so much.
+(어릴 적에 자주 가지고 놀았던 장난감에 대해 알고 싶습니다. 그것은 어떻게 생겼었나요? 그 장난감의 생김새를 자세히 묘사하고, 왜 그렇게 좋아했는지 이야기해 주세요.)
+
+**[Model Answer]**
+You know, thinking back to my childhood, one particular toy instantly <strong style="color:blue;">pops into my head</strong>. It was a classic, mechanical robot action figure that my parents got me for my tenth birthday. To give you a vivid description, it was about thirty centimeters tall and made of a combination of heavy-duty plastic and shiny metal plating. It had a striking color scheme of metallic silver and bright neon blue, which <strong style="color:blue;">stood out</strong> from all my other toys. Its eyes were embedded with small LED lights that would <strong style="color:blue;">light up</strong> whenever I pressed a button hidden on its back. The robot also had fully articulated joints in its shoulders, elbows, and knees, meaning I could <strong style="color:blue;">pose</strong> it in all sorts of dynamic battle stances. 
+
+What really fascinated me, though, was its chest plate, which could <strong style="color:blue;">open up</strong> to reveal a tiny, intricate control panel with miniature dials and switches. As a kid who was absolutely obsessed with sci-fi movies, this robot was the ultimate treasure. I used to <strong style="color:blue;">spend hours on end</strong> <strong style="color:blue;">making up</strong> elaborate storylines where the robot would save the universe from evil alien invaders. Looking back, that toy wasn't just a plaything; it truly <strong style="color:blue;">sparked</strong> my imagination and <strong style="color:blue;">played a pivotal role in</strong> shaping my creative mindset. Even now, whenever I happen to see a vintage robot in a museum or a specialty store, it <strong style="color:blue;">takes me back to</strong> those carefree days in a heartbeat.
+
+**[Vocabulary & Expressions]**
+* vivid: 생생한
+* articulated: 관절이 있는
+* intricate: 정교한
+* <strong style="color:blue;">pop into one's head</strong>: 문득 머릿속에 떠오르다
+* <strong style="color:blue;">stand out</strong>: 눈에 띄다
+* <strong style="color:blue;">light up</strong>: 빛나다, 환해지다
+* <strong style="color:blue;">open up</strong>: 열리다
+* <strong style="color:blue;">spend hours on end</strong>: 몇 시간이고 계속해서 시간을 보내다
+* <strong style="color:blue;">make up</strong>: 지어내다, 만들다
+* <strong style="color:blue;">spark</strong>: 촉발하다, 불러일으키다
+* <strong style="color:blue;">play a pivotal role in</strong>: ~에 중추적인 역할을 하다
+* <strong style="color:blue;">take someone back to</strong>: ~를 ~로 추억하게 만들다
+
+---
+### 롤플레이 : 중고 거래 물건 상태 및 네고 문의
+
+**[Question]**
+I'd like to give you a situation and ask you to act it out. You found an item you want to buy on a second-hand marketplace app. Call the seller, ask about the current condition of the item, and negotiate the price.
+(상황을 하나 줄 테니 역할을 해보세요. 중고 거래 앱에서 사고 싶은 물건을 찾았습니다. 판매자에게 전화해서 물건의 현재 상태에 대해 물어보고 가격을 흥정해 보세요.)
+
+**[Model Answer]**
+Hi there! I'm calling about the wireless headphones you posted on the second-hand app earlier today. They look pretty good in the photos, but I wanted to <strong style="color:blue;">double-check</strong> a few things before making a decision. First of all, could you tell me a bit more about the actual condition of the item? Have there been any major scratches, dents, or functional issues since you bought them? Oh, I see. So they've been used for only about three months, and the battery life is still holding up well, right? That’s great to hear. 
+
+Actually, I was wondering if we could <strong style="color:blue;">work something out</strong> regarding the price. I noticed you listed them for 100,000 won, but since I can <strong style="color:blue;">pick them up</strong> directly at your convenience today, would you be willing to <strong style="color:blue;">come down on</strong> the price a little bit? Say, around 85,000 won? I'm ready to <strong style="color:blue;">transfer the money</strong> right away if that sounds fair to you. Let me know what you think, and we can <strong style="color:blue;">set up</strong> a meeting time and place. Thanks!
+
+**[Vocabulary & Expressions]**
+* marketplace: 장터, 시장
+* dent: 찌그러짐
+* functional: 기능상의
+* <strong style="color:blue;">double-check</strong>: 재확인하다
+* <strong style="color:blue;">work something out</strong>: 원만히 해결하다, 합의점을 찾다
+* <strong style="color:blue;">pick up</strong>: (물건을) 가지러 가다, 픽업하다
+* <strong style="color:blue;">come down on</strong>: (가격을) 깎아주다, 내리다
+* <strong style="color:blue;">transfer the money</strong>: 송금하다
+* <strong style="color:blue;">set up</strong>: 정하다, 설정하다
+
+---
+### 돌발 : 부모님의 양육 방식과 본인 세대의 육아 방식 차이
+
+**[Question]**
+How has parenting style changed from your parents' generation to your generation? What are the main differences, and what do you think has caused these changes?
+(부모님 세대와 여러분 세대의 양육 방식은 어떻게 달라졌나요? 주요 차이점은 무엇이며, 이러한 변화를 초래한 원인은 무엇이라고 생각하십니까?)
+
+**[Model Answer]**
+When comparing the parenting styles of our parents' generation with those of today, I think there is a <strong style="color:blue;">paradigm shift</strong> in how we approach child-rearing. Back in the day, when our parents were raising us, the approach was much more authoritative and strict. Obedience, discipline, and academic achievement were <strong style="color:blue;">at the top of the list</strong>, and parents often <strong style="color:blue;">relied on</strong> a top-down method of communication. Children were expected to listen without questioning, and emotional expression was sometimes <strong style="color:blue;">pushed aside</strong> in favor of practical success. 
+
+On the other hand, my generation <strong style="color:blue;">tends to</strong> focus heavily on emotional intelligence, open dialogue, and child-centered development. Nowadays, parents <strong style="color:blue;">go out of their way to</strong> <strong style="color:blue;">put themselves in their children's shoes</strong> and encourage them to express their feelings freely. I believe this drastic change <strong style="color:blue;">stems from</strong> the rapid advancement of psychological research and a growing societal awareness of mental health. Instead of just raising obedient kids, modern parents aim to <strong style="color:blue;">bring up</strong> independent, emotionally resilient individuals who can <strong style="color:blue;">think outside the box</strong>. Overall, while the old ways had their own merits, I genuinely believe the modern approach is much better <strong style="color:blue;">tailored to</strong> the fast-paced, complex world we live in today.
+
+**[Vocabulary & Expressions]**
+* authoritative: 권위적인
+* obedience: 복종
+* discipline: 훈육, 규율
+* resilient: 회복력 있는, 끈질긴
+* merit: 장점
+* <strong style="color:blue;">paradigm shift</strong>: 패러다임 전환, 인식의 대전환
+* <strong style="color:blue;">at the top of the list</strong>: 최우선 순위에 있는
+* <strong style="color:blue;">rely on</strong>: ~에 의존하다
+* <strong style="color:blue;">push aside</strong>: 제쳐두다, 무시하다
+* <strong style="color:blue;">tend to</strong>: ~하는 경향이 있다
+* <strong style="color:blue;">go out of their way to</strong>: 특별히 애를 써서 ~하다
+* <strong style="color:blue;">put oneself in someone's shoes</strong>: ~의 입장이 되어 보다
+* <strong style="color:blue;">stem from</strong>: ~에서 비롯되다, 유래하다
+* <strong style="color:blue;">bring up</strong>: 기르다, 양육하다
+* <strong style="color:blue;">think outside the box</strong>: 창의적으로 생각하다, 틀을 깨다
+* <strong style="color:blue;">tailored to</strong>: ~에 맞춰진
