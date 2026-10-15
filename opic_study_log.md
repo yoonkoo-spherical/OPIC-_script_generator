@@ -15984,3 +15984,108 @@ On the other hand, my generation <strong style="color:blue;">tends to</strong> f
 * <strong style="color:blue;">bring up</strong>: 기르다, 양육하다
 * <strong style="color:blue;">think outside the box</strong>: 창의적으로 생각하다, 틀을 깨다
 * <strong style="color:blue;">tailored to</strong>: ~에 맞춰진
+
+## 2026-10-15 07:47:57 OPIc Study
+
+### 묘사 : 평일 아침 일상 묘사
+
+**[Question]**
+Could you describe what you usually do in the morning on weekdays from the moment you wake up until you leave the house? Please give me as much detail as possible.
+(평일에 아침에 일어나서 집을 나서기 전까지 보통 무엇을 하는지 가능한 한 자세히 설명해 주시겠어요?)
+
+**[Model Answer]**
+Well, to be completely honest with you, my morning routine is pretty much like a well-oiled machine because I’m a huge fan of keeping a tight schedule. Typically, my day <strong style="color:blue;">kicks off</strong> right around 6:30 AM when my alarm goes off. The very first thing I do, before even <strong style="color:blue;">checking my phone</strong>, is to stretch a bit to <strong style="color:blue;">shake off</strong> the sleepiness. Then, I head straight to the bathroom to wash my face and brush my teeth, which really helps me <strong style="color:blue;">wake up</strong> fully.
+
+After that, I usually <strong style="color:blue;">prep</strong> a simple breakfast. Since I’m always <strong style="color:blue;">pressed for time</strong> in the morning, I tend to keep it light—usually a cup of drip coffee, some Greek yogurt with berries, and maybe a piece of whole-wheat toast. While eating, I quickly <strong style="color:blue;">go over</strong> my schedule for the day on my tablet to <strong style="color:blue;">prioritize</strong> my tasks. 
+
+Once I’m done eating, I <strong style="color:blue;">hurry back to</strong> my bedroom to <strong style="color:blue;">get dressed</strong>. I usually <strong style="color:blue;">lay out</strong> my clothes the night before, which is a total <strong style="color:blue;">lifesaver</strong> because it saves me from that dreaded "what to wear" panic. After getting dressed, I quickly do my skincare and hair. 
+
+Finally, right before heading out, I <strong style="color:blue;">run through</strong> my mental checklist to make sure I have everything: my wallet, keys, ID card, and wireless earbuds. I <strong style="color:blue;">slip on</strong> my shoes, <strong style="color:blue;">lock up</strong> the front door, and <strong style="color:blue;">head down</strong> to the subway station. It’s a pretty fast-paced routine, but I actually really enjoy the quiet momentum it gives me for the rest of the day.
+
+**[Vocabulary & Expressions]**
+* well-oiled machine: 아주 잘 돌아가는 시스템
+* schedule: 일정
+* prioritize: 우선순위를 매기다
+* lifesaver: 구원투수, 아주 유용한 것
+* dreaded: 끔찍한, 두려운
+* <strong style="color:blue;">kick off</strong>: 시작하다
+* <strong style="color:blue;">check one's phone</strong>: 휴대폰을 확인하다
+* <strong style="color:blue;">shake off</strong>: 떨쳐내다
+* <strong style="color:blue;">wake up</strong>: 잠에서 깨다
+* <strong style="color:blue;">pressed for time</strong>: 시간이 촉박한
+* <strong style="color:blue;">go over</strong>: 검토하다, 살펴보다
+* <strong style="color:blue;">hurry back to</strong>: 서둘러 ~로 돌아가다
+* <strong style="color:blue;">get dressed</strong>: 옷을 입다
+* <strong style="color:blue;">lay out</strong>: 펼쳐 놓다, 준비해 두다
+* <strong style="color:blue;">run through</strong>: 빠르게 훑어보다
+* <strong style="color:blue;">slip on</strong>: 대충 쓱 걸쳐 입다/신다
+* <strong style="color:blue;">lock up</strong>: 문을 잠그다
+* <strong style="color:blue;">head down</strong>: 아래로 향해 가다
+
+---
+### 롤플레이 : 식당 음식 알레르기 재료 항의
+
+**[Question]**
+You are at a restaurant and you realize that the food you ordered contains an ingredient you are severely allergic to. Call the waiter, explain the situation, and ask them to remake the dish. Also, ask how long it will take to get the new food.
+(식당에 갔는데 주문한 음식에 심각한 알레르기가 있는 재료가 들어간 것을 알게 되었습니다. 종업원을 불러 상황을 설명하고 음식을 다시 만들어 달라고 요청하세요. 또한 새 음식이 나오는 데 얼마나 걸릴지도 물어보세요.)
+
+**[Model Answer]**
+Excuse me! Hi, I’m so sorry to bother you, but I have a serious issue with the dish I was just served. I ordered the seafood pasta, but unfortunately, it <strong style="color:blue;">is packed with</strong> walnuts, and I have a severe nut allergy. I actually mentioned this to the server when I ordered, but it seems there was a <strong style="color:blue;">miscommunication</strong> in the kitchen. 
+
+If I <strong style="color:blue;">consume</strong> even a tiny bit of nuts, I <strong style="color:blue;">break out in</strong> hives and have severe breathing difficulties, so I absolutely cannot eat this. Could you please <strong style="color:blue;">take this back</strong> to the kitchen and <strong style="color:blue;">remake</strong> the pasta without any nuts? And please, make sure to <strong style="color:blue;">double-check</strong> with the chef this time to avoid any cross-contamination. 
+
+By the way, could you tell me <strong style="color:blue;">roughly</strong> how long it will take to <strong style="color:blue;">get the new dish</strong> ready? I’m dining with a friend, and we are a bit <strong style="color:blue;">pressed for time</strong> because we have to catch a movie afterwards. I really appreciate your help and quick action on this matter. Thank you!
+
+**[Vocabulary & Expressions]**
+* severely: 심각하게
+* allergy: 알레르기
+* miscommunication: 의사소통 오류
+* consume: 섭취하다
+* hives: 두드러기
+* cross-contamination: 교차 오염
+* roughly: 대략적으로
+* <strong style="color:blue;">is packed with</strong>: ~로 가득 차 있다
+* <strong style="color:blue;">break out in</strong>: (발진 등이) 나다
+* <strong style="color:blue;">take back</strong>: 도로 가져가다
+* <strong style="color:blue;">remake</strong>: 다시 만들다
+* <strong style="color:blue;">double-check</strong>: 재확인하다
+* <strong style="color:blue;">get ready</strong>: 준비되다
+* <strong style="color:blue;">pressed for time</strong>: 시간이 촉박한
+
+---
+### 돌발 : 가족 모임 중 발생한 예상치 못한 말다툼
+
+**[Question]**
+Talk about an unexpected argument or incident that happened during a holiday or family gathering in the past. What caused it, how did it <strong style="color:blue;">turn out</strong>, and how did you feel about it?
+(과거 명절이나 가족 모임에서 발생했던 예상치 못한 말다툼이나 사건에 대해 이야기해 주세요. 무엇이 원인이었고, 어떻게 마무리되었으며, 그에 대해 어떻게 느꼈나요?)
+
+**[Model Answer]**
+You know, looking back, family gatherings are always eventful, but one particular Thanksgiving dinner a couple of years ago <strong style="color:blue;">stands out</strong> in my mind. It was supposed to be a peaceful, joyful evening, but things <strong style="color:blue;">took an unexpected turn</strong> right in the middle of dinner. 
+
+It all started when my uncle and my older cousin <strong style="color:blue;">brought up</strong> a controversial political topic. What began as a harmless debate quickly <strong style="color:blue;">spiraled out of control</strong>. Voices started to <strong style="color:blue;">get raised</strong>, and the atmosphere in the dining room became extremely tense. My grandmother looked visibly upset, and honestly, the rest of us were just sitting there <strong style="color:blue;">at a loss for words</strong>, desperately trying to <strong style="color:blue;">figure out</strong> how to <strong style="color:blue;">step in</strong> and <strong style="color:blue;">calm things down</strong>.
+
+Fortunately, my mother managed to <strong style="color:blue;">break the tension</strong> by suddenly dropping a tray of dessert spoons, which made everyone jump and burst into laughter. That little accident <strong style="color:blue;">diffused the situation</strong> immediately. My uncle and cousin realized how <strong style="color:blue;">out of hand</strong> things had gotten, and they actually <end up> apologizing to each other over pie. 
+
+Reflecting on that day, I realized that family arguments are pretty much inevitable when people with strong opinions <strong style="color:blue;">get together</strong>. However, it also showed me the power of a little humor in <strong style="color:blue;">smoothing things over</strong> during stressful moments.
+
+**[Vocabulary & Expressions]**
+* eventful: 다사다난한
+* controversial: 논란의 여지가 있는
+* inevitably: 불가피하게
+* tension: 긴장감
+* <strong style="color:blue;">turn out</strong>: 결과가 어떻게 되다
+* <strong style="color:blue;">stands out</strong>: 눈에 띄다, 두드러지다
+* <strong style="color:blue;">took an unexpected turn</strong>: 예상치 못한 방향으로 흘러가다
+* <strong style="color:blue;">brought up</strong>: 화제로 꺼내다
+* <strong style="color:blue;">spiraled out of control</strong>: 통제불능으로 악화되다
+* <strong style="color:blue;">get raised</strong>: (소리 등이) 높아지다
+* <strong style="color:blue;">at a loss for words</strong>: 할 말을 잃은
+* <strong style="color:blue;">figure out</strong>: 알아내다, 해결책을 찾다
+* <strong style="color:blue;">step in</strong>: 개입하다, 나서다
+* <strong style="color:blue;">calm things down</strong>: 진정시키다
+* <strong style="color:blue;">break the tension</strong>: 긴장감을 깨다
+* <strong style="color:blue;">diffused the situation</strong>: 상황을 완화하다
+* <strong style="color:blue;">out of hand</strong>: 통제를 벗어난
+* <strong style="color:blue;">end up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">get together</strong>: 모이다
+* <strong style="color:blue;">smoothing things over</strong>: 원만히 수습하다
