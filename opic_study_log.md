@@ -16089,3 +16089,78 @@ Reflecting on that day, I realized that family arguments are pretty much inevita
 * <strong style="color:blue;">end up</strong>: 결국 ~하게 되다
 * <strong style="color:blue;">get together</strong>: 모이다
 * <strong style="color:blue;">smoothing things over</strong>: 원만히 수습하다
+
+## 2026-10-16 07:36:26 OPIc Study
+
+### 묘사 : 자전거 안전장비 묘사
+
+**[Question]**
+Please describe the safety equipment you use when riding a bicycle. What do they look like and why are they important?
+(자전거를 탈 때 사용하는 안전장비를 묘사해 주세요. 그것들은 어떻게 생겼고 왜 중요합니까?)
+
+**[Model Answer]**
+You know, safety is always my top priority whenever I go cycling, so I never <strong style="color:blue;">leave home without</strong> my full gear. First and foremost, a properly fitted helmet is an absolute must. The one I currently use is a sleek, matte black helmet made from a high-impact polycarbonate shell with an EPS foam liner inside to <strong style="color:blue;">absorb shock</strong> in case of a crash. It also features multiple ventilation holes on top, which <strong style="color:blue;">comes in handy</strong> during hot summer days because it keeps my head cool and prevents excessive sweating. 
+
+In addition to the helmet, I always wear padded cycling gloves. They are fingerless, made of breathable mesh on the back, and have gel-padded synthetic leather on the palms. These gloves <strong style="color:blue;">play a crucial role</strong> in reducing hand fatigue and vibration from the handlebar, while also protecting my skin if I accidentally take a tumble. Lastly, I never forget to attach LED safety lights to both the front and back of my bike. The front light casts a bright beam to illuminate the path ahead, while the flashing red rear light ensures that I am visible to motorists and pedestrians, especially when riding at dusk or after dark. Wearing all this equipment gives me immense peace of mind, allowing me to fully enjoy my ride without constantly <strong style="color:blue;">stressing out about</strong> potential accidents.
+
+**[Vocabulary & Expressions]**
+* priority: 우선순위
+* ventilation: 통풍
+* excessive: 과도한
+* synthetic: 합성의
+* pedestrian: 보행자
+* <strong style="color:blue;">leave home without</strong>: ~없이 집을 나서다
+* <strong style="color:blue;">absorb shock</strong>: 충격을 흡수하다
+* <strong style="color:blue;">comes in handy</strong>: 유용하다
+* <strong style="color:blue;">play a crucial role</strong>: 중대한 역할을 하다
+* <strong style="color:blue;">stress out about</strong>: ~에 대해 스트레스 받다
+
+---
+### 롤플레이 : ATM 기기 카드 삼킴 사고
+
+**[Question]**
+You are trying to use an ATM at a bank, but it suddenly swallows your credit card and won't return it. Call the bank's customer service or speak to a bank teller to explain the situation, and ask what you should do and how to get your card back.
+(은행 ATM을 사용하려는데 갑자기 카드를 삼키고 돌려주지 않습니다. 은행 고객센터에 전화하거나 직원에게 상황을 설명하고, 어떻게 해야 하며 카드를 어떻게 돌려받을 수 있는지 물어보세요.)
+
+**[Model Answer>
+Excuse me, hello? I'm currently standing right in front of the ATM inside your branch, and I have a serious emergency. My credit card was just <strong style="color:blue;">swallowed up by</strong> the machine, and it's not coming out no matter what I do! I was simply trying to withdraw some cash for an urgent payment, but the screen suddenly froze, flashed an error message, and <strong style="color:blue;">held onto</strong> my card. 
+
+I'm in a huge panic right now because I need that card for my travel expenses tomorrow morning. Could you please let me know what steps I need to take to <strong style="color:blue;">sort this out</strong>? Is there any way a technician can <strong style="color:blue;">open up</strong> the machine right now and retrieve it for me, or do I have to fill out a formal application form? Also, if the card cannot be retrieved immediately, how long will it <strong style="color:blue;">take to</strong> issue a replacement? I would really appreciate it if you could <strong style="color:blue;">walk me through</strong> the exact procedure as quickly as possible. Thank you so much for your help.
+
+**[Vocabulary & Expressions]**
+* emergency: 비상 사태
+* withdraw: 인출하다
+* technician: 기술자
+* retrieve: 되찾다
+* replacement: 재발급, 대체품
+* <strong style="color:blue;">swallowed up by</strong>: ~에게 집어삼켜지다
+* <strong style="color:blue;">held onto</strong>: ~을 쥐고 있다, 보관하다
+* <strong style="color:blue;">sort this out</strong>: 이 문제를 해결하다
+* <strong style="color:blue;">open up</strong>: 열다
+* <strong style="color:blue;">walk me through</strong>: ~를 차근차근 설명해주다
+
+---
+### 돌발 : 동아리/팀 내 갈등 해결 경험
+
+**[Question]**
+Tell me about a time when you took on a leadership role within a group, such as a club or a team, and had to resolve a conflict among members. What caused the conflict and how did you successfully handle it?
+(동아리나 팀 같은 집단 내에서 리더 역할을 맡아 구성원 간의 갈등을 해결했던 경험을 말해 주세요. 갈등의 원인은 무엇이었고 어떻게 성공적으로 처리했습니까?)
+
+**[Model Answer]**
+Back when I was serving as the president of a university film production club, we faced a major crisis just two weeks before our annual short film showcase. A serious conflict <strong style="color:blue;">broke out</strong> between our main director and the head of the editing team regarding the final cut of the movie. The director insisted on keeping a long, emotional sequence that symbolized the theme, whereas the editor argued that it completely <strong style="color:blue;">slowed down</strong> the pacing and needed to be cut entirely. Emotions ran high, and both individuals stopped speaking to each other, which completely <strong style="color:blue;">brought the project to a halt</strong>. 
+
+Realizing that something had to be done immediately, I decided to <strong style="color:blue;">step in</strong> and act as a mediator. First, I arranged a private meeting for both of them in a quiet cafe to <strong style="color:blue;">clear the air</strong> and let them express their frustrations without judgment. I actively listened to both sides and pointed out that they both shared the exact same ultimate goal—making the film a masterpiece. After cooling down, they began to <strong style="color:blue;">see eye to eye</strong> on the artistic vision. We compromised by trimming the scene down to a punchy, impactful length that satisfied both the director's artistic desire and the editor's pacing concerns. That challenging experience taught me that effective leadership is not about giving orders, but about <strong style="color:blue;">bridging the gap</strong> through empathy and active listening.
+
+**[Vocabulary & Expressions]**
+* showcase: 상영회, 전시회
+* symbolize: 상징하다
+* pacing: (극의) 속도감, 전개
+* compromise: 타협하다
+* empathy: 공감
+* <strong style="color:blue;">broke out</strong>: (갈등 등이) 터지다, 발생하다
+* <strong style="color:blue;">slowed down</strong>: 속도를 늦추다
+* <strong style="color:blue;">brought the project to a halt</strong>: 프로젝트를 중단시키다
+* <strong style="color:blue;">step in</strong>: 개입하다, 나서다
+* <strong style="color:blue;">clear the air</strong>: 오해를 풀다, 분위기를 풀다
+* <strong style="color:blue;">see eye to eye</strong>: 의견이 일치하다
+* <strong style="color:blue;">bridging the gap</strong>: 간극을 좁히다
