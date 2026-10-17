@@ -16164,3 +16164,100 @@ Realizing that something had to be done immediately, I decided to <strong style=
 * <strong style="color:blue;">clear the air</strong>: 오해를 풀다, 분위기를 풀다
 * <strong style="color:blue;">see eye to eye</strong>: 의견이 일치하다
 * <strong style="color:blue;">bridging the gap</strong>: 간극을 좁히다
+
+## 2026-10-17 07:15:44 OPIc Study
+
+### 묘사 : 동네 단골 카페 묘사하기
+
+**[Question]**
+Please describe your favorite place in your neighborhood, such as a park or a cafe. What does it look like, and why do you like to go there?
+(당신의 동네에서 공원이나 카페 등 가장 즐겨 찾는 장소를 묘사해 주세요. 어떻게 생겼으며, 왜 그곳에 가는 것을 좋아하나요?)
+
+**[Model Answer]**
+You know, if I have to pick my absolute favorite spot in my neighborhood, I would definitely have to say it’s a cozy little indie coffee shop located just a five-minute walk from my apartment. It’s called "Bean There," and honestly, it has completely <strong style="color:blue;">grown on me</strong> ever since I moved into this area about two years ago. 
+
+Let me paint a picture for you. As soon as you open the front door, you are immediately <strong style="color:blue;">struck by</strong> the warm and inviting atmosphere. Unlike those massive, cookie-cutter chain coffee shops that are always loud and packed, this place has a very rustic, vintage vibe. The interior features exposed brick walls, warm yellow lighting, and countless wooden bookshelves filled with old novels and travel magazines. One of my favorite features of the cafe is the massive floor-to-ceiling glass window that looks out onto a quiet, tree-lined street. 
+
+I usually <strong style="color:blue;">head over to</strong> this place every Saturday morning. I always <strong style="color:blue;">settle into</strong> a comfy leather armchair right by the window, order a hot flat white, and just watch the world go by. It’s my ultimate sanctuary where I can <strong style="color:blue;">wind down</strong> and escape from the hustle and bustle of my busy work week. Whether I’m reading a book, listening to a podcast, or just <strong style="color:blue;">catching up on</strong> some personal journaling, time seems to just fly by when I'm there. 
+
+Moreover, the baristas are genuinely friendly. They already know my usual order by heart, and they always greet me with a bright smile, which never fails to <strong style="color:blue;">brighten up</strong> my day. All in all, this cafe is not just a place to grab a cup of coffee; it’s an essential part of my daily routine and a place that truly <strong style="color:blue;">feels like home</strong>.
+
+**[Vocabulary & Expressions]**
+* indie: 독립적인, 인디의
+* cookie-cutter: 붕어빵처럼 찍어낸, 개성 없는
+* rustic: 소박한, 시골풍의
+* sanctuary: 안식처, 피난처
+* hustle and bustle: (도시의) 잡함과 소란스러움
+* <strong style="color:blue;">grow on me</strong>: 점차 마음에 들다
+* <strong style="color:blue;">struck by</strong>: ~에 깊은 인상을 받다
+* <strong style="color:blue;">head over to</strong>: ~로 향하다
+* <strong style="color:blue;">settle into</strong>: ~에 편안히 자리를 잡다
+* <strong style="color:blue;">wind down</strong>: 긴장을 풀고 쉬다
+* <strong style="color:blue;">catch up on</strong>: 밀린 일을 하다
+* <strong style="color:blue;">brighten up</strong>: ~을 밝게 하다, 기분 좋게 하다
+* <strong style="color:blue;">feel like home</strong>: 집처럼 편안하다
+
+---
+### 롤플레이 : 친구에게 두고 온 우산 부탁하기
+
+**[Question]**
+You left your umbrella at your friend's house. Call your friend, explain the situation, and ask if you can pick it up or if they can bring it to you.
+(친구 집에 우산을 두고 왔습니다. 친구에게 전화해서 상황을 설명하고, 우산을 가지러 가도 될지 아니면 가져다줄 수 있는지 부탁하세요.)
+
+**[Model Answer]**
+Hey, Sarah! It’s me. Do you have a quick second to chat? I'm calling you because I just realized something kind of embarrassing, and I really need your help. You know that gathering we had at your place last night? Well, as I was walking out of my office just now, it started pouring rain cats and dogs. I reached into my bag to grab my umbrella, only to realize that I completely <strong style="color:blue;">left it behind</strong> at your apartment. It was actually my favorite umbrella, and my mom gave it to me as a gift, so I really don't want to lose it. 
+
+I was wondering if it would be okay for me to <strong style="color:blue;">drop by</strong> your place sometime this evening to pick it up? I know it's a bit short notice, and I don't want to <strong style="color:blue;">put you out</strong> or anything, but I'm heading your way around 7 PM after I <strong style="color:blue;">wrap up</strong> my meetings. If you're going to be home, I can just swing by for a second, grab it from your porch, and <strong style="color:blue;">be on my way</strong> so I don't disturb you too much. 
+
+Wait, actually, I know you mentioned earlier that you have plans to meet up with some other friends downtown later tonight. If you're already heading out, do you think you could possibly <strong style="color:blue;">bring it along</strong> with you? We could maybe meet up somewhere along your route, or you could even <strong style="color:blue;">leave it with</strong> the front desk security guard at your building if that's easier for you. 
+
+Anyway, let me know what works best for you. I'm really sorry for being so clumsy and <strong style="color:blue;">putting you to this trouble</strong>. Thanks a million, Sarah! Talk to you soon, bye!
+
+**[Vocabulary & Expressions]**
+* pouring rain cats and dogs: 비가 억수같이 쏟아지는
+* clumsy: 덜렁대는, 손재주 없는
+* front desk security guard: 프런트 경비원
+* <strong style="color:blue;">left it behind</strong>: 두고 오다
+* <strong style="color:blue;">drop by</strong>: 들르다
+* <strong style="color:blue;">put you out</strong>: ~에게 폐를 끼치다, 불편하게 하다
+* <strong style="color:blue;">wrap up</strong>: (일 등을) 마치다, 끝내다
+* <strong style="color:blue;">be on my way</strong>: 가던 길을 가다, 떠나다
+* <strong style="color:blue;">bring it along</strong>: 그것을 가져오다
+* <strong style="color:blue;">leave it with</strong>: ~에게 그것을 맡기다
+* <strong style="color:blue;">put you to this trouble</strong>: 너에게 이런 수고를 끼치다
+
+---
+### 돌발 : 편곡이 너무 달라 실망했던 공연 경험
+
+**[Question]**
+You went to a live concert recently. However, the songs were arranged completely differently from what you knew, and you were disappointed. Tell me about this experience in detail.
+(최근에 라이브 콘서트에 갔습니다. 하지만 곡들이 당신이 알던 것과 너무 다르게 편곡되어 있어서 실망했습니다. 이 경험에 대해 자세히 말해주세요.)
+
+**[Model Answer]**
+You know, I have to talk about a rather disappointing concert experience I had a few months ago. I’m a huge fan of this indie-rock band, and I had been waiting for their live concert for over a year. I managed to <strong style="color:blue;">get a hold of</strong> front-row tickets, and I was genuinely <strong style="color:blue;">looking forward to</strong> singing along to all of their classic, upbeat hits that I fell in love with. 
+
+However, things didn't quite <strong style="color:blue;">turn out</strong> the way I had expected. As soon as the concert started, I realized that the band decided to completely <strong style="color:blue;">rearrange</strong> almost every single song. Instead of the energetic, fast-paced guitar-driven melodies that I knew by heart, they <strong style="color:blue;">turned</strong> all of their cheerful songs <strong style="color:blue;">into</strong> slow, gloomy acoustic ballads, or sometimes even weird electronic jazz experiments. 
+
+To make matters worse, the lead singer kept <strong style="color:blue;">going off on</strong> these endless, self-indulgent improvisational tangents, making it almost impossible to recognize the original tunes. I was sitting there, completely <strong style="color:blue;">taken aback</strong> and honestly quite frustrated. I mean, I totally understand that artists want to <strong style="color:blue;">experiment with</strong> their sound and <strong style="color:blue;">grow out of</strong> their old style, but as a loyal fan, I desperately wanted to hear the songs that had <strong style="color:blue;">gotten me through</strong> some really tough times in my life. 
+
+By the middle of the show, my enthusiasm had completely <strong style="color:blue;">fizzled out</strong>, and I found myself just <strong style="color:blue;">checking my watch</strong> every few minutes, wishing for the concert to end. It was such a major letdown because I had <strong style="color:blue;">pinned so much hope on</strong> that night. Looking back, I guess it taught me to <strong style="color:blue;">temper my expectations</strong> when going to live shows, but I definitely learned my lesson about artists changing their classic tracks too much.
+
+**[Vocabulary & Expressions]**
+* upbeat: 긍정적인, 활기찬
+* fast-paced: 빠르게 진행되는
+* gloomy: 우울한, 침울한
+* self-indulgent: 제멋대로 하는, 탐닉하는
+* improvisational tangent: 즉흥적인 삼천포로 빠짐, 즉흥 연주
+* <strong style="color:blue;">get a hold of</strong>: ~을 구하다, 손에 넣다
+* <strong style="color:blue;">looking forward to</strong>: ~을 학수고대하다
+* <strong style="color:blue;">turn out</strong>: (결과가) 판명되다, 되다
+* <strong style="color:blue;">turned ~ into ~</strong>: ~를 ~로 바꾸다
+* <strong style="color:blue;">going off on</strong>: (주제에서) 벗어나 말을 길게 하다
+* <strong style="color:blue;">taken aback</strong>: 깜짝 놀란, 당황한
+* <strong style="color:blue;">experiment with</strong>: ~을 실험하다
+* <strong style="color:blue;">grow out of</strong>: ~에서 벗어나 성장하다
+* <strong style="color:blue;">gotten me through</strong>: 나를 견뎌내게 해주었다
+* <strong style="color:blue;">fizzled out</strong>: 용두사미로 끝나다, 서서히 시들해지다
+* <strong style="color:blue;">checking my watch</strong>: 시계를 자꾸 보다
+* <strong style="color:blue;">pinned so much hope on</strong>: ~에 엄청난 기대를 걸다
+* <strong style="color:blue;">temper my expectations</strong>: 기대를 낮추다, 조절하다
