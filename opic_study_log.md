@@ -16261,3 +16261,86 @@ By the middle of the show, my enthusiasm had completely <strong style="color:blu
 * <strong style="color:blue;">checking my watch</strong>: 시계를 자꾸 보다
 * <strong style="color:blue;">pinned so much hope on</strong>: ~에 엄청난 기대를 걸다
 * <strong style="color:blue;">temper my expectations</strong>: 기대를 낮추다, 조절하다
+
+## 2026-10-18 07:29:23 OPIc Study
+
+### 묘사 : 공원에서 사람들이 하는 활동
+
+**[Question]**
+I'd like to know about the parks in your country. What do people usually do when they visit a park? Please describe the various activities people enjoy there in detail.
+(우리나라의 공원들에 대해 알고 싶습니다. 사람들이 공원을 방문할 때 보통 무엇을 하나요? 그곳에서 사람들이 즐기는 다양한 활동을 자세히 묘사해 주세요.)
+
+**[Model Answer]**
+You know, whenever I <strong style="color:blue;">drop by</strong> a local park, I am always fascinated by how diverse the activities are. People in my country use parks not just for a simple walk, but as a multi-functional space for relaxation, exercise, and socializing. First of all, physical activities are extremely popular. If you <strong style="color:blue;">look around</strong>, you can easily spot people <strong style="color:blue;">working out</strong> using public exercise equipment, jogging along the designated paths, or riding bicycles. It is quite common to see running clubs <strong style="color:blue;">working up</strong> a sweat together, especially in the early morning or late evening. Beyond exercising, parks serve as a major hub for leisure and family time. On weekends, you can see families <strong style="color:blue;">setting up</strong> tents and picnic mats on the grass, <strong style="color:blue;">hanging out</strong> with their kids, and sharing homemade food. Some people prefer <strong style="color:blue;">winding down</strong> by reading a book under a shaded tree or listening to music with their earphones on. Moreover, pet owners frequently <strong style="color:blue;">bring out</strong> their dogs for a walk, allowing their pets to run around freely in designated pet zones. All in all, parks in my country are vibrant community spaces where people can truly <strong style="color:blue;">get away from</strong> the hustle and bustle of daily life and <strong style="color:blue;">recharge their batteries</strong>.
+
+**[Vocabulary & Expressions]**
+* Fascinated: 매료된
+* Multi-functional: 다기능의
+* Designated: 지정된
+* Vibrant: 활기찬
+* Hustle and bustle: (도시의) ⁠복잡함와 소란스러움
+* <strong style="color:blue;">drop by</strong>: ~에 들르다
+* <strong style="color:blue;">look around</strong>: 둘러보다
+* <strong style="color:blue;">working out</strong>: 운동하다
+* <strong style="color:blue;">working up</strong>: (땀을) 흘리다
+* <strong style="color:blue;">setting up</strong>: 설치하다, 치다
+* <strong style="color:blue;">hanging out</strong>: 어울려 지내다, 시간을 보내다
+* <strong style="color:blue;">winding down</strong>: 긴장을 풀고 쉬다
+* <strong style="color:blue;">bring out</strong>: 데리고 나오다, 끌어내다
+* <strong style="color:blue;">get away from</strong>: ~로부터 벗어나다
+* <strong style="color:blue;">recharge their batteries</strong>: 재충전하다
+
+---
+### 롤플레이 : 병원 진료 예약하기
+
+**[Question]**
+You are feeling sick and need to see a doctor today. Call a local clinic, explain your cold symptoms, and make an appointment for a same-day visit. Ask three to four questions about the schedule and requirements.
+(몸이 아프서 오늘 진료를 받아야 합니다. 동네 병원에 전화해서 감기 증상을 설명하고 당일 진료를 예약하세요. 진료 일정과 요구사항에 대해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hi, good morning. I would like to <strong style="color:blue;">make an appointment</strong> to see a doctor today. To <strong style="color:blue;">give you some background</strong>, I've been <strong style="color:blue;">coming down with</strong> a severe cold since yesterday. I have a terrible sore throat, a high fever, and a bad cough, and I honestly feel like my body has <strong style="color:blue;">run down</strong> completely. I really need to <strong style="color:blue;">get checked out</strong> as soon as possible. By the way, what are your available time slots for today? Do you have any openings in the afternoon, maybe around 2 or 3 PM? Also, I was wondering if I need to <strong style="color:blue;">fill out</strong> any paperwork or bring my ID card when I arrive. One last thing, is there <strong style="color:blue;">a long wait</strong> right now, or should I be able to see the doctor promptly at the scheduled time? Please <strong style="color:blue;">let me know</strong> if everything is all set. Thank you so much.
+
+**[Vocabulary & Expressions]**
+* Severe: 심각한
+* Sore throat: 인후통
+* Promptly: 제때에, 즉시
+* <strong style="color:blue;">make an appointment</strong>: 예약하다
+* <strong style="color:blue;">give you some background</strong>: 배경 설명을 하자면
+* <strong style="color:blue;">coming down with</strong>: (병에) 걸리기 시작하다
+* <strong style="color:blue;">run down</strong>: 지치게 하다, 쇠약해지다
+* <strong style="color:blue;">get checked out</strong>: 진찰을 받다
+* <strong style="color:blue;">fill out</strong>: (서류를) 작성하다
+* <strong style="color:blue;">a long wait</strong>: 긴 대기 시간
+* <strong style="color:blue;">let me know</strong>: 알려주다
+
+---
+### 돌발 : 해외 직구 및 온라인 쇼핑 사기/배송 사고
+
+**[Question]**
+Tell me about a time when you experienced a scam or a delivery accident while shopping online or using overseas direct purchase services. What happened, and how did you resolve the situation?
+(온라인 쇼핑이나 해외 직구를 이용하던 중 사기나 배송 사고를 겪었던 경험에 대해 이야기해 주세요. 무슨 일이 있었고, 어떻게 상황을 해결했나요?)
+
+**[Model Answer]**
+I remember a frustrating incident that happened a few months ago when I was trying to buy a limited-edition jacket through an overseas direct purchase website. I <strong style="color:blue;">came across</strong> this online store offering a massive discount, so I didn't hesitate and <strong style="color:blue;">placed an order</strong> immediately. However, things <strong style="color:blue;">went wrong</strong> right after the payment. Weeks <strong style="color:blue;">went by</strong>, and the tracking status was never updated. When I tried to <strong style="color:blue;">look into</strong> the tracking number, it turned out to be completely fake. To make matters worse, when I tried to access the website again, it had completely <strong style="color:blue;">shut down</strong>, and the seller <strong style="color:blue;">cut off</strong> all communication. I realized I had <strong style="color:blue;">fallen victim to</strong> an online shopping scam. I was so mad and stressed out. Determined not to <strong style="color:blue;">give up</strong>, I decided to <strong style="color:blue;">take action</strong>. I gathered all the evidence, such as the order confirmation and transaction details, and <strong style="color:blue;">reached out to</strong> my credit card company to <strong style="color:blue;">file a dispute</strong> for a chargeback. Fortunately, after a thorough investigation, the credit card company <strong style="color:blue;">backed me up</strong> and I was able to <strong style="color:blue;">get a full refund</strong>. It was a stressful lesson, but since then, I always <strong style="color:blue;">make sure to</strong> use verified and reliable shopping platforms.
+
+**[Vocabulary & Expressions]**
+* Frustrating: 좌절감을 주는
+* Limited-edition: 한정판의
+* Transaction: 거래
+* Investigation: 조사
+* Verified: 검증된
+* <strong style="color:blue;">came across</strong>: 우연히 발견하다
+* <strong style="color:blue;">placed an order</strong>: 주문하다
+* <strong style="color:blue;">went wrong</strong>: 잘못되다
+* <strong style="color:blue;">went by</strong>: (시간이) 지나가다
+* <strong style="color:blue;">look into</strong>: 조사하다
+* <strong style="color:blue;">shut down</strong>: 문을 닫다, 폐쇄하다
+* <strong style="color:blue;">cut off</strong>: 끊다, 차단하다
+* <strong style="color:blue;">fallen victim to</strong>: ~의 피해를 입다
+* <strong style="color:blue;">give up</strong>: 포기하다
+* <strong style="color:blue;">take action</strong>: 조치를 취하다
+* <strong style="color:blue;">reached out to</strong>: ~에게 연락하다
+* <strong style="color:blue;">file a dispute</strong>: 이의를 제기하다
+* <strong style="color:blue;">backed me up</strong>: 지지하다, 편을 들어주다
+* <strong style="color:blue;">get a full refund</strong>: 전액 환불받다
+* <strong style="color:blue;">make sure to</strong>: 반드시 ~하다
