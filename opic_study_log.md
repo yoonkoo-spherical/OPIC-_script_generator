@@ -16344,3 +16344,79 @@ I remember a frustrating incident that happened a few months ago when I was tryi
 * <strong style="color:blue;">backed me up</strong>: 지지하다, 편을 들어주다
 * <strong style="color:blue;">get a full refund</strong>: 전액 환불받다
 * <strong style="color:blue;">make sure to</strong>: 반드시 ~하다
+
+## 2026-10-19 08:12:39 OPIc Study
+
+### 묘사 : 동네 코인 세탁방 내부 묘사
+
+**[Question]**
+Could you describe the laundromat or dry cleaner's near your house? What does it look like, and what kind of facilities are there?
+(집 근처 세탁소나 코인 세탁방을 묘사해 주세요. 어떻게 생겼고, 어떤 시설들이 있나요?)
+
+**[Model Answer]**
+Well, Eva, let me tell you about the self-service laundromat located just a five-minute walk from my apartment. It has been a total game-changer for me, especially when I need to wash bulky items like comforters. 
+
+As soon as you <strong style="color:blue;">step inside</strong>, the first thing you notice is how bright, clean, and modern it is. Unlike old-fashioned, dingy laundromats, this place has a very sleek, cafe-like vibe with warm lighting and soothing background music. Along the left wall, there is a whole array of heavy-duty washing machines stacked neatly, ranging in capacity from medium to extra-large. Right across from them, matching industrial dryers are <strong style="color:blue;">lined up</strong> in rows, which can <strong style="color:blue;">knock out</strong> a huge load of laundry in less than thirty minutes.
+
+One of my favorite things about this place is the seating area. There is a cozy corner <strong style="color:blue;">decked out</strong> with comfortable bar stools, a long wooden table, and even free Wi-Fi and charging stations. People usually <strong style="color:blue;">hang out</strong> there while <strong style="color:blue;">waiting for</strong> their laundry to finish, either <strong style="color:blue;">catching up on</strong> work or scrolling through their phones. There is also a state-of-the-art token machine and a detergent vending machine, so you don't even have to worry if you forget to bring your own supplies. Overall, it's an incredibly well-maintained and pleasant space that makes a mundane chore much more enjoyable.
+
+**[Vocabulary & Expressions]**
+* bulky: 부피가 큰
+* dingy: 우중충한, 낡은
+* sleek: 세련된, 매끄러운
+* <strong style="color:blue;">step inside</strong>: 안으로 들어가다
+* <strong style="color:blue;">lined up</strong>: 줄지어 서 있는
+* <strong style="color:blue;">knock out</strong>: (일 등을) 빨리 끝내다
+* <strong style="color:blue;">decked out</strong>: 꾸며진, 장식된
+* <strong style="color:blue;">hang out</strong>: 시간을 보내다
+* <strong style="color:blue;">waiting for</strong>: ~을 기다리다
+* <strong style="color:blue;">catching up on</strong>: (밀린 일을) 하다, 따라잡다
+
+---
+### 롤플레이 : 택시 타고 목적지 설명 및 빠른 길 요청
+
+**[Question]**
+You need to go to a business meeting in downtown Seoul and you are in a taxi. Explain your destination to the driver and ask him to take the fastest route. Also, ask two or three questions about the traffic conditions.
+(당신은 서울 시내의 비즈니스 미팅에 가기 위해 택시를 탔습니다. 기사에게 목적지를 설명하고 가장 빠른 길로 가 달라고 요청하세요. 또한 교통 상황에 대해 2~3가지 질문을 하세요.)
+
+**[Model Answer]**
+Hi, good afternoon! I need to get to the Grand Seoul Tower in downtown as soon as possible. I have a very important business meeting starting at 2 PM sharp, and to be honest, I'm cutting it a bit close because my previous schedule ran late. Could you please take the fastest route possible? 
+
+I usually take the riverside expressway when I go downtown, but I'm worried it might be jammed right now. What do you think? Do you think the Hannam Bridge route is better, or should we go through the tunnels? Also, how is the traffic looking on the main arterial roads ahead? Do you think we will <strong style="color:blue;">run into</strong> any major congestion near City Hall? 
+
+I would really appreciate it if you could <strong style="color:blue;">keep an eye on</strong> the real-time navigation and <strong style="color:blue;">avoid</strong> any bottleneck areas. I'm willing to pay any extra toll fees for the underground expressway if it <strong style="color:blue;">cuts down</strong> our travel time. Anyway, I'll just leave it in your capable hands. Thank you so much!
+
+**[Vocabulary & Expressions]**
+* sharp: (시간이) 정각에
+* expressway: 고속도로
+* congestion: 혼잡, 교통체증
+* arterial road: 간선도로
+* bottleneck: 병목구간, 정체 지역
+* <strong style="color:blue;">run into</strong>: (문제·곤경·교통체증에) 부딪히다
+* <strong style="color:blue;">keep an eye on</strong>: 주시하다, 눈을 떼지 않다
+* <strong style="color:blue;">cut down</strong>: 줄이다, 단축하다
+
+---
+### 돌발 : 첫 알바로 번 돈을 의미 있게 쓴 경험
+
+**[Question]**
+When was the first time you earned your own money, such as through a part-time job? What did you do, and how did you spend the money most meaningfully?
+(아르바이트 등을 통해 처음으로 스스로 돈을 벌었던 때는 언제인가요? 어떤 일을 했고, 그 돈을 어떻게 가장 의미 있게 썼나요?)
+
+**[Model Answer]**
+Thinking back, the very first time I earned my own money was back in college when I took on a part-time job as an English tutor for a middle school student. I worked three times a week for three months, and it was my first real taste of financial independence. 
+
+I still remember getting my first paycheck. It wasn't a huge amount, but to me, it felt like a million dollars because I had <strong style="color:blue;">poured my heart and soul into</strong> teaching that kid, trying to <strong style="color:blue;">figure out</strong> the best ways to improve his grades. I wanted to use the money in a way that was truly memorable rather than just <strong style="color:blue;">blowing it on</strong> transient things like clothes or video games. 
+
+So, I decided to <strong style="color:blue;">set aside</strong> a significant portion of it to buy meaningful gifts for my parents. I bought my mom a cozy winter coat and took my dad out for a nice dinner at a decent restaurant. Seeing the genuine smiles on their faces when they received the gifts was an absolute highlight of my life. It made me realize the true value of labor and how rewarding it is to <strong style="color:blue;">give back to</strong> the people who raised me. That experience really <strong style="color:blue;">shaped</strong> my perspective on money and responsibility.
+
+**[Vocabulary & Expressions]**
+* paycheck: 급여, 월급
+* transient: 일시적인, 덧없는
+* perspective: 관점, 시각
+* <strong style="color:blue;">poured my heart and soul into</strong>: ~에 온 정성을 쏟다
+* <strong style="color:blue;">figure out</strong>: 알아내다, 이해하다
+* <strong style="color:blue;">blowing it on</strong>: (~에 돈을) 낭비하다, 탕진하다
+* <strong style="color:blue;">set aside</strong>: 따로 떼어두다, 저축하다
+* <strong style="color:blue;">give back to</strong>: ~에게 보답하다, 환원하다
+* <strong style="color:blue;">shaped</strong>: 형성하다
