@@ -16420,3 +16420,89 @@ So, I decided to <strong style="color:blue;">set aside</strong> a significant po
 * <strong style="color:blue;">set aside</strong>: 따로 떼어두다, 저축하다
 * <strong style="color:blue;">give back to</strong>: ~에게 보답하다, 환원하다
 * <strong style="color:blue;">shaped</strong>: 형성하다
+
+## 2026-10-20 07:59:45 OPIc Study
+
+### 묘사 : 현재 거주 중인 집의 구조와 방 묘사
+
+**[Question]**
+Please describe the house or apartment you currently live in. How many rooms are there, and what does it look like overall?
+현재 살고 계신 집이나 아파트를 묘사해 주세요. 방은 몇 개이며, 전체적인 모습은 어떠합니까?
+
+**[Model Answer]**
+Well, to begin with, I currently live in a mid-sized apartment located in a quiet neighborhood, and I <strong style="color:blue;">am really fond of</strong> my living space. To give you a brief overview of its overall structure, it features a spacious living room, a modern kitchen, three bedrooms, and two bathrooms. 
+
+When you first <strong style="color:blue;">step into</strong> the apartment, you are greeted by a cozy and welcoming hallway. The living room is connected directly to the kitchen in an open-plan layout, which makes the entire area feel much more expansive and airy than it actually is. Thanks to the large floor-to-ceiling windows in the living room, an abundance of natural sunlight <strong style="color:blue;">pours in</strong> throughout the day, creating a warm and vibrant atmosphere. 
+
+As for the bedrooms, the master bedroom is located at the far end of the hallway. It <strong style="color:blue;">comes equipped with</strong> a private bathroom and a walk-in closet, which is a huge convenience for me. The second room has been converted into a home office where I spend most of my time working and reading, while the third room is currently being used as a guest bedroom. 
+
+What I love most about my home is how well-organized and functional every corner is. Whenever I <strong style="color:blue;">come back from</strong> a long, exhausting day at work, walking through my front door instantly <strong style="color:blue;">relieves my stress</strong> and makes me feel completely at ease. It truly is my favorite sanctuary in the city.
+
+**[Vocabulary & Expressions]**
+* expansive: 탁 트인, 넓은
+* abundance: 풍부함
+* sanctuary: 안식처
+* <strong style="color:blue;">am really fond of</strong>: ~을 매우 좋아하다
+* <strong style="color:blue;">step into</strong>: ~에 들어서다
+* <strong style="color:blue;">pours in</strong>: (빛 등이) 쏟아져 들어오다
+* <strong style="color:blue;">comes equipped with</strong>: ~을 갖추고 있다
+* <strong style="color:blue;">come back from</strong>: ~에서 돌아오다
+* <strong style="color:blue;">relieves my stress</strong>: 스트레스를 해소하다
+
+---
+### 롤플레이 : 주차 문제로 이웃에게 차 이동 요청하기
+
+**[Question]**
+You are having trouble with a neighbor's car parked in your designated parking spot or blocking your way. Approach your neighbor, explain the situation politely, and ask them to move their car.
+지정된 주차 구역에 주차된 이웃의 차나 진로를 방해하는 차 때문에 곤란을 겪고 있습니다. 이웃에게 다가가 정중하게 상황을 설명하고 차량 이동을 요청하세요.
+
+**[Model Answer]**
+Um, excuse me, hi there. I am sorry to <strong style="color:blue;">bother you</strong>, but I live in unit 202, and I actually need to talk to you about a small issue regarding parking. 
+
+To be honest with you, I was trying to <strong style="color:blue;">pull out of</strong> my designated parking space this morning to get to an important meeting, but your vehicle was parked right in a way that completely <strong style="color:blue;">blocked my way</strong>. Because of that, I had a really hard time getting my car out, and I almost <strong style="color:blue;">ended up being</strong> late for my appointment. 
+
+I completely understand that parking spaces are very limited in our building and everyone struggles to find a spot at night. However, that particular spot is officially assigned to my unit, and when cars are parked outside the lines, it makes it nearly impossible for others to maneuver. 
+
+So, would you mind <strong style="color:blue;">moving your car</strong> to a visitor parking zone or your own designated space whenever you get a chance? I would really appreciate it if you could <strong style="color:blue;">keep that in mind</strong> next time so we can avoid this kind of inconvenience. Thank you so much for your understanding and cooperation!
+
+**[Vocabulary & Expressions]**
+* designated: 지정된
+* maneuver: (차량을) 조종하다, 움직이다
+* inconvenience: 불편
+* <strong style="color:blue;">bother you</strong>: ~에게 폐를 끼치다
+* <strong style="color:blue;">pull out of</strong>: ~에서 (차가) 빠져나오다
+* <strong style="color:blue;">blocked my way</strong>: 내 진로를 막다
+* <strong style="color:blue;">ended up being</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">moving your car</strong>: 차를 이동시키다
+* <strong style="color:blue;">keep that in mind</strong>: 그것을 명심하다
+
+---
+### 돌발 : 과거의 날씨 특징과 기후 변화로 달라진 점
+
+**[Question]**
+What was the weather like in the past in your country, and how has it changed recently due to climate change? Compare the past and the present.
+과거 귀하의 국가의 날씨는 어떠했으며, 최근 기후 변화로 인해 어떻게 달라졌습니까? 과거와 현재를 비교해 주세요.
+
+**[Model Answer]**
+When I look back at how the weather used to be when I was growing up, I realize that things have <strong style="color:blue;">changed dramatically</strong> over the years. In the past, Korea had four distinct and well-defined seasons. Winters were freezing cold but reliably dry, summers were hot and humid but relatively short, and spring and autumn offered breathtaking foliage and crisp, refreshing air. We could clearly <strong style="color:blue;">count on</strong> the transition of seasons each year.
+
+However, over the past decade, global warming and climate change have completely <strong style="color:blue;">turned our weather patterns upside down</strong>. Nowadays, those beautiful transitional seasons like spring and autumn seem to have <strong style="color:blue;">shrunk to</strong> almost nothing. Instead, we experience extremely long, scorching summers and short, bitterly cold winters. 
+
+Furthermore, we now suffer from extreme weather events that rarely used to happen before. For instance, during the summer, we get sudden, torrential downpours that <strong style="color:blue;">lead to</strong> severe flooding in urban areas. In addition, the air quality has <strong style="color:blue;">deteriorated significantly</strong> due to fine dust issues, which heavily restricts outdoor activities. 
+
+All in all, it is quite heartbreaking to witness how environmental degradation <strong style="color:blue;">takes a toll on</strong> our daily lives. I truly believe that we all need to <strong style="color:blue;">take action</strong> immediately to preserve what is left of our natural environment.
+
+**[Vocabulary & Expressions]**
+* distinct: 뚜렷한, 분명한
+* foliage: 나뭇잎, 단풍
+* scorching: 뙤약볕의, 몹시 더운
+* torrential downpour: 억수같은 비, 폭우
+* degradation: 저하, 악화
+* <strong style="color:blue;">changed dramatically</strong>: 극적으로 변하다
+* <strong style="color:blue;">count on</strong>: ~을 믿다, 의지하다
+* <strong style="color:blue;">turned upside down</strong>: 완전히 뒤집어 놓다
+* <strong style="color:blue;">shrunk to</strong>: ~로 줄어들다
+* <strong style="color:blue;">lead to</strong>: ~로 이어지다, 초래하다
+* <strong style="color:blue;">deteriorated significantly</strong>: 현저히 악화되다
+* <strong style="color:blue;">takes a toll on</strong>: ~에 피해를 주다, 타격을 주다
+* <strong style="color:blue;">take action</strong>: 조치를 취하다, 행동에 나서다
