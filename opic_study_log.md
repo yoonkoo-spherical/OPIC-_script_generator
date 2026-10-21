@@ -16506,3 +16506,93 @@ All in all, it is quite heartbreaking to witness how environmental degradation <
 * <strong style="color:blue;">deteriorated significantly</strong>: 현저히 악화되다
 * <strong style="color:blue;">takes a toll on</strong>: ~에 피해를 주다, 타격을 주다
 * <strong style="color:blue;">take action</strong>: 조치를 취하다, 행동에 나서다
+
+## 2026-10-21 08:04:19 OPIc Study
+
+### 묘사 : 사무실 책상 및 정리 상태 묘사
+
+**[Question]**
+Could you describe your office desk or the desk where you usually study? What does it look like, and how do you usually keep it organized?
+(당신의 사무실 책상이나 평소에 공부하는 책상을 묘사해 주시겠어요? 어떻게 생겼고, 평소에 어떻게 정리하시나요?)
+
+**[Model Answer]**
+Well, to be honest with you, my office desk is kind of a reflection of my daily chaotic work life. If I have to describe it, it is a wooden standing desk, and it is usually <strong style="color:blue;">cluttered with</strong> piles of documents, sticky notes, and at least two half-empty coffee cups. On the left side of the desk, I have my dual monitors set up, which are <strong style="color:blue;">essential for</strong> multitasking. Right beneath the monitors, there is a mechanical keyboard that I <strong style="color:blue;">am deeply attached to</strong> because of the satisfying clicking sound it makes. 
+
+As for how I <strong style="color:blue;">keep it organized</strong>, well, I try to <strong style="color:blue;">set aside</strong> at least ten minutes every Friday afternoon to <strong style="color:blue;">tidy up</strong> the whole space. I <strong style="color:blue;">sort through</strong> all the random papers, <strong style="color:blue;">throw away</strong> unnecessary drafts, and <strong style="color:blue;">put away</strong> office supplies into their designated drawers. However, to be completely frank, by Wednesday of the following week, the desk <strong style="color:blue;">goes back to</strong> its original messy state because things just <strong style="color:blue;">pile up</strong> so quickly when I <strong style="color:blue;">am under pressure</strong> with tight deadlines. Despite the chaos, I <strong style="color:blue;">know where everything is</strong>, so it <strong style="color:blue;">works for me</strong> most of the time.
+
+**[Vocabulary & Expressions]**
+* chaotic: 혼란스러운
+* designated: 지정된
+* <strong style="color:blue;">cluttered with</strong>: ~로 어지러운
+* <strong style="color:blue;">essential for</strong>: ~에 필수적인
+* <strong style="color:blue;">am deeply attached to</strong>: ~에 깊이 애착을 느끼다
+* <strong style="color:blue;">keep it organized</strong>: 그것을 정돈 상태로 유지하다
+* <strong style="color:blue;">set aside</strong>: (시간을) 따로 할애하다
+* <strong style="color:blue;">tidy up</strong>: 깔끔하게 치우다
+* <strong style="color:blue;">sort through</strong>: 분류하며 살펴보다
+* <strong style="color:blue;">throw away</strong>: 버리다
+* <strong style="color:blue;">put away</strong>: 치워두다, 제자리에 넣다
+* <strong style="color:blue;">go back to</strong>: ~로 돌아가다
+* <strong style="color:blue;">pile up</strong>: 쌓이다
+* <strong style="color:blue;">am under pressure</strong>: 압박감을 느끼다
+* <strong style="color:blue;">know where everything is</strong>: 모든 것이 어디에 있는지 알다
+* <strong style="color:blue;">works for me</strong>: 나에게 알맞다, 효과가 있다
+
+---
+### 롤플레이 : 머리 스타일 수정 요청
+
+**[Question]**
+You went to a hair salon to get a haircut, but when you look in the mirror after the cut, you are not satisfied with the result. Call the hair designer, explain the situation, and suggest a few ways to fix it.
+(미용실에 가서 머리를 잘랐는데, 자르고 난 후 거울을 보니 결과가 마음에 들지 않습니다. 헤어 디자이너에게 전화하여 상황을 설명하고, 수정할 수 있는 몇 가지 방법을 제안해 보세요.)
+
+**[Model Answer]**
+Hi, is this Min-woo? Hi Min-woo, it's me, the customer who just got a haircut about an hour ago. To be honest, I'm calling you because I <strong style="color:blue;">am not entirely happy with</strong> how my hair turned out. When I was at the salon, the lighting was a bit dim, but now that I <strong style="color:blue;">am out in</strong> the daylight, I can see that the layers are way too short, and the overall shape looks a bit awkward, especially around the back. 
+
+Listen, I <strong style="color:blue;">know it's hard to</strong> undo what's already been done, but I really need your help to <strong style="color:blue;">fix this up</strong> before my important meeting tomorrow. Could I <strong style="color:blue;">drop by</strong> the shop in about thirty minutes? When I get there, maybe we can <strong style="color:blue;">look into</strong> some options. For instance, can we <strong style="color:blue;">blend in</strong> the choppy layers with some texturizing scissors, or perhaps <strong style="color:blue;">take down</strong> the volume a bit more so it lays flat? I <strong style="color:blue;">leave it up to</strong> your professional expertise, but I really hope we can <strong style="color:blue;">work something out</strong>. Let me know if you <strong style="color:blue;">can squeeze me in</strong>. Thanks!
+
+**[Vocabulary & Expressions]**
+* expertise: 전문 지식, 전문성
+* <strong style="color:blue;">am not entirely happy with</strong>: ~에 온전히 만족하지 않는다
+* <strong style="color:blue;">am out in</strong>: ~에 나와 있다
+* <strong style="color:blue;">know it's hard to</strong>: ~하는 것이 어렵다는 것을 알다
+* <strong style="color:blue;">fix this up</strong>: 이것을 수정하다, 바로잡다
+* <strong style="color:blue;">drop by</strong>: 들르다
+* <strong style="color:blue;">look into</strong>: 조사하다, 검토하다
+* <strong style="color:blue;">blend in</strong>: 자연스럽게 섞다
+* <strong style="color:blue;">take down</strong>: 줄이다, 낮추다
+* <strong style="color:blue;">leave it up to</strong>: ~에게 맡기다
+* <strong style="color:blue;">work something out</strong>: 해결책을 마련하다
+* <strong style="color:blue;">can squeeze me in</strong>: (시간을 내어) 나를 끼워 넣어 줄 수 있다
+
+---
+### 돌발 : 응급실에 갔던 아찔한 경험
+
+**[Question]**
+Tell me about a time when you suddenly got very sick or had an emergency that required a trip to the hospital. What happened, and how did you handle the situation?
+(갑자기 심하게 아프거나 병원에 가야 했던 응급 상황에 대해 이야기해 주세요. 무슨 일이 있었고, 그 상황을 어떻게 대처했나요?)
+
+**[Model Answer]**
+Oh, thinking about this still gives me chills. A couple of years ago, out of nowhere, I <strong style="color:blue;">came down with</strong> the most excruciating stomach pain I <strong style="color:blue;">have ever experienced</strong> in my life. It happened late at night, around 2 a.m. I was <strong style="color:blue;">fast asleep</strong> when suddenly I <strong style="color:blue;">woke up</strong> with a sharp, stabbing pain in my lower right abdomen. At first, I thought it was just a bad indigestion, so I tried to <strong style="color:blue;">power through</strong> it by drinking some warm water and <strong style="color:blue;">lying down</strong>. 
+
+However, the pain just <got worse by the minute>, and soon I started breaking out in a cold sweat and <<strong style="color:blue;">fainting spells</strong>> were coming on. Realizing that this was way beyond normal stomach ache, I knew I <<strong style="color:blue;">had to act fast</strong>>. I <strong style="color:blue;">crawled out of</strong> bed, grabbed my phone, and <<strong style="color:blue;">called an ambulance</strong>> because I was in no condition to drive. While waiting for the paramedics to <<strong style="color:blue;">show up</strong>>, I tried to <<strong style="color:blue;">stay calm</strong>> and <<strong style="color:blue;">take deep breaths</strong>>. When I <strong style="color:blue;">got to</strong> the emergency room, the doctors diagnosed it as acute appendicitis and rushed me into emergency surgery. Looking back, it was a terrifying experience, but I <strong style="color:blue;">am so glad</strong> I didn't <<strong style="color:blue;">brush it off</strong>> as a simple ache.
+
+**[Vocabulary & Expressions]**
+* excruciating: 극심한, 참기 힘든
+* abdomen: 복부, 배
+* indigestion: 소화불량
+* paramedics: 응급구조사
+* appendicitis: 충수돌기염(맹장염)
+* <strong style="color:blue;">came down with</strong>: (병에) 걸리다
+* <strong style="color:blue;">have ever experienced</strong>: 지금까지 경험해 본
+* <strong style="color:blue;">fast asleep</strong>: 깊이 잠든
+* <strong style="color:blue;">woke up</strong>: 잠에서 깨어나다
+* <strong style="color:blue;">power through</strong>: (어려움을) 악물고 버텨내다
+* <strong style="color:blue;">lying down</strong>: 누워 있다
+* <strong style="color:blue;">crawled out of</strong>: 기어서 나오다
+* <strong style="color:blue;">called an ambulance</strong>: 구급차를 부르다
+* <strong style="color:blue;">show up</strong>: 나타나다
+* <strong style="color:blue;">stay calm</strong>: 진정하다, 침착함을 유지하다
+* <strong style="color:blue;">take deep breaths</strong>: 심호흡을 하다
+* <strong style="color:blue;">got to</strong>: ~에 도착하다
+* <strong style="color:blue;">am so glad</strong>: ~해서 정말 다행이다
+* <strong style="color:blue;">brush it off</strong>: 대수롭지 않게 넘기다
