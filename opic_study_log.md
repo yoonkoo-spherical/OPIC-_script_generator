@@ -16596,3 +16596,92 @@ However, the pain just <got worse by the minute>, and soon I started breaking ou
 * <strong style="color:blue;">got to</strong>: ~에 도착하다
 * <strong style="color:blue;">am so glad</strong>: ~해서 정말 다행이다
 * <strong style="color:blue;">brush it off</strong>: 대수롭지 않게 넘기다
+
+## 2026-10-22 08:03:03 OPIc Study
+
+### 묘사 : 평일 아침 출근 준비 루틴
+
+**[Question]**
+Please describe your morning routine on weekdays in detail. What do you do from the moment you wake up until you leave your house?
+(평일 아침 일상에 대해 자세히 묘사해 주세요. 잠에서 깨어 집을 나설 때까지 무엇을 합니까?)
+
+**[Model Answer]**
+To be honest, my weekday morning routine is pretty much set in stone because I am not a morning person at all, so every minute counts. Usually, my alarm goes off at 6:30 AM. The very first thing I do is <strong style="color:blue;">hit the snooze button</strong> at least twice before I actually <strong style="color:blue;">drag myself out of bed</strong>. 
+
+Once I am up, I <strong style="color:blue;">make a beeline for</strong> the bathroom to wash my face and brush my teeth, which instantly <strong style="color:blue;">wakes me up</strong>. Then, I usually <strong style="color:blue;">throw on</strong> whatever comfortable outfit I laid out the night before to save time. After getting dressed, I head straight to the kitchen. Since I cannot function without caffeine, brewing a cup of hot coffee is an absolute must. While waiting for the coffee machine, I quickly <strong style="color:blue;">put together</strong> a light breakfast, usually a piece of toast with avocado or some Greek yogurt. 
+
+While having my breakfast, I always <strong style="color:blue;">check my phone</strong> for any urgent work emails or messages to <strong style="color:blue;">stay on top of</strong> my schedule for the day. Right before I leave, I always double-check my bag to make sure I haven't left my laptop, keys, and wallet behind. Finally, I <strong style="color:blue;">head out the door</strong> around 7:40 AM to catch the subway. It is always a hectic rush, but having this systematic routine really helps me <strong style="color:blue;">get through</strong> the morning without losing my mind.
+
+**[Vocabulary & Expressions]**
+* Set in stone: 확정된, 변경할 수 없는
+* Morning person: 아침형 인간
+* <strong style="color:blue;">Hit the snooze button</strong>: (알람의) 스누즈 버튼을 누르다
+* <strong style="color:blue;">Drag oneself out of bed</strong>: 억지로 침대에서 일어나다
+* <strong style="color:blue;">Make a beeline for</strong>: ~로 곧장 가다
+* <strong style="color:blue;">Wake someone up</strong>: 잠을 깨우다
+* <strong style="color:blue;">Throw on</strong>: (옷을) 대충 걸쳐 입다
+* <strong style="color:blue;">Put together</strong>: 대충 만들다, 준비하다
+* <strong style="color:blue;">Check my phone</strong>: 휴대전화를 확인하다
+* <strong style="color:blue;">Stay on top of</strong>: ~을 완전히 파악하고 있다, 뒤처지지 않다
+* <strong style="color:blue;">Head out the door</strong>: 집을 나서다
+* <strong style="color:blue;">Get through</strong>: (힘든 일을) 잘 헤쳐나가다, 끝내다
+
+---
+### 롤플레이 : 렌터카 고장 및 긴급 출동 요청
+
+**[Question]**
+You are driving a rental car, and it suddenly breaks down in the middle of the road. Call the rental car company's customer service center, explain the situation, and ask for emergency roadside assistance.
+(렌트한 자동차를 운전하던 중 도로 한가운데서 갑자기 고장이 났습니다. 렌터카 회사 고객센터에 전화하여 상황을 설명하고 긴급 출동 서비스를 요청하세요.)
+
+**[Model Answer]**
+Hi, my name is Alex Kim, and I am calling because I am in a <strong style="color:blue;">real jam</strong> right now. I rented a sedan from your company yesterday, and while I was driving on the highway, the engine suddenly <strong style="color:blue;">gave out</strong> and the car completely stopped in the middle of the road! I am currently <strong style="color:blue;">stuck on</strong> the shoulder of the expressway, and passing cars are speeding by, so I am honestly terrified. 
+
+First of all, could you please <strong style="color:blue;">send someone over</strong> to my location right away? My rental agreement number is RA-8842-KS. I think the issue might be with the transmission or the engine because it started making a strange rattling noise before it died. I need an emergency tow truck and a technician immediately. Also, since I have a very important business meeting to attend this afternoon, I was wondering if it is possible to <strong style="color:blue;">get a replacement vehicle</strong> delivered to the nearest service station? 
+
+Please <strong style="color:blue;">hurry up</strong> because it is freezing out here and I am extremely stressed. Can you please call me back immediately with the exact ETA of the tow truck? I will <strong style="color:blue;">keep my phone on</strong>, so please let me know as soon as help is dispatched. Thank you so much, bye.
+
+**[Vocabulary & Expressions]**
+* <strong style="color:blue;">Real jam</strong>: 곤경, 난처한 상황
+* Sedan: 세단 (승용차)
+* <strong style="color:blue;">Give out</strong>: (기계 등이) 작동을 멈추다, 고장 나다
+* <strong style="color:blue;">Stuck on</strong>: ~에 갇힌, 오도 가도 못하는
+* Shoulder: 갓길
+* Expressway: 고속도로
+* Rattling noise: 덜컹거리는 소리
+* Tow truck: 견인차
+* <strong style="color:blue;">Send someone over</strong>: 사람을 보내다
+* <strong style="color:blue;">Get a replacement vehicle</strong>: 대체 차량을 받다
+* Service station: 정비소
+* <strong style="color:blue;">Hurry up</strong>: 서두르다
+* ETA (Estimated Time of Arrival): 예상 도착 시간
+* <strong style="color:blue;">Keep my phone on</strong>: 전화를 켜두다, 연락 가능하게 하다
+
+---
+### 돌발 : 과거와 현재의 명절 풍경 비교
+
+**[Question]**
+How did people celebrate traditional holidays like Chuseok or Lunar New Year when you were a child, and how is it different from the way people celebrate them today? Compare the past and the present.
+(당신이 어렸을 때 추석이나 설날 같은 전통 명절을 어떻게 보냈으며, 오늘날 사람들이 명절을 보내는 방식과 어떻게 다릅니까? 과거와 현재를 비교해 주세요.)
+
+**[Model Answer]**
+When it comes to celebrating traditional holidays like Chuseok and Lunar New Year, there has been a <strong style="color:blue;">dramatic shift</strong> between my childhood and today. Looking back, when I was a little kid, holidays were huge family affairs that <strong style="color:blue;">revolved around</strong> large gatherings. Days before the holiday, all my relatives would <strong style="color:blue;">gather at</strong> my grandparents' house. The kitchen was always <strong style="color:blue;">bustling with</strong> activity; my aunts and grandmother would spend hours <strong style="color:blue;">slaving away</strong> in the kitchen, preparing massive amounts of traditional food for the ancestral memorial rites, while the kids played traditional folk games outside. It was quite exhausting, but it was a warm, close-knit experience.
+
+On the other hand, the way we celebrate holidays nowadays is completely different. Modern society has become much more nuclear-family-oriented, and people heavily <strong style="color:blue;">rely on</strong> convenience. Instead of spending days cooking from scratch, many families now <strong style="color:blue;">order holiday food</strong> or even buy pre-made holiday meal sets. Furthermore, instead of sitting in terrible holiday traffic to visit extended family, a lot of people nowadays choose to <strong style="color:blue;">take advantage of</strong> the long holiday break to travel abroad or simply stay home to <strong style="color:blue;">catch up on</strong> some well-deserved rest. 
+
+To sum it up, while traditional holidays in the past were all about heavy family obligations and large-scale preparations, today they have <strong style="color:blue;">turned into</strong> an opportunity for personal relaxation and flexible family time.
+
+**[Vocabulary & Expressions]**
+* <strong style="color:blue;">Dramatic shift</strong>: 극적인 변화
+* <strong style="color:blue;">Revolve around</strong>: ~을 중심으로 돌다
+* <strong style="color:blue;">Gather at</strong>: ~에 모이다
+* <strong style="color:blue;">Bustling with</strong>: ~로 북적거리는
+* <strong style="color:blue;">Slave away</strong>: 뼈빠지게 일하다
+* Ancestral memorial rites: 차례, 제사
+* Close-knit: 긴밀한, 유대가 돈독한
+* Nuclear-family-oriented: 핵가족 중심의
+* <strong style="color:blue;">Rely on</strong>: ~에 의존하다
+* From scratch: 처음부터, 맨땅에서
+* <strong style="color:blue;">Take advantage of</strong>: ~을 이용하다, 활용하다
+* <strong style="color:blue;">Catch up on</strong>: (밀린 일을) 하다, 보충하다
+* Well-deserved rest: 충분히 누릴 자격이 있는 휴식
+* <strong style="color:blue;">Turn into</strong>: ~로 변하다
