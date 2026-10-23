@@ -16685,3 +16685,87 @@ To sum it up, while traditional holidays in the past were all about heavy family
 * <strong style="color:blue;">Catch up on</strong>: (밀린 일을) 하다, 보충하다
 * Well-deserved rest: 충분히 누릴 자격이 있는 휴식
 * <strong style="color:blue;">Turn into</strong>: ~로 변하다
+
+## 2026-10-23 08:02:33 OPIc Study
+
+### 묘사 : 경복궁의 역사적 매력과 아름다움
+
+**[Question]**
+Could you describe one of the most representative tourist attractions in Korea? What does it look like, and why is it so popular among visitors?
+(한국을 대표하는 관광 명소 한 곳을 묘사해 주시겠습니까? 어떻게 생겼으며, 왜 방문객들에게 그렇게 인기가 많습니까?)
+
+**[Model Answer]**
+You know, if I have to pick just one place that truly represents the heart and soul of Korea, I would definitely choose Gyeongbokgung Palace. It is located right in the middle of Seoul, and it serves as a stunning reminder of our rich history, specifically the Joseon Dynasty. As soon as you step inside the main gate, you are <strong style="color:blue;">blown away</strong> by the striking contrast between the ancient, majestic wooden architecture and the modern skyscrapers surrounding it. 
+
+The palace complex is absolutely massive, featuring beautifully manicured traditional gardens, intricate colorful paintings on the eaves called *dancheong*, and the breathtaking Gyeonghoeru Pavilion, which sits gracefully on a lotus pond. What makes it even more special is the vibrant atmosphere you can <strong style="color:blue;">take in</strong> just by walking around. Countless visitors, both domestic and international, rent traditional Korean costumes, known as *hanbok*, which allows free admission to the palace. Seeing hundreds of people walking around in colorful traditional attire really <strong style="color:blue;">brings the history to life</strong>, making you feel as though you have literally traveled back in time several centuries.
+
+Furthermore, Gyeongbokgung is not just a static historical site; it constantly <strong style="color:blue;">reaches out to</strong> the public through various seasonal night-viewing programs and royal guard changing ceremonies. These events <strong style="color:blue;">add up to</strong> an unforgettable cultural experience that <strong style="color:blue;">leaves a lasting impression</strong> on everyone who visits. To sum it all up, Gyeongbokgung Palace is a must-visit destination that <strong style="color:blue;">stands out</strong> as a perfect blend of Korea’s glorious past and its bustling present, and I always proudly recommend it to anyone who asks me about traveling in Korea.
+
+**[Vocabulary & Expressions]**
+* majestic: 장엄한, 위엄 있는
+* intricate: 정교한, 복잡한
+* attire: 복장, 의복
+* <strong style="color:blue;">blown away</strong>: 감탄하다, 압도되다
+* <strong style="color:blue;">take in</strong>: (경치 등을) 감상하다, 흡수하다
+* <strong style="color:blue;">brings the history to life</strong>: 역사를 생생하게 살려내다
+* <strong style="color:blue;">reaches out to</strong>: ~에게 다가가다, 소통하다
+* <strong style="color:blue;">add up to</strong>: 결국 ~가 되다, 합계가 ~이다
+* <strong style="color:blue;">leaves a lasting impression</strong>: 지속적인 인상을 남기다
+* <strong style="color:blue;">stands out</strong>: 두드러지다, 눈에 띄다
+
+---
+### 롤플레이 : 동호회 모임 길 찾기 및 총무에게 전화하기
+
+**[Question]**
+You are trying to get to the meeting place for your club, but you are completely lost and cannot find the location. Call the club’s treasurer, explain your situation, and ask three or four questions to find the right way.
+(동호회 모임 장소로 가고 있지만, 완전히 길을 잃어 위치를 찾지 못하고 있습니다. 동호회 총무에게 전화해 상황을 설명하고, 올바른 길을 찾기 위해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hey, Ji-young! It’s me. I am so sorry to bother you right now, but I am in a bit of a panic because I am completely lost on my way to our club meeting. I thought I <strong style="color:blue;">had the directions down</strong>, but honestly, I <strong style="color:blue;">turned the corner</strong> and now I have no idea where I am. 
+
+First of all, could you tell me exactly which major landmark I should be looking for? Right now, I am standing in front of a big convenience store called GS25, and there is a large green sign that says 'Hanmi Pharmacy' across the street. Does this sound familiar to you? If I am <strong style="color:blue;">way off track</strong>, could you please <strong style="color:blue;">run me through</strong> the directions again <strong style="color:blue;">step by step</strong> from the subway station exit? 
+
+Also, since I am running quite late because of this mix-up, is there any chance you guys could <strong style="color:blue;">hold off on</strong> ordering the food until I actually arrive? I don't want to <strong style="color:blue;">miss out on</strong> the group conversation. Lastly, if it gets too complicated, would it be possible for you to <strong style="color:blue;">come pick me up</strong> if I stay right here? I really appreciate your help, and I will see you in just a few minutes!
+
+**[Vocabulary & Expressions]**
+* treasurer: 총무, 회계 담당자
+* landmark: 주요 표지판, 랜드마크
+* familiar: 익숙한
+* <strong style="color:blue;">had the directions down</strong>: 길을 완전히 파악하고 있었다
+* <strong style="color:blue;">turned the corner</strong>: 모퉁이를 돌다
+* <strong style="color:blue;">way off track</strong>: 엉뚱한 길로 벗어난
+* <strong style="color:blue;">run me through</strong>: ~을 자세히 설명해주다
+* <strong style="color:blue;">step by step</strong>: 단계별로, 차근차근
+* <strong style="color:blue;">hold off on</strong>: ~을 보류하다, 미루다
+* <strong style="color:blue;">miss out on</strong>: 기회를 놓치다, 빠지다
+* <strong style="color:blue;">come pick me up</strong>: 날 데리러 오다
+
+---
+### 돌발 : 인터넷 레시피를 보며 요리하다 망친 경험
+
+**[Question]**
+Talk about a time when you tried to cook something by following an internet recipe, but it completely went wrong. What happened, and how did you deal with the situation?
+(인터넷 레시피를 보고 요리하다가 완전히 망쳐버린 경험에 대해 이야기해 주세요. 어떤 일이 일어났고, 그 상황을 어떻게 대처했나요?)
+
+**[Model Answer]**
+Oh, man, thinking about this still makes me laugh and cringe at the same time. A few months ago, I wanted to <strong style="color:blue;">treat myself</strong> to a nice, homemade creamy pasta, so I looked up a popular recipe online. The blogger made it look so effortless, claiming it would <strong style="color:blue;">turn out</strong> like a dish from an authentic Italian restaurant. Well, things didn't go quite as planned. 
+
+First, I completely <strong style="color:blue;">misjudged</strong> the cooking time for the pasta, and I also got distracted while watching a video on my phone, which caused the cream sauce to <strong style="color:blue;">burn to the bottom</strong> of the pan. The kitchen filled with thick smoke, and the smell was just awful. On top of that, in my panic, I accidentally <strong style="color:blue;">dumped in</strong> way too much salt instead of parmesan cheese. When I finally tasted a small bite, it was so salty and bitter that it literally made my eyes water. The pasta was completely ruined, and the pan was practically unsalvageable. 
+
+Realizing that my grand cooking experiment had <strong style="color:blue;">fallen apart</strong>, I had no choice but to <strong style="color:blue;">throw in the towel</strong>. I immediately opened all the windows to <strong style="color:blue;">clear out</strong> the smoke, scraped the burnt mess into the trash can, and scrubbed the pan. In the end, I was so exhausted and hungry that I decided to <strong style="color:blue;">call it a night</strong> and just <strong style="color:blue;">order in</strong> some pizza. Lesson learned: following online recipes is much harder than it looks, and multitasking while cooking is definitely not for me!
+
+**[Vocabulary & Expressions]**
+* cringe: 움찔하다, 민망해하다
+* effortless: 힘들이지 않는, 수월한
+* authentic: 진짜의, 정통의
+* unsalvageable: 구제불능의, 살릴 수 없는
+* <strong style="color:blue;">treat myself</strong>: 나 자신에게 대접하다, 보상하다
+* <strong style="color:blue;">turn out</strong>: (결과가) ~가 되다
+* <strong style="color:blue;">misjudged</strong>: 오판하다, 잘못 판단하다
+* <strong style="color:blue;">burn to the bottom</strong>: 냄비 바닥에 눌어붙어 타다
+* <strong style="color:blue;">dumped in</strong>: 털어 넣다, 쏟아붓다
+* <strong style="color:blue;">fallen apart</strong>: 무너져 내리다, 망가지다
+* <strong style="color:blue;">throw in the towel</strong>: 항복하다, 포기하다
+* <strong style="color:blue;">clear out</strong>: (연기 등을) 빼내다, 치우다
+* <strong style="color:blue;">call it a night</strong>: (그날 일을) 마치다, 자러 가다
+* <strong style="color:blue;">order in</strong>: 배달시키다
