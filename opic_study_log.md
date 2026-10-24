@@ -16769,3 +16769,95 @@ Realizing that my grand cooking experiment had <strong style="color:blue;">falle
 * <strong style="color:blue;">clear out</strong>: (연기 등을) 빼내다, 치우다
 * <strong style="color:blue;">call it a night</strong>: (그날 일을) 마치다, 자러 가다
 * <strong style="color:blue;">order in</strong>: 배달시키다
+
+## 2026-10-24 07:41:24 OPIc Study
+
+### 묘사 : 기억에 남는 파리의 거리 풍경
+
+**[Question]**
+Please describe one of the most memorable street views or neighborhoods you visited during your trip abroad. What did it look like, and why does it stick out in your mind?
+해외여행 중 방문했던 가장 기억에 남는 거리 풍경이나 동네를 묘사해 주세요. 어떤 모습이었고, 왜 기억에 남는지 이야기해 주세요.
+
+**[Model Answer]**
+You know, if I have to pick just one street that <strong style="color:blue;">left a lasting impression on</strong> me, it would definitely be a charming, cobblestone alleyway in Montmartre, Paris. When I first <strong style="color:blue;">stumbled upon</strong> this hidden neighborhood during my trip last year, I was instantly <strong style="color:blue;">blown away by</strong> its timeless, artistic vibe. 
+
+To give you a vivid picture, the street was quite narrow, lined with quaint, pastel-colored buildings featuring classic wrought-iron balconies. Ivy was <strong style="color:blue;">winding up</strong> the vintage walls, and small, cozy cafes with outdoor seating spilled over onto the pavement. People were leisurely sipping espresso, chatting softly, and local street painters were <strong style="color:blue;">set up</strong> near the corner, displaying their canvases. 
+
+What really <strong style="color:blue;">made it stand out</strong> for me was the overall atmosphere. Unlike the bustling, modern downtown areas, time seemed to <strong style="color:blue;">slow down</strong> there. As I <strong style="color:blue;">strolled down</strong> the slope, listening to the faint sound of an accordion playing in the distance, I felt completely <strong style="color:blue;">cut off from</strong> the stress of everyday life. It wasn't just about the visual beauty; it was the romantic and peaceful mood that <strong style="color:blue;">soaked into</strong> my soul. Even now, whenever I close my eyes, I can almost smell the fresh croissants and feel the gentle breeze of that unforgettable afternoon. It's a place that truly <strong style="color:blue;">grew on</strong> me, and I dream of going back someday.
+
+**[Vocabulary & Expressions]**
+* cobblestone: 자갈이 깔린
+* wrought-iron: 단철(단조 철제)의
+* alleyway: 골목길
+* <strong style="color:blue;">left a lasting impression on</strong>: 지속적인 인상을 남기다
+* <strong style="color:blue;">stumbled upon</strong>: 우연히 발견하다
+* <strong style="color:blue;">blown away by</strong>: ~에 압도되다, 깜짝 놀라다
+* <strong style="color:blue;">winding up</strong>: 감아 올라가다
+* <strong style="color:blue;">set up</strong>: 설치하다, 자리를 잡다
+* <strong style="color:blue;">made it stand out</strong>: 그것을 돋보이게 만들었다
+* <strong style="color:blue;">slow down</strong>: 천천히 가다, 여유를 갖다
+* <strong style="color:blue;">strolled down</strong>: 거닐며 내려가다
+* <strong style="color:blue;">cut off from</strong>: ~로부터 단절된
+* <strong style="color:blue;">soaked into</strong>: 스며들다
+* <strong style="color:blue;">grew on</strong>: 점차 마음에 들게 되다
+
+---
+### 롤플레이 : 면접 장소 및 시간 재확인
+
+**[Question]**
+You have an upcoming job interview with a company. You need to call the HR department to confirm the exact location and time of the interview, and ask if there are any specific documents you need to bring. Ask three to four questions.
+곧 회사의 면접을 앞두고 있습니다. 인사팀에 전화하여 면접의 정확한 장소와 시간을 재확인하고, 지참해야 할 특정 서류가 있는지 물어보세요. 3~4가지 질문을 하세요.
+
+**[Model Answer]**
+Hi, good morning. My name is Alex Kim, and I’m calling to <strong style="color:blue;">follow up on</strong> the upcoming job interview scheduled for next week. I’m really excited about this opportunity, but I just want to <strong style="color:blue;">double-check</strong> a few details to make sure I don't <strong style="color:blue;">miss anything</strong>. 
+
+First of all, could you please confirm the exact time and location of the interview? I know it's at your headquarters, but I want to <strong style="color:blue;">make sure of</strong> the exact floor and room number so I don't <strong style="color:blue;">end up</strong> getting lost on the day of the interview. Also, since parking can sometimes be tricky around your building, could you <strong style="color:blue;">let me know if</strong> visitor parking is available? 
+
+Lastly, I was wondering if there are any specific documents I need to <strong style="color:blue;">bring along with</strong> me. Should I <strong style="color:blue;">print out</strong> a few extra copies of my resume and portfolio, or will digital versions be fine? I just want to <strong style="color:blue;">be well-prepared</strong> and <strong style="color:blue;">get everything ready</strong> in advance. Thanks so much for your help, and I look forward to hearing from you.
+
+**[Vocabulary & Expressions]**
+* headquarters: 본사
+* tricky: 까다로운, 복잡한
+* portfolio: 포트폴리오
+* <strong style="color:blue;">follow up on</strong>: ~에 대해 후속 조치하다, 재확인하다
+* <strong style="color:blue;">double-check</strong>: 재확인하다
+* <strong style="color:blue;">miss anything</strong>: 어떤 것을 놓치다
+* <strong style="color:blue;">make sure of</strong>: ~을 확실히 하다
+* <strong style="color:blue;">end up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">let me know if</strong>: ~인지 알려주다
+* <strong style="color:blue;">bring along with</strong>: ~를 가지고 오다
+* <strong style="color:blue;">print out</strong>: 출력하다
+* <strong style="color:blue;">be well-prepared</strong>: 잘 준비되어 있다
+* <strong style="color:blue;">get everything ready</strong>: 모든 것을 준비하다
+
+---
+### 돌발 : 이사 중 발생한 예상치 못한 문제
+
+**[Question]**
+Tell me about a time when you experienced an unexpected problem while moving to a new house. What was the issue, and how did you manage to resolve it?
+새로운 집으로 이사하는 동안 예상치 못한 문제를 겪었던 경험에 대해 이야기해 주세요. 문제가 무엇이었고, 어떻게 해결했나요?
+
+**[Model Answer]**
+Oh man, thinking about this still <strong style="color:blue;">gives me chills</strong>. A couple of years ago, when I was moving into my current apartment, I ran into a massive, unexpected crisis. Everything seemed to <strong style="color:blue;">go according to plan</strong> until the moving truck arrived at my new place. 
+
+The major issue was that my huge, custom-made sofa simply refused to <strong style="color:blue;">fit through</strong> the front door or the hallway stairwell. The movers tried every possible angle, but it was just too bulky. I was completely <strong style="color:blue;">freaking out</strong> because the movers had to leave for their next job, and my couch was just <strong style="color:blue;">stuck in</strong> the middle of the narrow lobby, blocking the pathway for other residents. I had to <strong style="color:blue;">think on my feet</strong>. 
+
+First, I quickly <strong style="color:blue;">apologized to</strong> the apartment manager and the neighbors for the blockage. Then, instead of panicking, I <strong style="color:blue;">looked up</strong> a local furniture disassembly service online. Luckily, I managed to <strong style="color:blue;">get a hold of</strong> a professional technician who could come on short notice. He carefully <strong style="color:blue;">took the sofa apart</strong> into smaller pieces, carried them up the elevator, and <strong style="color:blue;">put it back together</strong> inside my living room. It cost me an extra penny, but it was a total lifesaver. That day taught me that no matter how well you <strong style="color:blue;">plan ahead</strong>, you always need a backup plan for unexpected hurdles.
+
+**[Vocabulary & Expressions]**
+* custom-made: 주문 제작된
+* bulky: 부피가 큰
+* blockage: 막힘, 폐쇄
+* hurdle: 장애물
+* <strong style="color:blue;">gives me chills</strong>: 소름이 돋게 하다, 끔찍하다
+* <strong style="color:blue;">go according to plan</strong>: 계획대로 진행되다
+* <strong style="color:blue;">fit through</strong>: ~을 통과하다, 맞다
+* <strong style="color:blue;">freaking out</strong>: 겁을 먹다, 당황하다
+* <strong style="color:blue;">stuck in</strong>: ~에 갇힌, 박힌
+* <strong style="color:blue;">think on my feet</strong>: 임기응변으로 대처하다
+* <strong style="color:blue;">apologized to</strong>: ~에게 사과하다
+* <strong style="color:blue;">looked up</strong>: (정보 등을) 찾아보다
+* <strong style="color:blue;">get a hold of</strong>: ~와 연락이 닿다, 붙잡다
+* <strong style="color:blue;">took the sofa apart</strong>: 소파를 분해하다
+* <strong style="color:blue;">put it back together</strong>: 다시 조립하다
+* <strong style="color:blue;">plan ahead</strong>: 미리 계획하다
