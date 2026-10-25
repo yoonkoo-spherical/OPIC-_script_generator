@@ -16861,3 +16861,96 @@ First, I quickly <strong style="color:blue;">apologized to</strong> the apartmen
 * <strong style="color:blue;">took the sofa apart</strong>: 소파를 분해하다
 * <strong style="color:blue;">put it back together</strong>: 다시 조립하다
 * <strong style="color:blue;">plan ahead</strong>: 미리 계획하다
+
+## 2026-10-25 07:53:00 OPIc Study
+
+### 묘사 : 집안일과 청소 도구 묘사
+
+**[Question]**
+Please describe the process of doing housework in your home and tell me what cleaning tools you mainly use. How do these tools help you maintain a clean living space?
+(집안일을 하는 과정을 묘사하고 주로 사용하는 청소 도구가 무엇인지 말씀해 주세요. 이러한 도구들이 깨끗한 주거 공간을 유지하는 데 어떻게 도움이 되나요?)
+
+**[Model Answer]**
+You know, keeping my apartment clean is something I take quite seriously, and I have a pretty systematic routine that I follow every weekend. To <strong style="color:blue;">kick things off</strong>, I usually start by decluttering and <strong style="color:blue;">putting things away</strong> in their designated places. Once the surfaces are clear, I <strong style="color:blue;">get down to</strong> the actual cleaning, which involves dusting, vacuuming, and mopping. When it comes to the tools I mainly use, my absolute favorite is my cordless stick vacuum cleaner. It is an <strong style="color:blue;">absolute game-changer</strong> because it is lightweight, has incredible suction power, and can <strong style="color:blue;">get into</strong> tight corners under the sofa or bed where dust usually accumulates. Another gadget I can't live without is my robotic mop. While I am busy <strong style="color:blue;">taking care of</strong> other chores like washing dishes or doing laundry, the robotic mop quietly <strong style="color:blue;">goes about</strong> cleaning the hardwood floors. It <strong style="color:blue;">takes a huge load off</strong> my shoulders and saves me an immense amount of time and physical effort. Moreover, for surface wiping, I always rely on microfiber cloths paired with eco-friendly multi-purpose cleaners. These cloths <strong style="color:blue;">work like a charm</strong> in <strong style="color:blue;">wiping away</strong> grease and fingerprints without scratching the furniture. Honestly, having the right cleaning tools <strong style="color:blue;">makes all the difference</strong> in transforming a tedious, exhausting chore into a manageable and even somewhat therapeutic task. By <strong style="color:blue;">incorporating these tools into</strong> my weekly routine, I can effortlessly maintain a spotless, hygienic, and welcoming home environment, which is tremendously important for my mental well-being and overall quality of life.
+
+**[Vocabulary & Expressions]**
+* Systematic: 체계적인
+* Decluttering: 잡동사니 치우기
+* Suction power: 흡입력
+* Microfiber cloth: 극세사 천
+* Hygienic: 위생적인
+* <strong style="color:blue;">kick things off</strong>: 시작하다
+* <strong style="color:blue;">putting things away</strong>: 물건을 제자리에 치우다
+* <strong style="color:blue;">get down to</strong>: ~에 착수하다
+* <strong style="color:blue;">get into</strong>: ~에 들어가다, 파고들다
+* <strong style="color:blue;">taking care of</strong>: 처리하다, 돌보다
+* <strong style="color:blue;">goes about</strong>: (일을) 하다, 착수하다
+* <strong style="color:blue;">takes a huge load off</strong>: 부담을 크게 덜어주다
+* <strong style="color:blue;">work like a charm</strong>: 아주 잘 효과가 나타나다
+* <strong style="color:blue;">wiping away</strong>: 닦아내다
+* <strong style="color:blue;">makes all the difference</strong>: 큰 차이를 만들다
+* <strong style="color:blue;">incorporating these tools into</strong>: 이러한 도구들을 ~에 접목하다
+
+---
+### 롤플레이 : 호텔 예약 및 객실 문의
+
+**[Question]**
+You are planning a trip and want to stay at a hotel. Call the hotel front desk, ask about room availability and rates, and explain what kind of room you are looking for.
+(여행을 계획 중이며 호텔에 머물고 싶습니다. 호텔 프론트 데스크에 전화해 객실 상황과 요금을 묻고, 찾고 있는 객실 유형을 설명하세요.)
+
+**[Model Answer]**
+Hi there, good afternoon. I am planning a short vacation to your area next month and I am calling to <strong style="color:blue;">inquire about</strong> your room availability and rates. First of all, let me <strong style="color:blue;">run through</strong> my schedule. I am planning to <strong style="color:blue;">check in</strong> on Friday, the fifteenth of next month, and <strong style="color:blue;">check out</strong> on Sunday, the seventeenth, so it will be a two-night stay. I was wondering if you still have rooms available for those dates. As for the type of room, I am <strong style="color:blue;">on the hunt for</strong> a quiet deluxe double room with a nice ocean view, if possible, because I really want to <strong style="color:blue;">wind down</strong> and <strong style="color:blue;">take in</strong> the scenery during my stay. Could you please let me know what the nightly rate is for that specific room type? Also, I wanted to ask if breakfast is <strong style="color:blue;">included in</strong> the room rate, or if it is something I need to <strong style="color:blue;">sign up for</strong> separately. Additionally, do you have any ongoing promotional discounts or package deals that I might be <strong style="color:blue;">eligible for</strong>? Since I am traveling by car, I also need to check if parking is <strong style="color:blue;">taken care of</strong> by the hotel or if there is an <strong style="color:blue;">additional fee</strong>. I would appreciate it if you could <strong style="color:blue;">walk me through</strong> the reservation process and let me know what the cancellation policy is, just in case my plans change at the <strong style="color:blue;">last minute</strong>. Thank you so much for your help, and I look forward to hearing back from you soon.
+
+**[Vocabulary & Expressions]**
+* Availability: 이용 가능 여부
+* Promotional discount: 프로모션 할인
+* Cancellation policy: 취소 규정
+* <strong style="color:blue;">inquire about</strong>: ~에 대해 문의하다
+* <strong style="color:blue;">run through</strong>: 검토하다, 훑어보다
+* <strong style="color:blue;">check in</strong>: 체크인하다
+* <strong style="color:blue;">check out</strong>: 체크아웃하다
+* <strong style="color:blue;">on the hunt for</strong>: ~을 찾는 중인
+* <strong style="color:blue;">wind down</strong>: 긴장을 풀고 쉬다
+* <strong style="color:blue;">take in</strong>: (경치 등을) 감상하다
+* <strong style="color:blue;">included in</strong>: ~에 포함된
+* <strong style="color:blue;">sign up for</strong>: 신청하다
+* <strong style="color:blue;">eligible for</strong>: ~의 자격이 되는
+* <strong style="color:blue;">taken care of</strong>: 처리되는, 해결되는
+* <strong style="color:blue;">additional fee</strong>: 추가 요금
+* <strong style="color:blue;">walk me through</strong>: ~을 단계별로 설명해주다
+* <strong style="color:blue;">last minute</strong>: 막판의, 마지막 순간의
+
+---
+### 돌발 : 야외에서 겪은 갑작스러운 날씨 변화
+
+**[Question]**
+Tell me about a time when you experienced an unexpected change in weather while you were at a park or outdoors. What happened, how did you react, and what did you learn from that experience?
+(공원이나 야외에 있을 때 갑작스러운 날씨 변화를 겪었던 경험에 대해 말씀해 주세요. 무슨 일이 있었고, 어떻게 대처했으며, 그 경험에서 무엇을 배웠나요?)
+
+**[Model Answer]**
+You know, looking back, I’ve had my fair share of weather surprises, but one particular incident stands out vividly in my memory. It happened a couple of months ago when I decided to <strong style="color:blue;">head over to</strong> a local park to <strong style="color:blue;">make the most of</strong> a gorgeous, sunny weekend afternoon. When I left my house, the sky was completely clear, and not a single cloud was <strong style="color:blue;">in sight</strong>, so I didn't even bother <strong style="color:blue;">bringing along</strong> an umbrella or a jacket. I was <strong style="color:blue;">having a blast</strong> reading a book on a bench and <strong style="color:blue;">taking in</strong> the fresh air. However, out of nowhere, the weather completely <strong style="color:blue;">took a turn for the worse</strong>. Dark, ominous storm clouds <strong style="color:blue;">rolled in</strong> at lightning speed, and within minutes, a torrential downpour accompanied by fierce winds <strong style="color:blue;">broke out</strong>. Naturally, total panic <strong style="color:blue;">set in</strong> among people at the park. Everyone started <strong style="color:blue;">scrambling for</strong> shelter. I had to <strong style="color:blue;">jump into action</strong> immediately, so I quickly <strong style="color:blue;">packed up</strong> my belongings, grabbed my backpack, and <strong style="color:blue;">made a run for</strong> the nearest public pavilion. Even with that quick sprint, I ended up getting completely <strong style="color:blue;">soaked to the skin</strong>. I had to <strong style="color:blue;">wait it out</strong> under the pavilion roof for over an hour while shivering in the cold wind until the storm finally <strong style="color:blue;">let up</strong>. That experience taught me a profound lesson about the unpredictability of nature. Ever since that day, I never <strong style="color:blue;">leave home without</strong> checking the hourly forecast, and I always <strong style="color:blue;">make it a point to</strong> pack a compact folding umbrella in my bag, just in case weather conditions decide to <strong style="color:blue;">play tricks on</strong> me again.
+
+**[Vocabulary & Expressions]**
+* Torrential downpour: 억수 같은 비
+* Ominous: 불길한
+* Pavilion: 정자, 야외 휴게소
+* Unpredictability: 예측 불가능성
+* <strong style="color:blue;">head over to</strong>: ~로 향하다
+* <strong style="color:blue;">make the most of</strong>: ~을 최대한 활용하다
+* <strong style="color:blue;">in sight</strong>: 시야에 보이는
+* <strong style="color:blue;">bringing along</strong>: 가지고 가다
+* <strong style="color:blue;">having a blast</strong>: 아주 즐거운 시간을 보내다
+* <strong style="color:blue;">took a turn for the worse</strong>: 상황이 악화되다
+* <strong style="color:blue;">rolled in</strong>: (안개·구름 등이) 몰려오다
+* <strong style="color:blue;">broke out</strong>: 발생하다, 터지다
+* <strong style="color:blue;">set in</strong>: (날씨 등이 좋지 않게) 시작되다
+* <strong style="color:blue;">scrambling for</strong>: ~을 찾으려 허겁지겁 움직이다
+* <strong style="color:blue;">jump into action</strong>: 즉각 행동에 나서다
+* <strong style="color:blue;">packed up</strong>: 짐을 싸다
+* <strong style="color:blue;">made a run for</strong>: ~를 향해 전력 질주하다
+* <strong style="color:blue;">soaked to the skin</strong>: 쫄딱 젖은
+* <strong style="color:blue;">wait it out</strong>: (좋지 않은 상황이 끝나기를) 기다리다
+* <strong style="color:blue;">let up</strong>: (비·바람 등이) 약해지다, 잦아들다
+* <strong style="color:blue;">leave home without</strong>: ~없이 집을 나서다
+* <strong style="color:blue;">make it a point to</strong>: 반드시 ~하다
+* <strong style="color:blue;">play tricks on</strong>: ~를 골탕 먹이다, 장난치다
