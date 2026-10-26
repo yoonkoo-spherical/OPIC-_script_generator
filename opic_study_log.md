@@ -16954,3 +16954,104 @@ You know, looking back, I’ve had my fair share of weather surprises, but one p
 * <strong style="color:blue;">leave home without</strong>: ~없이 집을 나서다
 * <strong style="color:blue;">make it a point to</strong>: 반드시 ~하다
 * <strong style="color:blue;">play tricks on</strong>: ~를 골탕 먹이다, 장난치다
+
+## 2026-10-26 08:13:14 OPIc Study
+
+### 묘사 : 우리 집 반려견의 외모 묘사
+
+**[Question]**
+Please describe the pet you currently raise or your neighbor's pet in detail. What does it look like, and what are its physical characteristics?
+(현재 기르고 계신 반려동물이나 이웃의 반려동물을 자세히 묘사해 주세요. 어떻게 생겼으며, 신체적 특징은 무엇인가요?)
+
+**[Model Answer]**
+You know, I’m more than happy to talk about my adorable dog, Coco, who is basically a family member to us. When it comes to his appearance, Coco is a Pomeranian, so he is quite small, but he <strong style="color:blue;">makes up for</strong> his tiny size with an exceptionally fluffy and voluminous coat. His fur is a gorgeous mix of cream and light brown, and it literally <strong style="color:blue;">stands out</strong> whenever we take a walk outside. Because of his thick double coat, he <strong style="color:blue;">ends up looking</strong> like a tiny, walking cloud or a fluffy stuffed animal, which <strong style="color:blue;">draws a lot of attention</strong> from people passing by. 
+
+Another distinctive physical feature of Coco is his facial expression. He has these big, round, dark brown eyes that <strong style="color:blue;">look like</strong> shiny buttons, and they always <strong style="color:blue;">give off</strong> a very curious and innocent vibe. His muzzle is quite short, and he has a little black button nose that <strong style="color:blue;">stands out</strong> against his bright fur. Also, when he tilts his head, his small, triangular ears <strong style="color:blue;">perk up</strong>, making him look even more expressive. 
+
+To <strong style="color:blue;">add to that</strong>, his tail is another charming point. It is densely furred and <strong style="color:blue;">curls right over</strong> his back like a fluffy plume. Whenever he gets excited, his tail wags so fast that it <strong style="color:blue;">blurs into</strong> motion, which always <strong style="color:blue;">cracks me up</strong>. Honestly, his physical appearance is just overwhelmingly cute, and his charming looks never <strong style="color:blue;">fail to</strong> brighten up my day, no matter how stressful things get. So, that's a quick picture of what my lovely dog looks like!
+
+**[Vocabulary & Expressions]**
+* voluminous: 부피가 큰, 풍성한
+* distinctive: 독특한, 구별되는
+* densely: 빽빽하게, 조밀하게
+* plume: (깃털 모양의) 장식
+* <strong style="color:blue;">make up for</strong>: ~을 만회하다, 보충하다
+* <strong style="color:blue;">stand out</strong>: 눈에 띄다, 두드러지다
+* <strong style="color:blue;">end up looking</strong>: 결국 ~처럼 보이게 되다
+* <strong style="color:blue;">draw a lot of attention</strong>: 큰 관심을 끌다
+* <strong style="color:blue;">look like</strong>: ~처럼 보이다
+* <strong style="color:blue;">give off</strong>: (빛·냄새·느낌 등을) 발산하다, 내뿜다
+* <strong style="color:blue;">perk up</strong>: (귀 등이) 쫑긋 세워지다
+* <strong style="color:blue;">add to that</strong>: 게다가, 덧붙여서
+* <strong style="color:blue;">curl right over</strong>: 바로 위로 말리다
+* <strong style="color:blue;">blur into</strong>: 흐릿해지며 섞이다
+* <strong style="color:blue;">crack someone up</strong>: ~를 박장대소하게 만들다
+* <strong style="color:blue;">fail to</strong>: ~하지 못하다
+
+---
+### 롤플레이 : 택시를 타고 목적지를 설명하고 빠른 길 요청하기
+
+**[Question]**
+You need to take a taxi to get to an important appointment. Get in the taxi, explain your destination to the driver, and ask him or her to take the fastest route possible.
+(중요한 약속에 가기 위해 택시를 타야 합니다. 택시에 타서 운전기사에게 목적지를 설명하고, 가능한 가장 빠른 길로 가 달라고 요청하세요.)
+
+**[Model Answer]**
+Hi there! Good afternoon. I need to head over to the Gangnam Finance Center as soon as possible. I actually have a very crucial business meeting starting at 2 PM, and to be honest, I am cutting it pretty close due to an unexpected delay at my previous schedule. So, could you please <strong style="color:blue;">make your way</strong> there as quickly as you can? 
+
+Oh, by the way, traffic can get pretty heavy around this time of the day, especially near the main intersection. Is there any chance you could <strong style="color:blue;">take a shortcut</strong> or use the expressway to <strong style="color:blue;">avoid the traffic jam</strong>? I really don't want to <strong style="color:blue;">get stuck in</strong> congestion. If you could <strong style="color:blue;">step on it</strong> a little bit while following the traffic rules, I would <strong style="color:blue;">truly appreciate it</strong>. 
+
+Wait, let me just <strong style="color:blue;">double-check</strong> the exact address on my phone to make sure there's no confusion. Yes, it's 152 Teheran-ro. If you <strong style="color:blue;">head straight down</strong> this avenue and then <strong style="color:blue;">make a left turn</strong> at the second traffic light, that should <strong style="color:blue;">lead us right to</strong> the building. Please <strong style="color:blue;">keep your eyes peeled for</strong> the building's main entrance because I need to get off right in front of it. Thank you so much for your help, and I'll <strong style="color:blue;">leave it in your hands</strong> to get me there safely and on time!
+
+**[Vocabulary & Expressions]**
+* crucial: 중대한, 결정적인
+* congestion: (교통) 혼잡
+* intersection: 교차로
+* expressway: 고속도로
+* <strong style="color:blue;">make one's way</strong>: 나아가다, 가다
+* <strong style="color:blue;">take a shortcut</strong>: 지름길로 가다
+* <strong style="color:blue;">avoid the traffic jam</strong>: 교통 체증을 피하다
+* <strong style="color:blue;">get stuck in</strong>: ~에 갇히다, 오도가도 못하게 되다
+* <strong style="color:blue;">step on it</strong>: 속도를 내다, 서두르다
+* <strong style="color:blue;">truly appreciate it</strong>: 진심으로 감사드린다
+* <strong style="color:blue;">double-check</strong>: 재확인하다
+* <strong style="color:blue;">head straight down</strong>: 곧장 따라 내려가다
+* <strong style="color:blue;">make a left turn</strong>: 좌회전하다
+* <strong style="color:blue;">lead us right to</strong>: 우리를 곧바로 ~로 안내하다
+* <strong style="color:blue;">keep one's eyes peeled for</strong>: ~을 주의 깊게 살피다
+* <strong style="color:blue;">leave it in your hands</strong>: 당신에게 맡기다
+
+---
+### 돌발 : 길거리 버스킹이나 예기치 않은 이벤트에 감동한 경험
+
+**[Question]**
+Tell me about a memorable experience when you saw a street busking performance or an unexpected wonderful event on the street that deeply touched you. What happened, and why was it so special?
+(길거리에서 버스킹 공연이나 예기치 않은 멋진 이벤트를 보고 깊은 감명을 받았던 기억에 남는 경험에 대해 이야기해 주세요. 어떤 일이 있었고, 왜 그렇게 특별했나요?)
+
+**[Model Answer]**
+You know, looking back, I’ve had quite a few memorable moments while walking down the streets of Seoul, but one particular experience <strong style="color:blue;">stands out in my mind</strong>. It happened about a year ago on a chilly autumn evening in Hongdae. I was walking back home, feeling completely exhausted after enduring a brutal, draining week at work. My mind was <strong style="color:blue;">swimming with</strong> stress, and I just wanted to <strong style="color:blue;">get home</strong> as fast as possible. 
+
+However, as I <strong style="color:blue;">approached</strong> a crowded corner, I heard this incredibly soulful acoustic guitar melody <strong style="color:blue;">flowing through</strong> the air, <strong style="color:blue;">accompanied by</strong> a breathtakingly warm and clear vocal. Intrigued, I <strong style="color:blue;">slowed down</strong> and <strong style="color:blue;">ended up stopping</strong> to watch. It was a young indie duo performing a cover of an old, nostalgic Korean ballad, and there was something so raw and genuine about their performance that it literally <strong style="color:blue;">stopped me in my tracks</strong>. 
+
+As I stood there listening, all the heavy pressure I had been <strong style="color:blue;">carrying around</strong> seemed to <strong style="color:blue;">melt away</strong>. The lyrics of the song <strong style="color:blue;">resonated with</strong> my current emotional state so deeply that I actually <strong style="color:blue;">teared up</strong> a little bit. It wasn't just about the music itself; it was the unexpected comfort and the serene atmosphere that <strong style="color:blue;">took me by surprise</strong>. That spontaneous street performance <strong style="color:blue;">turned my day around</strong> completely, reminding me to <strong style="color:blue;">look up from</strong> my busy life and appreciate the small, beautiful moments around me. It was truly an unforgettable healing experience.
+
+**[Vocabulary & Expressions]**
+* exhaust: 지치게 하다
+* brutal: 가혹한, 심한
+* draining: 진을 빼는, 지치게 하는
+* serene: 고요한, 평화로운
+* spontaneous: 즉흥적인, 자연스러운
+* <strong style="color:blue;">stand out in one's mind</strong>: 기억 속에렷렷이 남다
+* <strong style="color:blue;">swimming with</strong>: ~로 가득 차 있는 (생각 등이)
+* <strong style="color:blue;">get home</strong>: 집에 도착하다
+* <strong style="color:blue;">flow through</strong>: ~를 통해 흘러가다
+* <strong style="color:blue;">accompanied by</strong>: ~를 동반한
+* <strong style="color:blue;">slow down</strong>: 속도를 줄이다
+* <strong style="color:blue;">end up stopping</strong>: 결국 멈춰 서게 되다
+* <strong style="color:blue;">stop someone in their tracks</strong>: 깜짝 놀라거나 감동하여 멈춰 서게 하다
+* <strong style="color:blue;">carry around</strong>: (짐·생각 등을) 지니고 다니다, 짊어지고 살다
+* <strong style="color:blue;">melt away</strong>: 눈 녹듯 사라지다
+* <strong style="color:blue;">resonate with</strong>: ~에게 공감을 불러일으키다
+* <strong style="color:blue;">tear up</strong>: 눈물이 글썽해지다
+* <strong style="color:blue;">take someone by surprise</strong>: ~를 놀라게 하다
+* <strong style="color:blue;">turn around</strong>: 호전시키다, 상황을 바꾸다
+* <strong style="color:blue;">look up from</strong>: ~에서 고개를 들어 바라보다
