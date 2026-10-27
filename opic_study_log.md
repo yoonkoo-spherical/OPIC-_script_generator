@@ -17055,3 +17055,118 @@ As I stood there listening, all the heavy pressure I had been <strong style="col
 * <strong style="color:blue;">take someone by surprise</strong>: ~를 놀라게 하다
 * <strong style="color:blue;">turn around</strong>: 호전시키다, 상황을 바꾸다
 * <strong style="color:blue;">look up from</strong>: ~에서 고개를 들어 바라보다
+
+## 2026-10-27 08:27:12 OPIc Study
+
+### 묘사 : 즐겨 하는 축구의 기본 규칙 묘사
+
+**[Question]**
+You indicated in the survey that you like to play soccer. Please describe the basic rules of soccer and how a match is played to someone who knows nothing about the sport.
+(당신은 설문조사에서 축구하기를 좋아한다고 응답했습니다. 축구에 대해 전혀 모르는 사람에게 축구의 기본 경기 규칙과 경기가 어떻게 진행되는지 설명해 주세요.)
+
+**[Model Answer]**
+You know, ever since I was a little kid, I've been totally hooked on playing soccer. It’s definitely my absolute favorite sport. If I have to explain the basic rules of soccer to someone who is completely clueless about it, well, to <strong style="color:blue;">put it simply</strong>, the main objective is pretty straightforward: each team tries to <strong style="color:blue;">kick off</strong> the ball and <strong style="color:blue;">score against</strong> the opponent by <strong style="color:blue;">putting the ball in</strong> the net. 
+
+First of all, a standard match involves two teams, with eleven players on the field for each side. The game <strong style="color:blue;">is made up of</strong> two halves, and each half lasts for 45 minutes, with a short 15-minute half-time break in between. One thing that really <strong style="color:blue;">stands out</strong> about soccer is that outfield players are strictly not allowed to use their hands or arms. If anyone <strong style="color:blue;">breaks the rules</strong> by touching the ball with their hands, the referee will immediately <strong style="color:blue;">blow the whistle</strong> and award a free kick or even a penalty kick to the opposing team, depending on where the foul happened. However, there is one unique position on each team, and that is the goalkeeper. The goalie <strong style="color:blue;">is allowed to</strong> use their hands, but only within a designated area right in front of the goal, which we call the penalty box. 
+
+Another crucial rule you need to know is the offside rule. It can be a bit tricky to <strong style="color:blue;">wrap your head around</strong> at first, but essentially, an attacking player cannot just <strong style="color:blue;">hang around</strong> near the opponent's goal waiting for a pass unless there are at least two opposing players, usually the defenders and the goalkeeper, between them and the goal line when the ball is <strong style="color:blue;">passed over</strong>. This rule was specifically designed to prevent players from <strong style="color:blue;">cherry-picking</strong> easy goals. 
+
+Throughout the match, the players <strong style="color:blue;">run around</strong> the huge grass pitch continuously, <strong style="color:blue;">passing the ball</strong> back and forth, trying to <strong style="color:blue;">break through</strong> the opponent's defense. The team that <strong style="color:blue;">ends up</strong> scoring more goals before the final whistle <strong style="color:blue;">comes along</strong> wins the game. If the score is tied at the end of regular time, depending on the tournament rules, they might go into extra time or even a penalty shootout. Honestly, watching or playing soccer <strong style="color:blue;">never fails to</strong> excite me because the flow of the game can <strong style="color:blue;">turn around</strong> in a split second.
+
+**[Vocabulary & Expressions]**
+* clueless: 전혀 모르는
+* objective: 목적, 목표
+* outfield player: 필드 플레이어 (골키퍼 제외)
+* referee: 심판
+* designated: 지정된
+* tricky: 까다로운
+* tournament: 토너먼트, 대회
+* <strong style="color:blue;">put it simply</strong>: 간단히 말해서
+* <strong style="color:blue;">kick off</strong>: 경기를 시작하다
+* <strong style="color:blue;">score against</strong>: ~를 상대로 득점하다
+* <strong style="color:blue;">is made up of</strong>: ~로 구성되어 있다
+* <strong style="color:blue;">stands out</strong>: 두드러지다, 눈에 띄다
+* <strong style="color:blue;">wrap your head around</strong>: (이해하기 어려운 것을) 이해하다
+* <strong style="color:blue;">hang around</strong>: 서성거리다, 머물다
+* <strong style="color:blue;">passed over</strong>: 패스되다
+* <strong style="color:blue;">run around</strong>: 뛰어다니다
+* <strong style="color:blue;">break through</strong>: ~을 뚫고 나가다, 돌파하다
+* <strong style="color:blue;">ends up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">never fails to</strong>: 반드시 ~하다
+
+---
+### 롤플레이 : 자유 시간 일정 및 집합 장소 재확인하기
+
+**[Question]**
+You are on a guided tour in a foreign country. You want to have some free time to explore on your own, but you need to check the schedule and meeting point with your tour guide. Ask the guide three or four questions about the free time and meeting spot.
+(당신은 해외에서 패키지 여행 중입니다. 혼자 둘러볼 자유 시간을 갖고 싶지만, 여행 가이드에게 일정과 집합 장소를 다시 확인해야 합니다. 가이드에게 자유 시간과 집합 장소에 관해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hi Alex! I’m really enjoying this tour so far, but I was wondering if I could ask you a few quick questions about our schedule for this afternoon? You see, my friend and I were hoping to <strong style="color:blue;">break away</strong> from the group for a couple of hours to check out a local market nearby. 
+
+First of all, could you tell me exactly how much free time we are going to have after lunch? We want to make sure we <strong style="color:blue;">manage our time</strong> wisely and don't <strong style="color:blue;">run out of time</strong> while looking around. Also, I need to double-check the exact meeting point and time to <strong style="color:blue;">get back together</strong> with the rest of the group. Could you please <strong style="color:blue;">point out</strong> the exact spot on a map or tell me some recognizable landmark nearby so that we don't <strong style="color:blue;">end up</strong> getting lost? 
+
+Wait, just in case we <strong style="color:blue;">run into</strong> any unexpected traffic or delays while walking back, what is the best way to <strong style="color:blue;">get in touch with</strong> you? Should I call your cell phone or send you a message through the tour group chat? Oh, and one more thing—if we happen to <strong style="color:blue;">run late</strong> for some reason, who should we <strong style="color:blue;">notify</strong> immediately? 
+
+I really want to make sure I don't <strong style="color:blue;">hold up</strong> the rest of the tour or <strong style="color:blue;">cause trouble</strong> for anyone. Thanks so much for your help, and I'll make sure to <strong style="color:blue;">keep an eye on</strong> the clock so we are back right on time!
+
+**[Vocabulary & Expressions]**
+* recognizable: 알아볼 수 있는
+* landmark: 주요 표지판, 랜드마크
+* delay: 지연
+* notify: 통지하다, 알리다
+* <strong style="color:blue;">break away</strong>: (무리에서) 떨어져 나오다, 이탈하다
+* <strong style="color:blue;">manage our time</strong>: 시간을 관리하다
+* <strong style="color:blue;">run out of time</strong>: 시간이 다 되다
+* <strong style="color:blue;">get back together</strong>: 다시 모이다
+* <strong style="color:blue;">point out</strong>: 가리키다, 지정하다
+* <strong style="color:blue;">end up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">run into</strong>: (우연히) 마주치다, 겪다
+* <strong style="color:blue;">get in touch with</strong>: ~와 연락을 취하다
+* <strong style="color:blue;">run late</strong>: 늦다, 지체되다
+* <strong style="color:blue;">hold up</strong>: ~를 지체시키다, 기다리게 하다
+* <strong style="color:blue;">cause trouble</strong>: 문제를 일으키다
+* <strong style="color:blue;">keep an eye on</strong>: ~를 주시하다, 지켜보다
+
+---
+### 돌발 : 명절이나 가족 모임에서 발생했던 예상치 못한 말다툼이나 사건
+
+**[Question]**
+Tell me about a memorable incident or a sudden argument that happened during a family gathering or a holiday. What caused it, how did it <strong style="color:blue;">turn out</strong>, and how did you feel about the situation?
+(가족 모임이나 명절 연휴 동안 발생했던 기억에 남는 사건이나 갑작스러운 말다툼에 대해 이야기해 주세요. 무엇 때문에 발생했고, 어떻게 마무리되었으며, 그 상황에 대해 어떻게 느꼈나요?)
+
+**[Model Answer]**
+You know, most family gatherings are usually full of laughter and good food, but every now and then, something totally unexpected happens. A couple of years ago, during the Lunar New Year holiday, a pretty memorable incident <strong style="color:blue;">took place</strong> at my parents' house, and to be honest, it <strong style="color:blue;">turned out</strong> to be quite a chaotic day. 
+
+It all started when my older brother and my cousin began to <strong style="color:blue;">argue over</strong> something really trivial while we were preparing the traditional holiday food in the kitchen. My brother casually made a joke about my cousin's cooking skills, but my cousin took it the wrong way and <strong style="color:blue;">snapped at</strong> him. Things <strong style="color:blue;">escalated pretty quickly</strong>, and before we knew it, they were <strong style="color:blue;">shouting at</strong> each other at the top of their lungs right in the middle of the living room, while all the elderly relatives were watching in absolute shock. 
+
+Naturally, the whole atmosphere in the house <strong style="color:blue;">froze</strong> instantly. My mom tried to <strong style="color:blue;">step in</strong> and <strong style="color:blue;">calm things down</strong>, but they were both so stubborn that neither of them wanted to <strong style="color:blue;">back down</strong>. I mean, looking back now, it sounds kind of funny and ridiculous, but at that exact moment, everyone was walking on eggshells because the tension was so thick you could <strong style="color:blue;">cut it with a knife</strong>. 
+
+Fortunately, my grandfather decided to <strong style="color:blue;">break the ice</strong> by letting out a huge sigh and making a self-deprecating joke about how he used to fight even worse with his own brothers back in the day. Hearing that completely <strong style="color:blue;">broke the tension</strong>, and both my brother and cousin suddenly burst into laughter out of embarrassment. They ended up apologizing to each other and <strong style="color:blue;">patching things up</strong> over a glass of traditional rice wine. 
+
+Reflecting on that day, I realized that family arguments are almost inevitable when people <strong style="color:blue;">get together</strong>, but they usually <strong style="color:blue;">blow over</strong> quickly because, at the end of the day, family bonds are just too strong to <strong style="color:blue;">fall apart</strong> over minor issues.
+
+**[Vocabulary & Expressions]**
+* trivial: 사소한, 하찮은
+* elderly relative: 연로한 친척
+* stubborn: 고집 센
+* ridiculous: 터무니없는, 우스꽝스러운
+* tension: 긴장감
+* self-deprecating: 자조적인, 자신을 낮추는
+* embarrassment: 당혹스러움
+* inevitable: 피할 수 없는
+* bond: 유대감
+* <strong style="color:blue;">took place</strong>: 일어나다, 발생하다
+* <strong style="color:blue;">turned out</strong>: 결과가 ~이 되다
+* <strong style="color:blue;">argue over</strong>: ~를 두고 언쟁을 벌이다
+* <strong style="color:blue;">snapped at</strong>: 퉁명스럽게 대하다, 화를 내다
+* <strong style="color:blue;">escalated pretty quickly</strong>: 순식간에 악화되다[고조되다]
+* <strong style="color:blue;">shouting at</strong>: ~에게 소리 지르다
+* <strong style="color:blue;">step in</strong>: 개입하다, 나서다
+* <strong style="color:blue;">calm things down</strong>: 상황을 진정시키다
+* <strong style="color:blue;">back down</strong>: 물러서다, 양보하다
+* <strong style="color:blue;">break the ice</strong>: 어색함을 깨다
+* <strong style="color:blue;">patching things up</strong>: 화해하다, 관계를 회복하다
+* <strong style="color:blue;">get together</strong>: 모이다
+* <strong style="color:blue;">blow over</strong>: (사건·문제 등이) 가라앉다, 지나가다
+* <strong style="color:blue;">fall apart</strong>: 무너지다, 결속이 깨지다
