@@ -17170,3 +17170,95 @@ Reflecting on that day, I realized that family arguments are almost inevitable w
 * <strong style="color:blue;">get together</strong>: 모이다
 * <strong style="color:blue;">blow over</strong>: (사건·문제 등이) 가라앉다, 지나가다
 * <strong style="color:blue;">fall apart</strong>: 무너지다, 결속이 깨지다
+
+## 2026-10-28 09:04:57 OPIc Study
+
+### 묘사 : 편의점 상품 진열 상태 묘사
+
+**[Question]**
+I'd like to know about the convenience store you frequently visit. Could you describe how products are displayed and organized inside the store?
+자주 가는 편의점에 대해 알고 싶습니다. 편의점 내부의 상품 진열과 정리 상태를 묘사해 주시겠어요?
+
+**[Model Answer]**
+You know, I visit the convenience store right around the corner from my apartment almost every single day, so I know the layout like the back of my hand. To give you a detailed description, the overall product display is <strong style="color:blue;">neatly arranged</strong> and extremely customer-friendly. As soon as you step inside, right across from the sliding glass doors, you'll notice the beverage section, which <strong style="color:blue;">is stocked up with</strong> all sorts of soft drinks, iced coffees, and energy drinks. The refrigerators are transparent, and the drinks <strong style="color:blue;">are lined up</strong> strictly by category and brand, making it super easy for customers to find what they want in a split second.
+
+Moving toward the middle aisles, you can see the snack and instant noodle sections. The chips and cookies <strong style="color:blue;">are stacked up</strong> neatly on metal shelves, and what really impresses me is that the store clerk constantly <strong style="color:blue;">keeps an eye on</strong> the inventory. Whenever a product starts to <strong style="color:blue;">run out</strong>, they immediately <strong style="color:blue;">fill up</strong> the empty spaces so that nothing ever looks neglected or messy. On top of that, smaller items like chewing gum, mints, and lighters <strong style="color:blue;">are placed right by</strong> the checkout counter to <strong style="color:blue;">catch the eye of</strong> customers who are waiting in line. 
+
+Right next to the counter, there's a hot food zone where steamed buns and fish cakes <strong style="color:blue;">are kept warm</strong> in glass display cases. Overall, the meticulous organization of this convenience store <strong style="color:blue;">reflects how much</strong> effort the management puts into maintaining a pleasant shopping atmosphere. It never fails to <strong style="color:blue;">live up to</strong> my expectations whenever I drop by for a quick snack or a morning coffee.
+
+**[Vocabulary & Expressions]**
+* layout: 매장 배치, 레이아웃
+* category: 범주, 종류
+* inventory: 재고
+* meticulous: 꼼꼼한, 세심한
+* <strong style="color:blue;">neatly arranged</strong>: 깔끔하게 정돈된
+* <strong style="color:blue;">is stocked up with</strong>: ~로 채워져 있다
+* <strong style="color:blue;">are lined up</strong>: 줄지어 서 있다, 정렬되어 있다
+* <strong style="color:blue;">are stacked up</strong>: 쌓여 있다
+* <strong style="color:blue;">keeps an eye on</strong>: 주시하다, 지켜보다
+* <strong style="color:blue;">run out</strong>: 다 떨어지다, 고갈되다
+* <strong style="color:blue;">fill up</strong>: 채우다
+* <strong style="color:blue;">are placed right by</strong>: 바로 옆에 배치되어 있다
+* <strong style="color:blue;">catch the eye of</strong>: ~의 눈길을 사로잡다
+* <strong style="color:blue;">are kept warm</strong>: 따뜻하게 유지되다
+* <strong style="color:blue;">reflects how much</strong>: 얼마나 ~한지를 반영하다
+* <strong style="color:blue;">live up to</strong>: (기대 등에) 부응하다
+
+---
+### 롤플레이 : 지하철 분실물 지갑 특징 설명
+
+**[Question]**
+Oh no, you lost your wallet on the subway! Call the lost and found center, explain the situation, and ask three or four detailed questions about how to get it back.
+이런, 지하철에서 지갑을 잃어버리셨네요! 분실물 센터에 전화해서 상황을 설명하고, 지갑을 되찾는 방법에 대해 3~4가지 자세한 질문을 하세요.
+
+**[Model Answer]**
+Hello, good afternoon. I am calling because I am in a <strong style="color:blue;">dire situation</strong>. I believe I left my wallet on the subway line number 2 earlier this afternoon around 2 PM. I was heading toward Gangnam station, and I must have dropped it or left it on the seat when I <strong style="color:blue;">got off in a rush</strong> because I was running late for an appointment. I am really freaking out right now because it contains all my identification cards, credit cards, and some cash. 
+
+To help you <strong style="color:blue;">look into</strong> this, let me give you a detailed description of my wallet. It's a folding-style leather wallet made of dark brown calfskin. It <strong style="color:blue;">stands out</strong> a bit because there is a small scratch right near the bottom right corner on the front side. Inside, there is a driver's license with my picture on it, and several credit cards under my name. 
+
+Now, I have a few questions for you. First of all, has anyone <strong style="color:blue;">turned in</strong> a wallet matching this description yet? Second, if it hasn't been <strong style="color:blue;">brought in</strong> yet, <strong style="color:blue;">is there any chance that</strong> a subway station master or security guard has it? Also, what is the procedure if someone <strong style="color:blue;">hands it over</strong> to a different station? Lastly, if it is found, can I <strong style="color:blue;">pick it up</strong> tomorrow morning, or do I need to come by today before a certain time? I would deeply appreciate your help. Thank you so much.
+
+**[Vocabulary & Expressions]**
+* identification: 신분증
+* calfskin: 송아지 가죽
+* procedure: 절차
+* security guard: 보안 경비원
+* <strong style="color:blue;">dire situation</strong>: 심각한 상황
+* <strong style="color:blue;">got off in a rush</strong>: 서둘러 내렸다
+* <strong style="color:blue;">look into</strong>: 조사하다, 알아보다
+* <strong style="color:blue;">stands out</strong>: 눈에 띄다
+* <strong style="color:blue;">turned in</strong>: 제출하다, 신고하여 맡기다
+* <strong style="color:blue;">brought in</strong>: 가져오다, 접수되다
+* <strong style="color:blue;">is there any chance that</strong>: ~할 가능성이 조금이라도 있나요?
+* <strong style="color:blue;">hands it over</strong>: 넘겨주다, 인계하다
+* <strong style="color:blue;">pick it up</strong>: 찾아가다, 수령하다
+
+---
+### 돌발 : 직장 상사와 오해가 생겼던 경험
+
+**[Question]**
+Tell me about a time when you had a misunderstanding with your boss or teacher at work or school. What caused the misunderstanding, and how did you resolve it?
+직장이나 학교에서 상사 혹은 선생님과 오해가 생겼던 경험에 대해 이야기해 주세요. 오해의 원인은 무엇이었으며, 어떻게 해결하셨나요?
+
+**[Model Answer]**
+Well, thinking back, I had quite a stressful experience a couple of years ago when I had a major misunderstanding with my direct supervisor at my previous job. It was during a very critical project period, and our team was working <strong style="color:blue;">around the clock</strong> to meet a tight deadline. One afternoon, my boss assigned me an urgent task to compile a comprehensive market analysis report by the next morning. However, due to a <strong style="color:blue;">miscommunication</strong> regarding the data sources, I mistakenly thought we were focusing only on domestic trends, while my boss actually wanted global market data included as well. 
+
+The next morning, when I submitted the report, my boss was extremely disappointed and <strong style="color:blue;">fumed with anger</strong>, thinking that I had completely ignored her direct instructions and <strong style="color:blue;">slacked off</strong>. She even gave me a cold shoulder for the rest of the morning, and the atmosphere in the office became <strong style="color:blue;">as tense as a tightrope</strong>. I felt utterly devastated and <strong style="color:blue;">knocked down</strong> because I had worked so hard overnight, but I knew I couldn't just <strong style="color:blue;">let it go</strong> like that.
+
+Instead of getting defensive or emotional, I decided to <strong style="color:blue;">cleared the air</strong> immediately after lunch. I politely asked for a brief one-on-one meeting in the conference room. I calmly explained where the confusion had <strong style="color:blue;">stemmed from</strong>, showing her my initial notes and taking full responsibility for failing to double-check the instructions. Hearing my sincere explanation and seeing the raw data I had gathered, she instantly <strong style="color:blue;">cooled down</strong> and realized it was just a mutual misunderstanding rather than negligence. We ended up <strong style="color:blue;">patching things up</strong>, and she even praised my prompt initiative in addressing the issue. That experience taught me how crucial transparent communication is in the workplace.
+
+**[Vocabulary & Expressions]**
+* supervisor: 관리자, 상사
+* comprehensive: 종합적인, 포괄적인
+* negligence: 태만, 부주의
+* initiative: 주도권, 진취적 행동
+* <strong style="color:blue;">around the clock</strong>: 24시간 내내, 밤낮으로
+* <strong style="color:blue;">fumed with anger</strong>: 분노로 휩싸이다, 화를 내다
+* <strong style="color:blue;">slacked off</strong>: 게으름 피우다, 대충 하다
+* <strong style="color:blue;">as tense as a tightrope</strong>: 팽팽한 긴장감이 감도는
+* <strong style="color:blue;">knocked down</strong>: 낙담한, 기가 죽은
+* <strong style="color:blue;">let it go</strong>: 그냥 넘어가다
+* <strong style="color:blue;">cleared the air</strong>: (오해 등을 풀고) 분위기를 정화하다, 오해를 풀다
+* <strong style="color:blue;">stemmed from</strong>: ~에서 비롯되다, 기인하다
+* <strong style="color:blue;">cooled down</strong>: 진정되다, 화가 가라앉다
+* <strong style="color:blue;">patching things up</strong>: (관계 등을) 수습하다, 화해하다
