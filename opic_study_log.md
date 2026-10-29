@@ -17262,3 +17262,84 @@ Instead of getting defensive or emotional, I decided to <strong style="color:blu
 * <strong style="color:blue;">stemmed from</strong>: ~에서 비롯되다, 기인하다
 * <strong style="color:blue;">cooled down</strong>: 진정되다, 화가 가라앉다
 * <strong style="color:blue;">patching things up</strong>: (관계 등을) 수습하다, 화해하다
+
+## 2026-10-29 09:02:51 OPIc Study
+
+### 묘사 : 집안일과 청소 도구 묘사
+
+**[Question]**
+Please describe how you do housework at home, and tell me about the main cleaning tools you usually use. Why do you use them and what makes them so special?
+(집에서 집안일을 하는 과정과 주로 사용하는 청소 도구에 대해 묘사해 주세요. 그것들을 사용하는 이유와 특별한 점은 무엇인가요?)
+
+**[Model Answer]**
+Well, when it comes to doing housework, I have my own specific routine that I follow every weekend to <strong style="color:blue;">keep everything in order</strong>. First things first, I usually <strong style="color:blue;">start off by</strong> tidying up the living room and putting away scattered items. After that, I <strong style="color:blue;">move on to</strong> the actual cleaning, which involves dusting and vacuuming. 
+
+Speaking of cleaning tools, my absolute favorite item is my cordless stick vacuum cleaner. It is an absolute game-changer. Unlike the old-fashioned heavy vacuums with annoying cords, this one is super lightweight and maneuverable. Whenever I <strong style="color:blue;">run into</strong> pet hair or dust bunnies hidden under the sofa, I can just grab it and <strong style="color:blue;">get rid of</strong> them instantly. Another tool I cannot live without is the steam mop. After vacuuming, I always <strong style="color:blue;">wipe down</strong> the hardwood floors with the steam mop because it kills bacteria and leaves the floor sparkling clean without using harsh chemicals. 
+
+Honestly, doing chores used to be such a chore, <strong style="color:blue;">if you know what I mean</strong>. But having these efficient tools makes the whole process much less painful. By the time I <strong style="color:blue;">wrap up</strong> my cleaning routine, I feel a great sense of accomplishment and my apartment feels like a totally different place. It is truly satisfying.
+
+**[Vocabulary & Expressions]**
+* maneuverable: 조종하기 쉬운
+* chemical: 화학 물질
+* <strong style="color:blue;">keep everything in order</strong>: 모든 것을 정돈하다
+* <strong style="color:blue;">start off by</strong>: ~로 시작하다
+* <strong style="color:blue;">move on to</strong>: ~로 넘어가다
+* <strong style="color:blue;">run into</strong>: 우연히 마주치다
+* <strong style="color:blue;">get rid of</strong>: 제거하다
+* <strong style="color:blue;">wipe down</strong>: 닦아내다
+* <strong style="color:blue;">if you know what I mean</strong>: 내 말 알잖아 (구어체)
+* <strong style="color:blue;">wrap up</strong>: 마무리하다
+
+---
+### 롤플레이 : 콘서트 티켓 예매 부탁하기
+
+**[Question]**
+You want to go to a popular music concert with your friend, but you are too busy to book the tickets yourself. Call your friend, explain the situation, and ask him or her to book the tickets for you by giving three or four specific details and instructions.
+(당신은 친구와 함께 인기 있는 음악 콘서트에 가고 싶지만, 너무 바빠서 직접 티켓을 예매할 수 없습니다. 친구에게 전화해서 상황을 설명하고, 3~4가지 구체적인 세부 사항과 지시사항을 주며 티켓 예매를 부탁하세요.)
+
+**[Model Answer]**
+Hey, Dave! It is me. Listen, I am <strong style="color:blue;">calling about</strong> that indie rock concert next month that we talked about before. I know it is <strong style="color:blue;">short notice</strong>, but something urgent came up at work, and I am completely swamped this week. Tickets go on sale today at 2 PM, and I am afraid they will <strong style="color:blue;">sell out in a matter of seconds</strong>. So, I was wondering if you could do me a huge favor and book the tickets for us instead? 
+
+If you can, there are a few things you need to keep in mind. First of all, please try to get seats in the section R zone, near the stage, because I really want us to have a great view. Second, we agreed on the Saturday show, so make sure you do not accidentally select the Sunday performance. Also, my credit card information is already registered on the ticketing website under my account, but just in case, I can text you my card number and PIN right after we hang up. Lastly, as soon as you successfully <strong style="color:blue;">secure the tickets</strong>, please <strong style="color:blue;">shoot me a text</strong> to let me know. 
+
+I will <strong style="color:blue;">pay you back</strong> right away, of course. Thanks a million, Dave. I owe you big time!
+
+**[Vocabulary & Expressions]**
+* urgent: 긴급한
+* performance: 공연
+* <strong style="color:blue;">calling about</strong>: ~에 대해 전화하다
+* <strong style="color:blue;">short notice</strong>: 촉박한 통보/사전 고지
+* <strong style="color:blue;">sell out in a matter of seconds</strong>: 순식간에 매진되다
+* <strong style="color:blue;">secure the tickets</strong>: 티켓을 확보하다
+* <strong style="color:blue;">shoot me a text</strong>: 문자 메시지를 보내다
+* <strong style="color:blue;">pay you back</strong>: 돈을 갚다
+
+---
+### 돌발 : 대중교통 이용 중 겪은 돌발 상황
+
+**[Question]**
+Think about a time when something unexpected happened while you were commuting on the subway or bus. What was the situation, how did you react, and how did it affect your day?
+(지하철이나 버스로 통근/통학하던 중 예기치 못한 일이 일어났던 때를 떠올려 보세요. 상황은 어땠고, 어떻게 대처했으며, 당신의 하루에 어떤 영향을 미쳤나요?)
+
+**[Model Answer]**
+Oh, man, let me tell you about this crazy incident that happened to me a few months ago. It was a freezing Monday morning, and I was on my usual subway commute to the office. The train was <strong style="color:blue;">packed to capacity</strong> with rushing commuters, and I was just standing there listening to music. 
+
+Suddenly, right in the middle of the trip, the train <strong style="color:blue;">came to a sudden halt</strong> inside a dark tunnel. At first, we thought it was just a brief stop at a signal. However, after ten minutes passed, the lights inside the carriages flickered and went completely out. Panic started to <strong style="color:blue;">set in</strong> among the passengers. Some people began to murmur anxiously, and a woman nearby actually started feeling claustrophobic. To make matters worse, the heater broke down, so it was getting freezing cold. 
+
+As for my reaction, I tried to stay calm because freaking out wouldn't help <strong style="color:blue;">at all</strong>. I decided to <strong style="color:blue;">reach out to</strong> my manager immediately to let him know I might be severely delayed, which thankfully <strong style="color:blue;">turned out to be</strong> manageable since he was understanding. After about forty agonizing minutes, the power came back on, and the train slowly <strong style="color:blue;">made its way to</strong> the next station, where everyone had to get off. 
+
+That incident <strong style="color:blue;">threw off</strong> my entire schedule for the day, and I arrived at work completely exhausted. It really made me realize how unpredictable public transportation can be, and ever since that day, I always leave much earlier than usual just in case.
+
+**[Vocabulary & Expressions]**
+* commuter: 통근자
+* claustrophobic: 폐쇄 공포증의
+* agonizing: 고통스러운, 몹시 괴로운
+* unpredictable: 예측할 수 없는
+* <strong style="color:blue;">packed to capacity</strong>: 꽉 찬, 만원의
+* <strong style="color:blue;">came to a sudden halt</strong>: 갑자기 멈춰 서다
+* <strong style="color:blue;">set in</strong>: 시작되다, 자리 잡다
+* <strong style="color:blue;">at all</strong>: 전혀 (부정문에서)
+* <strong style="color:blue;">reach out to</strong>: ~에게 연락하다
+* <strong style="color:blue;">turned out to be</strong>: ~로 판명되다, 드러나다
+* <strong style="color:blue;">made its way to</strong>: ~로 나아가다, 가다
+* <strong style="color:blue;">threw off</strong>: ~을 흐트러뜨리다, 망치다
