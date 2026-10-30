@@ -17343,3 +17343,94 @@ That incident <strong style="color:blue;">threw off</strong> my entire schedule 
 * <strong style="color:blue;">turned out to be</strong>: ~로 판명되다, 드러나다
 * <strong style="color:blue;">made its way to</strong>: ~로 나아가다, 가다
 * <strong style="color:blue;">threw off</strong>: ~을 흐트러뜨리다, 망치다
+
+## 2026-10-30 09:12:33 OPIc Study
+
+### 묘사 : 길을 잃었을 때 사용한 지도 앱 묘사
+
+**[Question]**
+You indicated in the survey that you use map applications on your smartphone. Please describe the map application screen you used when you got lost in an unfamiliar neighborhood. What did it look like, and how did it help you find your way?
+(당신은 설문조사에서 스마트폰의 지도 애플리케이션을 사용한다고 응답했습니다. 낯선 동네에서 길을 잃었을 때 사용했던 지도 앱의 화면을 묘사해 주세요. 어떻게 생겼으며, 길을 찾는 데 어떻게 도움이 되었나요?)
+
+**[Model Answer]**
+You know, looking back, getting lost in that unfamiliar neighborhood was quite a stressful experience, but my map app literally saved my life. Let me paint a picture of what the app screen looked like at that exact moment. When I first opened the app, my current location was <strong style="color:blue;">pinpointed</strong> right in the middle of the screen with a pulsing blue dot, which instantly <strong style="color:blue;">calmed me down</strong> because I at least knew where I was standing, even though the surrounding area was totally foreign to me. 
+
+The overall interface was remarkably clean and intuitive. The map was rendered in a sleek, dark mode since it was already evening, and major roads were clearly highlighted in bright yellow, while smaller alleys were mapped out in thin, gray lines. At the top of the screen, there was a prominent search bar where my destination was <strong style="color:blue;">keyed in</strong>, and right below that, a step-by-step navigation box displayed concise instructions like "turn left in 50 meters." 
+
+What was particularly impressive was the 3D landmark feature. Iconic buildings around me were <strong style="color:blue;">rendered in</strong> miniature 3D graphics, which allowed me to cross-reference my digital screen with the physical surroundings. Whenever I hesitated at an intersection, I could <strong style="color:blue;">zoom in on</strong> the map to examine the micro-details of the block. The app also <strong style="color:blue;">panned around</strong> automatically as I walked, ensuring that my orientation was always synchronized with the digital map. 
+
+Ultimately, this incredibly detailed and responsive interface <strong style="color:blue;">talked me through</strong> every single turn until I finally <strong style="color:blue;">stumbled upon</strong> the main subway station. Without that comprehensive visual layout, I would have been completely helpless in that labyrinth of back alleys.
+
+**[Vocabulary & Expressions]**
+* interface: 인터페이스
+* orientation: 방향 설정
+* <strong style="color:blue;">pinpoint</strong>: 정확히 지적하다, 위치를 특정하다
+* <strong style="color:blue;">calm down</strong>: 진정하다
+* <strong style="color:blue;">key in</strong>: 입력하다
+* <strong style="color:blue;">render in</strong>: ~로 표현하다, 렌더링하다
+* <strong style="color:blue;">zoom in on</strong>: ~를 확대해서 보다
+* <strong style="color:blue;">pan around</strong>: 화면을 이동하다
+* <strong style="color:blue;">talk through</strong>: 자세히 안내하다
+* <strong style="color:blue;">stumble upon</strong>: 우연히 발견하다
+
+---
+### 롤플레이 : 은행에 전화해 계좌 개설 절차 묻기
+
+**[Question]**
+You want to open a new bank account. Call a bank, and ask the customer service representative three or four questions about the account opening process and the required documents.
+(새로운 은행 계좌를 개설하려고 합니다. 은행에 전화하여 상담원에게 계좌 개설 절차와 필요한 서류에 관해 3~4가지 질문을 하세요.)
+
+**[Model Answer]**
+Hi there, I'm calling because I'm interested in opening a brand new checking and savings account with your bank, but I'm completely <strong style="color:blue;">clueless about</strong> where to begin. Could you walk me through the entire procedure? Do I need to make an appointment in advance, or can I just <strong style="color:blue;">walk in</strong> anytime during business hours? Also, I was wondering if it's possible to <strong style="color:blue;">get through</strong> the whole process online without actually visiting a physical branch, because my work schedule is quite demanding these days. 
+
+Assuming I do need to <strong style="color:blue;">show up</strong> in person, what specific documents should I <strong style="color:blue;">bring along</strong>? I assume I need a government-issued ID like a passport or driver's license, but is there anything else, such as proof of address or an employment certificate, that I should <strong style="color:blue;">gear up with</strong>? I want to make sure I don't miss anything and have to <strong style="color:blue;">make a second trip</strong>. 
+
+Lastly, are there any minimum deposit requirements to <strong style="color:blue;">set up</strong> the account, and do you charge any monthly maintenance fees if my balance <strong style="color:blue;">drops below</strong> a certain threshold? I really want to <strong style="color:blue;">look into</strong> these details carefully before making a final decision. I'd appreciate it if you could <strong style="color:blue;">run through</strong> these points for me. Thank you so much for your help!
+
+**[Vocabulary & Expressions]**
+* representative: 상담원, 대표
+* threshold: 기준점, 한계값
+* <strong style="color:blue;">clueless about</strong>: ~에 대해 전혀 모르는
+* <strong style="color:blue;">walk in</strong>: 예약 없이 방문하다
+* <strong style="color:blue;">get through</strong>: 해내다, 통과하다
+* <strong style="color:blue;">show up</strong>: 나타나다, 출석하다
+* <strong style="color:blue;">bring along</strong>: ~를 가지고 오다
+* <strong style="color:blue;">gear up with</strong>: ~로 준비하다
+* <strong style="color:blue;">set up</strong>: 개설하다, 설정하다
+* <strong style="color:blue;">drop below</strong>: ~ 이하로 떨어지다
+* <strong style="color:blue;">look into</strong>: 조사하다, 알아보다
+* <strong style="color:blue;">run through</strong>: 검토하다, 훑어보다
+
+---
+### 돌발 : 새로운 취미나 스포츠를 배울 때 겪었던 어려움
+
+**[Question]**
+When you started learning a new hobby or sport, what were some of the unexpected difficulties you faced? How did you manage to overcome those challenges and keep going?
+(새로운 취미나 스포츠를 배우기 시작했을 때 겪었던 예상치 못한 어려움은 무엇이었습니까? 그러한 난관을 어떻게 극복하고 계속할 수 있었나요?)
+
+**[Model Answer]**
+Well, when I first <strong style="color:blue;">took up</strong> rock climbing a couple of years ago, I honestly thought it would be a breeze, but I quickly realized I was <strong style="color:blue;">in for a rude awakening</strong>. The biggest challenge wasn't just the physical exhaustion; it was overcoming an intense fear of heights and figuring out how to <strong style="color:blue;">get a grip</strong> on the tiny footholds. During my very first indoor session, my hands were shaking so badly that I couldn't even <strong style="color:blue;">hold on to</strong> the climbing holds, and I kept <strong style="color:blue;">slipping down</strong> after just two meters. It really <strong style="color:blue;">took a toll on</strong> my confidence, and I came very close to <strong style="color:blue;">giving up on</strong> the whole idea. 
+
+However, I decided that I couldn't just <strong style="color:blue;">back down</strong> from a challenge like that. To <strong style="color:blue;">get over</strong> this mental barrier, I enrolled in a beginner's workshop where professional instructors <strong style="color:blue;">broke down</strong> the fundamental techniques into manageable steps. They taught me how to <strong style="color:blue;">rely on</strong> my legs rather than just upper body strength, which was a total game-changer. I also started to <strong style="color:blue;">warm up to</strong> the other members in the gym, and we began to <strong style="color:blue;">cheer each other on</strong> during tough climbs. 
+
+Slowly but surely, my stamina improved, and my anxiety <strong style="color:blue;">faded away</strong>. Looking back, that initial struggle forced me to <strong style="color:blue;">push through</strong> my limits and taught me a valuable lesson in resilience. It just goes to show that you have to <strong style="color:blue;">stick with</strong> something even when things get tough.
+
+**[Vocabulary & Expressions]**
+* resilience: 회복력, 끈기
+* stamina: 체력
+* <strong style="color:blue;">take up</strong>: (취미 등을) 시작하다
+* <strong style="color:blue;">in for a rude awakening</strong>: 쓴맛을 보게 되다, 충격적인 현실을 마주하다
+* <strong style="color:blue;">get a grip</strong>: 통제력을 갖다, 정신 차리다
+* <strong style="color:blue;">hold on to</strong>: ~를 붙잡다
+* <strong style="color:blue;">slip down</strong>: 미끄러져 내려오다
+* <strong style="color:blue;">take a toll on</strong>: ~에 타격을 주다
+* <strong style="color:blue;">give up on</strong>: ~을 포기하다
+* <strong style="color:blue;">back down</strong>: 물러서다, 포기하다
+* <strong style="color:blue;">get over</strong>: 극복하다
+* <strong style="color:blue;">break down</strong>: 쪼개다, 분해하다
+* <strong style="color:blue;">rely on</strong>: ~에 의존하다
+* <strong style="color:blue;">warm up to</strong>: ~에게 마음을 열다
+* <strong style="color:blue;">cheer on</strong>: 응원하다
+* <strong style="color:blue;">fade away</strong>: 사라지다
+* <strong style="color:blue;">push through</strong>: 밀고 나가다
+* <strong style="color:blue;">stick with</strong>: 꾸준히 계속하다
