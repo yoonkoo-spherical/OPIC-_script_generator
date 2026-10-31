@@ -17434,3 +17434,102 @@ Slowly but surely, my stamina improved, and my anxiety <strong style="color:blue
 * <strong style="color:blue;">fade away</strong>: 사라지다
 * <strong style="color:blue;">push through</strong>: 밀고 나가다
 * <strong style="color:blue;">stick with</strong>: 꾸준히 계속하다
+
+## 2026-10-31 09:01:09 OPIc Study
+
+### 묘사 : 비행기 탑승구 앞 대기 공간 묘사
+
+**[Question]**
+I would like to know about the boarding gate area at the airport. Please describe the boarding gate area and what people are doing there in detail. What does it look like, and what kind of atmosphere is it?
+(공항의 탑승구 구역에 대해 알고 싶습니다. 탑승구 앞 대기 공간과 그곳 사람들의 모습을 자세히 묘사해 주세요. 어떻게 생겼으며 어떤 분위기인가요?)
+
+**[Model Answer]**
+Well, whenever I travel, waiting at the boarding gate is always a mixture of excitement and utter chaos. Let me paint a picture of what it typically looks like. First off, the boarding area is usually a spacious, brightly lit hall with wall-to-wall glass windows <strong style="color:blue;">looking out onto</strong> the tarmac, where you can see planes being <strong style="color:blue;">taxied</strong> and luggage being loaded. There are rows and rows of metal or plastic chairs, but during peak hours, finding a seat is like <strong style="color:blue;">finding a needle in a haystack</strong>. 
+
+Now, when it comes to the people, it is an absolute melting pot of travelers, and everyone is <strong style="color:blue;">occupied with</strong> something different. To my left, there is a family with small children <strong style="color:blue;">huddled around</strong> a tablet to keep the kids quiet. A bit further down, you can spot some busy-looking business people <strong style="color:blue;">glued to</strong> their laptops, probably <strong style="color:blue;">catching up on</strong> last-minute emails before <strong style="color:blue;">boarding begins</strong>. Some impatient passengers are already <strong style="color:blue;">lining up</strong> near the gate agent desk, even though their zone hasn't been called yet, just to <strong style="color:blue;">get a head start</strong>. 
+
+The overall atmosphere is quite <strong style="color:blue;">buzzing with</strong> anticipation, mixed with a hint of travel fatigue. Announcements are constantly <strong style="color:blue;">going off</strong> over the PA system, mixed with the murmurs of people chatting in various languages. Whenever I sit there, it <strong style="color:blue;">brings home to me</strong> that my trip has finally started, and I just <strong style="color:blue;">lose myself in</strong> people-watching while <strong style="color:blue;">waiting for my turn</strong> to board.
+
+**[Vocabulary & Expressions]**
+* tarmac: 활주로
+* melting pot: 용광로, 다양한 사람들이 모인 곳
+* anticipation: 기대, 예상
+* <strong style="color:blue;">looking out onto</strong>: ~를 향해 창이 나 있는, 바라보는
+* <strong style="color:blue;">finding a needle in a haystack</strong>: 건더기에서 바늘 찾기 (극도로 힘든 일)
+* <strong style="color:blue;">occupied with</strong>: ~로 바쁜
+* <strong style="color:blue;">huddled around</strong>: ~ 주변에 옹기종기 모여 있는
+* <strong style="color:blue;">glued to</strong>: ~에 눈을 떼지 못하는, 딱 달라붙어 있는
+* <strong style="color:blue;">catching up on</strong>: (밀린 일을) 따라잡다, 처리하다
+* <strong style="color:blue;">lining up</strong>: 줄을 서다
+* <strong style="color:blue;">get a head start</strong>: 우세하게 시작하다, 먼저 시작하다
+* <strong style="color:blue;">buzzing with</strong>: ~로 활기찬, 웅성거리는
+* <strong style="color:blue;">going off</strong>: (경보 등이) 울리다
+* <strong style="color:blue;">brings home to me</strong>: ~를 절실히 깨닫게 하다
+* <strong style="color:blue;">lose myself in</strong>: ~에 푹 빠지다
+
+---
+### 롤플레이 : 세탁소에 코트 맡기기 및 주의사항 설명
+
+**[Question]**
+You need to drop off your winter coat at a dry cleaner. However, this coat is very expensive and requires special care. Ask the clerk about their service, and explain in detail what special attention is needed for this specific coat.
+(겨울 코트를 세탁소에 맡겨야 합니다. 하지만 이 코트는 매우 비싸고 특별한 관리가 필요합니다. 직원에게 서비스에 대해 물어보고, 이 코트에 특별한 주의가 필요한 이유를 자세히 설명해 주세요.)
+
+**[Model Answer]**
+Hi there, I’d like to drop off my winter coat for dry cleaning, but before I leave it here, I have a few concerns I need to <strong style="color:blue;">run by</strong> you. You see, this coat is quite a delicate designer piece that I <strong style="color:blue;">splurged on</strong> last winter, and I am a bit nervous about handing it over. Could you tell me how long the process usually takes and if you <strong style="color:blue;">handle</strong> luxury items <strong style="color:blue;">in-house</strong>? 
+
+Now, let me <strong style="color:blue;">go over</strong> a few things you need to be <strong style="color:blue;">extra careful about</strong>. First of all, the material is 100% premium cashmere, which means it <strong style="color:blue;">is prone to</strong> shrinking if it is <strong style="color:blue;">exposed to</strong> high temperatures. So, you must make sure to use a low-temperature, gentle dry-cleaning process. Secondly, please <strong style="color:blue;">take a close look at</strong> the buttons. They are made of genuine horn and are very loosely stitched. If they <strong style="color:blue;">get caught in</strong> the machine, they could easily <strong style="color:blue;">pop off</strong> or get scratched. Could you please <strong style="color:blue;">reinforce</strong> the stitching before cleaning? 
+
+Lastly, there is a tiny, stubborn grease stain right near the right pocket. Please do not <strong style="color:blue;">rub it out</strong> aggressively, as it might <strong style="color:blue;">discolor</strong> the fabric. Instead, could you <strong style="color:blue;">spot-clean</strong> it gently with a mild solvent? I really <strong style="color:blue;">count on</strong> you to return it to me in its original condition. If you could <strong style="color:blue;">pay special attention to</strong> these points, I would <strong style="color:blue;">truly appreciate it</strong>.
+
+**[Vocabulary & Expressions]**
+* delicate: 섬세한, 상하기 쉬운
+* genuine: 진짜의, 진품의
+* solvent: 용제, 용해제
+* <strong style="color:blue;">run by</strong>: ~에게 (의견을 묻기 위해) 말하다
+* <strong style="color:blue;">splurged on</strong>: 돈을 펑펑 쓰다, 큰맘 먹고 사다
+* <strong style="color:blue;">in-house</strong>: 자체적으로, 내부에서
+* <strong style="color:blue;">go over</strong>: 검토하다, 짚어보다
+* <strong style="color:blue;">extra careful about</strong>: ~에 특별히 주의하는
+* <strong style="color:blue;">is prone to</strong>: ~하기 쉽다
+* <strong style="color:blue;">exposed to</strong>: ~에 노출되는
+* <strong style="color:blue;">take a close look at</strong>: 자세히 살펴보다
+* <strong style="color:blue;">get caught in</strong>: ~에 걸리다, 끼다
+* <strong style="color:blue;">pop off</strong>: 톡 떨어지다
+* <strong style="color:blue;">rub it out</strong>: 문질러 지우다
+* <strong style="color:blue;">spot-clean</strong>: 부분 세탁하다
+* <strong style="color:blue;">count on</strong>: ~를 믿다, 의지하다
+
+---
+### 돌발 : 과거 영화관과 현재 멀티플렉스 영화관 비교
+
+**[Question]**
+How have movie theaters changed over time? Please compare the movie theater facilities of the past with today's modern multiplex theaters. What are the major differences in terms facilities, seating, and overall experience?
+(영화관은 시간에 따라 어떻게 변했나요? 과거의 영화관 시설과 오늘의 현대적인 멀티플렉스 영화관을 비교해 주세요. 시설, 좌석, 전반적인 경험 측면에서 주요 차이점은 무엇인가요?)
+
+**[Model Answer]**
+You know, looking back at how movie theaters used to be compared to today’s modern multiplexes, it feels like we have <strong style="color:blue;">made a giant leap</strong> in terms of technology and comfort. Back in the day, when I was younger, going to the movies was a relatively simple affair. The theaters were mostly standalone buildings with just one or two screens. The interior was quite dated, <strong style="color:blue;">featuring</strong> worn-out, red velvet seats that didn't <strong style="color:blue;">recline</strong>, and the legroom was so tight that your knees would <strong style="color:blue;">end up touching</strong> the seat in front of you. The sound and projection systems were <strong style="color:blue;">decent</strong> for that era, but <strong style="color:blue;">by today's standards</strong>, the screens were small and the picture quality was often a bit <strong style="color:blue;">grainy</strong>.
+
+On the other hand, today’s multiplexes <strong style="color:blue;">blow those old theaters out of the water</strong>. First off, they are usually located inside massive shopping malls and <strong style="color:blue;">house</strong> a dozen screens or more, offering an <strong style="color:blue;">array of</strong> options. When it comes to seating, it's a <strong style="color:blue;">game changer</strong>. Most modern theaters boast ultra-comfortable, leather reclining chairs with individual armrests and plenty of space to <strong style="color:blue;">stretch out</strong>. Some premium screens even offer beds or private pods! 
+
+Furthermore, the cinematic experience is completely <strong style="color:blue;">revolutionized</strong> with cutting-edge tech like IMAX, 4DX, and Dolby Atmos, which <strong style="color:blue;">immerse</strong> you <strong style="color:blue;">in</strong> the movie with shaking seats and mind-blowing sound. Also, let's not forget the food! In the past, we only had basic popcorn and soda, but now, multiplexes <strong style="color:blue;">serve up</strong> gourmet hot dogs, burgers, and even craft beer. All in all, movie-going has <strong style="color:blue;">evolved from</strong> a simple weekend outing <strong style="color:blue;">into</strong> a luxurious, all-in-one entertainment experience.
+
+**[Vocabulary & Expressions]**
+* standalone: 단독의, 독립된
+* dated: 구식의, 시대에 뒤떨어진
+* recline: (의자를) 뒤로 젖히다
+* grainy: 입자가 거친, 화질이 안 좋은
+* cinematic: 영화의
+* cutting-edge: 최첨단의
+* <strong style="color:blue;">made a giant leap</strong>: 엄청난 도약을 하다
+* <strong style="color:blue;">featuring</strong>: ~를 특징으로 하다, 보여주다
+* <strong style="color:blue;">end up touching</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">by today's standards</strong>: 오늘날의 기준으로 볼 때
+* <strong style="color:blue;">blow out of the water</strong>: 완전히 압도하다, 박살내다
+* <strong style="color:blue;">house</strong>: (시설 등이) 수용하다, 품다
+* <strong style="color:blue;">array of</strong>: 일련의, 다양한
+* <strong style="color:blue;">game changer</strong>: 판도를 뒤바꾸는 것
+* <strong style="color:blue;">stretch out</strong>: (팔다리를) 쭉 뻗다
+* <strong style="color:blue;">revolutionized</strong>: 완전히 혁신된
+* <strong style="color:blue;">immerse in</strong>: ~에 몰입시키다
+* <strong style="color:blue;">serve up</strong>: (음식 등을) 제공하다, 내놓다
+* <strong style="color:blue;">evolved from ~ into ...</strong>: ~에서 ...로 진화하다
