@@ -17533,3 +17533,96 @@ Furthermore, the cinematic experience is completely <strong style="color:blue;">
 * <strong style="color:blue;">immerse in</strong>: ~에 몰입시키다
 * <strong style="color:blue;">serve up</strong>: (음식 등을) 제공하다, 내놓다
 * <strong style="color:blue;">evolved from ~ into ...</strong>: ~에서 ...로 진화하다
+
+## 2026-11-01 09:51:41 OPIc Study
+
+### 묘사 : 가장 친한 친구의 외모와 성격 묘사
+
+**[Question]**
+Please tell me about your best friend. What does he or she look like, and what are their personality traits? Give me a detailed description.
+(당신의 가장 친한 친구에 대해 이야기해 주세요. 그 친구의 생김새는 어떠하며, 성격 특징은 무엇인가요? 자세히 묘사해 주세요.)
+
+**[Model Answer]**
+You know, I have quite a few friends, but if I have to pick the one who is closest to my heart, it would definitely be my best friend, Minho. We have known each other for over a decade, so we <strong style="color:blue;">go back a long way</strong>. Let me <strong style="color:blue;">paint a picture</strong> of what he looks like and what kind of person he is. 
+
+First of all, when it comes to his physical appearance, Minho is fairly tall, maybe around 180 centimeters, and he has an athletic build because he is a huge fitness enthusiast. He usually keeps his hair neatly styled in a modern undercut, and he has this very warm, approachable smile that instantly <strong style="color:blue;">puts people at ease</strong> when they first meet him. He is also quite fashion-conscious, so he always <strong style="color:blue;">dresses to kill</strong>, even when we are just grabbing a simple cup of coffee at a local cafe. 
+
+Now, moving on to his personality, which is actually what I admire most about him. Minho is, above all, incredibly reliable and trustworthy. Whenever I <strong style="color:blue;">run into</strong> a tough situation or feel overwhelmed by work stress, he is always the first person I <strong style="color:blue;">reach out to</strong>. He doesn't just listen passively; he genuinely tries to <strong style="color:blue;">put himself in my shoes</strong> and offers sound, practical advice. On top of that, he has an amazing sense of humor. He can <strong style="color:blue;">lighten the mood</strong> in any awkward or tense situation with his witty jokes and playful banter. We <strong style="color:blue;">see eye to eye</strong> on almost everything, from our career goals down to our taste in music, which is why we never seem to run out of things to talk about. 
+
+All in all, Minho is much more than just a friend to me; he is practically family. I truly <strong style="color:blue;">cherish our friendship</strong>, and I consider myself extremely lucky to <strong style="color:blue;">have him by my side</strong> through all the ups and downs of life.
+
+**[Vocabulary & Expressions]**
+* athletic build: 운동선수 체격
+* fitness enthusiast: 운동 애호가
+* approachable: 다가가기 쉬운, 친근한
+* fashion-conscious: 패션에 관심이 많은
+* <strong style="color:blue;">go back a long way</strong>: 오랜 인연이 있다
+* <strong style="color:blue;">paint a picture</strong>: 생생하게 묘사하다
+* <strong style="color:blue;">puts people at ease</strong>: 사람들을 마음 편하게 하다
+* <strong style="color:blue;">dresses to kill</strong>: 멋지게 차려입다
+* <strong style="color:blue;">run into</strong>: 우연히 마주치다, 곤경에 처하다
+* <strong style="color:blue;">reach out to</strong>: ~에게 손을 내밀다, 연락하다
+* <strong style="color:blue;">put oneself in my shoes</strong>: 상대방의 입장이 되어보다
+* <strong style="color:blue;">lighten the mood</strong>: 분위기를 밝게 만들다
+* <strong style="color:blue;">see eye to eye</strong>: 의견이 일치하다
+* <strong style="color:blue;">cherish our friendship</strong>: 우정을 소중히 여기다
+* <strong style="color:blue;">have him by my side</strong>: 내 곁에 그를 두다
+
+---
+### 롤플레이 : 파손된 택배 상자 반품 접수
+
+**[Question]**
+Imagine that you recently ordered an item online, and when the package arrived, the box was severely damaged and the product inside was broken. Call the online shopping mall's customer service center, explain the situation, and ask for a return and a full refund.
+(최근 온라인으로 물건을 주문했는데, 택배가 도착했을 때 상자가 심하게 파손되어 있었고 안의 제품도 망가져 있었습니다. 온라인 쇼핑몰 고객센터에 전화하여 상황을 설명하고, 반품 및 전액 환불을 요청하세요.)
+
+**[Model Answer]**
+Hi, is this the customer service center for 'Mega Shopping'? My name is Alex, and I am calling to <strong style="color:blue;">lodge a complaint</strong> regarding an order I received earlier today. I am really upset and frustrated about this situation. 
+
+To give you the details, I ordered a brand-new ceramic dinnerware set from your website three days ago, and it was delivered to my doorstep this afternoon. However, when I <strong style="color:blue;">picked up</strong> the delivery box, I noticed that it was badly crushed and torn on one side. When I <strong style="color:blue;">unwrapped</strong> the bubble wrap inside, my heart just sank. Almost half of the plates and bowls were completely shattered into pieces. It is obvious that the package was handled very roughly during transit, and the packaging was not secure enough to <strong style="color:blue;">withstand the impact</strong>. 
+
+Since I cannot use any of the broken items, I would like to <strong style="color:blue;">process a return</strong> and get a full refund as soon as possible. Also, I don't want to <strong style="color:blue;">pay out of pocket</strong> for the return shipping fee because this is clearly not my fault. Could you please <strong style="color:blue;">look into</strong> this matter right away and let me know what steps I need to take? I have already <strong style="color:blue;">taken photos</strong> of the damaged box and the broken items just in case you need proof. Please <strong style="color:blue;">get back to me</strong> with a resolution by today. Thank you.
+
+**[Vocabulary & Expressions]**
+* ceramic dinnerware set: 도자기 식기 세트
+* shattered: 산산조각 난
+* transit: 운송, 배송 중
+* resolution: 해결책, 처리
+* <strong style="color:blue;">lodge a complaint</strong>: 불만을 제기하다
+* <strong style="color:blue;">picked up</strong>: 집어 들다
+* <strong style="color:blue;">unwrapped</strong>: 포장을 풀다
+* <strong style="color:blue;">withstand the impact</strong>: 충격을 견뎌내다
+* <strong style="color:blue;">process a return</strong>: 반품을 처리하다
+* <strong style="color:blue;">pay out of pocket</strong>: 자기 돈을 쓰다, 사비로 지출하다
+* <strong style="color:blue;">look into</strong>: 조사하다, 알아보다
+* <strong style="color:blue;">taken photos</strong>: 사진을 찍다
+* <strong style="color:blue;">get back to me</strong>: 회신하다, 연락을 주다
+
+---
+### 돌발 : 비밀번호를 잊어버려 계정 접속을 못한 경험
+
+**[Question]**
+Tell me about a time when you couldn't access your online account all day because you forgot your password. What happened, how did you try to fix the problem, and how did it make you feel?
+(비밀번호를 잊어버려 하루 종일 온라인 계정에 접속하지 못했던 경험에 대해 이야기해 주세요. 어떤 일이 있었고, 문제를 해결하기 위해 어떻게 노력했으며, 그때 어떤 기분이 들었나요?)
+
+**[Model Answer]**
+Oh man, just thinking about this makes me stressed all over again. A few months ago, I had a total nightmare of an experience where I was completely <strong style="color:blue;">locked out of</strong> my main email account for an entire day because I forgot my password. 
+
+It happened on a crucially busy Monday morning. I woke up bright and early, sat at my desk, and tried to log into my email to check some urgent work files. But as soon as I typed in my usual password, a red error message popped up saying it was incorrect. At first, I thought I simply <strong style="color:blue;">made a typo</strong>, so I tried a few other variations that I normally use. But none of them worked. To make matters worse, after several failed attempts, the system security mechanism <strong style="color:blue;">triggered a lockout</strong> to protect my account, and I was blocked from trying again for 24 hours. 
+
+I panicked instantly because all my important project documents, schedules, and communication threads with clients were stored in that account. I immediately tried to <strong style="color:blue;">go through</strong> the password recovery process. I clicked on the 'forgot password' button, but the backup verification code was sent to an old phone number that I no longer use. I felt like I was <strong style="color:blue;">hitting a brick wall</strong> at every turn. I even tried calling the customer support hotline, but I was just <strong style="color:blue;">put on hold</strong> for ages listening to annoying automated music, only to be told that identity verification takes at least one business day. 
+
+I ended up having to <strong style="color:blue;">scrap all my plans</strong> for the day and felt completely helpless and frustrated. It was a massive wake-up call for me. Since that miserable incident, I have started using a password manager and have <strong style="color:blue;">backed up</strong> all my recovery information properly so that I never have to <strong style="color:blue;">go through</strong> that kind of agony again.
+
+**[Vocabulary & Expressions]**
+* nightmare: 악몽 같은 일
+* verification code: 인증 번호
+* identity verification: 본인 인증
+* agony: 극심한 고통, 괴로움
+* <strong style="color:blue;">locked out of</strong>: ~에 접속이 차단된
+* <strong style="color:blue;">made a typo</strong>: 오타를 내다
+* <strong style="color:blue;">triggered a lockout</strong>: 계정 잠금을 유발하다
+* <strong style="color:blue;">go through</strong>: 겪다, 통과하다, 진행하다
+* <strong style="color:blue;">hitting a brick wall</strong>: 벽에 부딪히다 (난관에 봉착하다)
+* <strong style="color:blue;">put on hold</strong>: 통화 대기 상태로 두다
+* <strong style="color:blue;">scrap all my plans</strong>: 모든 계획을 취소하다
+* <strong style="color:blue;">backed up</strong>: 백업하다, 지원하다
