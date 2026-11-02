@@ -17626,3 +17626,123 @@ I ended up having to <strong style="color:blue;">scrap all my plans</strong> for
 * <strong style="color:blue;">put on hold</strong>: 통화 대기 상태로 두다
 * <strong style="color:blue;">scrap all my plans</strong>: 모든 계획을 취소하다
 * <strong style="color:blue;">backed up</strong>: 백업하다, 지원하다
+
+## 2026-11-02 10:12:27 OPIc Study
+
+### 묘사 : 과거 학교의 운동장과 교실 모습 묘사
+
+**[Question]**
+Could you describe what your school looked like back when you were a student? Specifically, tell me about the playground and the classrooms. What were they like, and how did they make you feel?
+(학생 시절 다녔던 학교의 모습을 묘사해 주시겠어요? 특히 운동장과 교실에 대해 말씀해 주세요. 어땠으며, 어떤 느낌을 주었나요?)
+
+**[Model Answer]**
+Well, when I <strong style="color:blue;">think back to</strong> my middle school days, a flood of nostalgic memories <strong style="color:blue;">comes rushing back</strong>. My school was a pretty traditional yet charming place, and two areas that <strong style="color:blue;">stand out in my mind</strong> are the main playground and my old classrooms. 
+
+First off, let's talk about the playground. It was <strong style="color:blue;">massive in size</strong>, covered in fine red clay that used to <strong style="color:blue;">get all over</strong> our shoes and uniforms whenever we played soccer or tag during recess. Right in the center, there was this huge, majestic zelkova tree that <strong style="color:blue;">cast a huge shadow</strong> across the field. During the scorching summer months, all of us kids would <strong style="color:blue;">huddle together</strong> under its shade to <strong style="color:blue;">catch our breath</strong> after running around like crazy. Surrounding the dirt field was a worn-out running track, which <strong style="color:blue;">brought to mind</strong> countless sports days where our entire school would <strong style="color:blue;">cheer our hearts out</strong> for our classes. It wasn't anything fancy or high-tech, but it was the epicenter of all our childhood energy.
+
+Now, shifting gears to the classrooms, they had a very warm and cozy, <strong style="color:blue;">albeit</strong> slightly dated, vibe. The walls were painted in a soft, soothing beige, and the floors were made of polished wood that required us to <strong style="color:blue;">change into</strong> indoor slippers at the sliding glass entrance. Each classroom had these huge, wide windows that <strong style="color:blue;">let in</strong> an incredible amount of natural sunlight, making the room feel super bright and welcoming. I vividly remember the rows of wooden desks and chairs, which were <strong style="color:blue;">scratched up</strong> with random graffiti and initials carved by generations of students before us. At the front, there was a traditional green chalkboard <strong style="color:blue;">covered in</strong> math formulas and after-school club notices. Whenever I walked into the classroom in the morning, <strong style="color:blue;">wrapped in</strong> the familiar scent of old paper and floor wax, I felt a strange sense of comfort and belonging. 
+
+Looking back, those physical spaces were not just brick and mortar; they were the backdrop of some of the most formative years of my life. Even now, whenever I happen to pass by my old school, those memories <strong style="color:blue;">come flooding back</strong>, making me smile instantly.
+
+**[Vocabulary & Expressions]**
+* nostalgic: 향수를 불러일으키는
+* majestic: 위엄 있는, 장엄한
+* scorching: 찌는 듯이 더운
+* epicenter: 진앙, 중심지
+* <strong style="color:blue;">think back to</strong>: ~를 회상하다
+* <strong style="color:blue;">comes rushing back</strong>: 밀려들다
+* <strong style="color:blue;">stand out in my mind</strong>: 내 마음속에 두드러지다
+* <strong style="color:blue;">get all over</strong>: 온통 ~에 묻다
+* <strong style="color:blue;">cast a huge shadow</strong>: 커다란 그늘을 드리우다
+* <strong style="color:blue;">huddle together</strong>: 모여들다, 옹기종기 모이다
+* <strong style="color:blue;">catch our breath</strong>: 숨을 돌리다
+* <strong style="color:blue;">brought to mind</strong>: 상기시키다
+* <strong style="color:blue;">cheer our hearts out</strong>: 목이 터져라 응원하다
+* <strong style="color:blue;">change into</strong>: ~로 갈아신다/갈아입다
+* <strong style="color:blue;">let in</strong>: 들여보내다, 스며들게 하다
+* <strong style="color:blue;">scratched up</strong>: 긁혀 있는
+* <strong style="color:blue;">covered in</strong>: ~로 뒤덮인
+* <strong style="color:blue;">wrapped in</strong>: ~에 싸여 있는
+* <strong style="color:blue;">come flooding back</strong>: 물밀듯이 밀려오다
+
+---
+### 롤플레이 : 길거리에서 지갑을 주워 파출소에 신고하기
+
+**[Question]**
+Imagine you found a wallet on the street. Go to the nearest police substation, explain the situation to the officer on duty, and ask what you should do next.
+(길거리에서 지갑을 주겠다고 상상해 보세요. 가장 가까운 파출소로 가서 근무 중인 경찰관에게 상황을 설명하고, 다음에 무엇을 해야 하는지 물어보세요.)
+
+**[Model Answer]**
+Excuse me, officer? Hello. I need to <strong style="color:blue;">turn in</strong> something I just found outside. I was walking down the street just a couple of blocks away from here, near the subway station exit, and I <strong style="color:blue;">stumbled upon</strong> this leather wallet lying right on the pavement. 
+
+Let me <strong style="color:blue;">fill you in on</strong> the details. I waited around the spot for about ten or fifteen minutes to see if anyone would <strong style="color:blue;">come looking for</strong> it, because I figured the owner must be freaking out right now. However, the street was pretty crowded, and nobody <strong style="color:blue;">showed up</strong> asking about a lost item. So, I decided it was best to <strong style="color:blue;">bring it straight to</strong> the nearest police substation instead of just leaving it there. 
+
+I haven't <strong style="color:blue;">gone through</strong> the contents to respect the owner's privacy, but from a quick glance, it looks like there's some cash, credit cards, and an ID card inside. The name on the ID seems to be a local resident. I really want to <strong style="color:blue;">make sure</strong> this <strong style="color:blue;">ends up</strong> safely <strong style="color:blue;">back in</strong> the owner's hands as soon as possible, especially since losing a wallet with IDs and credit cards can <strong style="color:blue;">turn someone's life upside down</strong>. 
+
+So, could you tell me what the protocol is here? Do I need to <strong style="color:blue;">fill out</strong> a formal lost-and-found report or <strong style="color:blue;">write down</strong> my contact information in case the owner wants to <strong style="color:blue;">reach out</strong> and express their gratitude? Please <strong style="color:blue;">walk me through</strong> the necessary steps so we can <strong style="color:blue;">get this sorted out</strong> efficiently. Thank you for your help.
+
+**[Vocabulary & Expressions]**
+* pavement: 인도, 보도
+* protocol: 절차, 규식
+* gratitude: 감사, 고마움
+* <strong style="color:blue;">turn in</strong>: 제출하다, 경찰에 맡기다
+* <strong style="color:blue;">stumbled upon</strong>: 우연히 발견하다
+* <strong style="color:blue;">fill you in on</strong>: 상세히 알려주다
+* <strong style="color:blue;">come looking for</strong>: ~를 찾아 나서다
+* <strong style="color:blue;">showed up</strong>: 나타나다
+* <strong style="color:blue;">bring it straight to</strong>: 곧바로 ~로 가져오다
+* <strong style="color:blue;">gone through</strong>: 뒤져보다, 살펴보다
+* <strong style="color:blue;">make sure</strong>: 확실히 하다
+* <strong style="color:blue;">ends up</strong>: 결국 ~하게 되다
+* <strong style="color:blue;">back in</strong>: 다시 ~로 돌아간
+* <strong style="color:blue;">turn someone's life upside down</strong>: ~의 삶을 뒤집어 놓다, 큰 혼란을 주다
+* <strong style="color:blue;">fill out</strong>: 작성하다
+* <strong style="color:blue;">write down</strong>: 적어두다
+* <strong style="color:blue;">reach out</strong>: 연락을 취하다
+* <strong style="color:blue;">walk me through</strong>: 자세히 안내하다, 설명하다
+* <strong style="color:blue;">get this sorted out</strong>: 이를 해결하다, 정리하다
+
+---
+### 돌발 : 여행 준비 중 호텔이나 항공권 예약 문제 경험
+
+**[Question]**
+Tell me about a time when you had a problem while booking a hotel or airline ticket for a trip. What was the issue, how did it happen, and how did you resolve it in the end?
+(여행을 위해 호텔이나 항공권을 예약하던 중 문제가 생겼던 경험에 대해 말씀해 주세요. 문제가 무엇이었고, 어떻게 발생했으며, 결국 어떻게 해결하셨나요?)
+
+**[Model Answer]**
+Oh man, talking about booking mishaps <strong style="color:blue;">brings back</strong> a really stressful memory from a trip I took to Europe last year. I had spent weeks carefully planning this itinerary, and just three days before my departure, I ran into a massive crisis regarding my hotel reservation. 
+
+Here is what <strong style="color:blue;">went down</strong>. I had booked a boutique hotel in Paris through a third-party travel platform months in advance. Everything seemed fine; I had the confirmation email <strong style="color:blue;">saved on</strong> my phone and thought I was <strong style="color:blue;">all set to go</strong>. However, out of nowhere, I received an abrupt email notification stating that my reservation had been <strong style="color:blue;">canceled due to</strong> an overbooking error on the hotel's end. My heart <strong style="color:blue;">skipped a beat</strong>. I immediately tried to <strong style="color:blue;">log into</strong> the app to see what was happening, only to find out that all alternative rooms in that area were <strong style="color:blue;">fully booked</strong> because it was peak tourist season. I was totally <strong style="color:blue;">freaking out</strong> because my entire travel schedule was on the verge of <strong style="color:blue;">falling apart</strong>.
+
+Realizing that crying over spilled milk wasn't going to <strong style="color:blue;">get me anywhere</strong>, I decided to <strong style="color:blue;">take matters into my own hands</strong>. First, I <strong style="color:blue;">picked up</strong> the phone and <strong style="color:blue;">called up</strong> the customer service hotline of the booking platform. I managed to <strong style="color:blue;">get through to</strong> a representative, but she kept telling me there was nothing she could do because the hotel was at full capacity. Refusing to <strong style="color:blue;">give up</strong>, I <strong style="color:blue;">pointed out</strong> that this was a breach of their service guarantee and demanded that they <strong style="color:blue;">look into</strong> an immediate upgrade or alternative accommodation at their expense. 
+
+After arguing back and forth and refusing to <strong style="color:blue;">back down</strong>, the supervisor finally <strong style="color:blue;">stepped in</strong>. They realized they were legally obligated to honor a comparable booking. They ended up <strong style="color:blue;">moving me to</strong> a five-star luxury hotel just down the street at no extra cost to me! It turned out to be a massive blessing in disguise, but I learned a hard lesson about always <strong style="color:blue;">double-checking</strong> my reservations directly with properties ahead of time.
+
+**[Vocabulary & Expressions]**
+* itinerary: 여행 일정표
+* mishap: 작은 사고, 불운
+* abrupt: 갑작스러운
+* capacity: 수용 능력, 정원
+* obligation: 의무
+* <strong style="color:blue;">brings back</strong>: 상기시키다, 되살리다
+* <strong style="color:blue;">went down</strong>: 발생하다, 전개되다
+* <strong style="color:blue;">saved on</strong>: ~에 저장된
+* <strong style="color:blue;">all set to go</strong>: 출발할 준비가 완전히 된
+* <strong style="color:blue;">canceled due to</strong>: ~ 때문에 취소된
+* <strong style="color:blue;">skipped a beat</strong>: (심장이) 덜컥 내려앉다
+* <strong style="color:blue;">log into</strong>: 로그인하다
+* <strong style="color:blue;">fully booked</strong>: 예약이 꽉 찬
+* <strong style="color:blue;">freaking out</strong>: 겁을 먹다, 패닉에 빠지다
+* <strong style="color:blue;">falling apart</strong>: 무너지다, 엉망이 되다
+* <strong style="color:blue;">get me anywhere</strong>: 도움이 되다, 진전을 보이다
+* <strong style="color:blue;">take matters into my own hands</strong>: 직접 사태를 해결하기로 나서다
+* <strong style="color:blue;">picked up</strong>: 집어들다 (전화를 들다)
+* <strong style="color:blue;">called up</strong>: 전화하다
+* <strong style="color:blue;">get through to</strong>: (전화 등으로) ~와 연결되다
+* <strong style="color:blue;">give up</strong>: 포기하다
+* <strong style="color:blue;">pointed out</strong>: 지적하다, 언급하다
+* <strong style="color:blue;">look into</strong>: 조사하다, 알아보다
+* <strong style="color:blue;">back down</strong>: 물러서다, 꼬리를 내리다
+* <strong style="color:blue;">stepped in</strong>: 개입하다, 나서다
+* <strong style="color:blue;">moving me to</strong>: 나를 ~로 옮겨주다
+* <strong style="color:blue;">double-checking</strong>: 재확인하다
