@@ -17746,3 +17746,102 @@ After arguing back and forth and refusing to <strong style="color:blue;">back do
 * <strong style="color:blue;">stepped in</strong>: 개입하다, 나서다
 * <strong style="color:blue;">moving me to</strong>: 나를 ~로 옮겨주다
 * <strong style="color:blue;">double-checking</strong>: 재확인하다
+
+## 2026-11-03 10:13:38 OPIc Study
+
+### 묘사 : 헬스장 운동 기구 배치 묘사
+
+**[Question]**
+Please describe the layout of the fitness center or gym you usually go to. Where are the different types of equipment located, and how is the space organized?
+(당신이 보통 다니는 헬스장의 배치를 묘사해 주세요. 다양한 종류의 운동 기구들이 어디에 위치해 있으며, 공간은 어떻게 구성되어 있나요?)
+
+**[Model Answer]**
+Well, let me tell you about the gym I go to almost every single day. It's quite spacious, and the layout is actually really well-designed. As soon as you <strong style="color:blue;">walk through</strong> the main entrance, you are immediately greeted by the reception desk, and right next to it, there's a cozy lounge area where people can <strong style="color:blue;">chill out</strong> before or after their workouts. 
+
+Now, if you <strong style="color:blue;">head over</strong> to the main exercise floor, the space is divided into a few distinct sections. The left side of the gym is entirely dedicated to cardiovascular equipment. There is a long row of state-of-the-art treadmills and elliptical machines <strong style="color:blue;">lined up</strong> right against the huge glass windows. So, while people are running or doing cardio, they can enjoy a fantastic view of the bustling street outside, which really helps <strong style="color:blue;">take their minds off</strong> the intense workout. Right behind the treadmills, you can find the stationary bikes and stair climbers.
+
+On the other hand, if you <strong style="color:blue;">make your way</strong> to the right side of the gym, that's where the weight training area is. This zone is further split into two parts. The free weight section, which is packed with dumbbells, barbells, and adjustable benches, is located near the mirrors so that members can <strong style="color:blue;">keep an eye on</strong> their posture and form while lifting heavy weights. Behind the free weights, there is a comprehensive collection of resistance machines <strong style="color:blue;">set up</strong> in a very systematic way, targeting specific muscle groups from legs to shoulders. 
+
+What I love most about this layout is that even during peak hours when the gym is <strong style="color:blue;">packed to capacity</strong>, the smart arrangement of the equipment prevents the space from feeling too cramped or overwhelming. It just makes my whole workout routine so much more efficient and enjoyable.
+
+**[Vocabulary & Expressions]**
+* spacious: 넓은
+* state-of-the-art: 최첨단의
+* distinct: 뚜렷한, 구별되는
+* comprehensive: 포괄적인, 종합적인
+* <strong style="color:blue;">walk through</strong>: ~를 걸어서 들어가다
+* <strong style="color:blue;">chill out</strong>: 휴식을 취하다, 긴장을 풀다
+* <strong style="color:blue;">head over</strong>: ~로 향하다
+* <strong style="color:blue;">lined up</strong>: 줄지어 서 있는
+* <strong style="color:blue;">take one's mind off</strong>: ~에서 마음을 딴 데로 돌리다, 잊게 하다
+* <strong style="color:blue;">make one's way</strong>: 나아가다, 가다
+* <strong style="color:blue;">keep an eye on</strong>: ~을 주시하다, 지켜보다
+* <strong style="color:blue;">set up</strong>: 설치하다, 마련하다
+* <strong style="color:blue;">packed to capacity</strong>: 꽉 찬, 수용 인원이 꽉 찬
+
+---
+### 롤플레이 : 카페 음료 교환 요청
+
+**[Question]**
+You ordered a beverage at a coffee shop, but the drink you received is wrong. Call the staff, explain the situation, and offer two or three alternative solutions to resolve the problem.
+(카페에서 음료를 주문했는데 잘못 나왔습니다. 직원에게 전화하여 상황을 설명하고, 문제를 해결하기 위한 2~3가지 대안을 제시해 주세요.)
+
+**[Model Answer]**
+Excuse me, hi! I'm sorry to bother you, but I think there's a slight problem with the drink I just ordered. I ordered an iced vanilla latte with oat milk, but when I <strong style="color:blue;">took a sip</strong> just now, I realized it's a regular hot caramel macchiato with cow's milk. Actually, I am quite lactose intolerant, so I really cannot drink this. 
+
+Since I'm in a bit of a rush for an appointment, I was wondering how we could <strong style="color:blue;">sort this out</strong> quickly. Here are a couple of things we could do. First, if it wouldn't take too long, could you <strong style="color:blue;">remake</strong> the correct drink for me right away? I can just wait by the counter. 
+
+Second, if you guys are too busy and it's going to <strong style="color:blue;">hold me up</strong> even more, would it be possible to just <strong style="color:blue;">issue a full refund</strong> so I can <strong style="color:blue;">be on my way</strong>? Or, as a third option, if you prefer, you could <strong style="color:blue;">give me a voucher</strong> or store credit for the same amount, and I can <strong style="color:blue;">use it</strong> next time I visit. 
+
+I'm really sorry for the inconvenience, but I'd appreciate it if you could <strong style="color:blue;">take care of</strong> this for me as soon as possible. Thank you so much!
+
+**[Vocabulary & Expressions]**
+* lactose intolerant: 유당 불내증이 있는
+* appointment: 약속
+* voucher: 할인권, 상품권
+* inconvenience: 불편
+* <strong style="color:blue;">took a sip</strong>: 한 모금 마시다
+* <strong style="color:blue;">sort this out</strong>: 이 문제를 해결하다
+* <strong style="color:blue;">hold me up</strong>: 나를 지체시키다, 기다리게 하다
+* <strong style="color:blue;">issue a full refund</strong>: 전액 환불을 발행하다
+* <strong style="color:blue;">be on my way</strong>: 가던 길을 가다, 출발하다
+* <strong style="color:blue;">give me a voucher</strong>: 상품권을 주다
+* <strong style="color:blue;">use it</strong>: 그것을 사용하다
+* <strong style="color:blue;">take care of</strong>: 처리하다, 담당하다
+
+---
+### 돌발 : 업무 중 컴퓨터 다운으로 데이터 유실
+
+**[Question]**
+Tell me about a time when you were working on a task or project and your computer suddenly crashed, causing you to lose important data. What happened, and how did you handle the situation?
+(업무나 과제를 처리하다가 컴퓨터가 갑자기 다운되어 중요한 데이터를 날린 적이 있는 나에 대해 이야기해 주세요. 무슨 일이 일어났고, 그 상황을 어떻게 대처했나요?)
+
+**[Model Answer]**
+Oh, man, just thinking about this makes my heart race. It was about a year ago, right before a major quarterly presentation for my company. I had been <strong style="color:blue;">working around the clock</strong> for three straight days to finish this comprehensive report and put together a massive PowerPoint presentation. 
+
+I was literally in the final stretch, just about to <strong style="color:blue;">put the finishing touches</strong> on the last slide. Suddenly, without any warning, my computer screen froze completely. Before I could even <strong style="color:blue;">react</strong>, the screen went completely black, and the laptop just <strong style="color:blue;">shut down</strong>. I tried to <strong style="color:blue;">boot it back up</strong> immediately, but it kept getting <strong style="color:blue;">stuck</strong> on the loading screen. To make matters worse, I realized to my horror that I hadn't saved the latest version of the file for the past two hours, and my auto-save feature had somehow <strong style="color:blue;">glitched out</strong>. 
+
+I genuinely panicked because the presentation was scheduled in less than three hours. But I knew sitting there and <strong style="color:blue;">stressing out</strong> wouldn't <strong style="color:blue;">get me anywhere</strong>. So, I quickly <strong style="color:blue;">pulled myself together</strong> and <strong style="color:blue;">sprang into action</strong>. First, I grabbed my tablet and called our IT support team to see if they could <strong style="color:blue;">retrieve</strong> the lost files from the temporary cache. Unfortunately, they told me the hard drive had suffered a minor crash and nothing could be recovered. 
+
+Realizing I had <strong style="color:blue;">no time to lose</strong>, I asked a colleague to <strong style="color:blue;">lend me</strong> a spare laptop. Then, I had to <strong style="color:blue;">dig deep</strong> and recreate the lost slides entirely from memory, working at lightning speed. It was absolute chaos, and I was <strong style="color:blue;">sweating bullets</strong>, but somehow, I managed to finish the presentation just ten minutes before the meeting started. It was definitely one of the most stressful experiences of my career, but it taught me a hard lesson about the absolute importance of backing up data constantly.
+
+**[Vocabulary & Expressions]**
+* quarterly: 분기별의
+* comprehensive: 종합적인, 포괄적인
+* panic: 당황하다
+* temporarily: 일시적으로
+* cache: (컴퓨터) 임시 저장소
+* chaos: 혼돈, 혼란
+* <strong style="color:blue;">working around the clock</strong>: 밤낮으로 일하다
+* <strong style="color:blue;">put the finishing touches</strong>: 마무리 작업을 하다
+* <strong style="color:blue;">shut down</strong>: 종료되다, 멈추다
+* <strong style="color:blue;">boot it back up</strong>: 재부팅하다
+* <strong style="color:blue;">glitched out</strong>: 결함이 생기다, 오작동하다
+* <strong style="color:blue;">stressing out</strong>: 스트레스 받다
+* <strong style="color:blue;">get me anywhere</strong>: 아무런 도움이 되지 않다
+* <strong style="color:blue;">pulled myself together</strong>: 마음을 가라앉히다, 진정하다
+* <strong style="color:blue;">sprang into action</strong>: 즉각 행동에 나서다
+* <strong style="color:blue;">no time to lose</strong>: 허비할 시간이 없는
+* <strong style="color:blue;">lend me</strong>: 나에게 빌려주다
+* <strong style="color:blue;">dig deep</strong>: 전력을 다하다, 깊이 파고들다
+* <strong style="color:blue;">sweating bullets</strong>: 몹시 긴장하다, 진땀을 흘리다
