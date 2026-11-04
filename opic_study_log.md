@@ -17845,3 +17845,106 @@ Realizing I had <strong style="color:blue;">no time to lose</strong>, I asked a 
 * <strong style="color:blue;">lend me</strong>: 나에게 빌려주다
 * <strong style="color:blue;">dig deep</strong>: 전력을 다하다, 깊이 파고들다
 * <strong style="color:blue;">sweating bullets</strong>: 몹시 긴장하다, 진땀을 흘리다
+
+## 2026-11-04 10:05:29 OPIc Study
+
+### 묘사 : 최근 구입한 스마트폰 외관 묘사
+
+**[Question]**
+I would like to know about a new electronic device you have recently purchased. Could you describe what it looks like in detail? What are its physical characteristics and design features?
+최근에 구입한 새로운 전자기기에 대해 알고 싶습니다. 그것의 외관이 어떻게 생겼는지 자세히 설명해 주시겠습니까? 물리적인 특징과 디자인 요소는 무엇인가요?
+
+**[Model Answer]**
+Well, Eva, to be completely honest with you, I'm a kind of tech-savvy person, so I <strong style="color:blue;">jump at the chance</strong> whenever a brand-new smartphone hits the market. Just a couple of weeks ago, I finally decided to <strong style="color:blue;">splash out on</strong> the latest flagship smartphone, and I have to say, its physical appearance is absolutely breathtaking. 
+
+First of all, let me talk about its overall shape and size. It has a sleek, minimalist design with a remarkably slim profile. When I <strong style="color:blue;">first lay eyes on</strong> it at the store, I was immediately drawn to its stunning matte finish on the back glass. This matte texture not only gives it a very sophisticated and premium look, but it also prevents fingerprints from <strong style="color:blue;">showing up</strong> easily, which is a huge plus for me. The edges are gracefully curved, making it extremely comfortable to <strong style="color:blue;">get a grip on</strong> without feeling slippery. 
+
+Turning to the front, it boasts an edge-to-edge, bezel-less display that <strong style="color:blue;">takes up</strong> almost the entire front surface. There is just a tiny, punch-hole camera lens right at the top center, which doesn't <strong style="color:blue;">get in the way of</strong> viewing media at all. The screen itself is a vibrant AMOLED panel, and when it's turned on, the colors just <strong style="color:blue;">pop out</strong> with incredible clarity. 
+
+On the right side of the device, you can find the power button and the volume rockers, which are <strong style="color:blue;">laid out</strong> in a very ergonomic position so that my thumb naturally rests right on them. Down at the bottom, there is a USB-C port flanked by stereo speaker grilles, designed with absolute symmetry. 
+
+All in all, the combination of the polished aluminum frame and the durable ceramic shield glass <strong style="color:blue;">brings together</strong> a truly masterpiece-like design. Every time I <strong style="color:blue;">take it out of</strong> my pocket, I can't help <strong style="color:blue;">falling in love with</strong> its aesthetic appeal all over again. It is truly a work of art in terms of modern mobile engineering.
+
+**[Vocabulary & Expressions]**
+* Tech-savvy: 기기에 밝은, 기술에 능숙한
+* Minimalist: 미니멀리스트의, 단순한
+* Ergonomic: 인체공학적인
+* Symmetry: 대칭성
+* <strong style="color:blue;">jump at the chance</strong>: 기회를 덥석 잡다
+* <strong style="color:blue;">splash out on</strong>: ~에 (돈을) 펑펑 쓰다, 거하게 사다
+* <strong style="color:blue;">first lay eyes on</strong>: 처음 눈길을 주다, 처음 보다
+* <strong style="color:blue;">showing up</strong>: (자국 등이) 드러나다, 나타나다
+* <strong style="color:blue;">get a grip on</strong>: 꽉 잡다, 움켜쥐다
+* <strong style="color:blue;">takes up</strong>: 자리를 차지하다
+* <strong style="color:blue;">get in the way of</strong>: ~을 방해하다
+* <strong style="color:blue;">pop out</strong>: 확 튀어나오다, 두드러지다
+* <strong style="color:blue;">laid out</strong>: 배치되어 있는
+* <strong style="color:blue;">brings together</strong>: 조화롭게 모으다, 결합하다
+* <strong style="color:blue;">take it out of</strong>: ~에서 꺼내다
+* <strong style="color:blue;">falling in love with</strong>: ~와 사랑에 빠지다
+
+---
+### 롤플레이 : 친구와의 약속 취소 및 대안 제안
+
+**[Question]**
+You have plans to meet up with your friend this weekend, but an emergency has come up and you cannot make it. Call your friend, explain the situation, apologize sincerely, and suggest two or three alternative options for rescheduling.
+이번 주말에 친구와 만날 계획이 생겼지만, 갑작스러운 일이 생겨서 나갈 수 없게 되었습니다. 친구에게 전화해서 상황을 설명하고, 진심으로 사과한 후 일정을 변경하기 위한 두세 가지 대안을 제안하세요.
+
+**[Model Answer]**
+Hey Mark! It's me. Listen, I'm calling you because I have some really bad news, and I feel terribly awful about this. You know we've been planning to hang out this coming Saturday afternoon, right? Well, something unexpected <strong style="color:blue;">came up</strong> just a few minutes ago at work, and my boss <strong style="color:blue;">handed over</strong> an urgent project that I have to <strong style="color:blue;">take care of</strong> by Monday morning. I tried to <strong style="color:blue;">get out of</strong> it, but unfortunately, there's just no way around it. I am so, so sorry to <strong style="color:blue;">let you down</strong> like this, especially since we've been looking forward to catching up. 
+
+I know you cleared your schedule for me, and I hate to <strong style="color:blue;">bail on</strong> you at the last minute. But is there any way we could <strong style="color:blue;">put this off</strong> to another time? Let me <strong style="color:blue;">throw out</strong> a couple of options for rescheduling. 
+
+First of all, how about meeting up next Tuesday evening right after I <strong style="color:blue;">get off</strong> work? We could grab a nice dinner together at that Italian restaurant downtown. 
+
+If Tuesday doesn't work for you because of your busy schedule, my second option is next weekend. We could <strong style="color:blue;">meet up on</strong> Sunday afternoon instead, and maybe catch a movie after lunch. 
+
+Take a look at your calendar and <strong style="color:blue;">get back to</strong> me whenever you have a chance. Again, I am deeply sorry for messing up our plans, and I promise I'll <strong style="color:blue;">make it up to</strong> you next time! Talk to you soon, bye!
+
+**[Vocabulary & Expressions]**
+* Rescheduling: 일정 변경
+* Urgent: 긴급한
+* Calendar: 일정표, 달력
+* <strong style="color:blue;">came up</strong>: (일 등이) 생기다, 발생하다
+* <strong style="color:blue;">handed over</strong>: 넘겨주다, 맡기다
+* <strong style="color:blue;">take care of</strong>: 처리하다, 돌보다
+* <strong style="color:blue;">get out of</strong>: (책임·일 등을) 피하다, 빠져나오다
+* <strong style="color:blue;">let you down</strong>: 실망시키다
+* <strong style="color:blue;">bail on</strong>: (약속을 어기고) 저버리다, 도망치다
+* <strong style="color:blue;">put this off</strong>: 연기하다, 미루다
+* <strong style="color:blue;">throw out</strong>: (의견 등을) 제시하다, 내놓다
+* <strong style="color:blue;">get off</strong>: (일 등에서) 퇴근하다, 끝나다
+* <strong style="color:blue;">meet up on</strong>: ~에 만나다
+* <strong style="color:blue;">get back to</strong>: (~에게) 다시 연락하다
+* <strong style="color:blue;">make it up to</strong>: (잘못을) 보상하다, 만회하다
+
+---
+### 돌발 : 첫 전자기기와 현재 스마트폰 비교
+
+**[Question]**
+Think about the very first electronic device, like a mobile phone, that you ever owned. How does it compare to the device you are currently using? What are the main differences in terms of features, design, and usability?
+당신이 소유했던 휴대폰과 같은 최초의 전자기기에 대해 생각해 보세요. 그것이 현재 사용하고 있는 기기와 어떻게 비교되나요? 기능, 디자인, 사용성 측면에서 주요 차이점은 무엇인가요?
+
+**[Model Answer]**
+You know, looking back, it's quite amazing to see how far technology has advanced over the years. The very first mobile phone I ever owned, back when I was in middle school, was a tiny, chunky slide-phone. If I <strong style="color:blue;">compare it to</strong> the advanced smartphone I am currently using, it feels like comparing a horse carriage to a supersonic jet. 
+
+Back then, the primary function of my first phone was simply making phone calls and sending text messages. It had a tiny monochrome screen, and typing messages meant pressing the physical number buttons multiple times just to get a single letter, which would quickly <strong style="color:blue;">wear out</strong> your thumbs. There was no internet browsing, no high-resolution camera, and the only game available was a very basic pixelated snake game. 
+
+On the contrary, my current smartphone is basically a powerful computer that I <strong style="color:blue;">carry around</strong> in my pocket all day long. In terms of design, my old phone was thick, made of cheap plastic, and had a mechanical sliding mechanism that would often <strong style="color:blue;">break down</strong>. Meanwhile, my current phone is a sleek, glass-and-aluminum masterpiece with a gorgeous touchscreen that <strong style="color:blue;">responds to</strong> the slightest touch. 
+
+When it comes to usability and features, the gap is just astronomical. Today, I can instantly <strong style="color:blue;">look up</strong> any information I need, stream movies on the go, navigate unknown places with GPS, and capture professional-grade photos. Whenever I <strong style="color:blue;">look back on</strong> the days of using my old flip phone, I realize how heavily we <strong style="color:blue;">rely on</strong> these modern devices for almost every single aspect of our daily lives. Technology has truly <strong style="color:blue;">transformed the way</strong> we live, and it makes me wonder what kind of devices we'll be using in another ten years.
+
+**[Vocabulary & Expressions]**
+* Monochrome: 단색의, 흑백의
+* Pixelated: 픽셀화된, 화소가 깨지는
+* Astronomical: 어마어마한, 천문학적인
+* Professional-grade: 전문가 수준의
+* <strong style="color:blue;">compare it to</strong>: ~와 비교하다
+* <strong style="color:blue;">wear out</strong>: 닳게 하다, 지치게 하다
+* <strong style="color:blue;">carry around</strong>: 들고 다니다, 가지고 다니다
+* <strong style="color:blue;">break down</strong>: 고장 나다, 무너지다
+* <strong style="color:blue;">responds to</strong>: ~에 반응하다
+* <strong style="color:blue;">look up</strong>: (정보 등을) 찾아보다
+* <strong style="color:blue;">look back on</strong>: 회상하다, 돌아보다
+* <strong style="color:blue;">rely on</strong>: 의존하다
+* <strong style="color:blue;">transformed the way</strong>: 방식을 바꾸다, 변화시키다
