@@ -17948,3 +17948,94 @@ When it comes to usability and features, the gap is just astronomical. Today, I 
 * <strong style="color:blue;">look back on</strong>: 회상하다, 돌아보다
 * <strong style="color:blue;">rely on</strong>: 의존하다
 * <strong style="color:blue;">transformed the way</strong>: 방식을 바꾸다, 변화시키다
+
+## 2026-11-05 09:59:31 OPIc Study
+
+### 묘사 : 학생 시절 가장 좋아했던 선생님 묘사
+
+**[Question]**
+Please describe one of your teachers from your school days that you liked the most. What did they look like, and what made them so memorable?
+(학창 시절 가장 좋아했던 선생님 한 분을 묘사해 주세요. 외모는 어땠고, 무엇이 그분을 그토록 기억에 남게 만들었나요?)
+
+**[Model Answer]**
+You know, when I look back on my school years, one particular teacher really <strong style="color:blue;">stands out</strong> in my mind. It was my high school English literature teacher, Mr. Harrison. To <strong style="color:blue;">paint a picture of</strong> him, he was quite tall and slender, usually wearing these retro round-rimmed glasses that <strong style="color:blue;">gave off</strong> a very intellectual and scholarly vibe. He always <strong style="color:blue;">showed up</strong> to class looking impeccably neat in a tweed jacket, and he had this warm, gentle smile that instantly <strong style="color:blue;">put</strong> students <strong style="color:blue;">at ease</strong>. But what really made him unforgettable wasn't just his appearance; it was his passion for teaching and how he <strong style="color:blue;">related to</strong> us teenagers. Back then, I was really struggling with my self-confidence, and English literature felt like a foreign language to me. However, Mr. Harrison never just <strong style="color:blue;">skimmed through</strong> the textbook. Instead, he <strong style="color:blue;">broke down</strong> complex poems into relatable, everyday stories. I vividly remember one rainy afternoon when I was feeling particularly down. He noticed my mood right away, <strong style="color:blue;">pulled</strong> me <strong style="color:blue;">aside</strong> after class, and <strong style="color:blue;">shared</strong> a personal story about his own insecurities when he was my age. That conversation <strong style="color:blue;">made all the difference</strong> in my life. It really <strong style="color:blue;">helped me through</strong> a difficult phase and <strong style="color:blue;">sparked</strong> my lifelong love for literature. Even to this day, whenever I read a good book, I <strong style="color:blue;">think back on</strong> those moments with deep gratitude. He wasn't just a teacher who <strong style="color:blue;">passed on</strong> academic knowledge; he was a true mentor who <strong style="color:blue;">shaped</strong> who I am today.
+
+**[Vocabulary & Expressions]**
+* scholarly: 학구적인
+* impeccably: 흠잡을 데 없이
+* insecurity: 불안감
+* <strong style="color:blue;">stands out</strong>: 눈에 띄다
+* <strong style="color:blue;">paint a picture of</strong>: ~을 생생하게 묘사하다
+* <strong style="color:blue;">gave off</strong>: (분위기 등을) 풍기다
+* <strong style="color:blue;">showed up</strong>: 나타나다, 출석하다
+* <strong style="color:blue;">put at ease</strong>: 편안하게 해주다
+* <strong style="color:blue;">related to</strong>: 공감하다, 소통하다
+* <strong style="color:blue;">skimmed through</strong>: 대충 훑어보다
+* <strong style="color:blue;">broke down</strong>: 분석하다, 이해하기 쉽게 설명하다
+* <strong style="color:blue;">pulled aside</strong>: 따로 불러내다
+* <strong style="color:blue;">made all the difference</strong>: 결정적인 차이를 만들다
+* <strong style="color:blue;">helped me through</strong>: 내가 (어려움을) 이겨내도록 돕다
+* <strong style="color:blue;">think back on</strong>: 회상하다
+* <strong style="color:blue;">passed on</strong>: 전달하다
+
+---
+### 롤플레이 : 렌터카 스크래치 보험 처리 문의
+
+**[Question]**
+You just returned your rental car, but the agent found a tiny scratch on the bumper. Ask the agent questions about this situation and discuss how to process it through insurance.
+(방금 렌터카를 반납했는데, 직원이 범퍼에 난 미세한 스크래치를 발견했습니다. 이 상황에 대해 직원에게 질문하고 보험을 통해 처리하는 방법을 논의해 보세요.)
+
+**[Model Answer]**
+Excuse me, sir. I’m a bit confused here. You mentioned you found a tiny scratch on the rear bumper, right? Honestly, I didn't notice it at all when I picked up the car, and I'm quite certain I didn't <strong style="color:blue;">run into</strong> anything during my trip. But anyway, since you spotted it, I want to <strong style="color:blue;">sort this out</strong> smoothly. Could you tell me exactly how serious the damage is? Is it something that <strong style="color:blue;">calls for</strong> a complete replacement, or can it just be <strong style="color:blue;">buffed out</strong>? Also, I remember purchasing the full coverage insurance package when I <strong style="color:blue;">checked in</strong> at the counter. How does this insurance <strong style="color:blue;">come into play</strong> in this kind of situation? Do I need to <strong style="color:blue;">fill out</strong> a massive stack of accident report forms right now, or can I just <strong style="color:blue;">hand over</strong> my policy details and let your back-office team <strong style="color:blue;">take care of</strong> it? Could you please <strong style="color:blue;">walk me through</strong> the exact steps I need to follow? I have a flight to catch in a couple of hours, so I really want to <strong style="color:blue;">get this over with</strong> as quickly as possible. If there's any paperwork I need to <strong style="color:blue;">look over</strong> or sign before I leave, just let me know. Thanks for your help.
+
+**[Vocabulary & Expressions]**
+* bumper: 범퍼
+* coverage: (보험의) 보장 범위
+* paperwork: 서류 작업
+* <strong style="color:blue;">run into</strong>: ~와 충돌하다, 부딪히다
+* <strong style="color:blue;">sort this out</strong>: 이 문제를 해결하다
+* <strong style="color:blue;">calls for</strong>: ~을 필요로 하다
+* <strong style="color:blue;">buffed out</strong>: (광을 내어 흠집을) 지워내다
+* <strong style="color:blue;">checked in</strong>: 체크인하다, 접수하다
+* <strong style="color:blue;">come into play</strong>: 작용하다, 효력을 발휘하다
+* <strong style="color:blue;">fill out</strong>: 작성하다
+* <strong style="color:blue;">hand over</strong>: 건네주다
+* <strong style="color:blue;">take care of</strong>: 처리하다
+* <strong style="color:blue;">walk me through</strong>: 차근차근 설명해주다
+* <strong style="color:blue;">get this over with</strong>: (싫은 일을) 끝내다
+* <strong style="color:blue;">look over</strong>: 검토하다, 훑어보다
+
+---
+### 돌발 : 이웃과 겪었던 기억에 남는 오해 경험
+
+**[Question]**
+Tell me about a memorable incident or misunderstanding you had with one of your neighbors in your neighborhood. What happened, and how was it resolved?
+(동네 이웃과 겪었던 기억에 남는 사건이나 오해에 대해 이야기해 주세요. 무슨 일이 있었고 어떻게 해결되었나요?)
+
+**[Model Answer]**
+You know, looking back, I had a really bizarre and unforgettable misunderstanding with one of my next-door neighbors a few years ago. It <strong style="color:blue;">all started</strong> on a quiet Tuesday evening. I kept hearing this strange, rhythmic scratching and tapping sound coming from my living room wall, which <strong style="color:blue;">backed up against</strong> my neighbor Mr. Miller's apartment. At first, I tried to <strong style="color:blue;">brush it off</strong>, thinking it was just pipes or old plumbing. But over the next few days, the noise <strong style="color:blue;">kept up</strong>, especially late at night. Frankly speaking, I began to <strong style="color:blue;">grow suspicious</strong>. I thought Mr. Miller might be doing some unauthorized construction or, even worse, hiding something strange next door. My imagination really <strong style="color:blue;">got the better of me</strong>. One night, when the noise was just too much to <strong style="color:blue;">put up with</strong>, I decided to <strong style="color:blue;">head over</strong> and <strong style="color:blue;">knock on</strong> his door to <strong style="color:blue;">have a word with</strong> him. When Mr. Miller opened the door, I was ready to <strong style="color:blue;">let him have it</strong>. However, as soon as he saw me, his face lit up with a warm smile, and he immediately <strong style="color:blue;">invited me in</strong>. It <strong style="color:blue;">turned out that</strong> he wasn't doing any remodeling at all. Instead, he had recently <strong style="color:blue;">taken up</strong> traditional wood carving as a retirement hobby, and his workbench happened to be right against our shared wall! When he realized how loud it was for me, he felt genuinely terrible and <strong style="color:blue;">apologized profusely</strong>. He even promised to <strong style="color:blue;">shift</strong> his workbench to the other side of his room and <strong style="color:blue;">picked up</strong> some soundproofing mats the very next day. That awkward moment actually <strong style="color:blue;">turned into a blessing in disguise</strong> because we ended up becoming great friends over a cup of coffee. It taught me never to <strong style="color:blue;">jump to conclusions</strong> before actually talking to people.
+
+**[Vocabulary & Expressions]**
+* bizarre: 기괴한, 이상한
+* unauthorized: 허가받지 않은
+* workbench: 작업대
+* soundproofing: 방음의
+* <strong style="color:blue;">all started</strong>: 모두 ~에서 시작되었다
+* <strong style="color:blue;">backed up against</strong>: ~와 맞닿아 있다
+* <strong style="color:blue;">brush it off</strong>: 대수롭지 않게 넘기다
+* <strong style="color:blue;">kept up</strong>: 계속되다
+* <strong style="color:blue;">grow suspicious</strong>: 의심을 품게 되다
+* <strong style="color:blue;">got the better of me</strong>: (감정이) 이성을 압도하다, 눈이 멀게 하다
+* <strong style="color:blue;">put up with</strong>: 참다
+* <strong style="color:blue;">head over</strong>: 향해가다
+* <strong style="color:blue;">knock on</strong>: 두드리다
+* <strong style="color:blue;">have a word with</strong>: ~와 얘기를 나누다
+* <strong style="color:blue;">let him have it</strong>: 야단치다, 퍼붓다
+* <strong style="color:blue;">invited me in</strong>: 안으로 초대하다
+* <strong style="color:blue;">turned out that</strong>: ~임이 밝혀지다
+* <strong style="color:blue;">taken up</strong>: (취미 등을) 시작하다
+* <strong style="color:blue;">apologized profusely</strong>: 몹시 사과하다
+* <strong style="color:blue;">shift</strong>: 옮기다, 전환하다
+* <strong style="color:blue;">picked up</strong>: 사들이다, 구해오다
+* <strong style="color:blue;">turned into a blessing in disguise</strong>: 전화위복이 되다
+* <strong style="color:blue;">jump to conclusions</strong>: 성급한 결론을 내리다
